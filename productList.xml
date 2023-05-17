@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ninjaStore>
+   <created_at>2023-05-17 11:29</created_at>
+   <products>
+      <product>
+        <id>4507555</id>
+        <name><![CDATA[Samsung Βάση Κινητού Αυτοκινήτου EP-H5300CBE με Ρυθμιζόμενα Άγκιστρα και Ασύρματη Φόρτιση]]></name>
+        <link><![CDATA[https://www.ninjastore.com/product/4507555]]></link>
+        <image>https://www.ninjastore.com/product/4567902</image>
+        <category><![CDATA[Βάσεις Κινητών & Τάμπλετ Αυτοκινήτου]]></category>
+        <price_with_vat>44.60</price_with_vat>
+        <manufacturer><![CDATA[Samsung]]></manufacturer>
+        <mpn>EP-H5300CBEGEU</mpn>
+        <ean>8806092764323</ean>
+        <availability>Διαθέσιμο από 4 έως 10 ημέρες</availability>
+        <description>
+          Samsung Βάση Κινητού Αυτοκινήτου EP-H5300CBE με Ρυθμιζόμενα Άγκιστρα και Ασύρματη Φόρτιση
+        </description>
+        <quantity>149</quantity>
+      </product>
+      <product>
+        <id>4567902</id>
+        <name><![CDATA[Guess Saffiano Triangle Logo Τσάντα Ώμου / Χειρός για Laptop 16" σε Μαύρο χρώμα]]></name>
+        <link><![CDATA[https://www.ninjastore.com/product/4567902]]></link>
+        <image>https://www.ninjastore.com/product/4567902</image>
+        <category><![CDATA[Τσάντες Laptop]]></category>
+        <price_with_vat>69.00</price_with_vat>
+        <manufacturer><![CDATA[Samsung]]></manufacturer>
+        <mpn>GUCB15PSATLK</mpn>
+        <ean>3666339051051</ean>
+        <availability>Διαθέσιμο από 4 έως 10 ημέρες</availability>
+        <description>
+          Samsung Βάση Κινητού Αυτοκινήτου EP-H5300CBE με Ρυθμιζόμενα Άγκιστρα και Ασύρματη Φόρτιση
+        </description>
+        <quantity>5</quantity>
+      </product>
+   </products>
+</ninjaStore>
