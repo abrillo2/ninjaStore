@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-05-31 10:06</created_at>
+  <created_at>2023-05-31 10:44</created_at>
   <products>
     <product>
       <id>4539948</id>
@@ -4032,7 +4032,7 @@ Features: Vibration, Microphone]]></description>
       <price_with_vat>72.00</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/028519/28519582/20210423094823_xiaomi_othoni_service_pack_gia_mi_9_lite_mple.jpeg]]></image>
-      <mpn>5.6101E+11</mpn>
+      <mpn>561010033033</mpn>
       <ean>4051805566150</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153476820/Xiaomi-Othoni-Service-Pack-me-Michanismo-Afis-kai-Plaisio-gia-Mi-9-Lite-Mple.html]]></link>
       <availability>Available from 4 to 10 days</availability>
@@ -6655,7 +6655,7 @@ Weight: 585gr]]></description>
       <price_with_vat>47.00</price_with_vat>
       <manufacturer/>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/039455/39455357/20221116104633_imilab_fitness_w01_adiavrocho_smartwatch_me_palmografo_chryso.jpeg]]></image>
-      <mpn>6.97085E+11</mpn>
+      <mpn>697085311968</mpn>
       <ean>6971085311968</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478673/Imilab-Fitness-W01-Adiavrocho-Smartwatch-me-Palmografo-CHryso.html]]></link>
       <availability>Available from 4 to 10 days</availability>
@@ -53292,7 +53292,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/155035600/Samsung-S-Pen-PSifiaki-Grafida-Afis-gia-Galaxy-Tab-S7-se-Mple-chroma.html]]></image>
       <mpn>EJPT870BNEGEU</mpn>
-      <ean>8.80609E+12</ean>
+      <ean>8806092265714</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155035600/Samsung-S-Pen-PSifiaki-Grafida-Afis-gia-Galaxy-Tab-S7-se-Mple-chroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>15</quantity>
@@ -53307,7 +53307,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/155015873/QCY-T7-Earbud-Bluetooth-Handsfree-Akoustika-me-THiki-Fortisis-Leyka.html]]></image>
       <mpn/>
-      <ean>6.95714E+12</ean>
+      <ean>6957141405871</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155015873/QCY-T7-Earbud-Bluetooth-Handsfree-Akoustika-me-THiki-Fortisis-Leyka.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53322,7 +53322,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154963671/AMG-Mettalic-Black-Edges-Back-Cover-Silikonis-Diafano-Mayro-iPhone-12-12-Pro.html]]></image>
       <mpn>AMHCP12MAESLBK</mpn>
-      <ean>3.66634E+12</ean>
+      <ean>3666339014117</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154963671/AMG-Mettalic-Black-Edges-Back-Cover-Silikonis-Diafano-Mayro-iPhone-12-12-Pro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53337,7 +53337,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154923777/Swarovski-Gynaikeia-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Gri-Fako.html]]></image>
       <mpn>SK0240P 16C</mpn>
-      <ean>8.89214E+11</ean>
+      <ean>889214059451</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154923777/Swarovski-Gynaikeia-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Gri-Fako.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53346,11 +53346,11 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>8.89214E+11.1</variationid>
+          <variationid>889214059451.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154923777/Swarovski-Gynaikeia-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Gri-Fako.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>SK0240P 16C</manufacturersku>
-          <ean>8.89214E+11</ean>
+          <ean>889214059451</ean>
           <price_with_vat>545.00</price_with_vat>
           <size>1</size>
           <quantity>5</quantity>
@@ -53365,7 +53365,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154923397/Jaguar-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Gri-Fako-37615-3100.html]]></image>
       <mpn>37615 3100</mpn>
-      <ean>4.05185E+12</ean>
+      <ean>4051854353053</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154923397/Jaguar-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Gri-Fako-37615-3100.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53374,12 +53374,40 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>4.05185E+12.1</variationid>
+          <variationid>4051854353053.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154923397/Jaguar-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Gri-Fako-37615-3100.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>37615 3100</manufacturersku>
-          <ean>4.05185E+12</ean>
+          <ean>4051854353053</ean>
           <price_with_vat>165.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4563457</id>
+      <name><![CDATA[Marciano by Guess Γυναικεία Γυαλιά Ηλίου με Ασημί Ξύλινο Σκελετό και Γκρι Φακό GM0812 10B]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>125.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154923361/Marciano-by-Guess-Gynaikeia-Gyalia-Iliou-me-Asimi-Xylino-Skeleto-kai-Gri-Fako.html]]></image>
+      <mpn>GM0812 10B</mpn>
+      <ean>889214204875</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154923361/Marciano-by-Guess-Gynaikeia-Gyalia-Iliou-me-Asimi-Xylino-Skeleto-kai-Gri-Fako.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214204875.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154923361/Marciano-by-Guess-Gynaikeia-Gyalia-Iliou-me-Asimi-Xylino-Skeleto-kai-Gri-Fako.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GM0812 10B</manufacturersku>
+          <ean>889214204875</ean>
+          <price_with_vat>125.00</price_with_vat>
           <size>1</size>
           <quantity>5</quantity>
         </variation>
@@ -53393,7 +53421,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154922899/Scotch-Soda-Gynaikeia-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai.html]]></image>
       <mpn>SS7009 100</mpn>
-      <ean>4.89433E+12</ean>
+      <ean>4894327440696</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154922899/Scotch-Soda-Gynaikeia-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53402,11 +53430,11 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>4.89433E+12.1</variationid>
+          <variationid>4894327440696.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154922899/Scotch-Soda-Gynaikeia-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>SS7009 100</manufacturersku>
-          <ean>4.89433E+12</ean>
+          <ean>4894327440696</ean>
           <price_with_vat>141.00</price_with_vat>
           <size>1</size>
           <quantity>5</quantity>
@@ -53421,12 +53449,40 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154922832/Michael-Kors-Dermatini-Gynaikeia-Tsanta-CHiasti-Mayri.html]]></image>
       <mpn/>
-      <ean>1.92317E+11</ean>
+      <ean>192317134629</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154922832/Michael-Kors-Dermatini-Gynaikeia-Tsanta-CHiasti-Mayri.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
       <description/>
+    </product>
+    <product>
+      <id>4563403</id>
+      <name><![CDATA[BMW Ανδρικά Γυαλιά Ηλίου με Μαύρο Μεταλλικό Σκελετό και Γκρι Φακό BW0012 02C]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>150.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154922634/BMW-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako-BW0012-02C.html]]></image>
+      <mpn>BW0012 02C</mpn>
+      <ean>889214230492</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154922634/BMW-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako-BW0012-02C.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214230492.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154922634/BMW-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako-BW0012-02C.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>BW0012 02C</manufacturersku>
+          <ean>889214230492</ean>
+          <price_with_vat>150.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>4563391</id>
@@ -53436,12 +53492,96 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154922204/S-Oliver-SO-4137-MQ.html]]></image>
       <mpn>SO4137MQ</mpn>
-      <ean>4.03561E+12</ean>
+      <ean>4035608041700</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154922204/S-Oliver-SO-4137-MQ.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
       <description/>
+    </product>
+    <product>
+      <id>4559003</id>
+      <name><![CDATA[Harley Davidson Ανδρικά Γυαλιά Ηλίου με Ασημί Μεταλλικό Σκελετό και Καφέ Φακό HD0968X 09H]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>60.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154743535/Harley-Davidson-Andrika-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Kafe-Fako.html]]></image>
+      <mpn>HD0968X 09H</mpn>
+      <ean>889214343758</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154743535/Harley-Davidson-Andrika-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Kafe-Fako.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214343758.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154743535/Harley-Davidson-Andrika-Gyalia-Iliou-me-Asimi-Metalliko-Skeleto-kai-Kafe-Fako.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>HD0968X 09H</manufacturersku>
+          <ean>889214343758</ean>
+          <price_with_vat>60.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558997</id>
+      <name><![CDATA[Harley Davidson Ανδρικά Γυαλιά Ηλίου με Μαύρο Μεταλλικό Σκελετό και Γκρι Φακό HD0963X 02D]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>79.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154743528/Harley-Davidson-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako.html]]></image>
+      <mpn>HD0963X 02D</mpn>
+      <ean>889214312358</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154743528/Harley-Davidson-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214312358.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154743528/Harley-Davidson-Andrika-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Gri-Fako.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>HD0963X 02D</manufacturersku>
+          <ean>889214312358</ean>
+          <price_with_vat>79.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558951</id>
+      <name><![CDATA[Harley Davidson HD0302X 45E]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>50.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154743096/Harley-Davidson-HD0302X-45E.html]]></image>
+      <mpn>HD0302X 45E</mpn>
+      <ean>664689822898</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154743096/Harley-Davidson-HD0302X-45E.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>664689822898.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154743096/Harley-Davidson-HD0302X-45E.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>HD0302X 45E</manufacturersku>
+          <ean>664689822898</ean>
+          <price_with_vat>50.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>4558906</id>
@@ -53451,12 +53591,139 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154742742/Maserati-Andriko-Vrachioli-apo-Derma-JM218AMF04.html]]></image>
       <mpn>JM218AMF04</mpn>
-      <ean>8.03329E+12</ean>
+      <ean>8033288819615</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154742742/Maserati-Andriko-Vrachioli-apo-Derma-JM218AMF04.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>1</quantity>
       <additional_imageurl/>
       <description/>
+    </product>
+    <product>
+      <id>4558889</id>
+      <name><![CDATA[Maserati Ανδρικό Βραχιόλι από Ατσάλι JM218AMD02]]></name>
+      <category><![CDATA[Βραχιόλια]]></category>
+      <price_with_vat>75.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154742439/Maserati-Andriko-Vrachioli-apo-Atsali-JM218AMD02.html]]></image>
+      <mpn>JM218AMD02</mpn>
+      <ean>8033288819431</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154742439/Maserati-Andriko-Vrachioli-apo-Atsali-JM218AMD02.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4558645</id>
+      <name><![CDATA[Tod's Γυναικεία Γυαλιά Ηλίου με Μαύρο Μεταλλικό Σκελετό TO0292 01B]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>170.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154738408/Tod-s-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-TO0292-01B.html]]></image>
+      <mpn>TO0292 01B</mpn>
+      <ean>889214228642</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154738408/Tod-s-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-TO0292-01B.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214228642.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154738408/Tod-s-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-TO0292-01B.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>TO0292 01B</manufacturersku>
+          <ean>889214228642</ean>
+          <price_with_vat>170.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558640</id>
+      <name><![CDATA[Tod's Ανδρικά Γυαλιά Ηλίου με Μαύρο Σκελετό και Γκρι Φακό TO0279 01C]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>232.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154738403/Tod-s-Andrika-Gyalia-Iliou-me-Mayro-Skeleto-kai-Gri-Fako-TO0279-01C.html]]></image>
+      <mpn>TO0279 01C</mpn>
+      <ean>889214102850</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154738403/Tod-s-Andrika-Gyalia-Iliou-me-Mayro-Skeleto-kai-Gri-Fako-TO0279-01C.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214102850.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154738403/Tod-s-Andrika-Gyalia-Iliou-me-Mayro-Skeleto-kai-Gri-Fako-TO0279-01C.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>TO0279 01C</manufacturersku>
+          <ean>889214102850</ean>
+          <price_with_vat>232.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558277</id>
+      <name><![CDATA[Gant GA8072 55B]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>90.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154732026/Gant-GA8072-55B.html]]></image>
+      <mpn>GA8072 55B</mpn>
+      <ean>889214107466</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154732026/Gant-GA8072-55B.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214107466.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154732026/Gant-GA8072-55B.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GA8072 55B</manufacturersku>
+          <ean>889214107466</ean>
+          <price_with_vat>90.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558273</id>
+      <name><![CDATA[Gant GA7085 52N]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>95.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154731952/Gant-GA7085-52N.html]]></image>
+      <mpn>GA7085 52N</mpn>
+      <ean>664689880607</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154731952/Gant-GA7085-52N.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>664689880607.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154731952/Gant-GA7085-52N.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GA7085 52N</manufacturersku>
+          <ean>664689880607</ean>
+          <price_with_vat>95.00</price_with_vat>
+          <size>1</size>
+          <quantity>1</quantity>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>4558241</id>
@@ -53466,7 +53733,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154729539/Polaroid-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Mov-Polarized-Kathrefti.html]]></image>
       <mpn>PLD 6031/S 003/AI</mpn>
-      <ean>7.62754E+11</ean>
+      <ean>0762753991928</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154729539/Polaroid-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Mov-Polarized-Kathrefti.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>10</quantity>
@@ -53475,11 +53742,11 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>7.62754E+11.1</variationid>
+          <variationid>0762753991928.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154729539/Polaroid-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Mov-Polarized-Kathrefti.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>PLD 6031/S 003/AI</manufacturersku>
-          <ean>7.62754E+11</ean>
+          <ean>0762753991928</ean>
           <price_with_vat>47.00</price_with_vat>
           <size>1</size>
           <quantity>10</quantity>
@@ -53494,7 +53761,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154729479/Polaroid-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Portokali.html]]></image>
       <mpn>PLD 6113/S 92YDL</mpn>
-      <ean>7.16736E+11</ean>
+      <ean>716736247953</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154729479/Polaroid-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Portokali.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>10</quantity>
@@ -53503,12 +53770,152 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>7.16736E+11.1</variationid>
+          <variationid>716736247953.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154729479/Polaroid-Gynaikeia-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Portokali.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>PLD 6113/S 92YDL</manufacturersku>
-          <ean>7.16736E+11</ean>
+          <ean>716736247953</ean>
           <price_with_vat>50.00</price_with_vat>
+          <size>1</size>
+          <quantity>10</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558232</id>
+      <name><![CDATA[Polaroid Ανδρικά Γυαλιά Ηλίου με Πράσινο Κοκκάλινο Σκελετό και Πράσινο Polarized Καθρέφτη Φακό PLD 7033/S 8HC/5Z]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>40.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154729303/Polaroid-Andrika-Gyalia-Iliou-me-Prasino-Kokkalino-Skeleto-kai-Prasino.html]]></image>
+      <mpn>PLD 7033/S 8HC/5Z</mpn>
+      <ean>716736241470</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154729303/Polaroid-Andrika-Gyalia-Iliou-me-Prasino-Kokkalino-Skeleto-kai-Prasino.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>10</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736241470.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154729303/Polaroid-Andrika-Gyalia-Iliou-me-Prasino-Kokkalino-Skeleto-kai-Prasino.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>PLD 7033/S 8HC/5Z</manufacturersku>
+          <ean>716736241470</ean>
+          <price_with_vat>40.00</price_with_vat>
+          <size>1</size>
+          <quantity>10</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558218</id>
+      <name><![CDATA[Polaroid Γυναικεία Γυαλιά Ηλίου με Κόκκινο Μεταλλικό Σκελετό και Ροζ Polarized Φακό PLD 4090/S EYR/0F]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>40.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154729139/Polaroid-Gynaikeia-Gyalia-Iliou-me-Kokkino-Metalliko-Skeleto-kai-Roz.html]]></image>
+      <mpn>PLD 4090/S EYR/0F</mpn>
+      <ean>716736243795</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154729139/Polaroid-Gynaikeia-Gyalia-Iliou-me-Kokkino-Metalliko-Skeleto-kai-Roz.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>10</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736243795.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154729139/Polaroid-Gynaikeia-Gyalia-Iliou-me-Kokkino-Metalliko-Skeleto-kai-Roz.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>PLD 4090/S EYR/0F</manufacturersku>
+          <ean>716736243795</ean>
+          <price_with_vat>40.00</price_with_vat>
+          <size>1</size>
+          <quantity>10</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558200</id>
+      <name><![CDATA[Polaroid Ανδρικά Γυαλιά Ηλίου με Μαύρο Κοκκάλινο Σκελετό και Πράσινο Polarized Φακό PLD 6111/S 7ZJUC]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>48.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154729043/Polaroid-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Prasino.html]]></image>
+      <mpn>PLD 6111/S 7ZJUC</mpn>
+      <ean>716736235813</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154729043/Polaroid-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Prasino.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>15</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736235813.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154729043/Polaroid-Andrika-Gyalia-Iliou-me-Mayro-Kokkalino-Skeleto-kai-Prasino.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>PLD 6111/S 7ZJUC</manufacturersku>
+          <ean>716736235813</ean>
+          <price_with_vat>48.00</price_with_vat>
+          <size>1</size>
+          <quantity>15</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558190</id>
+      <name><![CDATA[Polaroid Ανδρικά Γυαλιά Ηλίου με Καφέ Ταρταρούγα Κοκκάλινο Σκελετό και Ασημί Καθρέφτη Φακό PLD 2066/S N9P/EX]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>35.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154729033/Polaroid-Andrika-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai-Asimi.html]]></image>
+      <mpn>PLD 2066/S N9P/EX</mpn>
+      <ean>716736138527</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154729033/Polaroid-Andrika-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai-Asimi.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>10</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736138527.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154729033/Polaroid-Andrika-Gyalia-Iliou-me-Kafe-Tartarouga-Kokkalino-Skeleto-kai-Asimi.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>PLD 2066/S N9P/EX</manufacturersku>
+          <ean>716736138527</ean>
+          <price_with_vat>35.00</price_with_vat>
+          <size>1</size>
+          <quantity>10</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4558180</id>
+      <name><![CDATA[Polaroid Γυαλιά Ηλίου με Μαύρο Μεταλλικό Σκελετό και Μαύρο Φακό PLD 6092/S 807/M9]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>53.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154729023/Polaroid-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Mayro-Fako-PLD-6092-S.html]]></image>
+      <mpn>PLD 6092/S 807/M9</mpn>
+      <ean>716736191331</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154729023/Polaroid-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Mayro-Fako-PLD-6092-S.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>10</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736191331.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154729023/Polaroid-Gyalia-Iliou-me-Mayro-Metalliko-Skeleto-kai-Mayro-Fako-PLD-6092-S.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>PLD 6092/S 807/M9</manufacturersku>
+          <ean>716736191331</ean>
+          <price_with_vat>53.00</price_with_vat>
           <size>1</size>
           <quantity>10</quantity>
         </variation>
@@ -53522,7 +53929,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674759/Diesel-Gynaikeio-Vrachioli-apo-Atsali-DX1310040.html]]></image>
       <mpn>DX1310040</mpn>
-      <ean>4.06409E+12</ean>
+      <ean>4064092066647</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674759/Diesel-Gynaikeio-Vrachioli-apo-Atsali-DX1310040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>1</quantity>
@@ -53537,8 +53944,23 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674720/Mido-Ocean-Star-Tribute-75th-Anniversary-Special-Edition-Three-Hands.html]]></image>
       <mpn>M026.830.11.041.00</mpn>
-      <ean>7.61233E+12</ean>
+      <ean>7612330138020</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674720/Mido-Ocean-Star-Tribute-75th-Anniversary-Special-Edition-Three-Hands.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4556960</id>
+      <name><![CDATA[Mido Ocean Star Ρολόι Αυτόματο με Μεταλλικό Μπρασελέ σε Ασημί χρώμα M042.430.11.041.00]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>1095.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154674715/Mido-Ocean-Star-Roloi-Aytomato-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></image>
+      <mpn>M042.430.11.041.00</mpn>
+      <ean>7612330139317</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154674715/Mido-Ocean-Star-Roloi-Aytomato-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>1</quantity>
       <additional_imageurl/>
@@ -53552,8 +53974,23 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674703/Tous-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-200350970.html]]></image>
       <mpn>200350970</mpn>
-      <ean>8.4341E+12</ean>
+      <ean>8434103470095</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674703/Tous-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-200350970.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4556936</id>
+      <name><![CDATA[Tous Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα 200350500]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>235.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154674691/Tous-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-200350500.html]]></image>
+      <mpn>200350500</mpn>
+      <ean>8434103469259</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154674691/Tous-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-200350500.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53567,7 +54004,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674662/Tous-Bear-Time-900350310-Silver-Gold.html]]></image>
       <mpn>900350310</mpn>
-      <ean>8.43124E+12</ean>
+      <ean>8431242962696</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674662/Tous-Bear-Time-900350310-Silver-Gold.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53582,7 +54019,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674567/Lacoste-Roloi-12-12-me-Dermatino-Louraki-se-Mayro-chroma-2001153.html]]></image>
       <mpn>2001153</mpn>
-      <ean>7.61327E+12</ean>
+      <ean>7613272417419</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674567/Lacoste-Roloi-12-12-me-Dermatino-Louraki-se-Mayro-chroma-2001153.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53597,8 +54034,23 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154674504/Casio-G-Shock-G-Squad-Analogiko-PSifiako-Roloi-CHronografos-Mpatarias-me.html]]></image>
       <mpn>GMAB8001AER</mpn>
-      <ean>4.54953E+12</ean>
+      <ean>4549526245848</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674504/Casio-G-Shock-G-Squad-Analogiko-PSifiako-Roloi-CHronografos-Mpatarias-me.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4556750</id>
+      <name><![CDATA[Casio Ψηφιακό Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Λευκό χρώμα BG-169HRB-7ER]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>145.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154674456/Casio-PSifiako-Roloi-Mpatarias-me-Kaoutsouk-Louraki-se-Leyko-chroma.html]]></image>
+      <mpn>BG169HRB7ER</mpn>
+      <ean>4549526342271</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154674456/Casio-PSifiako-Roloi-Mpatarias-me-Kaoutsouk-Louraki-se-Leyko-chroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53612,8 +54064,68 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154396243/Tissot-T-Classic-PR100-T101-010-33-451-00.html]]></image>
       <mpn>T101.010.33.451.00</mpn>
-      <ean>7.61161E+12</ean>
+      <ean>7611608285329</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154396243/Tissot-T-Classic-PR100-T101-010-33-451-00.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4548022</id>
+      <name><![CDATA[Tissot Tradition T063.009.11.018.00]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>319.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154396220/Tissot-Tradition-T063-009-11-018-00.html]]></image>
+      <mpn>T063.009.11.018.00</mpn>
+      <ean>7611608286739</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154396220/Tissot-Tradition-T063-009-11-018-00.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4548008</id>
+      <name><![CDATA[Tissot Street Basketball Ρολόι Μπαταρίας με Δερμάτινο Λουράκι σε Μαύρο χρώμα T116.410.36.067.00]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>261.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154396206/Tissot-Street-Basketball-Roloi-Mpatarias-me-Dermatino-Louraki-se-Mayro-chroma.html]]></image>
+      <mpn>T116.410.36.067.00</mpn>
+      <ean>7611608289167</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154396206/Tissot-Street-Basketball-Roloi-Mpatarias-me-Dermatino-Louraki-se-Mayro-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4548007</id>
+      <name><![CDATA[Tissot T-Race T115.427.27.031.00 Black]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>939.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154396205/Tissot-T-Race-T115-427-27-031-00-Black.html]]></image>
+      <mpn>T115.427.27.031.00</mpn>
+      <ean>7611608291467</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154396205/Tissot-T-Race-T115-427-27-031-00-Black.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4548004</id>
+      <name><![CDATA[Tissot Heritage Petite Seconde Ρολόι Μπαταρίας με Δερμάτινο Λουράκι σε Μαύρο χρώμα T119.405.16.037.00]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>766.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154396202/Tissot-Heritage-Petite-Seconde-Roloi-Mpatarias-me-Dermatino-Louraki-se-Mayro.html]]></image>
+      <mpn>T119.405.16.037.00</mpn>
+      <ean>7611608285954</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154396202/Tissot-Heritage-Petite-Seconde-Roloi-Mpatarias-me-Dermatino-Louraki-se-Mayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>1</quantity>
       <additional_imageurl/>
@@ -53627,8 +54139,98 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154396191/Maserati-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mple-chroma.html]]></image>
       <mpn>R8873650003</mpn>
-      <ean>9.8E+12</ean>
+      <ean>9800000398524</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154396191/Maserati-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mple-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4547809</id>
+      <name><![CDATA[Emporio Armani Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα AR11449]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>299.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154393620/Emporio-Armani-Roloi-me-Metalliko-Mprasele-se-Roz-CHryso-chroma-AR11449.html]]></image>
+      <mpn>AR11449</mpn>
+      <ean>4064092111972</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154393620/Emporio-Armani-Roloi-me-Metalliko-Mprasele-se-Roz-CHryso-chroma-AR11449.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4546647</id>
+      <name><![CDATA[Michael Kors Ritz Ρολόι Χρονογράφος με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα MK6597]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>205.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154373600/Michael-Kors-Ritz-Roloi-CHronografos-me-Metalliko-Mprasele-se-CHryso-chroma.html]]></image>
+      <mpn>MK6597</mpn>
+      <ean>4013496007602</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154373600/Michael-Kors-Ritz-Roloi-CHronografos-me-Metalliko-Mprasele-se-CHryso-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4546434</id>
+      <name><![CDATA[Tommy Hilfiger Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα 1782352]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>120.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154371936/Tommy-Hilfiger-Roloi-me-Dermatino-Louraki-se-Leyko-chroma-1782352.html]]></image>
+      <mpn>1782352</mpn>
+      <ean>7613272425780</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154371936/Tommy-Hilfiger-Roloi-me-Dermatino-Louraki-se-Leyko-chroma-1782352.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4546353</id>
+      <name><![CDATA[Tommy Hilfiger Gray Ρολόι με Δερμάτινο Λουράκι σε Μπλε χρώμα 1782213]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>105.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154369863/Tommy-Hilfiger-Gray-Roloi-me-Dermatino-Louraki-se-Mple-chroma-1782213.html]]></image>
+      <mpn>1782213</mpn>
+      <ean>7613272378741</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154369863/Tommy-Hilfiger-Gray-Roloi-me-Dermatino-Louraki-se-Mple-chroma-1782213.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4546352</id>
+      <name><![CDATA[Tommy Hilfiger Gray Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα 1782210]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>101.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154369856/Tommy-Hilfiger-Gray-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-1782210.html]]></image>
+      <mpn>1782210</mpn>
+      <ean>7613272378710</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154369856/Tommy-Hilfiger-Gray-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-1782210.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>1</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4546304</id>
+      <name><![CDATA[Tommy Hilfiger Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα 2770085]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>215.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154368561/Tommy-Hilfiger-Roloi-me-Metalliko-Mprasele-se-CHryso-chroma-2770085.html]]></image>
+      <mpn>2770085</mpn>
+      <ean>7613272393041</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154368561/Tommy-Hilfiger-Roloi-me-Metalliko-Mprasele-se-CHryso-chroma-2770085.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53642,7 +54244,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154367246/Replay-RY598-CS01.html]]></image>
       <mpn>RY598 CS01</mpn>
-      <ean>8.02922E+12</ean>
+      <ean>8029224797666</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154367246/Replay-RY598-CS01.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53651,12 +54253,236 @@ Total Ports: 2]]></description>
       <size>1</size>
       <variations>
         <variation>
-          <variationid>8.02922E+12.1</variationid>
+          <variationid>8029224797666.1</variationid>
           <link><![CDATA[https://www.skroutz.gr/mp/154367246/Replay-RY598-CS01.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <manufacturersku>RY598 CS01</manufacturersku>
-          <ean>8.02922E+12</ean>
+          <ean>8029224797666</ean>
           <price_with_vat>60.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546201</id>
+      <name><![CDATA[Missoni MIS 0002/S S6F 08]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>100.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154360104/Missoni-MIS-0002-S-S6F-08.html]]></image>
+      <mpn>MIS 0002/S S6F 08</mpn>
+      <ean>716736258829</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154360104/Missoni-MIS-0002-S-S6F-08.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>716736258829.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154360104/Missoni-MIS-0002-S-S6F-08.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>MIS 0002/S S6F 08</manufacturersku>
+          <ean>716736258829</ean>
+          <price_with_vat>100.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546194</id>
+      <name><![CDATA[Missoni Γυναικεία Γυαλιά Ηλίου με Ασημί Σκελετό και Ροζ Καθρέφτη Φακό MI 872 S02S]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>80.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154360056/Missoni-Gynaikeia-Gyalia-Iliou-me-Asimi-Skeleto-kai-Roz-Kathrefti-Fako-MI-872.html]]></image>
+      <mpn>MI 872 S02S</mpn>
+      <ean>8029224794184</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154360056/Missoni-Gynaikeia-Gyalia-Iliou-me-Asimi-Skeleto-kai-Roz-Kathrefti-Fako-MI-872.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>8029224794184.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154360056/Missoni-Gynaikeia-Gyalia-Iliou-me-Asimi-Skeleto-kai-Roz-Kathrefti-Fako-MI-872.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>MI 872 S02S</manufacturersku>
+          <ean>8029224794184</ean>
+          <price_with_vat>80.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546182</id>
+      <name><![CDATA[Just Cavalli JC823S 74T]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>52.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154360044/Just-Cavalli-JC823S-74T.html]]></image>
+      <mpn>JC823S 74T</mpn>
+      <ean>664689907892</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154360044/Just-Cavalli-JC823S-74T.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>54</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>664689907892.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154360044/Just-Cavalli-JC823S-74T.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>JC823S 74T</manufacturersku>
+          <ean>664689907892</ean>
+          <price_with_vat>52.00</price_with_vat>
+          <size>1</size>
+          <quantity>54</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546181</id>
+      <name><![CDATA[Just Cavalli JC820S 54W]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>68.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154359994/Just-Cavalli-JC820S-54W.html]]></image>
+      <mpn>JC820S 54W</mpn>
+      <ean>664689907762</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154359994/Just-Cavalli-JC820S-54W.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>664689907762.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154359994/Just-Cavalli-JC820S-54W.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>JC820S 54W</manufacturersku>
+          <ean>664689907762</ean>
+          <price_with_vat>68.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546164</id>
+      <name><![CDATA[Guess Γυναικεία Γυαλιά Ηλίου σε Μωβ χρώμα GU7688 81Z]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>88.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154359977/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU7688-81Z.html]]></image>
+      <mpn>GU7688 81Z</mpn>
+      <ean>889214148452</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154359977/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU7688-81Z.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214148452.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154359977/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU7688-81Z.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GU7688 81Z</manufacturersku>
+          <ean>889214148452</ean>
+          <price_with_vat>88.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546159</id>
+      <name><![CDATA[Guess Γυναικεία Γυαλιά Ηλίου Ταρταρούγα σε Καφέ χρώμα GU7728 52G]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>75.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154359949/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Kafe-chroma-GU7728-52G.html]]></image>
+      <mpn>GU7728 52G</mpn>
+      <ean>889214226051</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154359949/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Kafe-chroma-GU7728-52G.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>15</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214226051.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154359949/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Kafe-chroma-GU7728-52G.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GU7728 52G</manufacturersku>
+          <ean>889214226051</ean>
+          <price_with_vat>75.00</price_with_vat>
+          <size>1</size>
+          <quantity>15</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4546090</id>
+      <name><![CDATA[Guess Γυναικεία Γυαλιά Ηλίου Ταρταρούγα σε Μωβ χρώμα GU7778 83Z]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>70.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154359612/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Mov-chroma-GU7778-83Z.html]]></image>
+      <mpn>GU7778 83Z</mpn>
+      <ean>889214256607</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154359612/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Mov-chroma-GU7778-83Z.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214256607.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154359612/Guess-Gynaikeia-Gyalia-Iliou-Tartarouga-se-Mov-chroma-GU7778-83Z.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GU7778 83Z</manufacturersku>
+          <ean>889214256607</ean>
+          <price_with_vat>70.00</price_with_vat>
+          <size>1</size>
+          <quantity>5</quantity>
+        </variation>
+      </variations>
+    </product>
+    <product>
+      <id>4545941</id>
+      <name><![CDATA[Guess Γυναικεία Γυαλιά Ηλίου σε Μωβ χρώμα GU3046 81Z]]></name>
+      <category><![CDATA[Γυαλιά Ηλίου]]></category>
+      <price_with_vat>73.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154355883/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU3046-81Z.html]]></image>
+      <mpn>GU3046 81Z</mpn>
+      <ean>889214045812</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154355883/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU3046-81Z.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+      <size>1</size>
+      <variations>
+        <variation>
+          <variationid>889214045812.1</variationid>
+          <link><![CDATA[https://www.skroutz.gr/mp/154355883/Guess-Gynaikeia-Gyalia-Iliou-se-Mov-chroma-GU3046-81Z.html]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <manufacturersku>GU3046 81Z</manufacturersku>
+          <ean>889214045812</ean>
+          <price_with_vat>73.00</price_with_vat>
           <size>1</size>
           <quantity>5</quantity>
         </variation>
@@ -53670,8 +54496,53 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154283127/HipHop-Millerighe-Roloi-me-Kaoutsouk-Louraki-se-Mple-chroma-HWU0439.html]]></image>
       <mpn>HWU0439</mpn>
-      <ean>7.6129E+12</ean>
+      <ean>7612901709482</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154283127/HipHop-Millerighe-Roloi-me-Kaoutsouk-Louraki-se-Mple-chroma-HWU0439.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4543921</id>
+      <name><![CDATA[HipHop Glowing HWU0185]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>36.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154282520/HipHop-Glowing-HWU0185.html]]></image>
+      <mpn>HWU0185</mpn>
+      <ean>7612901704609</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154282520/HipHop-Glowing-HWU0185.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4543894</id>
+      <name><![CDATA[HipHop Crystal Ρολόι με Καουτσούκ Λουράκι σε Γκρι χρώμα HWU0073]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>36.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154282310/HipHop-Crystal-Roloi-me-Kaoutsouk-Louraki-se-Gri-chroma-HWU0073.html]]></image>
+      <mpn>HWU0073</mpn>
+      <ean>7612901702872</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154282310/HipHop-Crystal-Roloi-me-Kaoutsouk-Louraki-se-Gri-chroma-HWU0073.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4543890</id>
+      <name><![CDATA[HipHop Ρολόι με Καουτσούκ Λουράκι σε Μωβ χρώμα HWU0068]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>36.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154282196/HipHop-Roloi-me-Kaoutsouk-Louraki-se-Mov-chroma-HWU0068.html]]></image>
+      <mpn>HWU0068</mpn>
+      <ean>7612901702827</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154282196/HipHop-Roloi-me-Kaoutsouk-Louraki-se-Mov-chroma-HWU0068.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53685,7 +54556,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154227151/Lorenz-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Asimi-chroma-030044AA.html]]></image>
       <mpn>030044AA</mpn>
-      <ean>8.01326E+12</ean>
+      <ean>8013260665096</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154227151/Lorenz-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Asimi-chroma-030044AA.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53700,8 +54571,248 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154201628/Just-Cavalli-Roloi-CHronografos-me-Metalliko-Mprasele-JC1L173M0075.html]]></image>
       <mpn>JC1L173M0075</mpn>
-      <ean>4.89463E+12</ean>
+      <ean>4894626137808</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154201628/Just-Cavalli-Roloi-CHronografos-me-Metalliko-Mprasele-JC1L173M0075.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4541201</id>
+      <name><![CDATA[Just Cavalli Ρολόι με Μεταλλικό Μπρασελέ JC1L195M0105]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>135.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154201577/Just-Cavalli-Roloi-me-Metalliko-Mprasele-JC1L195M0105.html]]></image>
+      <mpn>JC1L195M0105</mpn>
+      <ean>4894626137914</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154201577/Just-Cavalli-Roloi-me-Metalliko-Mprasele-JC1L195M0105.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4541075</id>
+      <name><![CDATA[Just Cavalli Σετ Ρολόι με Δερμάτινο Λουράκι σε Μαύρο χρώμα JC1L194L0015]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>133.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154199236/Just-Cavalli-Set-Roloi-me-Dermatino-Louraki-se-Mayro-chroma-JC1L194L0015.html]]></image>
+      <mpn>JC1L194L0015</mpn>
+      <ean>4894626176937</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154199236/Just-Cavalli-Set-Roloi-me-Dermatino-Louraki-se-Mayro-chroma-JC1L194L0015.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540836</id>
+      <name><![CDATA[Morellato Ego Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα R0153164508]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>101.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154193721/Morellato-Ego-Roloi-me-Metalliko-Mprasele-se-CHryso-chroma-R0153164508.html]]></image>
+      <mpn>R0153164508</mpn>
+      <ean>8033288896654</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154193721/Morellato-Ego-Roloi-me-Metalliko-Mprasele-se-CHryso-chroma-R0153164508.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540531</id>
+      <name><![CDATA[Morellato Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα R0153162505]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>92.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154189408/Morellato-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R0153162505.html]]></image>
+      <mpn>R0153162505</mpn>
+      <ean>8033288880929</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154189408/Morellato-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R0153162505.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540312</id>
+      <name><![CDATA[Morellato Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα R0153162502]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>115.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154186325/Morellato-Roloi-me-Metalliko-Mprasele-se-Roz-CHryso-chroma-R0153162502.html]]></image>
+      <mpn>R0153162502</mpn>
+      <ean>8033288880899</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154186325/Morellato-Roloi-me-Metalliko-Mprasele-se-Roz-CHryso-chroma-R0153162502.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540306</id>
+      <name><![CDATA[Morellato Ρολόι με Καουτσούκ Λουράκι σε Κίτρινο χρώμα R0151163014]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>37.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154186317/Morellato-Roloi-me-Kaoutsouk-Louraki-se-Kitrino-chroma-R0151163014.html]]></image>
+      <mpn>R0151163014</mpn>
+      <ean>8033288962847</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154186317/Morellato-Roloi-me-Kaoutsouk-Louraki-se-Kitrino-chroma-R0151163014.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540295</id>
+      <name><![CDATA[Morellato Ninfa Ρολόι με Δερμάτινο Λουράκι σε Ροζ χρώμα R0151141502]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>74.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154186304/Morellato-Ninfa-Roloi-me-Dermatino-Louraki-se-Roz-chroma-R0151141502.html]]></image>
+      <mpn>R0151141502</mpn>
+      <ean>8033288765844</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154186304/Morellato-Ninfa-Roloi-me-Dermatino-Louraki-se-Roz-chroma-R0151141502.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540084</id>
+      <name><![CDATA[Philip Watch Blaze Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα R8273665004]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>365.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154175741/Philip-Watch-Blaze-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se.html]]></image>
+      <mpn>R8273665004</mpn>
+      <ean>8033288847106</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154175741/Philip-Watch-Blaze-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540081</id>
+      <name><![CDATA[Philip Watch Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα R8253208501]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>356.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154175714/Philip-Watch-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253208501.html]]></image>
+      <mpn>R8253208501</mpn>
+      <ean>8033288808923</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154175714/Philip-Watch-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253208501.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540074</id>
+      <name><![CDATA[Philip Watch Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα R8253150503]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>190.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154175674/Philip-Watch-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253150503.html]]></image>
+      <mpn>R8253150503</mpn>
+      <ean>8033288809050</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154175674/Philip-Watch-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253150503.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540073</id>
+      <name><![CDATA[Philip Watch Marilyn Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα R8253596506]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>301.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154175655/Philip-Watch-Marilyn-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253596506.html]]></image>
+      <mpn>R8253596506</mpn>
+      <ean>8033288762089</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154175655/Philip-Watch-Marilyn-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-R8253596506.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4540005</id>
+      <name><![CDATA[Morellato Γυναικείο Βραχιόλι Αλυσίδα Drops από Ατσάλι SCZ786]]></name>
+      <category><![CDATA[Βραχιόλια]]></category>
+      <price_with_vat>67.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154175134/Morellato-Gynaikeio-Vrachioli-Alysida-Drops-apo-Atsali-SCZ786.html]]></image>
+      <mpn>SCZ786</mpn>
+      <ean>8033288745341</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154175134/Morellato-Gynaikeio-Vrachioli-Alysida-Drops-apo-Atsali-SCZ786.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539959</id>
+      <name><![CDATA[Morellato Μεταλλικό Μπρελόκ Travel SD5705]]></name>
+      <category><![CDATA[Μπρελόκ & Κλειδοθήκες]]></category>
+      <price_with_vat>42.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154174449/Morellato-Metalliko-Mprelok-Travel-SD5705.html]]></image>
+      <mpn>SD5705</mpn>
+      <ean>8033288894353</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154174449/Morellato-Metalliko-Mprelok-Travel-SD5705.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539953</id>
+      <name><![CDATA[Morellato Γυναικείο Κολιέ από Ατσάλι Επιχρυσωμένο SATF01]]></name>
+      <category><![CDATA[Κολιέ]]></category>
+      <price_with_vat>50.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154174406/Morellato-Gynaikeio-Kolie-apo-Atsali-Epichrysomeno-SATF01.html]]></image>
+      <mpn>SATF01</mpn>
+      <ean>8033288902621</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154174406/Morellato-Gynaikeio-Kolie-apo-Atsali-Epichrysomeno-SATF01.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539791</id>
+      <name><![CDATA[Sector Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Μπλε χρώμα R3273981009]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>190.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154172878/Sector-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mple-chroma.html]]></image>
+      <mpn>R3273981009</mpn>
+      <ean>8033288916680</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154172878/Sector-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mple-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539234</id>
+      <name><![CDATA[Fossil Ρολόι Χρονογράφος με Μεταλλικό Μπρασελέ σε Ασημί χρώμα ME3190]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>280.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154158530/Fossil-Roloi-CHronografos-me-Metalliko-Mprasele-se-Asimi-chroma-ME3190.html]]></image>
+      <mpn>ME3190</mpn>
+      <ean>4064092014426</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154158530/Fossil-Roloi-CHronografos-me-Metalliko-Mprasele-se-Asimi-chroma-ME3190.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53715,8 +54826,38 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154158524/Fossil-Q-Machine-Stainless-Steel-45mm-Smartwatch-Mayro.html]]></image>
       <mpn>FTW1164</mpn>
-      <ean>4.05386E+12</ean>
+      <ean>4053858961203</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154158524/Fossil-Q-Machine-Stainless-Steel-45mm-Smartwatch-Mayro.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539206</id>
+      <name><![CDATA[Fossil Ρολόι Χρονογράφος Μπαταρίας με Δερμάτινο Λουράκι σε Καφέ χρώμα BQ2125IE]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>119.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154156572/Fossil-Roloi-CHronografos-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma-BQ2125IE.html]]></image>
+      <mpn>BQ2125IE</mpn>
+      <ean>4013496076653</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154156572/Fossil-Roloi-CHronografos-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma-BQ2125IE.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539194</id>
+      <name><![CDATA[Fossil Stella Ρολόι με Μεταλλικό Μπρασελέ ES5138]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>117.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154156390/Fossil-Stella-Roloi-me-Metalliko-Mprasele-ES5138.html]]></image>
+      <mpn>ES5138</mpn>
+      <ean>4064092100372</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154156390/Fossil-Stella-Roloi-me-Metalliko-Mprasele-ES5138.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53730,8 +54871,38 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154156246/Timex-Roloi-Standard-me-Dermatino-Louraki-se-Roz-chroma-TW2U13500.html]]></image>
       <mpn>TW2U13500</mpn>
-      <ean>1.94366E+11</ean>
+      <ean>194366049763</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156246/Timex-Roloi-Standard-me-Dermatino-Louraki-se-Roz-chroma-TW2U13500.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539129</id>
+      <name><![CDATA[Timex TW2U10900]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>110.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154156244/Timex-TW2U10900.html]]></image>
+      <mpn>TW2U10900</mpn>
+      <ean>194366049640</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154156244/Timex-TW2U10900.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4539119</id>
+      <name><![CDATA[Timex Waterbury Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα TW2T86700]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>85.50</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/154156234/Timex-Waterbury-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-TW2T86700.html]]></image>
+      <mpn>TW2T86700</mpn>
+      <ean>194366015973</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154156234/Timex-Waterbury-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-TW2T86700.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53745,7 +54916,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/154156218/Timex-Roloi-me-Metalliko-Mprasele-se-Kafe-chroma-TW2T31600.html]]></image>
       <mpn>TW2T31600</mpn>
-      <ean>7.53049E+11</ean>
+      <ean>0753048843831</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156218/Timex-Roloi-me-Metalliko-Mprasele-se-Kafe-chroma-TW2T31600.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53760,7 +54931,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153986268/Timberland-Roloi-CHronografos-me-Dermatino-Louraki-se-Prasino-chroma.html]]></image>
       <mpn>TBL15645MYR01</mpn>
-      <ean>4.89522E+12</ean>
+      <ean>4895220903950</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153986268/Timberland-Roloi-CHronografos-me-Dermatino-Louraki-se-Prasino-chroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
@@ -53775,8 +54946,128 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153984697/Timberland-Shackford-Z-Roloi-CHronografos-Mpatarias-me-Dermatino-Louraki-se.html]]></image>
       <mpn>TDWGC2090501</mpn>
-      <ean>4.89482E+12</ean>
+      <ean>4894816012342</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984697/Timberland-Shackford-Z-Roloi-CHronografos-Mpatarias-me-Dermatino-Louraki-se.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4532122</id>
+      <name><![CDATA[Timberland Greycourt Z Ρολόι Μπαταρίας με Δερμάτινο Λουράκι σε Καφέ χρώμα TDWGB2091002]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>85.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153984685/Timberland-Greycourt-Z-Roloi-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma.html]]></image>
+      <mpn>TDWGB2091002</mpn>
+      <ean>4894816012496</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153984685/Timberland-Greycourt-Z-Roloi-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4532123</id>
+      <name><![CDATA[Timberland Greycourt Z Ρολόι Μπαταρίας με Δερμάτινο Λουράκι σε Καφέ χρώμα TDWGB2091003]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>70.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153984686/Timberland-Greycourt-Z-Roloi-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma.html]]></image>
+      <mpn>TDWGB2091003</mpn>
+      <ean>4894816012502</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153984686/Timberland-Greycourt-Z-Roloi-Mpatarias-me-Dermatino-Louraki-se-Kafe-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4531039</id>
+      <name><![CDATA[Casio Ψηφιακό Ρολόι Χρονογράφος Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα AE-1500WHX-1AVDF]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>47.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153964822/Casio-PSifiako-Roloi-CHronografos-Mpatarias-me-Kaoutsouk-Louraki-se-Mayro.html]]></image>
+      <mpn>AE1500WHX1AVDF</mpn>
+      <ean>4549526324123</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153964822/Casio-PSifiako-Roloi-CHronografos-Mpatarias-me-Kaoutsouk-Louraki-se-Mayro.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4531001</id>
+      <name><![CDATA[Casio Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα MTP-V300G-1A]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>95.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153964669/Casio-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-CHryso-chroma.html]]></image>
+      <mpn>MTPV300G1A</mpn>
+      <ean>4549526132582</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153964669/Casio-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-CHryso-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4529805</id>
+      <name><![CDATA[Casio Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTP-V006D-2B]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>55.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153925516/Casio-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></image>
+      <mpn>MTPV006D2B</mpn>
+      <ean>4549526252471</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153925516/Casio-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>15</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4529747</id>
+      <name><![CDATA[Casio Dress Ρολόι Μπαταρίας με Μεταλλικό Μπρασελέ σε Μαύρο χρώμα MTP-VT01B-1B]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>76.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153925361/Casio-Dress-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Mayro-chroma-MTP-VT01B-1B.html]]></image>
+      <mpn>MTPVT01B1B</mpn>
+      <ean>4549526315763</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153925361/Casio-Dress-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Mayro-chroma-MTP-VT01B-1B.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4529714</id>
+      <name><![CDATA[Casio Ψηφιακό Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα W-736H-8B]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>58.50</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153925328/Casio-PSifiako-Roloi-Mpatarias-me-Kaoutsouk-Louraki-se-Mayro-chroma-W-736H-8B.html]]></image>
+      <mpn>W736H8B</mpn>
+      <ean>4549526301162</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153925328/Casio-PSifiako-Roloi-Mpatarias-me-Kaoutsouk-Louraki-se-Mayro-chroma-W-736H-8B.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4529608</id>
+      <name><![CDATA[Casio B-640WDG-7EF]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>59.60</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153924157/Casio-B-640WDG-7EF.html]]></image>
+      <mpn>B640WDG7EF</mpn>
+      <ean>4549526257308</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153924157/Casio-B-640WDG-7EF.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53790,8 +55081,53 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153893358/Casio-WV-200DE-1AVER-PSifiako-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Asimi.html]]></image>
       <mpn>WV200DE1AVER</mpn>
-      <ean>4.97185E+12</ean>
+      <ean>4971850419013</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893358/Casio-WV-200DE-1AVER-PSifiako-Roloi-Mpatarias-me-Metalliko-Mprasele-se-Asimi.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528740</id>
+      <name><![CDATA[Casio LA-680WA-4C]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>46.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153893355/Casio-LA-680WA-4C.html]]></image>
+      <mpn>LA680WA4C</mpn>
+      <ean>4549526178528</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153893355/Casio-LA-680WA-4C.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528674</id>
+      <name><![CDATA[Casio LTP-E408GL-5A]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>78.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153893224/Casio-LTP-E408GL-5A.html]]></image>
+      <mpn>LTPE408GL5A</mpn>
+      <ean>4549526141911</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153893224/Casio-LTP-E408GL-5A.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528654</id>
+      <name><![CDATA[Casio Παιδικό Ψηφιακό Ρολόι με Δερμάτινο Λουράκι Λευκό LA-11WL-2A]]></name>
+      <category><![CDATA[Παιδικά Ρολόγια]]></category>
+      <price_with_vat>38.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153893090/Casio-Paidiko-PSifiako-Roloi-me-Dermatino-Louraki-Leyko-LA-11WL-2A.html]]></image>
+      <mpn>LA11WL2A</mpn>
+      <ean>4549526142321</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153893090/Casio-Paidiko-PSifiako-Roloi-me-Dermatino-Louraki-Leyko-LA-11WL-2A.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53805,8 +55141,23 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153889803/Swatch-Allurissime-YGG409G.html]]></image>
       <mpn>YGG409G</mpn>
-      <ean>7.61052E+12</ean>
+      <ean>7610522569713</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153889803/Swatch-Allurissime-YGG409G.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528360</id>
+      <name><![CDATA[Swatch Skinboot SYXS122GG Silver Green]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>170.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153889761/Swatch-Skinboot-SYXS122GG-Silver-Green.html]]></image>
+      <mpn>SYXS122GG</mpn>
+      <ean>7610522808799</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153889761/Swatch-Skinboot-SYXS122GG-Silver-Green.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53820,8 +55171,38 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153887255/Puma-Reset-V1-Roloi-Mpatarias-me-Yfasmatino-Louraki-se-Mple-chroma-P5057.html]]></image>
       <mpn>P5057</mpn>
-      <ean>4.0488E+12</ean>
+      <ean>4048803225196</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153887255/Puma-Reset-V1-Roloi-Mpatarias-me-Yfasmatino-Louraki-se-Mple-chroma-P5057.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528295</id>
+      <name><![CDATA[Puma Ρολόι Reset με Υφασμάτινο Λουράκι σε Κίτρινο χρώμα P5043]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>80.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153887238/Puma-Roloi-Reset-me-Yfasmatino-Louraki-se-Kitrino-chroma-P5043.html]]></image>
+      <mpn>P5043</mpn>
+      <ean>4048803033685</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153887238/Puma-Roloi-Reset-me-Yfasmatino-Louraki-se-Kitrino-chroma-P5043.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4528291</id>
+      <name><![CDATA[Puma Ψηφιακό Ρολόι Remix με Καουτσούκ Λουράκι σε Λευκό χρώμα P5036]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>73.40</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153887211/Puma-PSifiako-Roloi-Remix-me-Kaoutsouk-Louraki-se-Leyko-chroma-P5036.html]]></image>
+      <mpn>P5036</mpn>
+      <ean>4053858794764</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153887211/Puma-PSifiako-Roloi-Remix-me-Kaoutsouk-Louraki-se-Leyko-chroma-P5036.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53835,8 +55216,23 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153881547/Calvin-Klein-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-K7A231Z2.html]]></image>
       <mpn>K7A231Z2</mpn>
-      <ean>7.61264E+12</ean>
+      <ean>7612635136349</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153881547/Calvin-Klein-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-K7A231Z2.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527563</id>
+      <name><![CDATA[Calvin Klein Even K7B236G6]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>145.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153876987/Calvin-Klein-Even-K7B236G6.html]]></image>
+      <mpn>K7B236G6</mpn>
+      <ean>7612635102733</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153876987/Calvin-Klein-Even-K7B236G6.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53850,8 +55246,53 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153876777/Citizen-Roloi-Eco-Drive-me-Yfasmatino-Louraki-se-Mpez-chroma-BM7550-10E.html]]></image>
       <mpn>BM755010E</mpn>
-      <ean>8.01823E+12</ean>
+      <ean>8018225033842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876777/Citizen-Roloi-Eco-Drive-me-Yfasmatino-Louraki-se-Mpez-chroma-BM7550-10E.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527493</id>
+      <name><![CDATA[Citizen Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα FE6151-82X]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>225.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153876747/Citizen-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-FE6151-82X.html]]></image>
+      <mpn>FE615182X</mpn>
+      <ean>8018225035723</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153876747/Citizen-Roloi-me-Metalliko-Mprasele-se-Asimi-chroma-FE6151-82X.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527479</id>
+      <name><![CDATA[Citizen Ρολόι Eco - Drive με Μεταλλικό Μπρασελέ σε Ασημί χρώμα EM0899-72L]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>172.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153876635/Citizen-Roloi-Eco-Drive-me-Metalliko-Mprasele-se-Asimi-chroma-EM0899-72L.html]]></image>
+      <mpn>EM089972L</mpn>
+      <ean>8018225035587</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153876635/Citizen-Roloi-Eco-Drive-me-Metalliko-Mprasele-se-Asimi-chroma-EM0899-72L.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527455</id>
+      <name><![CDATA[Citizen Ρολόι Χρονογράφος Eco - Drive με Μεταλλικό Μπρασελέ σε Ασημί χρώμα CA4560-81E]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>253.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153876394/Citizen-Roloi-CHronografos-Eco-Drive-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></image>
+      <mpn>CA456081E</mpn>
+      <ean>8018225035280</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153876394/Citizen-Roloi-CHronografos-Eco-Drive-me-Metalliko-Mprasele-se-Asimi-chroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53865,8 +55306,113 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153875157/Miss-Sixty-Trapeze-Rosegold-Case-White-Leather-Strap-SNP003.html]]></image>
       <mpn>SNP003</mpn>
-      <ean>6.79324E+11</ean>
+      <ean>679324068784</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153875157/Miss-Sixty-Trapeze-Rosegold-Case-White-Leather-Strap-SNP003.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527276</id>
+      <name><![CDATA[Seiko Επιτραπέζιο Ρολόι με Ξυπνητήρι QHE192S]]></name>
+      <category><![CDATA[Επιτραπέζια Ρολόγια]]></category>
+      <price_with_vat>43.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153873454/Seiko-Epitrapezio-Roloi-me-Xypnitiri-QHE192S.html]]></image>
+      <mpn>QHE192S</mpn>
+      <ean>8434103469945</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153873454/Seiko-Epitrapezio-Roloi-me-Xypnitiri-QHE192S.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527099</id>
+      <name><![CDATA[Seiko Ψηφιακό Ρολόι Επιτραπέζιο Coca-Cola QHL902R]]></name>
+      <category><![CDATA[Επιτραπέζια Ρολόγια]]></category>
+      <price_with_vat>31.50</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153867365/Seiko-PSifiako-Roloi-Epitrapezio-Coca-Cola-QHL902R.html]]></image>
+      <mpn>QHL902R</mpn>
+      <ean>8431242956473</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153867365/Seiko-PSifiako-Roloi-Epitrapezio-Coca-Cola-QHL902R.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4527082</id>
+      <name><![CDATA[Seiko Ρολόι με Δερμάτινο Λουράκι σε Καφέ χρώμα SUR638P1]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>202.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153867348/Seiko-Roloi-me-Dermatino-Louraki-se-Kafe-chroma-SUR638P1.html]]></image>
+      <mpn>SUR638P1</mpn>
+      <ean>8431242971216</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153867348/Seiko-Roloi-me-Dermatino-Louraki-se-Kafe-chroma-SUR638P1.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4526901</id>
+      <name><![CDATA[Seiko SKK880P1]]></name>
+      <category><![CDATA[Γυναικεία Ρολόγια]]></category>
+      <price_with_vat>597.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153866890/Seiko-SKK880P1.html]]></image>
+      <mpn>SKK880P1</mpn>
+      <ean>8431242958880</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153866890/Seiko-SKK880P1.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>5</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4526821</id>
+      <name><![CDATA[Diesel Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Μαύρο χρώμα DZ4579]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>195.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153865402/Diesel-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mayro-chroma-DZ4579.html]]></image>
+      <mpn>DZ4579</mpn>
+      <ean>4064092083316</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153865402/Diesel-Roloi-CHronografos-Mpatarias-me-Metalliko-Mprasele-se-Mayro-chroma-DZ4579.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>3</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4526598</id>
+      <name><![CDATA[Diesel Ρολόι Tumbler Χρονογράφος με Μεταλλικό Μπρασελέ σε Γκρι χρώμα DZ4510]]></name>
+      <category><![CDATA[Ανδρικά Ρολόγια]]></category>
+      <price_with_vat>189.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153863085/Diesel-Roloi-Tumbler-CHronografos-me-Metalliko-Mprasele-se-Gri-chroma-DZ4510.html]]></image>
+      <mpn>DZ4510</mpn>
+      <ean>4013496382396</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153863085/Diesel-Roloi-Tumbler-CHronografos-me-Metalliko-Mprasele-se-Gri-chroma-DZ4510.html]]></link>
+      <availability>Available from 4 to 10 days</availability>
+      <quantity>2</quantity>
+      <additional_imageurl/>
+      <description/>
+    </product>
+    <product>
+      <id>4509690</id>
+      <name><![CDATA[Samsung Rugged Sport (M/L) Λουράκι Σιλικόνης Μαύρο (Galaxy Watch4 / Watch5 / Watch5 Pro)]]></name>
+      <category><![CDATA[Λουράκια Wearables]]></category>
+      <price_with_vat>34.00</price_with_vat>
+      <manufacturer/>
+      <image><![CDATA[https://www.skroutz.gr/mp/153480219/Samsung-Rugged-Sport-M-L-Louraki-Silikonis-Mayro-Galaxy-Watch4-Watch5.html]]></image>
+      <mpn>ETSDR91LBEGEU</mpn>
+      <ean>8806094903928</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153480219/Samsung-Rugged-Sport-M-L-Louraki-Silikonis-Mayro-Galaxy-Watch4-Watch5.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>5</quantity>
       <additional_imageurl/>
@@ -53880,7 +55426,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153407600/Lightning-Cable-2x-USB-A-Wall-Adapter-Leyko-Bluepower-BLBA25A.html]]></image>
       <mpn>303638</mpn>
-      <ean>7.34801E+12</ean>
+      <ean>7348008757506</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407600/Lightning-Cable-2x-USB-A-Wall-Adapter-Leyko-Bluepower-BLBA25A.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>100</quantity>
@@ -53895,7 +55441,7 @@ Total Ports: 2]]></description>
       <manufacturer/>
       <image><![CDATA[https://www.skroutz.gr/mp/153407469/Acefast-Fortistis-Aytokinitou-Mayros-Synolikis-Entasis-3A-Grigoris-Fortisis.html]]></image>
       <mpn/>
-      <ean>6.97432E+12</ean>
+      <ean>6974316280972</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407469/Acefast-Fortistis-Aytokinitou-Mayros-Synolikis-Entasis-3A-Grigoris-Fortisis.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>20</quantity>
