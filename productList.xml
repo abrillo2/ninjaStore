@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-05 01:52</created_at>
+  <created_at>2023-06-05 02:00</created_at>
   <products>
     <product>
       <id>4539948</id>
@@ -2703,7 +2703,7 @@ USB Version: USB 2.0</description>
       <description>Φορτιστής αυτοκινήτου από την Acefast, που εφαρμόζει άμεσα στη θέση του αναπτήρα ώστε να φορτίζετε τις συσκευές σας στο ταξίδι, την εκδρομή ή τη διαδρομή για τη δουλειά. Διαθέτει μία θύρα USB και μία θύρα USBC για τη φόρτιση του tablet ή του smartphone σας. Ακόμη, με την τεχνολογία Fast Charge που τον χαρακτηρίζει, μπορείτε να φορτίζετε τις συσκευές σας πιο γρήγορα.
 Τέλος, η συσκευασία περιλαμβάνει καλώδιο No για τη σύνδεση του φορτιστή με συσκευές που είναι συμβατές με την αντίστοιχη υποδοχή.</description>
       <distributor>MOBI</distributor>
-      <disPrice>5.90</disPrice>
+      <disPrice>15.90</disPrice>
     </product>
     <product>
       <id>4507509</id>
@@ -8316,7 +8316,6 @@ Frame Material: Mixed</description>
           <size>4763</size>
           <quantity>3</quantity>
           <variationid>5055022635049.4763</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
@@ -8346,7 +8345,6 @@ Frame Material: Mixed</description>
           <size>4763</size>
           <quantity>2</quantity>
           <variationid>5055022625767.4763</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
@@ -9679,7 +9677,6 @@ Frame Material: HornRimmed</description>
           <size>4763</size>
           <quantity>499</quantity>
           <variationid>762753823663.4763</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
