@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-05 12:39</created_at>
+  <created_at>2023-06-05 12:53</created_at>
   <products>
     <product>
       <id>4539948</id>
@@ -8316,6 +8316,7 @@ Frame Material: Mixed</description>
           <size>4763</size>
           <quantity>3</quantity>
           <variationid>5055022635049.4763</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
@@ -8345,6 +8346,7 @@ Frame Material: Mixed</description>
           <size>4763</size>
           <quantity>2</quantity>
           <variationid>5055022625767.4763</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
@@ -9677,6 +9679,7 @@ Frame Material: HornRimmed</description>
           <size>4763</size>
           <quantity>499</quantity>
           <variationid>762753823663.4763</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>WWT</distributor>
