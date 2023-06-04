@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-03 05:49</created_at>
+  <created_at>2023-06-04 11:32</created_at>
   <products>
     <product>
       <id>4539948</id>
@@ -6810,7 +6810,7 @@ Frame Material: Mixed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>119</quantity>
-          <variationid>889214115485.47-63</variationid>
+          <variationid>889214115485.4763</variationid>
           <manufacturersku>GF5059 52N</manufacturersku>
         </variation>
       </variations>
@@ -6836,7 +6836,7 @@ Frame Material: Mixed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>1494</quantity>
-          <variationid>664689891788.47-63</variationid>
+          <variationid>664689891788.4763</variationid>
           <manufacturersku>GF5017 01C</manufacturersku>
         </variation>
       </variations>
@@ -6862,7 +6862,7 @@ Frame Material: Mixed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>1325</quantity>
-          <variationid>664689891801.47-63</variationid>
+          <variationid>664689891801.4763</variationid>
           <manufacturersku>GF501756Q</manufacturersku>
         </variation>
       </variations>
@@ -6891,7 +6891,7 @@ Frame Material: Mixed</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>14</quantity>
-          <variationid>889214115478.47-63</variationid>
+          <variationid>889214115478.4763</variationid>
           <manufacturersku>GF5059 01B</manufacturersku>
         </variation>
       </variations>
@@ -6920,7 +6920,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>664689909827.47-63</variationid>
+          <variationid>664689909827.4763</variationid>
           <manufacturersku>SK0161P 01B</manufacturersku>
         </variation>
       </variations>
@@ -6949,7 +6949,7 @@ Frame Material: Metallic</description>
           <price_with_vat>279.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>889214110114.47-63</variationid>
+          <variationid>889214110114.4763</variationid>
           <manufacturersku>SK0274PH 16W</manufacturersku>
         </variation>
       </variations>
@@ -6978,7 +6978,7 @@ Frame Material: Metallic</description>
           <price_with_vat>325.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214059369.47-63</variationid>
+          <variationid>889214059369.4763</variationid>
           <manufacturersku>SK0238P 16W</manufacturersku>
         </variation>
       </variations>
@@ -7007,7 +7007,7 @@ Frame Material: Metallic</description>
           <price_with_vat>274.99</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110107.47-63</variationid>
+          <variationid>889214110107.4763</variationid>
           <manufacturersku>SK0274PH 16C</manufacturersku>
         </variation>
       </variations>
@@ -7036,7 +7036,7 @@ Frame Material: Metallic</description>
           <price_with_vat>305.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110091.47-63</variationid>
+          <variationid>889214110091.4763</variationid>
           <manufacturersku>SK0273P 16W</manufacturersku>
         </variation>
       </variations>
@@ -7065,7 +7065,7 @@ Frame Material: Metallic</description>
           <price_with_vat>305.00</price_with_vat>
           <size>4763</size>
           <quantity>47</quantity>
-          <variationid>889214110084.47-63</variationid>
+          <variationid>889214110084.4763</variationid>
           <manufacturersku>SK0273P 16C</manufacturersku>
         </variation>
       </variations>
@@ -7094,7 +7094,7 @@ Frame Material: Mixed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214110077.47-63</variationid>
+          <variationid>889214110077.4763</variationid>
           <manufacturersku>SK0272PH 45F</manufacturersku>
         </variation>
       </variations>
@@ -7123,7 +7123,7 @@ Frame Material: Mixed</description>
           <price_with_vat>305.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110046.47-63</variationid>
+          <variationid>889214110046.4763</variationid>
           <manufacturersku>SK0271P 90W</manufacturersku>
         </variation>
       </variations>
@@ -7152,7 +7152,7 @@ Frame Material: Mixed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110060.47-63</variationid>
+          <variationid>889214110060.4763</variationid>
           <manufacturersku>SK0272PH 01B</manufacturersku>
         </variation>
       </variations>
@@ -7181,7 +7181,7 @@ Frame Material: Mixed</description>
           <price_with_vat>305.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110039.47-63</variationid>
+          <variationid>889214110039.4763</variationid>
           <manufacturersku>SK0271P 48G</manufacturersku>
         </variation>
       </variations>
@@ -7210,7 +7210,7 @@ Frame Material: Metallic</description>
           <price_with_vat>320.00</price_with_vat>
           <size>4763</size>
           <quantity>44</quantity>
-          <variationid>889214059383.47-63</variationid>
+          <variationid>889214059383.4763</variationid>
           <manufacturersku>SK0239P 16W</manufacturersku>
         </variation>
       </variations>
@@ -7239,7 +7239,7 @@ Frame Material: Metallic</description>
           <price_with_vat>463.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214110022.47-63</variationid>
+          <variationid>889214110022.4763</variationid>
           <manufacturersku>SK0270P 90W</manufacturersku>
         </variation>
       </variations>
@@ -7268,7 +7268,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>293.00</price_with_vat>
           <size>4763</size>
           <quantity>33</quantity>
-          <variationid>889214060075.47-63</variationid>
+          <variationid>889214060075.4763</variationid>
           <manufacturersku>SK0237P 36F</manufacturersku>
         </variation>
       </variations>
@@ -7297,7 +7297,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>293.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214060068.47-63</variationid>
+          <variationid>889214060068.4763</variationid>
           <manufacturersku>SK0237P 01B</manufacturersku>
         </variation>
       </variations>
@@ -7326,7 +7326,7 @@ Frame Material: Metallic</description>
           <price_with_vat>295.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214059352.47-63</variationid>
+          <variationid>889214059352.4763</variationid>
           <manufacturersku>SK0236 32G</manufacturersku>
         </variation>
       </variations>
@@ -7355,7 +7355,7 @@ Frame Material: Mixed</description>
           <price_with_vat>352.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689909940.47-63</variationid>
+          <variationid>664689909940.4763</variationid>
           <manufacturersku>SK0164P 90X</manufacturersku>
         </variation>
       </variations>
@@ -7384,7 +7384,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>302.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689909926.47-63</variationid>
+          <variationid>664689909926.4763</variationid>
           <manufacturersku>SK0162P 90X</manufacturersku>
         </variation>
       </variations>
@@ -7413,7 +7413,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689909841.47-63</variationid>
+          <variationid>664689909841.4763</variationid>
           <manufacturersku>SK0161P 87P</manufacturersku>
         </variation>
       </variations>
@@ -7442,7 +7442,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689909834.47-63</variationid>
+          <variationid>664689909834.4763</variationid>
           <manufacturersku>SK0161P 81Z</manufacturersku>
         </variation>
       </variations>
@@ -7471,7 +7471,7 @@ Frame Material: Metallic</description>
           <price_with_vat>349.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689909803.47-63</variationid>
+          <variationid>664689909803.4763</variationid>
           <manufacturersku>SK0160P 28Z</manufacturersku>
         </variation>
       </variations>
@@ -7591,8 +7591,7 @@ Frame Material: Mixed</description>
           <price_with_vat>78.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>5055022635049.47-63</variationid>
-          <manufacturersku/>
+          <variationid>5055022635049.4763</variationid>
         </variation>
       </variations>
     </product>
@@ -7619,8 +7618,7 @@ Frame Material: Mixed</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>5055022625767.47-63</variationid>
-          <manufacturersku/>
+          <variationid>5055022625767.4763</variationid>
         </variation>
       </variations>
     </product>
@@ -7648,7 +7646,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>275.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>664689662814.47-63</variationid>
+          <variationid>664689662814.4763</variationid>
           <manufacturersku>ZC0001 50M</manufacturersku>
         </variation>
       </variations>
@@ -7737,7 +7735,7 @@ Frame Material: Metallic</description>
           <price_with_vat>160.00</price_with_vat>
           <size>4763</size>
           <quantity>28</quantity>
-          <variationid>4051854451957.47-63</variationid>
+          <variationid>4051854451957.4763</variationid>
           <manufacturersku>37593 1000</manufacturersku>
         </variation>
       </variations>
@@ -7766,7 +7764,7 @@ Frame Material: Mixed</description>
           <price_with_vat>165.00</price_with_vat>
           <size>4763</size>
           <quantity>10</quantity>
-          <variationid>4051854353206.47-63</variationid>
+          <variationid>4051854353206.4763</variationid>
           <manufacturersku>37813 6500</manufacturersku>
         </variation>
       </variations>
@@ -7795,7 +7793,7 @@ Frame Material: Metallic</description>
           <price_with_vat>165.00</price_with_vat>
           <size>4763</size>
           <quantity>4</quantity>
-          <variationid>4051854353237.47-63</variationid>
+          <variationid>4051854353237.4763</variationid>
           <manufacturersku>37814 6100</manufacturersku>
         </variation>
       </variations>
@@ -7824,7 +7822,7 @@ Frame Material: Metallic</description>
           <price_with_vat>144.00</price_with_vat>
           <size>4763</size>
           <quantity>31</quantity>
-          <variationid>889214315700.47-63</variationid>
+          <variationid>889214315700.4763</variationid>
           <manufacturersku>GM0818 32F</manufacturersku>
         </variation>
       </variations>
@@ -7853,7 +7851,7 @@ Frame Material: Metallic</description>
           <price_with_vat>144.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214315694.47-63</variationid>
+          <variationid>889214315694.4763</variationid>
           <manufacturersku>GM0818 28F</manufacturersku>
         </variation>
       </variations>
@@ -7882,7 +7880,7 @@ Frame Material: Metallic</description>
           <price_with_vat>145.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214315687.47-63</variationid>
+          <variationid>889214315687.4763</variationid>
           <manufacturersku>GM0818 10W</manufacturersku>
         </variation>
       </variations>
@@ -7911,7 +7909,7 @@ Frame Material: Metallic</description>
           <price_with_vat>135.00</price_with_vat>
           <size>4763</size>
           <quantity>11</quantity>
-          <variationid>889214140999.47-63</variationid>
+          <variationid>889214140999.4763</variationid>
           <manufacturersku>GM0807 28C</manufacturersku>
         </variation>
       </variations>
@@ -7940,7 +7938,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>105.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>4894327440610.47-63</variationid>
+          <variationid>4894327440610.4763</variationid>
           <manufacturersku>SS7008 461</manufacturersku>
         </variation>
       </variations>
@@ -7969,7 +7967,7 @@ Frame Material: Mixed</description>
           <price_with_vat>115.00</price_with_vat>
           <size>4763</size>
           <quantity>9</quantity>
-          <variationid>4894327392032.47-63</variationid>
+          <variationid>4894327392032.4763</variationid>
           <manufacturersku>SS8005 433</manufacturersku>
         </variation>
       </variations>
@@ -7998,7 +7996,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>105.00</price_with_vat>
           <size>4763</size>
           <quantity>5</quantity>
-          <variationid>4894327440450.47-63</variationid>
+          <variationid>4894327440450.4763</variationid>
           <manufacturersku>SS8006 676</manufacturersku>
         </variation>
       </variations>
@@ -8027,7 +8025,7 @@ Frame Material: Metallic</description>
           <price_with_vat>115.00</price_with_vat>
           <size>4763</size>
           <quantity>6</quantity>
-          <variationid>4894327395279.47-63</variationid>
+          <variationid>4894327395279.4763</variationid>
           <manufacturersku>SS6009 402</manufacturersku>
         </variation>
       </variations>
@@ -8056,7 +8054,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>110.00</price_with_vat>
           <size>4763</size>
           <quantity>32</quantity>
-          <variationid>4894327440474.47-63</variationid>
+          <variationid>4894327440474.4763</variationid>
           <manufacturersku>SS8006 176</manufacturersku>
         </variation>
       </variations>
@@ -8085,7 +8083,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>108.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>4894327440603.47-63</variationid>
+          <variationid>4894327440603.4763</variationid>
           <manufacturersku>SS7008 267</manufacturersku>
         </variation>
       </variations>
@@ -8114,7 +8112,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>110.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>4894327439898.47-63</variationid>
+          <variationid>4894327439898.4763</variationid>
           <manufacturersku>SS7010 801</manufacturersku>
         </variation>
       </variations>
@@ -8143,7 +8141,7 @@ Frame Material: Metallic</description>
           <price_with_vat>161.00</price_with_vat>
           <size>4763</size>
           <quantity>13</quantity>
-          <variationid>4894327395293.47-63</variationid>
+          <variationid>4894327395293.4763</variationid>
           <manufacturersku>SS6009 902</manufacturersku>
         </variation>
       </variations>
@@ -8172,7 +8170,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>140.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>4894327447985.47-63</variationid>
+          <variationid>4894327447985.4763</variationid>
           <manufacturersku>SS7011 131</manufacturersku>
         </variation>
       </variations>
@@ -8259,7 +8257,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>152.00</price_with_vat>
           <size>4763</size>
           <quantity>7</quantity>
-          <variationid>889214212047.47-63</variationid>
+          <variationid>889214212047.4763</variationid>
           <manufacturersku>BW0004 52N</manufacturersku>
         </variation>
       </variations>
@@ -8288,7 +8286,7 @@ Frame Material: Metallic</description>
           <price_with_vat>165.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>889214212092.47-63</variationid>
+          <variationid>889214212092.4763</variationid>
           <manufacturersku>BW0006 02C</manufacturersku>
         </variation>
       </variations>
@@ -8317,7 +8315,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>150.00</price_with_vat>
           <size>4763</size>
           <quantity>9</quantity>
-          <variationid>889214212009.47-63</variationid>
+          <variationid>889214212009.4763</variationid>
           <manufacturersku>BW0003 70U</manufacturersku>
         </variation>
       </variations>
@@ -8346,7 +8344,7 @@ Frame Material: Mixed</description>
           <price_with_vat>125.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>889214211958.47-63</variationid>
+          <variationid>889214211958.4763</variationid>
           <manufacturersku>BW0002H 52V</manufacturersku>
         </variation>
       </variations>
@@ -8375,7 +8373,7 @@ Frame Material: Mixed</description>
           <price_with_vat>180.00</price_with_vat>
           <size>4763</size>
           <quantity>12</quantity>
-          <variationid>889214211934.47-63</variationid>
+          <variationid>889214211934.4763</variationid>
           <manufacturersku>BW0002H 5501W</manufacturersku>
         </variation>
       </variations>
@@ -8404,7 +8402,7 @@ Frame Material: Mixed</description>
           <price_with_vat>180.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214211927.47-63</variationid>
+          <variationid>889214211927.4763</variationid>
           <manufacturersku>BW0001 5853B</manufacturersku>
         </variation>
       </variations>
@@ -8433,7 +8431,7 @@ Frame Material: Mixed</description>
           <price_with_vat>185.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214230669.47-63</variationid>
+          <variationid>889214230669.4763</variationid>
           <manufacturersku>BW0016 5609C</manufacturersku>
         </variation>
       </variations>
@@ -8462,7 +8460,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>149.00</price_with_vat>
           <size>4763</size>
           <quantity>6</quantity>
-          <variationid>889214212030.47-63</variationid>
+          <variationid>889214212030.4763</variationid>
           <manufacturersku>BW0004 49F</manufacturersku>
         </variation>
       </variations>
@@ -8491,7 +8489,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>4894327415380.47-63</variationid>
+          <variationid>4894327415380.4763</variationid>
           <manufacturersku>ST5001 002</manufacturersku>
         </variation>
       </variations>
@@ -8520,7 +8518,7 @@ Frame Material: Metallic</description>
           <price_with_vat>45.00</price_with_vat>
           <size>4763</size>
           <quantity>15</quantity>
-          <variationid>8029224801486.47-63</variationid>
+          <variationid>8029224801486.4763</variationid>
           <manufacturersku>DH501S 03</manufacturersku>
         </variation>
       </variations>
@@ -8549,7 +8547,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>267.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>726644100073.47-63</variationid>
+          <variationid>726644100073.4763</variationid>
           <manufacturersku>8845</manufacturersku>
         </variation>
       </variations>
@@ -8660,7 +8658,7 @@ Frame Material: Metallic</description>
           <price_with_vat>72.00</price_with_vat>
           <size>4763</size>
           <quantity>5</quantity>
-          <variationid>4894327416943.47-63</variationid>
+          <variationid>4894327416943.4763</variationid>
           <manufacturersku>PJ5181C4</manufacturersku>
         </variation>
       </variations>
@@ -8689,7 +8687,7 @@ Frame Material: Metallic</description>
           <price_with_vat>83.00</price_with_vat>
           <size>4763</size>
           <quantity>18</quantity>
-          <variationid>4894327455799.47-63</variationid>
+          <variationid>4894327455799.4763</variationid>
           <manufacturersku>PJ5181 C5</manufacturersku>
         </variation>
       </variations>
@@ -8718,7 +8716,7 @@ Frame Material: Metallic</description>
           <price_with_vat>72.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>4894327455836.47-63</variationid>
+          <variationid>4894327455836.4763</variationid>
           <manufacturersku>PJ5182 C2</manufacturersku>
         </variation>
       </variations>
@@ -8747,7 +8745,7 @@ Frame Material: Metallic</description>
           <price_with_vat>72.00</price_with_vat>
           <size>4763</size>
           <quantity>98</quantity>
-          <variationid>4894327455843.47-63</variationid>
+          <variationid>4894327455843.4763</variationid>
           <manufacturersku>PJ5182 C3</manufacturersku>
         </variation>
       </variations>
@@ -8776,7 +8774,7 @@ Frame Material: Metallic</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>15</quantity>
-          <variationid>4894327455829.47-63</variationid>
+          <variationid>4894327455829.4763</variationid>
           <manufacturersku>PJ5182 C4</manufacturersku>
         </variation>
       </variations>
@@ -8805,7 +8803,7 @@ Frame Material: Metallic</description>
           <price_with_vat>82.00</price_with_vat>
           <size>4763</size>
           <quantity>31</quantity>
-          <variationid>4894327455867.47-63</variationid>
+          <variationid>4894327455867.4763</variationid>
           <manufacturersku>PJ5183 C4</manufacturersku>
         </variation>
       </variations>
@@ -8834,7 +8832,7 @@ Frame Material: Metallic</description>
           <price_with_vat>82.00</price_with_vat>
           <size>4763</size>
           <quantity>36</quantity>
-          <variationid>4894327456673.47-63</variationid>
+          <variationid>4894327456673.4763</variationid>
           <manufacturersku>PJ5184 C2</manufacturersku>
         </variation>
       </variations>
@@ -8862,8 +8860,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>60.00</price_with_vat>
           <size>4763</size>
           <quantity>499</quantity>
-          <variationid>762753823663.47-63</variationid>
-          <manufacturersku/>
+          <variationid>762753823663.4763</variationid>
         </variation>
       </variations>
     </product>
@@ -8891,7 +8888,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>99.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>4894327377244.47-63</variationid>
+          <variationid>4894327377244.4763</variationid>
           <manufacturersku>TB1567 001</manufacturersku>
         </variation>
       </variations>
@@ -8917,7 +8914,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>143.00</price_with_vat>
           <size>4763</size>
           <quantity>20</quantity>
-          <variationid>8053672732788.47-63</variationid>
+          <variationid>8053672732788.4763</variationid>
           <manufacturersku>RB4246 1221/C3</manufacturersku>
         </variation>
       </variations>
@@ -8943,7 +8940,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>140.00</price_with_vat>
           <size>4763</size>
           <quantity>4</quantity>
-          <variationid>8053672320961.47-63</variationid>
+          <variationid>8053672320961.4763</variationid>
           <manufacturersku>RB2140 1167/S5</manufacturersku>
         </variation>
       </variations>
@@ -8972,7 +8969,7 @@ Frame Material: Metallic</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214343826.47-63</variationid>
+          <variationid>889214343826.4763</variationid>
           <manufacturersku>HD0969X 09H</manufacturersku>
         </variation>
       </variations>
@@ -9001,7 +8998,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214048448.47-63</variationid>
+          <variationid>889214048448.4763</variationid>
           <manufacturersku>HD0935X 20A</manufacturersku>
         </variation>
       </variations>
@@ -9030,7 +9027,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214258618.47-63</variationid>
+          <variationid>889214258618.4763</variationid>
           <manufacturersku>HD0959X 52N</manufacturersku>
         </variation>
       </variations>
@@ -9059,7 +9056,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>5</quantity>
-          <variationid>889214109439.47-63</variationid>
+          <variationid>889214109439.4763</variationid>
           <manufacturersku>HD0943X 91A</manufacturersku>
         </variation>
       </variations>
@@ -9088,7 +9085,7 @@ Frame Material: Metallic</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214109125.47-63</variationid>
+          <variationid>889214109125.4763</variationid>
           <manufacturersku>HD0941X 06A</manufacturersku>
         </variation>
       </variations>
@@ -9117,7 +9114,7 @@ Frame Material: Mixed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>889214343864.47-63</variationid>
+          <variationid>889214343864.4763</variationid>
           <manufacturersku>HD0970X 91V</manufacturersku>
         </variation>
       </variations>
@@ -9146,7 +9143,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>39.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689899456.47-63</variationid>
+          <variationid>664689899456.4763</variationid>
           <manufacturersku>HD0307X 81A</manufacturersku>
         </variation>
       </variations>
@@ -9175,7 +9172,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>50.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>664689823178.47-63</variationid>
+          <variationid>664689823178.4763</variationid>
           <manufacturersku>HD0300X 84A</manufacturersku>
         </variation>
       </variations>
@@ -9204,7 +9201,7 @@ Frame Material: Metallic</description>
           <price_with_vat>90.00</price_with_vat>
           <size>4763</size>
           <quantity>16</quantity>
-          <variationid>5420074373780.47-63</variationid>
+          <variationid>5420074373780.4763</variationid>
           <manufacturersku>KOMS8104</manufacturersku>
         </variation>
       </variations>
@@ -9233,7 +9230,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>90.00</price_with_vat>
           <size>4763</size>
           <quantity>7</quantity>
-          <variationid>5420074374435.47-63</variationid>
+          <variationid>5420074374435.4763</variationid>
           <manufacturersku>KOMS9202</manufacturersku>
         </variation>
       </variations>
@@ -9490,7 +9487,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>82.00</price_with_vat>
           <size>4763</size>
           <quantity>43</quantity>
-          <variationid>716736420820.47-63</variationid>
+          <variationid>716736420820.4763</variationid>
           <manufacturersku>TJ 0063/S PJP/KU</manufacturersku>
         </variation>
       </variations>
@@ -9542,7 +9539,7 @@ Frame Material: Metallic</description>
           <price_with_vat>77.00</price_with_vat>
           <size>4763</size>
           <quantity>410</quantity>
-          <variationid>716736413891.47-63</variationid>
+          <variationid>716736413891.4763</variationid>
           <manufacturersku>TH 1797/S AOZ/70</manufacturersku>
         </variation>
       </variations>
@@ -9571,7 +9568,7 @@ Frame Material: Metallic</description>
           <price_with_vat>92.00</price_with_vat>
           <size>4763</size>
           <quantity>31</quantity>
-          <variationid>716736296098.47-63</variationid>
+          <variationid>716736296098.4763</variationid>
           <manufacturersku>TJ 0034/F/S 003/IR</manufacturersku>
         </variation>
       </variations>
@@ -9600,7 +9597,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>93.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>716736120881.47-63</variationid>
+          <variationid>716736120881.4763</variationid>
           <manufacturersku>8474/S  807/9O</manufacturersku>
         </variation>
       </variations>
@@ -9629,7 +9626,7 @@ Frame Material: Metallic</description>
           <price_with_vat>169.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214312211.47-63</variationid>
+          <variationid>889214312211.4763</variationid>
           <manufacturersku>TO0326 28T</manufacturersku>
         </variation>
       </variations>
@@ -9658,7 +9655,7 @@ Frame Material: Metallic</description>
           <price_with_vat>160.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214312181.47-63</variationid>
+          <variationid>889214312181.4763</variationid>
           <manufacturersku>TO0325 32F</manufacturersku>
         </variation>
       </variations>
@@ -9687,7 +9684,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>188.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214245021.47-63</variationid>
+          <variationid>889214245021.4763</variationid>
           <manufacturersku>TO0308 01V</manufacturersku>
         </variation>
       </variations>
@@ -9716,7 +9713,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>190.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214244994.47-63</variationid>
+          <variationid>889214244994.4763</variationid>
           <manufacturersku>TO0307 56E</manufacturersku>
         </variation>
       </variations>
@@ -9745,7 +9742,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>189.00</price_with_vat>
           <size>4763</size>
           <quantity>5</quantity>
-          <variationid>889214245038.47-63</variationid>
+          <variationid>889214245038.4763</variationid>
           <manufacturersku>TO0308 52N</manufacturersku>
         </variation>
       </variations>
@@ -9774,7 +9771,7 @@ Frame Material: Metallic</description>
           <price_with_vat>184.00</price_with_vat>
           <size>4763</size>
           <quantity>6</quantity>
-          <variationid>889214228727.47-63</variationid>
+          <variationid>889214228727.4763</variationid>
           <manufacturersku>TO0294 12E</manufacturersku>
         </variation>
       </variations>
@@ -9803,7 +9800,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>190.00</price_with_vat>
           <size>4763</size>
           <quantity>32</quantity>
-          <variationid>889214181176.47-63</variationid>
+          <variationid>889214181176.4763</variationid>
           <manufacturersku>TO0287 01N</manufacturersku>
         </variation>
       </variations>
@@ -10054,7 +10051,7 @@ Frame Material: Metallic</description>
           <price_with_vat>55.00</price_with_vat>
           <size>4763</size>
           <quantity>12</quantity>
-          <variationid>664689931422.47-63</variationid>
+          <variationid>664689931422.4763</variationid>
           <manufacturersku>WE0218 72Z</manufacturersku>
         </variation>
       </variations>
@@ -10083,7 +10080,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>149.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>716736717937.47-63</variationid>
+          <variationid>716736717937.4763</variationid>
           <manufacturersku>0005S 80S/9O</manufacturersku>
         </variation>
       </variations>
@@ -10112,7 +10109,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>223.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>716736717685.47-63</variationid>
+          <variationid>716736717685.4763</variationid>
           <manufacturersku>0030S ANS/IR</manufacturersku>
         </variation>
       </variations>
@@ -10141,7 +10138,7 @@ Frame Material: Mixed</description>
           <price_with_vat>169.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>664689850518.47-63</variationid>
+          <variationid>664689850518.4763</variationid>
           <manufacturersku>0252 01B</manufacturersku>
         </variation>
       </variations>
@@ -10170,7 +10167,7 @@ Frame Material: Mixed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>45</quantity>
-          <variationid>889214035110.47-63</variationid>
+          <variationid>889214035110.4763</variationid>
           <manufacturersku>DQ0325 53G</manufacturersku>
         </variation>
       </variations>
@@ -10199,7 +10196,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>182.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>716736717753.47-63</variationid>
+          <variationid>716736717753.4763</variationid>
           <manufacturersku>0002S CCP/T4</manufacturersku>
         </variation>
       </variations>
@@ -10228,7 +10225,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>169.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>664689938858.47-63</variationid>
+          <variationid>664689938858.4763</variationid>
           <manufacturersku>DQ0287 56B</manufacturersku>
         </variation>
       </variations>
@@ -10257,7 +10254,7 @@ Frame Material: Mixed</description>
           <price_with_vat>139.00</price_with_vat>
           <size>4763</size>
           <quantity>7</quantity>
-          <variationid>889214034731.47-63</variationid>
+          <variationid>889214034731.4763</variationid>
           <manufacturersku>DQ0316 98G</manufacturersku>
         </variation>
       </variations>
@@ -10286,7 +10283,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>89.00</price_with_vat>
           <size>4763</size>
           <quantity>40</quantity>
-          <variationid>889214206596.47-63</variationid>
+          <variationid>889214206596.4763</variationid>
           <manufacturersku>GA7200/S 21X</manufacturersku>
         </variation>
       </variations>
@@ -10315,7 +10312,7 @@ Frame Material: Mixed</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>15</quantity>
-          <variationid>889214206510.47-63</variationid>
+          <variationid>889214206510.4763</variationid>
           <manufacturersku>GA7198 52C</manufacturersku>
         </variation>
       </variations>
@@ -10344,7 +10341,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214175564.47-63</variationid>
+          <variationid>889214175564.4763</variationid>
           <manufacturersku>GA7191 53N</manufacturersku>
         </variation>
       </variations>
@@ -10373,7 +10370,7 @@ Frame Material: Mixed</description>
           <price_with_vat>95.00</price_with_vat>
           <size>4763</size>
           <quantity>25</quantity>
-          <variationid>889214107398.47-63</variationid>
+          <variationid>889214107398.4763</variationid>
           <manufacturersku>GA7121 56N</manufacturersku>
         </variation>
       </variations>
@@ -10402,7 +10399,7 @@ Frame Material: Mixed</description>
           <price_with_vat>89.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214147950.47-63</variationid>
+          <variationid>889214147950.4763</variationid>
           <manufacturersku>GA7189 56V</manufacturersku>
         </variation>
       </variations>
@@ -10431,7 +10428,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>100.00</price_with_vat>
           <size>4763</size>
           <quantity>27</quantity>
-          <variationid>889214175540.47-63</variationid>
+          <variationid>889214175540.4763</variationid>
           <manufacturersku>GA7192 56D</manufacturersku>
         </variation>
       </variations>
@@ -10460,7 +10457,7 @@ Frame Material: Metallic</description>
           <price_with_vat>90.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214127495.47-63</variationid>
+          <variationid>889214127495.4763</variationid>
           <manufacturersku>GA7117 08B</manufacturersku>
         </variation>
       </variations>
@@ -10489,7 +10486,7 @@ Frame Material: Mixed</description>
           <price_with_vat>89.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214107381.47-63</variationid>
+          <variationid>889214107381.4763</variationid>
           <manufacturersku>GA7121 55C</manufacturersku>
         </variation>
       </variations>
@@ -10518,7 +10515,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>89.00</price_with_vat>
           <size>4763</size>
           <quantity>11</quantity>
-          <variationid>889214175571.47-63</variationid>
+          <variationid>889214175571.4763</variationid>
           <manufacturersku>GA7191 55V</manufacturersku>
         </variation>
       </variations>
@@ -10547,7 +10544,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214147257.47-63</variationid>
+          <variationid>889214147257.4763</variationid>
           <manufacturersku>GA7186 55E</manufacturersku>
         </variation>
       </variations>
@@ -10576,7 +10573,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>89.00</price_with_vat>
           <size>4763</size>
           <quantity>13</quantity>
-          <variationid>889214175533.47-63</variationid>
+          <variationid>889214175533.4763</variationid>
           <manufacturersku>GA7192 55V</manufacturersku>
         </variation>
       </variations>
@@ -10605,7 +10602,7 @@ Frame Material: Metallic</description>
           <price_with_vat>37.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214127501.47-63</variationid>
+          <variationid>889214127501.4763</variationid>
           <manufacturersku>GA7117 10X</manufacturersku>
         </variation>
       </variations>
@@ -10634,7 +10631,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>87.00</price_with_vat>
           <size>4763</size>
           <quantity>24</quantity>
-          <variationid>889214147202.47-63</variationid>
+          <variationid>889214147202.4763</variationid>
           <manufacturersku>GA7185 55E</manufacturersku>
         </variation>
       </variations>
@@ -10663,7 +10660,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>39.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214107664.47-63</variationid>
+          <variationid>889214107664.4763</variationid>
           <manufacturersku>GA8073 56W</manufacturersku>
         </variation>
       </variations>
@@ -10692,7 +10689,7 @@ Frame Material: Metallic</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214151117.47-63</variationid>
+          <variationid>889214151117.4763</variationid>
           <manufacturersku>GA8074 32P</manufacturersku>
         </variation>
       </variations>
@@ -10718,7 +10715,7 @@ Frame Material: Metallic</description>
           <price_with_vat>42.00</price_with_vat>
           <size>4763</size>
           <quantity>198</quantity>
-          <variationid>716736039336.47-63</variationid>
+          <variationid>716736039336.4763</variationid>
           <manufacturersku>PLD 2061/S FLL/1A</manufacturersku>
         </variation>
       </variations>
@@ -10744,7 +10741,7 @@ Frame Material: Metallic</description>
           <price_with_vat>42.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>716736192024.47-63</variationid>
+          <variationid>716736192024.4763</variationid>
           <manufacturersku>PLD2060/S BSCEX</manufacturersku>
         </variation>
       </variations>
@@ -10770,7 +10767,7 @@ Frame Material: Metallic</description>
           <price_with_vat>37.00</price_with_vat>
           <size>4763</size>
           <quantity>6</quantity>
-          <variationid>716736235684.47-63</variationid>
+          <variationid>716736235684.4763</variationid>
           <manufacturersku>PLD 6109/S OY4/C3</manufacturersku>
         </variation>
       </variations>
@@ -10800,7 +10797,7 @@ Polarized</description>
           <price_with_vat>45.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>716736085333.47-63</variationid>
+          <variationid>716736085333.4763</variationid>
           <manufacturersku>4073/S 807WJ</manufacturersku>
         </variation>
       </variations>
@@ -10826,7 +10823,7 @@ Polarized</description>
           <price_with_vat>35.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>716736082905.47-63</variationid>
+          <variationid>716736082905.4763</variationid>
           <manufacturersku>PLD6056/S YYCLA</manufacturersku>
         </variation>
       </variations>
@@ -20631,7 +20628,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>109.00</price_with_vat>
           <size>4763</size>
           <quantity>48</quantity>
-          <variationid>716736694238.47-63</variationid>
+          <variationid>716736694238.4763</variationid>
           <manufacturersku>MOS125/S 0OX/06</manufacturersku>
         </variation>
       </variations>
@@ -20660,7 +20657,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>105.00</price_with_vat>
           <size>4763</size>
           <quantity>240</quantity>
-          <variationid>716736220178.47-63</variationid>
+          <variationid>716736220178.4763</variationid>
           <manufacturersku>MOS064/S 807/FQ</manufacturersku>
         </variation>
       </variations>
@@ -20882,7 +20879,7 @@ Frame Material: Metallic</description>
           <price_with_vat>73.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>4894327416172.47-63</variationid>
+          <variationid>4894327416172.4763</variationid>
           <manufacturersku>BE7010 401</manufacturersku>
         </variation>
       </variations>
@@ -20911,7 +20908,7 @@ Frame Material: Metallic</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>4894327416127.47-63</variationid>
+          <variationid>4894327416127.4763</variationid>
           <manufacturersku>BE7009 200</manufacturersku>
         </variation>
       </variations>
@@ -20940,7 +20937,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>49.00</price_with_vat>
           <size>4763</size>
           <quantity>20</quantity>
-          <variationid>4894327416301.47-63</variationid>
+          <variationid>4894327416301.4763</variationid>
           <manufacturersku>BE5014 115</manufacturersku>
         </variation>
       </variations>
@@ -20969,7 +20966,7 @@ Frame Material: Metallic</description>
           <price_with_vat>35.00</price_with_vat>
           <size>4763</size>
           <quantity>35</quantity>
-          <variationid>4894327416202.47-63</variationid>
+          <variationid>4894327416202.4763</variationid>
           <manufacturersku>BE7013 925</manufacturersku>
         </variation>
       </variations>
@@ -20998,7 +20995,7 @@ Frame Material: Metallic</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>19</quantity>
-          <variationid>4894327416103.47-63</variationid>
+          <variationid>4894327416103.4763</variationid>
           <manufacturersku>BE7008 800</manufacturersku>
         </variation>
       </variations>
@@ -21027,7 +21024,7 @@ Frame Material: Metallic</description>
           <price_with_vat>60.00</price_with_vat>
           <size>4763</size>
           <quantity>38</quantity>
-          <variationid>4894327416196.47-63</variationid>
+          <variationid>4894327416196.4763</variationid>
           <manufacturersku>BE7013 400</manufacturersku>
         </variation>
       </variations>
@@ -21056,7 +21053,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>4894327327126.47-63</variationid>
+          <variationid>4894327327126.4763</variationid>
           <manufacturersku>BE5013 001</manufacturersku>
         </variation>
       </variations>
@@ -21085,7 +21082,7 @@ Frame Material: Metallic</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>27</quantity>
-          <variationid>4894327416059.47-63</variationid>
+          <variationid>4894327416059.4763</variationid>
           <manufacturersku>BE7012 400</manufacturersku>
         </variation>
       </variations>
@@ -21114,7 +21111,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>49.00</price_with_vat>
           <size>4763</size>
           <quantity>27</quantity>
-          <variationid>4894327326914.47-63</variationid>
+          <variationid>4894327326914.4763</variationid>
           <manufacturersku>BE5011112</manufacturersku>
         </variation>
       </variations>
@@ -21143,7 +21140,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>32.00</price_with_vat>
           <size>4763</size>
           <quantity>47</quantity>
-          <variationid>4894327263776.47-63</variationid>
+          <variationid>4894327263776.4763</variationid>
           <manufacturersku>BE5009921</manufacturersku>
         </variation>
       </variations>
@@ -21172,7 +21169,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>4894327263844.47-63</variationid>
+          <variationid>4894327263844.4763</variationid>
           <manufacturersku>BE5013 921</manufacturersku>
         </variation>
       </variations>
@@ -22001,7 +21998,7 @@ Polarized</description>
           <price_with_vat>100.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214261809.47-63</variationid>
+          <variationid>889214261809.4763</variationid>
           <manufacturersku>TB9262D 16D</manufacturersku>
         </variation>
       </variations>
@@ -22030,7 +22027,7 @@ Frame Material: Mixed</description>
           <price_with_vat>100.50</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214261595.47-63</variationid>
+          <variationid>889214261595.4763</variationid>
           <manufacturersku>TB9262D 14D</manufacturersku>
         </variation>
       </variations>
@@ -22059,7 +22056,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214239914.47-63</variationid>
+          <variationid>889214239914.4763</variationid>
           <manufacturersku>TB9248D 01D</manufacturersku>
         </variation>
       </variations>
@@ -22088,7 +22085,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>38</quantity>
-          <variationid>889214211712.47-63</variationid>
+          <variationid>889214211712.4763</variationid>
           <manufacturersku>TB9237 20D</manufacturersku>
         </variation>
       </variations>
@@ -22118,7 +22115,7 @@ Polarized</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>9</quantity>
-          <variationid>889214108845.47-63</variationid>
+          <variationid>889214108845.4763</variationid>
           <manufacturersku>TB9204 20H</manufacturersku>
         </variation>
       </variations>
@@ -22147,7 +22144,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214212689.47-63</variationid>
+          <variationid>889214212689.4763</variationid>
           <manufacturersku>TB9236 20D</manufacturersku>
         </variation>
       </variations>
@@ -22176,7 +22173,7 @@ Frame Material: Mixed</description>
           <price_with_vat>86.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214072023.47-63</variationid>
+          <variationid>889214072023.4763</variationid>
           <manufacturersku>TB7177 02N</manufacturersku>
         </variation>
       </variations>
@@ -22205,7 +22202,7 @@ Frame Material: Metallic</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214071927.47-63</variationid>
+          <variationid>889214071927.4763</variationid>
           <manufacturersku>TB7175 09C</manufacturersku>
         </variation>
       </variations>
@@ -22234,7 +22231,7 @@ Frame Material: Metallic</description>
           <price_with_vat>44.50</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214071903.47-63</variationid>
+          <variationid>889214071903.4763</variationid>
           <manufacturersku>TB7175 01X</manufacturersku>
         </variation>
       </variations>
@@ -22263,7 +22260,7 @@ Frame Material: Mixed</description>
           <price_with_vat>40.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>8029224817081.47-63</variationid>
+          <variationid>8029224817081.4763</variationid>
           <manufacturersku>RY590 S02C</manufacturersku>
         </variation>
       </variations>
@@ -22292,7 +22289,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>144.00</price_with_vat>
           <size>4763</size>
           <quantity>83</quantity>
-          <variationid>716736427607.47-63</variationid>
+          <variationid>716736427607.4763</variationid>
           <manufacturersku>MIS 0067/S 1NR/70</manufacturersku>
         </variation>
       </variations>
@@ -22321,7 +22318,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>105.00</price_with_vat>
           <size>4763</size>
           <quantity>129</quantity>
-          <variationid>716736253992.47-63</variationid>
+          <variationid>716736253992.4763</variationid>
           <manufacturersku>MIS 0008/S HR3 HA</manufacturersku>
         </variation>
       </variations>
@@ -22350,7 +22347,7 @@ Frame Material: Metallic</description>
           <price_with_vat>120.00</price_with_vat>
           <size>4763</size>
           <quantity>52</quantity>
-          <variationid>664689955299.47-63</variationid>
+          <variationid>664689955299.4763</variationid>
           <manufacturersku>JC839S 05B</manufacturersku>
         </variation>
       </variations>
@@ -22379,7 +22376,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>80.00</price_with_vat>
           <size>4763</size>
           <quantity>168</quantity>
-          <variationid>664689955176.47-63</variationid>
+          <variationid>664689955176.4763</variationid>
           <manufacturersku>JC837S 52V</manufacturersku>
         </variation>
       </variations>
@@ -22408,7 +22405,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>84.00</price_with_vat>
           <size>4763</size>
           <quantity>60</quantity>
-          <variationid>664689955169.47-63</variationid>
+          <variationid>664689955169.4763</variationid>
           <manufacturersku>JC837S 01A</manufacturersku>
         </variation>
       </variations>
@@ -22437,7 +22434,7 @@ Frame Material: Metallic</description>
           <price_with_vat>67.00</price_with_vat>
           <size>4763</size>
           <quantity>203</quantity>
-          <variationid>889214065353.47-63</variationid>
+          <variationid>889214065353.4763</variationid>
           <manufacturersku>GU7636 32C</manufacturersku>
         </variation>
       </variations>
@@ -22466,7 +22463,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>115.00</price_with_vat>
           <size>4763</size>
           <quantity>563</quantity>
-          <variationid>889214203861.47-63</variationid>
+          <variationid>889214203861.4763</variationid>
           <manufacturersku>GU7755 52F</manufacturersku>
         </variation>
       </variations>
@@ -22495,7 +22492,7 @@ Frame Material: Metallic</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>130</quantity>
-          <variationid>889214217349.47-63</variationid>
+          <variationid>889214217349.4763</variationid>
           <manufacturersku>GU00014/08C</manufacturersku>
         </variation>
       </variations>
@@ -22524,7 +22521,7 @@ Frame Material: Mixed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214189288.47-63</variationid>
+          <variationid>889214189288.4763</variationid>
           <manufacturersku>GU7700F 57Z</manufacturersku>
         </variation>
       </variations>
@@ -22553,7 +22550,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>90.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>0664689793051.47-63</variationid>
+          <variationid>0664689793051.4763</variationid>
           <manufacturersku>GU7594 52F</manufacturersku>
         </variation>
       </variations>
@@ -22582,7 +22579,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>120.00</price_with_vat>
           <size>4763</size>
           <quantity>645</quantity>
-          <variationid>889214156327.47-63</variationid>
+          <variationid>889214156327.4763</variationid>
           <manufacturersku>GU7684 05B</manufacturersku>
         </variation>
       </variations>
@@ -22611,7 +22608,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214197108.47-63</variationid>
+          <variationid>889214197108.4763</variationid>
           <manufacturersku>GU8225 95N</manufacturersku>
         </variation>
       </variations>
@@ -22640,7 +22637,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>100.00</price_with_vat>
           <size>4763</size>
           <quantity>403</quantity>
-          <variationid>889214197115.47-63</variationid>
+          <variationid>889214197115.4763</variationid>
           <manufacturersku>GU8225 98E</manufacturersku>
         </variation>
       </variations>
@@ -22669,7 +22666,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214282088.47-63</variationid>
+          <variationid>889214282088.4763</variationid>
           <manufacturersku>GU8231 52N</manufacturersku>
         </variation>
       </variations>
@@ -22698,7 +22695,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>11</quantity>
-          <variationid>889214282033.47-63</variationid>
+          <variationid>889214282033.4763</variationid>
           <manufacturersku>GU8229 57E</manufacturersku>
         </variation>
       </variations>
@@ -22724,7 +22721,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>687</quantity>
-          <variationid>889214197139.47-63</variationid>
+          <variationid>889214197139.4763</variationid>
           <manufacturersku>GU8226 26Y</manufacturersku>
         </variation>
       </variations>
@@ -22753,7 +22750,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>67.00</price_with_vat>
           <size>4763</size>
           <quantity>67</quantity>
-          <variationid>889214197009.47-63</variationid>
+          <variationid>889214197009.4763</variationid>
           <manufacturersku>GU8224 20A</manufacturersku>
         </variation>
       </variations>
@@ -22782,7 +22779,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>89</quantity>
-          <variationid>889214286277.47-63</variationid>
+          <variationid>889214286277.4763</variationid>
           <manufacturersku>GU7811 72B</manufacturersku>
         </variation>
       </variations>
@@ -22811,7 +22808,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214259899.47-63</variationid>
+          <variationid>889214259899.4763</variationid>
           <manufacturersku>GU7793D 71S</manufacturersku>
         </variation>
       </variations>
@@ -22840,7 +22837,7 @@ Frame Material: Metallic</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>87</quantity>
-          <variationid>889214229397.47-63</variationid>
+          <variationid>889214229397.4763</variationid>
           <manufacturersku>GU7739 28G</manufacturersku>
         </variation>
       </variations>
@@ -22869,7 +22866,7 @@ Frame Material: Metallic</description>
           <price_with_vat>87.00</price_with_vat>
           <size>4763</size>
           <quantity>183</quantity>
-          <variationid>889214229151.47-63</variationid>
+          <variationid>889214229151.4763</variationid>
           <manufacturersku>GU7733/S 32W</manufacturersku>
         </variation>
       </variations>
@@ -22898,7 +22895,7 @@ Frame Material: Metallic</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>752</quantity>
-          <variationid>889214113535.47-63</variationid>
+          <variationid>889214113535.4763</variationid>
           <manufacturersku>GU7640 33F</manufacturersku>
         </variation>
       </variations>
@@ -22924,7 +22921,7 @@ Frame Material: Metallic</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>664689990160.47-63</variationid>
+          <variationid>664689990160.4763</variationid>
           <manufacturersku>GU7580D 69Z</manufacturersku>
         </variation>
       </variations>
@@ -22950,7 +22947,7 @@ Frame Material: Metallic</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>10</quantity>
-          <variationid>664689989966.47-63</variationid>
+          <variationid>664689989966.4763</variationid>
           <manufacturersku>GU7577D 03C</manufacturersku>
         </variation>
       </variations>
@@ -22976,7 +22973,7 @@ Frame Material: Metallic</description>
           <price_with_vat>68.50</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>664689990153.47-63</variationid>
+          <variationid>664689990153.4763</variationid>
           <manufacturersku>GU7580D 01C</manufacturersku>
         </variation>
       </variations>
@@ -23002,7 +22999,7 @@ Frame Material: Metallic</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>664689989980.47-63</variationid>
+          <variationid>664689989980.4763</variationid>
           <manufacturersku>GU7577D 05Z</manufacturersku>
         </variation>
       </variations>
@@ -23031,7 +23028,7 @@ Frame Material: Metallic</description>
           <price_with_vat>54.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>664689988037.47-63</variationid>
+          <variationid>664689988037.4763</variationid>
           <manufacturersku>GU7575S 10E</manufacturersku>
         </variation>
       </variations>
@@ -23060,7 +23057,7 @@ Frame Material: Metallic</description>
           <price_with_vat>45.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>664689792689.47-63</variationid>
+          <variationid>664689792689.4763</variationid>
           <manufacturersku>GU7440 78C</manufacturersku>
         </variation>
       </variations>
@@ -23089,7 +23086,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>44.00</price_with_vat>
           <size>4763</size>
           <quantity>6</quantity>
-          <variationid>664689792511.47-63</variationid>
+          <variationid>664689792511.4763</variationid>
           <manufacturersku>GU7434 52C</manufacturersku>
         </variation>
       </variations>
@@ -23118,7 +23115,7 @@ Frame Material: Metallic</description>
           <price_with_vat>45.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214159984.47-63</variationid>
+          <variationid>889214159984.4763</variationid>
           <manufacturersku>GU6982 39C</manufacturersku>
         </variation>
       </variations>
@@ -23147,7 +23144,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689750917.47-63</variationid>
+          <variationid>664689750917.4763</variationid>
           <manufacturersku>GU7413 32Q</manufacturersku>
         </variation>
       </variations>
@@ -23176,7 +23173,7 @@ Frame Material: Metallic</description>
           <price_with_vat>54.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214160010.47-63</variationid>
+          <variationid>889214160010.4763</variationid>
           <manufacturersku>GU6982 93Q</manufacturersku>
         </variation>
       </variations>
@@ -23205,7 +23202,7 @@ Frame Material: Metallic</description>
           <price_with_vat>47.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214160003.47-63</variationid>
+          <variationid>889214160003.4763</variationid>
           <manufacturersku>GU6982 90W</manufacturersku>
         </variation>
       </variations>
@@ -23234,7 +23231,7 @@ Frame Material: Mixed</description>
           <price_with_vat>56.90</price_with_vat>
           <size>4763</size>
           <quantity>119</quantity>
-          <variationid>889214159922.47-63</variationid>
+          <variationid>889214159922.4763</variationid>
           <manufacturersku>GU6981 39C</manufacturersku>
         </variation>
       </variations>
@@ -23263,7 +23260,7 @@ Frame Material: Mixed</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>38</quantity>
-          <variationid>889214159939.47-63</variationid>
+          <variationid>889214159939.4763</variationid>
           <manufacturersku>GU6981 72Z</manufacturersku>
         </variation>
       </variations>
@@ -23292,7 +23289,7 @@ Frame Material: Mixed</description>
           <price_with_vat>84.00</price_with_vat>
           <size>4763</size>
           <quantity>26</quantity>
-          <variationid>889214159953.47-63</variationid>
+          <variationid>889214159953.4763</variationid>
           <manufacturersku>GU6981 93Q</manufacturersku>
         </variation>
       </variations>
@@ -23321,7 +23318,7 @@ Frame Material: Mixed</description>
           <price_with_vat>50.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214159946.47-63</variationid>
+          <variationid>889214159946.4763</variationid>
           <manufacturersku>GU6981 90W</manufacturersku>
         </variation>
       </variations>
@@ -23350,7 +23347,7 @@ Frame Material: Metallic</description>
           <price_with_vat>85.00</price_with_vat>
           <size>4763</size>
           <quantity>255</quantity>
-          <variationid>889214305800.47-63</variationid>
+          <variationid>889214305800.4763</variationid>
           <manufacturersku>GU 5208 08B</manufacturersku>
         </variation>
       </variations>
@@ -23379,7 +23376,7 @@ Frame Material: Metallic</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>85</quantity>
-          <variationid>889214305824.47-63</variationid>
+          <variationid>889214305824.4763</variationid>
           <manufacturersku>GU5208 28B</manufacturersku>
         </variation>
       </variations>
@@ -23405,7 +23402,7 @@ Frame Material: Metallic</description>
           <price_with_vat>56.00</price_with_vat>
           <size>4763</size>
           <quantity>4</quantity>
-          <variationid>889214175069.47-63</variationid>
+          <variationid>889214175069.4763</variationid>
           <manufacturersku>GF0364 28U</manufacturersku>
         </variation>
       </variations>
@@ -23431,7 +23428,7 @@ Frame Material: Metallic</description>
           <price_with_vat>58.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214175205.47-63</variationid>
+          <variationid>889214175205.4763</variationid>
           <manufacturersku>GF0362 01B</manufacturersku>
         </variation>
       </variations>
@@ -23457,7 +23454,7 @@ Frame Material: Metallic</description>
           <price_with_vat>63.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214076977.47-63</variationid>
+          <variationid>889214076977.4763</variationid>
           <manufacturersku>GF0344 28U</manufacturersku>
         </variation>
       </variations>
@@ -23486,7 +23483,7 @@ Frame Material: Mixed</description>
           <price_with_vat>52.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214077127.47-63</variationid>
+          <variationid>889214077127.4763</variationid>
           <manufacturersku>GF0352 52F</manufacturersku>
         </variation>
       </variations>
@@ -23515,7 +23512,7 @@ Frame Material: Mixed</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689986163.47-63</variationid>
+          <variationid>664689986163.4763</variationid>
           <manufacturersku>GF0336 32F</manufacturersku>
         </variation>
       </variations>
@@ -23544,7 +23541,7 @@ Frame Material: Metallic</description>
           <price_with_vat>72.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214316660.47-63</variationid>
+          <variationid>889214316660.4763</variationid>
           <manufacturersku>GF5087 08E</manufacturersku>
         </variation>
       </variations>
@@ -23573,7 +23570,7 @@ Frame Material: Metallic</description>
           <price_with_vat>76.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214290793.47-63</variationid>
+          <variationid>889214290793.4763</variationid>
           <manufacturersku>GF6140 32W</manufacturersku>
         </variation>
       </variations>
@@ -23602,7 +23599,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>69.00</price_with_vat>
           <size>4763</size>
           <quantity>36</quantity>
-          <variationid>889214044938.47-63</variationid>
+          <variationid>889214044938.4763</variationid>
           <manufacturersku>GU761274S</manufacturersku>
         </variation>
       </variations>
@@ -23631,7 +23628,7 @@ Frame Material: Metallic</description>
           <price_with_vat>74.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214290779.47-63</variationid>
+          <variationid>889214290779.4763</variationid>
           <manufacturersku>GF6140 28T</manufacturersku>
         </variation>
       </variations>
@@ -23660,7 +23657,7 @@ Frame Material: Metallic</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214233721.47-63</variationid>
+          <variationid>889214233721.4763</variationid>
           <manufacturersku>GF5076 01X</manufacturersku>
         </variation>
       </variations>
@@ -23689,7 +23686,7 @@ Frame Material: Mixed</description>
           <price_with_vat>55.00</price_with_vat>
           <size>4763</size>
           <quantity>48</quantity>
-          <variationid>889214171177.47-63</variationid>
+          <variationid>889214171177.4763</variationid>
           <manufacturersku>GF6124 32B</manufacturersku>
         </variation>
       </variations>
@@ -23718,7 +23715,7 @@ Frame Material: Metallic</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214175090.47-63</variationid>
+          <variationid>889214175090.4763</variationid>
           <manufacturersku>GF0212 10B</manufacturersku>
         </variation>
       </variations>
@@ -23747,7 +23744,7 @@ Frame Material: Metallic</description>
           <price_with_vat>81.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214192110.47-63</variationid>
+          <variationid>889214192110.4763</variationid>
           <manufacturersku>GF0215 01B</manufacturersku>
         </variation>
       </variations>
@@ -23776,7 +23773,7 @@ Frame Material: Metallic</description>
           <price_with_vat>42.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214194367.47-63</variationid>
+          <variationid>889214194367.4763</variationid>
           <manufacturersku>GF0207 10B</manufacturersku>
         </variation>
       </variations>
@@ -23805,7 +23802,7 @@ Frame Material: Metallic</description>
           <price_with_vat>49.00</price_with_vat>
           <size>4763</size>
           <quantity>47</quantity>
-          <variationid>889214209733.47-63</variationid>
+          <variationid>889214209733.4763</variationid>
           <manufacturersku>GF0205 08N</manufacturersku>
         </variation>
       </variations>
@@ -23834,7 +23831,7 @@ Frame Material: Metallic</description>
           <price_with_vat>45.00</price_with_vat>
           <size>4763</size>
           <quantity>47</quantity>
-          <variationid>889214209757.47-63</variationid>
+          <variationid>889214209757.4763</variationid>
           <manufacturersku>GF0205 32E</manufacturersku>
         </variation>
       </variations>
@@ -23863,7 +23860,7 @@ Frame Material: Metallic</description>
           <price_with_vat>52.00</price_with_vat>
           <size>4763</size>
           <quantity>49</quantity>
-          <variationid>889214209740.47-63</variationid>
+          <variationid>889214209740.4763</variationid>
           <manufacturersku>GF0205 10B</manufacturersku>
         </variation>
       </variations>
@@ -23889,7 +23886,7 @@ Frame Material: Metallic</description>
           <price_with_vat>52.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>664689904624.47-63</variationid>
+          <variationid>664689904624.4763</variationid>
           <manufacturersku>GF0173 90X</manufacturersku>
         </variation>
       </variations>
@@ -23918,7 +23915,7 @@ Frame Material: Metallic</description>
           <price_with_vat>53.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214175076.47-63</variationid>
+          <variationid>889214175076.4763</variationid>
           <manufacturersku>GF0364 32F</manufacturersku>
         </variation>
       </variations>
@@ -23947,7 +23944,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>65.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214175113.47-63</variationid>
+          <variationid>889214175113.4763</variationid>
           <manufacturersku>GF0206 01A</manufacturersku>
         </variation>
       </variations>
@@ -23976,7 +23973,7 @@ Frame Material: Metallic</description>
           <price_with_vat>53.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>664689804702.47-63</variationid>
+          <variationid>664689804702.4763</variationid>
           <manufacturersku>GF0287 06B</manufacturersku>
         </variation>
       </variations>
@@ -24005,7 +24002,7 @@ Frame Material: HornRimmed</description>
           <price_with_vat>53.00</price_with_vat>
           <size>4763</size>
           <quantity>46</quantity>
-          <variationid>889214192240.47-63</variationid>
+          <variationid>889214192240.4763</variationid>
           <manufacturersku>GF0217 02A</manufacturersku>
         </variation>
       </variations>
@@ -24034,7 +24031,7 @@ Frame Material: Metallic</description>
           <price_with_vat>42.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214192202.47-63</variationid>
+          <variationid>889214192202.4763</variationid>
           <manufacturersku>GF0367 32T</manufacturersku>
         </variation>
       </variations>
@@ -24063,7 +24060,7 @@ Frame Material: Metallic</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>889214192127.47-63</variationid>
+          <variationid>889214192127.4763</variationid>
           <manufacturersku>GF0215 08C</manufacturersku>
         </variation>
       </variations>
@@ -48864,7 +48861,7 @@ Total Ports: 2</description>
           <price_with_vat>545.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214059451.47-63</variationid>
+          <variationid>889214059451.4763</variationid>
           <manufacturersku>SK0240P 16C</manufacturersku>
         </variation>
       </variations>
@@ -48889,7 +48886,7 @@ Total Ports: 2</description>
           <price_with_vat>165.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>4051854353053.47-63</variationid>
+          <variationid>4051854353053.4763</variationid>
           <manufacturersku>37615 3100</manufacturersku>
         </variation>
       </variations>
@@ -48914,7 +48911,7 @@ Total Ports: 2</description>
           <price_with_vat>125.00</price_with_vat>
           <size>4763</size>
           <quantity>19</quantity>
-          <variationid>889214204875.47-63</variationid>
+          <variationid>889214204875.4763</variationid>
           <manufacturersku>GM0812 10B</manufacturersku>
         </variation>
       </variations>
@@ -48939,7 +48936,7 @@ Total Ports: 2</description>
           <price_with_vat>141.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>4894327440696.47-63</variationid>
+          <variationid>4894327440696.4763</variationid>
           <manufacturersku>SS7009 100</manufacturersku>
         </variation>
       </variations>
@@ -48975,7 +48972,7 @@ Total Ports: 2</description>
           <price_with_vat>150.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214230492.47-63</variationid>
+          <variationid>889214230492.4763</variationid>
           <manufacturersku>BW0012 02C</manufacturersku>
         </variation>
       </variations>
@@ -49012,7 +49009,7 @@ Total Ports: 2</description>
           <price_with_vat>60.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>889214343758.47-63</variationid>
+          <variationid>889214343758.4763</variationid>
           <manufacturersku>HD0968X 09H</manufacturersku>
         </variation>
       </variations>
@@ -49037,7 +49034,7 @@ Total Ports: 2</description>
           <price_with_vat>79.00</price_with_vat>
           <size>4763</size>
           <quantity>2</quantity>
-          <variationid>889214312358.47-63</variationid>
+          <variationid>889214312358.4763</variationid>
           <manufacturersku>HD0963X 02D</manufacturersku>
         </variation>
       </variations>
@@ -49062,7 +49059,7 @@ Total Ports: 2</description>
           <price_with_vat>50.00</price_with_vat>
           <size>4763</size>
           <quantity>3</quantity>
-          <variationid>664689822898.47-63</variationid>
+          <variationid>664689822898.4763</variationid>
           <manufacturersku>HD0302X 45E</manufacturersku>
         </variation>
       </variations>
@@ -49111,7 +49108,7 @@ Total Ports: 2</description>
           <price_with_vat>170.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214228642.47-63</variationid>
+          <variationid>889214228642.4763</variationid>
           <manufacturersku>TO0292 01B</manufacturersku>
         </variation>
       </variations>
@@ -49136,7 +49133,7 @@ Total Ports: 2</description>
           <price_with_vat>232.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>889214102850.47-63</variationid>
+          <variationid>889214102850.4763</variationid>
           <manufacturersku>TO0279 01C</manufacturersku>
         </variation>
       </variations>
@@ -49161,7 +49158,7 @@ Total Ports: 2</description>
           <price_with_vat>90.00</price_with_vat>
           <size>4763</size>
           <quantity>1</quantity>
-          <variationid>889214107466.47-63</variationid>
+          <variationid>889214107466.4763</variationid>
           <manufacturersku>GA8072 55B</manufacturersku>
         </variation>
       </variations>
@@ -49186,7 +49183,7 @@ Total Ports: 2</description>
           <price_with_vat>95.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>664689880607.47-63</variationid>
+          <variationid>664689880607.4763</variationid>
           <manufacturersku>GA7085 52N</manufacturersku>
         </variation>
       </variations>
@@ -49211,7 +49208,7 @@ Total Ports: 2</description>
           <price_with_vat>47.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>0762753991928.47-63</variationid>
+          <variationid>0762753991928.4763</variationid>
           <manufacturersku>PLD 6031/S 003/AI</manufacturersku>
         </variation>
       </variations>
@@ -49236,7 +49233,7 @@ Total Ports: 2</description>
           <price_with_vat>50.00</price_with_vat>
           <size>4763</size>
           <quantity>305</quantity>
-          <variationid>716736247953.47-63</variationid>
+          <variationid>716736247953.4763</variationid>
           <manufacturersku>PLD 6113/S 92YDL</manufacturersku>
         </variation>
       </variations>
@@ -49261,7 +49258,7 @@ Total Ports: 2</description>
           <price_with_vat>40.00</price_with_vat>
           <size>4763</size>
           <quantity>24</quantity>
-          <variationid>716736241470.47-63</variationid>
+          <variationid>716736241470.4763</variationid>
           <manufacturersku>PLD 7033/S 8HC/5Z</manufacturersku>
         </variation>
       </variations>
@@ -49286,7 +49283,7 @@ Total Ports: 2</description>
           <price_with_vat>40.00</price_with_vat>
           <size>4763</size>
           <quantity>18</quantity>
-          <variationid>716736243795.47-63</variationid>
+          <variationid>716736243795.4763</variationid>
           <manufacturersku>PLD 4090/S EYR/0F</manufacturersku>
         </variation>
       </variations>
@@ -49311,7 +49308,7 @@ Total Ports: 2</description>
           <price_with_vat>48.00</price_with_vat>
           <size>4763</size>
           <quantity>75</quantity>
-          <variationid>716736235813.47-63</variationid>
+          <variationid>716736235813.4763</variationid>
           <manufacturersku>PLD 6111/S 7ZJUC</manufacturersku>
         </variation>
       </variations>
@@ -49336,7 +49333,7 @@ Total Ports: 2</description>
           <price_with_vat>35.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>716736138527.47-63</variationid>
+          <variationid>716736138527.4763</variationid>
           <manufacturersku>PLD 2066/S N9P/EX</manufacturersku>
         </variation>
       </variations>
@@ -49361,7 +49358,7 @@ Total Ports: 2</description>
           <price_with_vat>53.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>716736191331.47-63</variationid>
+          <variationid>716736191331.4763</variationid>
           <manufacturersku>PLD 6092/S 807/M9</manufacturersku>
         </variation>
       </variations>
@@ -49638,7 +49635,7 @@ Total Ports: 2</description>
           <price_with_vat>60.00</price_with_vat>
           <size>4763</size>
           <quantity>50</quantity>
-          <variationid>8029224797666.47-63</variationid>
+          <variationid>8029224797666.4763</variationid>
           <manufacturersku>RY598 CS01</manufacturersku>
         </variation>
       </variations>
@@ -49663,7 +49660,7 @@ Total Ports: 2</description>
           <price_with_vat>100.00</price_with_vat>
           <size>4763</size>
           <quantity>0</quantity>
-          <variationid>716736258829.47-63</variationid>
+          <variationid>716736258829.4763</variationid>
           <manufacturersku>MIS 0002/S S6F 08</manufacturersku>
         </variation>
       </variations>
@@ -49688,7 +49685,7 @@ Total Ports: 2</description>
           <price_with_vat>80.00</price_with_vat>
           <size>4763</size>
           <quantity>99</quantity>
-          <variationid>8029224794184.47-63</variationid>
+          <variationid>8029224794184.4763</variationid>
           <manufacturersku>MI 872 S02S</manufacturersku>
         </variation>
       </variations>
@@ -49713,7 +49710,7 @@ Total Ports: 2</description>
           <price_with_vat>52.00</price_with_vat>
           <size>4763</size>
           <quantity>47</quantity>
-          <variationid>664689907892.47-63</variationid>
+          <variationid>664689907892.4763</variationid>
           <manufacturersku>JC823S 74T</manufacturersku>
         </variation>
       </variations>
@@ -49738,7 +49735,7 @@ Total Ports: 2</description>
           <price_with_vat>68.00</price_with_vat>
           <size>4763</size>
           <quantity>328</quantity>
-          <variationid>664689907762.47-63</variationid>
+          <variationid>664689907762.4763</variationid>
           <manufacturersku>JC820S 54W</manufacturersku>
         </variation>
       </variations>
@@ -49763,7 +49760,7 @@ Total Ports: 2</description>
           <price_with_vat>88.00</price_with_vat>
           <size>4763</size>
           <quantity>15</quantity>
-          <variationid>889214148452.47-63</variationid>
+          <variationid>889214148452.4763</variationid>
           <manufacturersku>GU7688 81Z</manufacturersku>
         </variation>
       </variations>
@@ -49788,7 +49785,7 @@ Total Ports: 2</description>
           <price_with_vat>75.00</price_with_vat>
           <size>4763</size>
           <quantity>1147</quantity>
-          <variationid>889214226051.47-63</variationid>
+          <variationid>889214226051.4763</variationid>
           <manufacturersku>GU7728 52G</manufacturersku>
         </variation>
       </variations>
@@ -49813,7 +49810,7 @@ Total Ports: 2</description>
           <price_with_vat>70.00</price_with_vat>
           <size>4763</size>
           <quantity>40</quantity>
-          <variationid>889214256607.47-63</variationid>
+          <variationid>889214256607.4763</variationid>
           <manufacturersku>GU7778 83Z</manufacturersku>
         </variation>
       </variations>
@@ -49838,7 +49835,7 @@ Total Ports: 2</description>
           <price_with_vat>73.00</price_with_vat>
           <size>4763</size>
           <quantity>7</quantity>
-          <variationid>889214045812.47-63</variationid>
+          <variationid>889214045812.4763</variationid>
           <manufacturersku>GU3046 81Z</manufacturersku>
         </variation>
       </variations>
