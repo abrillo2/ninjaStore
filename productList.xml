@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-05 11:21</created_at>
+  <created_at>2023-06-06 08:21</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -395,9 +395,9 @@ Bracelet Length: 18cm</description>
       <ean>7613272456302</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885951/CalvinKleinRoloimeMetallikoMpraseleseAsimichroma1681233.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>1</quantity>
       <distributor>WWT</distributor>
-      <disPrice>126.95</disPrice>
+      <disPrice>107.89</disPrice>
     </product>
     <product>
       <id>4528721</id>
@@ -487,9 +487,9 @@ Case Shape: Round</description>
       <ean>7613272264440</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372389/TommyHilfigerDeckerRoloiCHronografosMpatariasmeKaoutsoukLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>1</quantity>
       <distributor>WWT</distributor>
-      <disPrice>74.08</disPrice>
+      <disPrice>62.65</disPrice>
     </product>
     <product>
       <id>4529762</id>
@@ -1370,8 +1370,8 @@ with Stones</description>
       <ean>7613272457293</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885906/CalvinKleinMeshRoloimeMetallikoMpraseleseMayrochroma25200084.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
-      <distributor>WWT</distributor>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
       <disPrice>120.28</disPrice>
     </product>
     <product>
@@ -1700,7 +1700,7 @@ Case Shape: Round</description>
       <ean>7613272456630</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885981/CalvinKleinRoloimeMetallikoMpraseleseAsimichroma1681237.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>1</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Calvin Klein. Το silver round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 35mm
@@ -1710,7 +1710,7 @@ Strap Colour: Silver
 Dial Colour: Silver
 Case Shape: Round</description>
       <distributor>WWT</distributor>
-      <disPrice>113.62</disPrice>
+      <disPrice>95.24</disPrice>
     </product>
     <product>
       <id>4527113</id>
@@ -5427,7 +5427,7 @@ Case Shape: Round</description>
       <ean>7613272293709</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369338/TommyHilfigerRoloiLandonCHronografosmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>114</quantity>
+      <quantity>111</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -7353,7 +7353,7 @@ Case Shape: Round</description>
       <ean>7612635130538</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153879693/CalvinKleinCompletionSaphireRoloiMpatariasmeDermatinoLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Calvin Klein, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -7366,7 +7366,7 @@ Case Shape: Round</description>
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
       <distributor>WWT</distributor>
-      <disPrice>106.23</disPrice>
+      <disPrice>106.22</disPrice>
     </product>
     <product>
       <id>4546472</id>
@@ -10817,7 +10817,7 @@ with Stones</description>
       <ean>7613272246842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372898/TommyHilfigerMultifunctionKaneRoloiCHronografosMpatariasmeDermatino.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <distributor>WWT</distributor>
       <disPrice>62.65</disPrice>
     </product>
@@ -14466,7 +14466,7 @@ Case Shape: Round</description>
       <ean>7613272310659</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369356/TommyHilfigerRoloiChaseCHronografosmeDermatinoLourakiseMplechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>73</quantity>
+      <quantity>71</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε blue χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -14923,7 +14923,7 @@ with Stones</description>
       <ean>4549526253317</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153924345/CasioLTPV007SG9B.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Casio. Το gold rectangle καντράν μικρού μεγέθους, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 30mm
@@ -15383,7 +15383,7 @@ Case Shape: Round</description>
       <ean>7613272293716</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154367666/TommyHilfigerLandonRoloiCHronografosMpatariasmeDermatinoLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>127</quantity>
+      <quantity>124</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -16937,7 +16937,7 @@ Case Shape: Round</description>
       <ean>8053672732788</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154743584/RayBanClubroundGyaliaIlioumeMovSkeletokaiPrasinoKathreftiFako.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>19</quantity>
+      <quantity>18</quantity>
       <size>4763</size>
       <variations>
         <variation>
@@ -16946,7 +16946,7 @@ Case Shape: Round</description>
           <ean>8053672732788</ean>
           <price_with_vat>143</price_with_vat>
           <size>4763</size>
-          <quantity>19</quantity>
+          <quantity>18</quantity>
           <variationid>8053672732788.4763</variationid>
           <manufacturersku>RB4246 1221/C3</manufacturersku>
         </variation>
@@ -18252,7 +18252,7 @@ with Stones</description>
       <ean>7613272249904</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372396/TommyHilfigerRoloiBriggsCHronografosmeMetallikoMpraseleseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>75</quantity>
+      <quantity>72</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -21195,7 +21195,7 @@ Case Shape: Round</description>
       <ean>656086091779</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153886411/NauticaPacificBeachNAPPBP904SilverBlack.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Nautica, μεγάλου μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -21206,7 +21206,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Silver
 • Χρώμα Κάσας: Multicolour
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>44.61</disPrice>
     </product>
     <product>
@@ -30588,7 +30588,7 @@ Type of Stone: Zircon</description>
       <ean>7613272357975</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372899/TommyHilfigerProjectZRoloimeMetallikoMpraseleseAsimichroma1782163.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>64</quantity>
+      <quantity>25</quantity>
       <distributor>WWT</distributor>
       <disPrice>48.65</disPrice>
     </product>
@@ -37215,7 +37215,7 @@ Case Shape: Round</description>
       <ean>7612901703039</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154282358/HipHopSpringSummerRoloimeKaoutsoukLourakiseMplechromaHWU0084.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το gray round καντράν, με το Rubber σε blue χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
