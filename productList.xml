@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-06 09:18</created_at>
+  <created_at>2023-06-06 09:19</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -408,7 +408,7 @@ Length: 1m</description>
       <ean>2010000113646</ean>
       <link><![CDATA[https://www.ninjaStore/2010000113646]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>72</quantity>
+      <quantity>66</quantity>
       <distributor>XTG</distributor>
       <disPrice>130.00 </disPrice>
     </product>
@@ -976,7 +976,7 @@ Length: 1m</description>
       <ean>2010000000878</ean>
       <link><![CDATA[https://www.ninjaStore/2010000000878]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>24</quantity>
+      <quantity>16</quantity>
       <distributor>XTG</distributor>
       <disPrice>106.00 </disPrice>
     </product>
@@ -15570,7 +15570,6 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15629,7 +15628,6 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20369,7 +20367,7 @@ Necklace Length: 46cm</description>
       <ean>4064092070392</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156603/FossilGen6StainlessSteel44mmSmartwatchmePalmografoGri.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>20</quantity>
+      <quantity>19</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022573/20220922121134_736482e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022571/20220922121134_387e963a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/065022/65022569/20220922121134_6d92d87d.jpeg]]></additional_imageurl>
@@ -23270,7 +23268,7 @@ with Stones</description>
       <ean>7688200301085</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154738054/FrederiqueConstantClassicFC292MS5B6.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Frederique Constant, μεσαίου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -23281,7 +23279,7 @@ with Stones</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>540.31</disPrice>
     </product>
     <product>
@@ -24140,8 +24138,8 @@ Case Shape: Round</description>
       <ean>8018225033842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876777/CitizenRoloiEcoDrivemeYfasmatinoLourakiseMpezchromaBM755010E.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
-      <distributor>WWT</distributor>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
       <disPrice>95.16</disPrice>
     </product>
     <product>
@@ -26862,10 +26860,10 @@ Case Shape: Round</description>
       <ean>4064092161212</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672064/EmporioArmaniAndrikoVrachioliAlysidaapoAtsaliEGS2938040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>3</quantity>
       <description>Βραχιόλι της εταιρείας Emporio Armani.</description>
       <distributor>WWT</distributor>
-      <disPrice>79.22</disPrice>
+      <disPrice>81.84</disPrice>
     </product>
     <product>
       <id>4556517</id>
@@ -26893,10 +26891,10 @@ Case Shape: Round</description>
       <ean>4064092130461</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672060/EmporioArmaniAndrikoKolieapoAtsaliEGS2909040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>1</quantity>
       <description>της εταιρείας Emporio Armani από Steel.</description>
       <distributor>WWT</distributor>
-      <disPrice>79.22</disPrice>
+      <disPrice>81.84</disPrice>
     </product>
     <product>
       <id>4556497</id>
@@ -32140,7 +32138,7 @@ Case Shape: Round</description>
       <ean>8018225033927</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876322/CitizenRoloiCHronografosEcoDrivemeKaoutsoukLourakiseMplechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Rubber σε blue χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -32152,7 +32150,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Blue</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>106.77</disPrice>
     </product>
     <product>
@@ -33621,7 +33619,7 @@ with Stones</description>
       <ean>4894626113765</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154198997/JustCavalliRoloimeMetallikoMpraseleJC1L151M0105.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Just Cavalli. Το silver round καντράν, με το Metal Bracelet σε multicolour χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Waterproof: Hand Washing (5 Atm)
@@ -33630,7 +33628,7 @@ Strap Colour: Multicolour
 Dial Colour: Silver
 Case Shape: Round
 with Stones</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>77.13</disPrice>
     </product>
     <product>
@@ -34471,7 +34469,7 @@ Case Shape: Round</description>
       <ean>8018225035365</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876387/CitizenRoloiCHronografosMpatariasmeMetallikoMpraseleseAsimichroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35704,7 +35702,7 @@ Case Shape: Round</description>
       <ean>4064092084665</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153865209/DieselMS9RoloiMpatariasmeMetallikoMpraseleseAsimichromaDZ1974.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35716,7 +35714,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>93.33</disPrice>
     </product>
     <product>
@@ -40030,7 +40028,7 @@ Case Shape: Round</description>
       <ean>8018225035471</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876528/CitizenRoloiEcoDrivemeMetallikoMpraseleseAsimichromaAW171586X.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Citizen με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
