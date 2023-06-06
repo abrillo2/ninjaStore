@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-06 06:22</created_at>
+  <created_at>2023-06-06 07:57</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -15570,6 +15570,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15628,6 +15629,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -26066,7 +26068,7 @@ Case Shape: Round</description>
       <id>4556747</id>
       <name><![CDATA[Casio Analog/Digital Battery Chronograph Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>143</price_with_vat>
+      <price_with_vat>127.07</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039304/39304016/fixedratio_20221111120138_casio_analogiko_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_ga_b001g_1aer.jpeg]]></image>
       <mpn>GAB001G1AER</mpn>
@@ -26138,7 +26140,7 @@ Case Shape: Round</description>
       <id>4546472</id>
       <name><![CDATA[Tommy Hilfiger Alexa Watch with Metal Bracelet Blue]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>77,4</price_with_vat>
+      <price_with_vat>68.30</price_with_vat>
       <manufacturer>Tommy Hilfiger</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/019636/19636778/fixedratio_20220803111458_tommy_hilfiger_alexa_roloi_me_metalliko_mprasele_se_mple_chroma_1782159.jpeg]]></image>
       <mpn>1782159</mpn>
@@ -26153,7 +26155,7 @@ Case Shape: Round</description>
       <id>4541205</id>
       <name><![CDATA[Just Cavalli Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα JC1L173M0065]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>116</price_with_vat>
+      <price_with_vat>102.0</price_with_vat>
       <manufacturer>Just Cavalli</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040233/40233650/fixedratio_20230105130945_just_cavalli_roloi_me_metalliko_mprasele_se_chryso_chroma_jc1l173m0065.jpeg]]></image>
       <mpn>JC1L173M0065</mpn>
@@ -26340,7 +26342,7 @@ Frame Material: Metallic</description>
       <id>4545722</id>
       <name><![CDATA[Guess Women's Sunglasses with White Metal Frame and Brown Gradient Lenses GF0367 32T]]></name>
       <category><![CDATA[Fashion > Sunglasses]]></category>
-      <price_with_vat>42</price_with_vat>
+      <price_with_vat>41.80</price_with_vat>
       <manufacturer>Guess</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/027422/27422466/fixedratio_20210303092711_guess_gf0367_32t.jpeg]]></image>
       <mpn>GF0367 32T</mpn>
@@ -26357,7 +26359,7 @@ Frame Material: Metallic</description>
           <link><![CDATA[https://www.skroutz.gr/mp/154352340/GuessGynaikeiaGyaliaIliouseLeykochromaGF036732T.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <ean>889214192202</ean>
-          <price_with_vat>42</price_with_vat>
+          <price_with_vat>41.80</price_with_vat>
           <size>47-63</size>
           <quantity>50</quantity>
           <variationid>889214192202.47-63</variationid>
@@ -26430,7 +26432,7 @@ Bracelet Length: 24cm</description>
       <id>4556964</id>
       <name><![CDATA[Mido Ocean Star Automatic Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>1150</price_with_vat>
+      <price_with_vat>1023.0</price_with_vat>
       <manufacturer>Mido</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038582/38582171/fixedratio_20221007144621_mido_ocean_star_roloi_aytomato_me_metalliko_mprasele_se_asimi_chroma_m042_430_11_091_00.jpeg]]></image>
       <mpn>M0424301109100</mpn>
@@ -26570,7 +26572,7 @@ Necklace Length: 41cm</description>
       <id>4558061</id>
       <name><![CDATA[Swarovski Women's Flower Necklace]]></name>
       <category><![CDATA[Fashion > Jewelry > Necklaces]]></category>
-      <price_with_vat>123</price_with_vat>
+      <price_with_vat>114.30</price_with_vat>
       <manufacturer>Swarovski</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/041045/41045927/fixedratio_20230330154018_swarovski_gynaikeio_kolie_me_schedio_louloudi_gema_5662493.jpeg]]></image>
       <mpn>5662493</mpn>
@@ -26615,7 +26617,7 @@ Necklace Length: 41cm</description>
       <id>4546491</id>
       <name><![CDATA[Tommy Hilfiger Dean Battery Chronograph Watch with Leather Strap Brown]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>125</price_with_vat>
+      <price_with_vat>109.50</price_with_vat>
       <manufacturer>Tommy Hilfiger</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/009968/9968303/fixedratio_20220802190458_tommy_hilfiger_dean_roloi_chronografos_mpatarias_me_dermatino_louraki_se_kafe_chroma_1791274.jpeg]]></image>
       <mpn>1791274</mpn>
@@ -26765,7 +26767,7 @@ with Stones</description>
       <id>4556777</id>
       <name><![CDATA[Casio Analog/Digital Battery Watch with Rubber Strap Red]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>125</price_with_vat>
+      <price_with_vat>121.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039041/39041283/fixedratio_20221031131238_casio_analogiko_psifiako_roloi_mpatarias_me_kaoutsouk_louraki_se_kokkino_chroma_ga_b001_4aer.jpeg]]></image>
       <mpn>GAB0014AER</mpn>
@@ -26790,7 +26792,7 @@ with Stones</description>
       <id>4528559</id>
       <name><![CDATA[Casio Vintage Edgy Ψηφιακό Ρολόι Μπαταρίας με Μεταλλικό Μπρασελέ σε Μαύρο χρώμα B640WB1B]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>48</price_with_vat>
+      <price_with_vat>47.98</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/002146/2146158/fixedratio_20220802183845_casio_psifiako_roloi_me_metalliko_mprasele_se_mayro_chroma_b_640wb_1b.jpeg]]></image>
       <mpn>B640WB1B</mpn>
@@ -26828,7 +26830,7 @@ Case Shape: Round</description>
       <id>4556712</id>
       <name><![CDATA[Casio GShock Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα GMS2100PG1A4ER]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>185</price_with_vat>
+      <price_with_vat>182.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/033725/33725153/fixedratio_20220802201029_casio_g_shock_roloi_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_gm_s2100pg_1a4er.jpeg]]></image>
       <mpn>GMS2100PG1A4ER</mpn>
@@ -26940,7 +26942,7 @@ Case Shape: Round</description>
       <id>4528246</id>
       <name><![CDATA[Guess Eclipse Chronograph Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>115</price_with_vat>
+      <price_with_vat>113.50</price_with_vat>
       <manufacturer>Guess</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/030675/30675146/fixedratio_20220803114057_guess_eclipse_roloi_chronografos_me_metalliko_mprasele_se_asimi_chroma_gw0314l1.jpeg]]></image>
       <mpn>GW0314L1</mpn>
@@ -27104,7 +27106,7 @@ Frame Material: Metallic</description>
       <id>4556703</id>
       <name><![CDATA[Casio GShock Ρολόι Χρονογράφος Μπαταρίας με Καουτσούκ Λουράκι σε Γκρι χρώμα GA700SK1AER]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>111</price_with_vat>
+      <price_with_vat>110.80</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/019324/19324016/fixedratio_20220802193423_casio_g_shock_ga_700sk_1aer.jpeg]]></image>
       <mpn>GA700SK1AER</mpn>
@@ -27119,7 +27121,7 @@ Frame Material: Metallic</description>
       <id>4529646</id>
       <name><![CDATA[Casio Ρολόι Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTPVD01D1E2VU]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>53</price_with_vat>
+      <price_with_vat>80.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/022903/22903797/fixedratio_20220802194435_casio_roloi_mpatarias_me_metalliko_mprasele_se_asimi_chroma_mtp_vd01d_1e2vu.jpeg]]></image>
       <mpn>MTPVD01D1E2VU</mpn>
@@ -27145,7 +27147,7 @@ Frame Material: Metallic</description>
       <id>4529657</id>
       <name><![CDATA[Casio Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα LTPVT01G7B]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>63</price_with_vat>
+      <price_with_vat>55.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/026226/26226672/fixedratio_20220803112749_casio_roloi_me_metalliko_mprasele_se_chryso_chroma_ltp_vt01g_7b.jpeg]]></image>
       <mpn>LTPVT01G7B</mpn>
@@ -27167,7 +27169,7 @@ Case Shape: Round</description>
       <id>4529687</id>
       <name><![CDATA[Casio Digital Chronograph Watch with Rubber Strap Silver F91WS8EF]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>26</price_with_vat>
+      <price_with_vat>25.98</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/022718/22718515/fixedratio_20220803112159_casio_f_91ws_8ef.jpeg]]></image>
       <mpn>F91WS8EF</mpn>
@@ -27201,7 +27203,7 @@ Necklace Length: 46cm</description>
       <id>4556708</id>
       <name><![CDATA[Casio GShock Battery Watch with Rubber Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>205</price_with_vat>
+      <price_with_vat>182.10</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031409/31409697/fixedratio_20220802200048_casio_roloi_mpatarias_me_kaoutsouk_louraki_se_mple_chroma_gm_2100n_2aer.jpeg]]></image>
       <mpn>GM2100N2AER</mpn>
@@ -27389,7 +27391,7 @@ Bracelet Length: 17cm</description>
       <id>4531043</id>
       <name><![CDATA[Casio Enticer Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>81</price_with_vat>
+      <price_with_vat>71.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/005927/5927799/fixedratio_20220802185332_casio_enticer_roloi_chronografos_mpatarias_me_dermatino_louraki_se_mayro_chroma_mtp_1374l_1a.jpeg]]></image>
       <mpn>MTP1374L1A</mpn>
@@ -27429,7 +27431,7 @@ Bracelet Length: 17cm</description>
       <id>4531198</id>
       <name><![CDATA[Casio Watch with Rubber Strap Orange]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>42</price_with_vat>
+      <price_with_vat>37.98</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/035992/35992782/fixedratio_20220803115112_casio_roloi_me_kaoutsouk_louraki_se_portokali_chroma_lw_200_4av.jpeg]]></image>
       <mpn>LW2004AV</mpn>
@@ -27444,7 +27446,7 @@ Bracelet Length: 17cm</description>
       <id>4556794</id>
       <name><![CDATA[Casio Edifice Premium Solar Chronograph Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>165</price_with_vat>
+      <price_with_vat>142.66</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/032788/32788200/fixedratio_20220802200759_casio_edifice_roloi_chronografos_solar_me_metalliko_mprasele_se_asimi_chroma_efs_s600d_1a2vuef.jpeg]]></image>
       <mpn>EFSS600D1A2VUEF</mpn>
@@ -27473,7 +27475,7 @@ Bracelet Length: 17cm</description>
       <id>4526602</id>
       <name><![CDATA[Diesel Boltdown Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>239</price_with_vat>
+      <price_with_vat>226.50</price_with_vat>
       <manufacturer>Diesel</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/021430/21430546/fixedratio_20220802194025_diesel_roloi_boltdown_chronografos_me_dermatino_louraki_se_mayro_chroma_dz7428.jpeg]]></image>
       <mpn>DZ7428</mpn>
@@ -27560,7 +27562,7 @@ Case Shape: Round</description>
       <id>4540279</id>
       <name><![CDATA[Festina Crystals Watch with Metal Bracelet]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>98</price_with_vat>
+      <price_with_vat>96.70</price_with_vat>
       <manufacturer>Festina</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/036750/36750531/fixedratio_20220803115235_festina_crystals_roloi_me_metalliko_mprasele_f20619_1.jpeg]]></image>
       <mpn>F20619/1</mpn>
@@ -27584,7 +27586,7 @@ with Stones</description>
       <id>4529610</id>
       <name><![CDATA[Casio Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα MW2407EVEF]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>22</price_with_vat>
+      <price_with_vat>21.98</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/017485/17485588/fixedratio_20220802192908_casio_roloi_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_mw_240_7evef.jpeg]]></image>
       <mpn>MW2407EVEF</mpn>
@@ -27725,7 +27727,7 @@ Case Shape: Round</description>
       <id>4529602</id>
       <name><![CDATA[Casio Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα LTPV004D2B]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>40</price_with_vat>
+      <price_with_vat>35.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/030372/30372671/fixedratio_20220803113956_casio_roloi_me_metalliko_mprasele_se_asimi_chroma_ltp_v004d_2b.jpeg]]></image>
       <mpn>LTPV004D2B</mpn>
@@ -27748,7 +27750,7 @@ Case Shape: Round</description>
       <id>4531892</id>
       <name><![CDATA[Casio Digital Battery Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>58,6</price_with_vat>
+      <price_with_vat>54.50</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/030716/30716324/fixedratio_20220802195809_casio_psifiako_roloi_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_wv_59r_1aef.jpeg]]></image>
       <mpn>WV59R1AEF</mpn>
@@ -27887,7 +27889,7 @@ Bracelet Length: 18cm</description>
       <id>4548017</id>
       <name><![CDATA[Tissot Battery Chronograph Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>1467</price_with_vat>
+      <price_with_vat>1269.0</price_with_vat>
       <manufacturer>Tissot</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/007985/7985514/fixedratio_20220802185914_tissot_t100_427_11_051_00.jpeg]]></image>
       <mpn>T100.427.11.051.00</mpn>
@@ -27963,7 +27965,7 @@ with Stones</description>
       <id>4548018</id>
       <name><![CDATA[Tissot Automatic Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>1501</price_with_vat>
+      <price_with_vat>1299.0</price_with_vat>
       <manufacturer>Tissot</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/008084/8084523/fixedratio_20220802185921_tissot_t100_427_16_051_00.jpeg]]></image>
       <mpn>T100.427.16.051.00</mpn>
@@ -27999,7 +28001,7 @@ Case Shape: Rectangle</description>
       <id>4556752</id>
       <name><![CDATA[Casio GShock Limited Digital Battery Chronograph Watch with Rubber Strap Gold]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>251</price_with_vat>
+      <price_with_vat>248.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040079/40079726/fixedratio_20221220153238_casio_g_shock_limited_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_chryso_chroma_dwe_5600hg_1er.jpeg]]></image>
       <mpn>DWE5600HG1ER</mpn>
@@ -28138,7 +28140,7 @@ Case Shape: Round</description>
       <id>4526900</id>
       <name><![CDATA[Seiko 5 Sports Automatic Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>368</price_with_vat>
+      <price_with_vat>356.0</price_with_vat>
       <manufacturer>Seiko</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/030661/30661101/fixedratio_20220802195756_seiko_roloi_aytomato_me_dermatino_louraki_se_mayro_chroma_srpg41k1.jpeg]]></image>
       <mpn>SRPG41K1</mpn>
@@ -28422,7 +28424,7 @@ Necklace Length: 52.5cm</description>
       <id>4556709</id>
       <name><![CDATA[Casio GShock Αναλογικό/Ψηφιακό Ρολόι Χρονογράφος Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα GA900E1A3ER]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>152</price_with_vat>
+      <price_with_vat>149.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/026477/26477640/fixedratio_20220802195027_casio_g_shock_analogiko_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_ga_900e_1a3er.jpeg]]></image>
       <mpn>GA900E1A3ER</mpn>
@@ -28512,7 +28514,7 @@ Case Shape: Round</description>
       <id>4556620</id>
       <name><![CDATA[Michael Kors Women's Gold Plated Silver Chain Bracelet Premium with Zircon]]></name>
       <category><![CDATA[Fashion > Jewelry > Bracelets]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>123.0</price_with_vat>
       <manufacturer>Michael Kors</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/034652/34652535/fixedratio_20220314112233_michael_kors_gynaikeio_vrachioli_alysida_premium_me_schedio_kardia_apo_asimi_epichrysomeno_mkc1518a2791.jpeg]]></image>
       <mpn>MKC1518A2791</mpn>
@@ -28587,7 +28589,7 @@ Bracelet Length: 18cm</description>
       <id>4529591</id>
       <name><![CDATA[Casio Enticer Lady LTPVT01D2B]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>49,5</price_with_vat>
+      <price_with_vat>42.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/018532/18532984/fixedratio_20220803111255_casio_enticer_lady_ltp_vt01d_2b.jpeg]]></image>
       <mpn>LTPVT01D2B</mpn>
@@ -28602,7 +28604,7 @@ Bracelet Length: 18cm</description>
       <id>4556787</id>
       <name><![CDATA[Casio Battery Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>315</price_with_vat>
+      <price_with_vat>303.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040817/40817494/fixedratio_20230306115634_casio_roloi_mpatarias_me_dermatino_louraki_se_mayro_chroma_gm_114gem_1a9er.jpeg]]></image>
       <mpn>GM114GEM1A9ER</mpn>
@@ -28676,7 +28678,7 @@ Case Shape: Round</description>
       <id>4556775</id>
       <name><![CDATA[Casio GShock Digital Solar Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>124</price_with_vat>
+      <price_with_vat>120.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/030421/30421872/fixedratio_20220802195714_casio_g_shock_psifiako_roloi_solar_me_kaoutsouk_louraki_se_mayro_chroma_gw_m5610u_1ber.jpeg]]></image>
       <mpn>GWM5610U1BER</mpn>
@@ -28691,7 +28693,7 @@ Case Shape: Round</description>
       <id>4556756</id>
       <name><![CDATA[Casio GShock Analog/Digital Battery Chronograph Watch with Rubber Strap]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>153</price_with_vat>
+      <price_with_vat>148.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/037489/37489582/fixedratio_20220805111556_casio_g_shock_analogiko_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_ga_2200nn_1aer.jpeg]]></image>
       <mpn>GA2200NN1AER</mpn>
@@ -28716,7 +28718,7 @@ Case Shape: Round</description>
       <id>4528164</id>
       <name><![CDATA[Nautica Battery Watch with Metal Bracelet Silver NAPEGT005]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>115</price_with_vat>
+      <price_with_vat>111.0</price_with_vat>
       <manufacturer>Nautica</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/013948/13948348/fixedratio_20220802191707_nautica_napegt005.jpeg]]></image>
       <mpn>NAPEGT005</mpn>
@@ -28881,7 +28883,7 @@ with Stones</description>
       <id>4558053</id>
       <name><![CDATA[Swarovski Women's Necklace]]></name>
       <category><![CDATA[Fashion > Jewelry > Necklaces]]></category>
-      <price_with_vat>138</price_with_vat>
+      <price_with_vat>134.0</price_with_vat>
       <manufacturer>Swarovski</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/041043/41043701/fixedratio_20230330142942_swarovski_gynaikeio_kolie_5648447.jpeg]]></image>
       <mpn>5648447</mpn>
@@ -29066,29 +29068,6 @@ Bracelet Length: 18cm</description>
       <disPrice>63.05</disPrice>
     </product>
     <product>
-      <id>4528089</id>
-      <name><![CDATA[Calvin Klein Battery Watch with Metal Bracelet Silver]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>201</price_with_vat>
-      <manufacturer>Calvin Klein</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/040963/40963365/fixedratio_20230324120739_calvin_klein_roloi_mpatarias_me_metalliko_mprasele_se_asimi_chroma_1683493.jpeg]]></image>
-      <mpn>1683493</mpn>
-      <ean>7613272497398</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153886204/CalvinKleinRoloiMpatariasmeMetallikoMpraseleseAsimichroma1683493.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <description>Ανδρικό Analog ρολόι της εταιρίας Calvin Klein με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
-
-Βασικά Χαρακτηριστικά:
-• Μηχανισμός: Battery
-• Υλικό Λουριού: Metal Bracelet
-• Χρώμα Καντράν: Green
-• Χρώμα Κάσας: Silver
-• Χρώμα Λουριού: Silver</description>
-      <distributor>WWT</distributor>
-      <disPrice>120.54</disPrice>
-    </product>
-    <product>
       <id>4540136</id>
       <name><![CDATA[Emporio Armani Ρολόι Χρονογράφος με Μεταλλικό Μπρασελέ σε Ασημί χρώμα AR11324]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
@@ -29211,7 +29190,7 @@ Case Shape: Round</description>
       <id>4556753</id>
       <name><![CDATA[Casio GShock Digital/Analog Chronograph Automatic Watch with Rubber Strap]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>183</price_with_vat>
+      <price_with_vat>180.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039983/39983603/fixedratio_20221213165053_casio_g_shock_psifiako_analogiko_roloi_chronografos_aytomato_me_kaoutsouk_louraki_ga_110ss_1aer.jpeg]]></image>
       <mpn>GA110SS1AER</mpn>
@@ -29356,7 +29335,7 @@ Case Shape: Round</description>
       <id>4529686</id>
       <name><![CDATA[Casio Digital Chronograph Watch with Rubber Strap White F91WS7EF]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>26,99</price_with_vat>
+      <price_with_vat>26.85</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/022660/22660117/fixedratio_20220803112151_casio_f_91ws_7ef.jpeg]]></image>
       <mpn>F91WS7EF</mpn>
@@ -29395,7 +29374,7 @@ with Stones</description>
       <id>4529755</id>
       <name><![CDATA[Casio Collection Sports Watch with Rubber Strap White]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>35</price_with_vat>
+      <price_with_vat>34.98</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/030722/30722259/fixedratio_20220803114119_casio_collection_sports_roloi_me_kaoutsouk_louraki_se_leyko_chroma_lwa_300h_7evef.jpeg]]></image>
       <mpn>LWA300H7EVEF</mpn>
@@ -29661,7 +29640,7 @@ Pattern: with Stones</description>
       <id>4528659</id>
       <name><![CDATA[Casio Digital Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>34</price_with_vat>
+      <price_with_vat>32.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/030922/30922540/fixedratio_20220803114204_casio_psifiako_roloi_me_plastiko_louraki_se_mayro_chroma_la_20wh_4a.jpeg]]></image>
       <mpn>LA20WH4A</mpn>
@@ -29714,7 +29693,7 @@ Case Shape: Round</description>
       <id>4546721</id>
       <name><![CDATA[Esprit Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>81</price_with_vat>
+      <price_with_vat>68.50</price_with_vat>
       <manufacturer>Esprit</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/026233/26233388/fixedratio_20220803112751_esprit_roloi_se_asimi_chroma_es1l167m0105.jpeg]]></image>
       <mpn>ES1L167M0105</mpn>
@@ -29796,7 +29775,7 @@ Case Shape: Square</description>
       <id>4556782</id>
       <name><![CDATA[Casio GShock 5600 Watch with Rubber Strap White]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>102</price_with_vat>
+      <price_with_vat>87.90</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/040972/40972410/fixedratio_20230327091603_casio_g_shock_5600_roloi_me_kaoutsouk_louraki_se_leyko_chroma_gmd_s5600_8er.jpeg]]></image>
       <mpn>GMDS56008ER</mpn>
@@ -30079,7 +30058,7 @@ Case Shape: Round</description>
       <id>4556739</id>
       <name><![CDATA[Casio GShock Analog/Digital Solar Chronograph Watch with Rubber Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>146</price_with_vat>
+      <price_with_vat>14.80</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/009090/9090053/fixedratio_20220802190208_casio_analogiko_psifiako_roloi_chronografos_solar_me_kaoutsouk_louraki_se_mple_chroma_awg_m100sb_2aer.jpeg]]></image>
       <mpn>AWGM100SB2AER</mpn>
@@ -30184,7 +30163,7 @@ Case Shape: Round</description>
       <id>4546550</id>
       <name><![CDATA[Tommy Hilfiger Shawn Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>100</price_with_vat>
+      <price_with_vat>99.80</price_with_vat>
       <manufacturer>Tommy Hilfiger</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/019027/19027568/fixedratio_20220802193323_tommy_hilfiger_shawn_roloi_chronografos_mpatarias_me_dermatino_louraki_se_mayro_chroma_1791616.jpeg]]></image>
       <mpn>1791616</mpn>
@@ -30518,7 +30497,7 @@ Features: Vibration, Microphone</description>
       <id>4556773</id>
       <name><![CDATA[Casio GShock Digital Battery Chronograph Watch with Rubber Strap]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>265</price_with_vat>
+      <price_with_vat>259.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039982/39982113/fixedratio_20221213162140_casio_g_shock_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_gm_5600ss_1er.jpeg]]></image>
       <mpn>GM5600SS1ER</mpn>
@@ -30547,7 +30526,7 @@ Features: Vibration, Microphone</description>
       <id>4544783</id>
       <name><![CDATA[Police Tasman Battery Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>80</price_with_vat>
+      <price_with_vat>79.50</price_with_vat>
       <manufacturer>Police</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/022189/22189870/fixedratio_20221013120453_police_tasman_16023js_02_black.jpeg]]></image>
       <mpn>16023JS02</mpn>
@@ -30902,7 +30881,7 @@ Case Shape: Round</description>
       <id>4528152</id>
       <name><![CDATA[Nautica Ρολόι με Υφασμάτινο Λουράκι σε Γκρι χρώμα NAPWLF921]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>46</price_with_vat>
+      <price_with_vat>44.10</price_with_vat>
       <manufacturer>Nautica</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/028313/28313980/fixedratio_20220802195323_nautica_roloi_me_yfasmatino_louraki_se_gri_chroma_napwlf921.jpeg]]></image>
       <mpn>NAPWLF921</mpn>
@@ -30927,7 +30906,7 @@ Case Shape: Round</description>
       <id>4557056</id>
       <name><![CDATA[Armani Exchange Chronograph Watch with Metal Bracelet Gold AX4327]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>257</price_with_vat>
+      <price_with_vat>215.0</price_with_vat>
       <manufacturer>Armani Exchange</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/010416/10416885/fixedratio_20220803105006_armani_exchange_ax4327.jpeg]]></image>
       <mpn>AX4327</mpn>
@@ -30951,7 +30930,7 @@ with Stones</description>
       <id>4556745</id>
       <name><![CDATA[Casio GShock Ψηφιακό Ρολόι Χρονογράφος Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα GM56001ER]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>177</price_with_vat>
+      <price_with_vat>171.50</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/021116/21116565/fixedratio_20220802193930_casio_gm_5600_1er.jpeg]]></image>
       <mpn>GM56001ER</mpn>
@@ -30988,7 +30967,7 @@ Case Shape: Round</description>
       <id>4558538</id>
       <name><![CDATA[Frederique Constant Battery Watch with Leather Strap Black FC235M1S6]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>700</price_with_vat>
+      <price_with_vat>630.0</price_with_vat>
       <manufacturer>Frederique Constant</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/025495/25495172/fixedratio_20220802194901_frederique_constant_fc_235m1s6.jpeg]]></image>
       <mpn>FC235M1S6</mpn>
