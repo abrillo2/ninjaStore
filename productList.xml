@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-06 08:07</created_at>
+  <created_at>2023-06-06 09:18</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -15570,6 +15570,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15628,6 +15629,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -31174,7 +31176,7 @@ Case Shape: Round</description>
       <id>4556624</id>
       <name><![CDATA[Michael Kors Γυναικεία Σκουλαρίκια Καρφωτά από Ασήμι Επιχρυσωμένα Με Πέτρες MKC1519A2791]]></name>
       <category><![CDATA[Fashion > Jewelry > Earrings]]></category>
-      <price_with_vat>108</price_with_vat>
+      <price_with_vat>97.50</price_with_vat>
       <manufacturer>Michael Kors</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/034841/34841122/fixedratio_20220803034841_michael_kors_gynaikeia_skoularikia_karfota_apo_asimi_epichrysomena_me_petres_mkc1519a2791.jpeg]]></image>
       <mpn>MKC1519A2791</mpn>
@@ -31567,7 +31569,7 @@ Case Shape: Round</description>
       <id>4528121</id>
       <name><![CDATA[Calvin Klein Watch with Metal Bracelet Silver / Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>186</price_with_vat>
+      <price_with_vat>153.0</price_with_vat>
       <manufacturer>Calvin Klein</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/035486/35486283/fixedratio_20220803115039_calvin_klein_roloi_me_metalliko_mprasele_asimi_chryso_25200132.jpeg]]></image>
       <mpn>25200132</mpn>
@@ -31613,7 +31615,7 @@ Case Shape: Round</description>
       <id>4546736</id>
       <name><![CDATA[Esprit Chronograph Watch with Leather Strap Black ES1L077L0025]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>60</price_with_vat>
+      <price_with_vat>49.55</price_with_vat>
       <manufacturer>Esprit</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/020153/20153649/fixedratio_20220803111605_esprit_es1l077l0025.jpeg]]></image>
       <mpn>ES1L077L0025</mpn>
@@ -31684,7 +31686,7 @@ Case Shape: Round</description>
       <id>4556719</id>
       <name><![CDATA[Casio GShock Analog/Digital Battery Chronograph Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>115</price_with_vat>
+      <price_with_vat>112.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/037197/37197822/fixedratio_20220802201732_casio_g_shock_analogiko_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_ga_100bp_1aer.jpeg]]></image>
       <mpn>GA100BP1AER</mpn>
@@ -31818,7 +31820,7 @@ Case Shape: Round</description>
       <id>4531878</id>
       <name><![CDATA[Casio Battery Watch with Leather Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>37</price_with_vat>
+      <price_with_vat>35.80</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/036921/36921198/fixedratio_20220802201630_casio_roloi_mpatarias_me_dermatino_louraki_se_mple_chroma_mtp_v002l_2b3.jpeg]]></image>
       <mpn>MTPV002L2B3</mpn>
@@ -31844,7 +31846,7 @@ Case Shape: Round</description>
       <id>4528526</id>
       <name><![CDATA[Casio Watch with Leather Strap Black LTPV001L1B]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>35</price_with_vat>
+      <price_with_vat>28.88</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/006637/6637027/fixedratio_20221025121301_casio_ltp_v001l_1b.jpeg]]></image>
       <mpn>LTPV001L1B</mpn>
