@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-06 03:31</created_at>
+  <created_at>2023-06-06 05:22</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -74,7 +74,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/069762/69762946/20221228112433_ec94ef5d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/069762/69762945/20221228112433_1feb67f7.jpeg]]></additional_imageurl>
       <distributor>XTG</distributor>
-      <disPrice>666.70 </disPrice>
+      <disPrice>590.00 </disPrice>
     </product>
     <product>
       <id>EAN4894461928661</id>
@@ -177,7 +177,7 @@ Length: 1m</description>
       <ean>5907595655774</ean>
       <link><![CDATA[https://www.ninjaStore/5907595655774]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>36</quantity>
+      <quantity>37</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066981/66981058/20221104130141_103156a4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/066981/66981057/20221104130141_d0b04cc4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066981/66981055/20221104130140_373aae80.jpeg]]></additional_imageurl>
@@ -976,7 +976,7 @@ Length: 1m</description>
       <ean>2010000000878</ean>
       <link><![CDATA[https://www.ninjaStore/2010000000878]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>31</quantity>
+      <quantity>24</quantity>
       <distributor>XTG</distributor>
       <disPrice>106.00 </disPrice>
     </product>
@@ -2061,7 +2061,7 @@ Length: 1m</description>
       <ean>6934177791802</ean>
       <link><![CDATA[https://www.ninjaStore/6934177791802]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>33</quantity>
+      <quantity>43</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/064483/64483494/20220915114126_bd45d977.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066114/66114693/20221017155136_8efb054b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064483/64483495/20220915114127_7ac7d512.jpeg]]></additional_imageurl>
@@ -2139,7 +2139,7 @@ Length: 1m</description>
       <ean>6941812716724</ean>
       <link><![CDATA[https://www.ninjaStore/6941812716724]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>72</quantity>
+      <quantity>70</quantity>
       <distributor>XTG</distributor>
       <disPrice>79.90 </disPrice>
     </product>
@@ -2234,7 +2234,7 @@ Length: 1m</description>
       <ean>6941812722046</ean>
       <link><![CDATA[https://www.ninjaStore/6941812722046]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>112</quantity>
+      <quantity>111</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/075174/75174476/20230426101136_75e03cf9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075174/75174473/20230426101136_7d371400.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075174/75174474/20230426101136_de3e943e.jpeg]]></additional_imageurl>
@@ -2625,7 +2625,7 @@ Length: 1m</description>
       <ean>6935117840567</ean>
       <link><![CDATA[https://www.ninjaStore/6935117840567]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>27</quantity>
+      <quantity>24</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052065/52065855/20211109123103_c848acba.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053024/53024012/20211129123359_ecc287b8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061033/61033836/20220608160552_0473fe1c.jpeg]]></additional_imageurl>
@@ -2668,7 +2668,7 @@ Length: 1m</description>
       <ean>6935117840550</ean>
       <link><![CDATA[https://www.ninjaStore/6935117840550]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053169/53169272/20211201155625_39433840.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/058980/58980377/20220414205445_c6ec3893.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060316/60316017/20220520160447_5c6ecf06.jpeg]]></additional_imageurl>
@@ -3311,7 +3311,7 @@ Length: 1m</description>
       <ean>745883822393</ean>
       <link><![CDATA[https://www.ninjaStore/745883822393]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/026991/26991674/20190731160711_a6cf582f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/026991/26991675/20190731160717_011b814e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/026991/26991676/20190731160723_19367b29.jpeg]]></additional_imageurl>
@@ -3745,7 +3745,7 @@ Ampere: 2A</description>
 
 Συμβατή με το iPhone 13 mini.</description>
       <distributor>MOBI</distributor>
-      <disPrice>8.95</disPrice>
+      <disPrice>3.7</disPrice>
     </product>
     <product>
       <id>4509381</id>
@@ -3819,7 +3819,7 @@ Ampere: 2A</description>
       <availability>Available from 4 to 10 days</availability>
       <quantity>4</quantity>
       <distributor>MOBI</distributor>
-      <disPrice>8.95</disPrice>
+      <disPrice>8.35</disPrice>
     </product>
     <product>
       <id>4509332</id>
@@ -3856,7 +3856,7 @@ Ampere: 2A</description>
       <ean>6974316280989</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407471/AcefastFortistisAytokinitouMayrosSynolikisEntasis3AGrigorisFortisis.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>95</quantity>
+      <quantity>185</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057520/57520402/20220314162921_7291c2d7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057520/57520384/20220314162920_614e696a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057520/57520403/20220314162921_bd63cb76.jpeg]]></additional_imageurl>
@@ -3898,7 +3898,7 @@ Total Ports: 2</description>
       <ean>6970504210646</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153482970/AqaraMoniExoterikiPrizaReymatosAsfaleiasLeykiSPEUC01.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051288/51288768/20211022162041_64043160.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.95</disPrice>
@@ -3958,7 +3958,7 @@ Total Ports: 2</description>
       <ean>6971085311852</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478614/ImilabFitnessW01AdiavrochoSmartwatchmePalmografoMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>22</quantity>
+      <quantity>39</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/068576/68576230/20221130172124_4a7f5819.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/068576/68576229/20221130172124_361e0cba.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -4064,7 +4064,7 @@ Clasp Closure: Buckle</description>
       <ean>6971664932010</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478386/HaylouRS4LS1237mmSmartwatchmePalmografoAsimi.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>8</quantity>
+      <quantity>15</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/072845/72845646/20230308135121_f4ddd426.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/072845/72845647/20230308135045_1573162b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/072845/72845651/20230308135048_7120dbc3.jpeg]]></additional_imageurl>
@@ -4088,7 +4088,7 @@ Clasp Closure: Buckle</description>
       <ean>6971619678079</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153479513/MibroC2AdiavrochoSmartwatchmePalmografoWhite.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>28</quantity>
+      <quantity>53</quantity>
       <distributor>MOBI</distributor>
       <disPrice>22.3</disPrice>
     </product>
@@ -4103,7 +4103,7 @@ Clasp Closure: Buckle</description>
       <ean>3492548197002</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407474/EnergizerFortistisAytokinitouMayrosSynolikisEntasis34AmeTHyres.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>493</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056156/56156786/20220211162616_27dea461.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056156/56156785/20220211162616_af892a83.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056156/56156788/20220211162616_5e16f40e.jpeg]]></additional_imageurl>
@@ -4179,7 +4179,7 @@ Total Ports: 2</description>
       <ean>6974443385113</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471296/BorofoneBJ24PowerBank10000mAhme2THyresUSBAMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>118</quantity>
+      <quantity>123</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/069503/69503624/20221219164150_1468f3d8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/069503/69503621/20221219164150_152c241e.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USBA και μπορεί να φορτίσει μία συσκευή με έως και 2.1Α.
@@ -4205,7 +4205,7 @@ Weight: 220gr</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063320/63320371/20220818161901_434e2348.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063320/63320372/20220818161901_9b7c8865.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>36.75</disPrice>
+      <disPrice>34.45</disPrice>
     </product>
     <product>
       <id>4510026</id>
@@ -4376,7 +4376,7 @@ Case Shape: Round</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/038541/38541111/20210204172157_0c652f10.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/038541/38541113/20210204172157_c99d1aea.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>3.75</disPrice>
+      <disPrice>3.65</disPrice>
     </product>
     <product>
       <id>4527099</id>
@@ -4463,7 +4463,7 @@ Standby: 120hrs</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/027093/27093986/20190809125949_c89a3817.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/027093/27093987/20190809125952_87c69cd5.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>1.95</disPrice>
+      <disPrice>1.85</disPrice>
     </product>
     <product>
       <id>4565091</id>
@@ -4579,7 +4579,7 @@ Wireless Connections: Bluetooth
 
 Συμβατή με το Galaxy S20 Ultra.</description>
       <distributor>MOBI</distributor>
-      <disPrice>6.5</disPrice>
+      <disPrice>3.75</disPrice>
     </product>
     <product>
       <id>4507672</id>
@@ -4603,7 +4603,7 @@ Wireless Connections: Bluetooth
 
 Συμβατή με το iPhone 12 mini.</description>
       <distributor>MOBI</distributor>
-      <disPrice>2.35</disPrice>
+      <disPrice>1.75</disPrice>
     </product>
     <product>
       <id>4509068</id>
@@ -4669,7 +4669,7 @@ Weight: 422gr</description>
 
 Συμβατή με το iPhone 12 Pro Max.</description>
       <distributor>MOBI</distributor>
-      <disPrice>12.65</disPrice>
+      <disPrice>11.85</disPrice>
     </product>
     <product>
       <id>4507590</id>
@@ -4738,7 +4738,7 @@ Weight: 422gr</description>
       <ean>6920680875283</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471818/XOPR125PowerBank50000mAhme4THyresUSBAMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>28</quantity>
+      <quantity>42</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/047844/47844144/20210618112802_08518d5a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058671/58671391/20220407160949_73718581.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058671/58671387/20220407160949_911add4a.jpeg]]></additional_imageurl>
@@ -4929,7 +4929,7 @@ Standby: 180hrs</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/054794/54794055/20220111103211_6446d64e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054794/54794053/20220111103210_09e62b7c.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>5.55</disPrice>
+      <disPrice>4.35</disPrice>
     </product>
     <product>
       <id>4508560</id>
@@ -4966,7 +4966,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το Galaxy S22+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.95</disPrice>
+      <disPrice>13.55</disPrice>
     </product>
     <product>
       <id>4507455</id>
@@ -4978,7 +4978,7 @@ Standby: 180hrs</description>
       <ean>6974316280361</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407467/AcefastFortistisAytokinitouMayrosGrigorisFortisismeTHyres2xUSB72W.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>107</quantity>
+      <quantity>210</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057520/57520378/20220314162920_5205a1c1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057520/57520379/20220314162920_0d706be9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057520/57520380/20220314162920_9b69b78b.jpeg]]></additional_imageurl>
@@ -5010,7 +5010,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το Galaxy A13 4G.</description>
       <distributor>MOBI</distributor>
-      <disPrice>5.1</disPrice>
+      <disPrice>5.05</disPrice>
     </product>
     <product>
       <id>4507642</id>
@@ -5055,7 +5055,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το iPhone 13 Pro.</description>
       <distributor>MOBI</distributor>
-      <disPrice>12.45</disPrice>
+      <disPrice>12.25</disPrice>
     </product>
     <product>
       <id>4507469</id>
@@ -5144,7 +5144,7 @@ Quick Charge: Power Delivery</description>
       <quantity>160</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063320/63320383/20220818161921_bc953017.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>36.8</disPrice>
+      <disPrice>36.55</disPrice>
     </product>
     <product>
       <id>4509175</id>
@@ -5188,7 +5188,7 @@ Quick Charge: Power Delivery</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>17.25</disPrice>
+      <disPrice>16.95</disPrice>
     </product>
     <product>
       <id>4507683</id>
@@ -5215,7 +5215,7 @@ Quick Charge: Power Delivery</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>15.45</disPrice>
+      <disPrice>14.7</disPrice>
     </product>
     <product>
       <id>4508466</id>
@@ -5242,7 +5242,7 @@ Quick Charge: Power Delivery</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.35</disPrice>
+      <disPrice>13.2</disPrice>
     </product>
     <product>
       <id>4565013</id>
@@ -5513,7 +5513,7 @@ Charging Power: 65W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.75</disPrice>
+      <disPrice>13.6</disPrice>
     </product>
     <product>
       <id>4507625</id>
@@ -5537,7 +5537,7 @@ Charging Power: 65W</description>
 Συμβατή με το Galaxy S23 Ultra.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and προστατεύει καλά το κινητό.</description>
       <distributor>MOBI</distributor>
-      <disPrice>26.25</disPrice>
+      <disPrice>26.15</disPrice>
     </product>
     <product>
       <id>4507626</id>
@@ -5560,7 +5560,7 @@ Charging Power: 65W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>26.25</disPrice>
+      <disPrice>26.15</disPrice>
     </product>
     <product>
       <id>4507627</id>
@@ -5583,7 +5583,7 @@ Charging Power: 65W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>25.75</disPrice>
+      <disPrice>25.5</disPrice>
     </product>
     <product>
       <id>4566167</id>
@@ -5701,7 +5701,7 @@ Charging Power: 65W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>23.8</disPrice>
+      <disPrice>23.6</disPrice>
     </product>
     <product>
       <id>4507615</id>
@@ -5724,7 +5724,7 @@ Charging Power: 65W</description>
 
 Συμβατή με το Galaxy S23 Ultra.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>21.3</disPrice>
     </product>
     <product>
       <id>4564975</id>
@@ -6121,7 +6121,7 @@ Charging Power: 18W</description>
 
 Συμβατή με το iPhone 12 mini.</description>
       <distributor>MOBI</distributor>
-      <disPrice>2.9</disPrice>
+      <disPrice>1.75</disPrice>
     </product>
     <product>
       <id>4507594</id>
@@ -6145,7 +6145,7 @@ Charging Power: 18W</description>
 
 Συμβατή με το iPhone 12 Pro Max.</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.5</disPrice>
+      <disPrice>13.05</disPrice>
     </product>
     <product>
       <id>4508983</id>
@@ -6220,7 +6220,7 @@ Charging Power: 18W</description>
       <quantity>3</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/041897/41897075/20210318170746_5ced1340.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>13.25</disPrice>
+      <disPrice>12.55</disPrice>
     </product>
     <product>
       <id>4507596</id>
@@ -6242,7 +6242,7 @@ Charging Power: 18W</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/039470/39470284/20210215120129_710e6ad7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/039470/39470283/20210215120129_436b3a26.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>8.6</disPrice>
+      <disPrice>5.55</disPrice>
     </product>
     <product>
       <id>4565000</id>
@@ -6263,7 +6263,7 @@ Charging Power: 18W</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052915/52915336/20211125134923_9a89ee3c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052915/52915359/20211125134924_3cb0663c.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>3.55</disPrice>
+      <disPrice>3.25</disPrice>
     </product>
     <product>
       <id>4507510</id>
@@ -6438,7 +6438,7 @@ Weight: 370gr</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/049414/49414073/20210824164914_42b4eb1c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/049414/49414077/20210824164914_926d997e.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>25.75</disPrice>
+      <disPrice>19.65</disPrice>
     </product>
     <product>
       <id>4508960</id>
@@ -6492,7 +6492,7 @@ Standby: 200hrs</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051202/51202639/20211020164958_826fe45d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051202/51202642/20211020164959_cbd1e7ce.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>25.7</disPrice>
+      <disPrice>25.65</disPrice>
     </product>
     <product>
       <id>4507552</id>
@@ -6551,7 +6551,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056194/56194635/20220214095402_d7910b76.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056194/56194634/20220214095402_63c927db.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>3.95</disPrice>
+      <disPrice>3.15</disPrice>
     </product>
     <product>
       <id>4507512</id>
@@ -6608,7 +6608,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057425/57425691/20220311143438_fae31f61.jpeg]]></additional_imageurl>
       <description>Ο ασύρματος φορτιστής της εταιρείας Samsung είναι συμβατός με κάθε κινητό που υποστηρίζει ασύρματη φόρτιση. Αν δεν υποστηρίζει, το κινητό σας δεν θα φορτιστεί. Για να ξεκινήσει η φόρτιση, απλά ακουμπάμε το κινητό στη βάση του. Σε κάποιες περιπτώσεις, η θήκη που έχουμε βάλει στο κινητό εμποδίζει τη σωστή λειτουργία και πρέπει να αφαιρεθεί. Υποστηρίζει γρήγορη φόρτιση Power Delivery, η οποία θα πρέπει να είναι συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.</description>
       <distributor>MOBI</distributor>
-      <disPrice>31.95</disPrice>
+      <disPrice>32.05</disPrice>
     </product>
     <product>
       <id>4510043</id>
@@ -6648,7 +6648,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/058605/58605037/20220406161138_fc666f2a.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Samsung που κλείνει σαν βιβλίο και προσφέρει προστασία στο tablet σου από πτώσεις, γρατζουνιές κι άλλες φθορές. Μπορεί να χρησιμοποιηθεί ως stand επιτρέποντας την παρακολούθηση βίντεο/ταινιών, την προβολή συνταγών μαγειρικής, μουσικών βιβλίων και παρτιτούρων μουσικής και την πραγματοποίηση βιντεοκλήσεων χωρίς να το κρατάς στα χέρια.</description>
       <distributor>MOBI</distributor>
-      <disPrice>23.65</disPrice>
+      <disPrice>16.55</disPrice>
     </product>
     <product>
       <id>4507465</id>
@@ -6661,7 +6661,7 @@ USB Version: USB 2.0</description>
       <ean>8806094000795</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407582/SamsungFortistisAytokinitouMayrosmeTHyres1xUSB1xTypeCEPL4020NBEGEU.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>51</quantity>
+      <quantity>451</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/059860/59860971/20220509164923_a137f551.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/060414/60414881/20220524142536_d03de0c9.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -6725,7 +6725,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/060369/60369602/20220523154656_4f17387d.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Samsung για προστασία του πίσω μέρους του tablet σου από γρατζουνιές κι άλλες φθορές.</description>
       <distributor>MOBI</distributor>
-      <disPrice>12.45</disPrice>
+      <disPrice>10.85</disPrice>
     </product>
     <product>
       <id>4565093</id>
@@ -6816,7 +6816,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
-      <disPrice>30.95</disPrice>
+      <disPrice>25.85</disPrice>
     </product>
     <product>
       <id>4508834</id>
@@ -6842,7 +6842,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy Z Flip4.</description>
       <distributor>MOBI</distributor>
-      <disPrice>16.4</disPrice>
+      <disPrice>16.35</disPrice>
     </product>
     <product>
       <id>4507653</id>
@@ -6882,7 +6882,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063321/63321506/20220818163735_e354ee49.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063321/63321501/20220818163734_4c73e749.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>16.3</disPrice>
+      <disPrice>16.2</disPrice>
     </product>
     <product>
       <id>4507567</id>
@@ -6936,7 +6936,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>10.05</disPrice>
+      <disPrice>9.75</disPrice>
     </product>
     <product>
       <id>4508439</id>
@@ -6962,7 +6962,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>18.75</disPrice>
+      <disPrice>18.55</disPrice>
     </product>
     <product>
       <id>4507675</id>
@@ -7006,7 +7006,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>18.75</disPrice>
+      <disPrice>18.55</disPrice>
     </product>
     <product>
       <id>4508508</id>
@@ -7125,7 +7125,7 @@ USB Version: USB 2.0</description>
 Συμβατή με το Galaxy S23 Ultra.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and είναι ανθεκτική.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4507618</id>
@@ -7150,7 +7150,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>23.75</disPrice>
+      <disPrice>23.6</disPrice>
     </product>
     <product>
       <id>4508421</id>
@@ -7197,7 +7197,7 @@ USB Version: USB 2.0</description>
 Συμβατή με το Galaxy S23 Ultra.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and είναι ανθεκτική.</description>
       <distributor>MOBI</distributor>
-      <disPrice>22.15</disPrice>
+      <disPrice>22.35</disPrice>
     </product>
     <product>
       <id>4507665</id>
@@ -7243,7 +7243,7 @@ USB Version: USB 2.0</description>
 Συμβατή με το Galaxy S23 Ultra.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and είναι ανθεκτική.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4507628</id>
@@ -7266,7 +7266,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>26.05</disPrice>
+      <disPrice>25.5</disPrice>
     </product>
     <product>
       <id>4508405</id>
@@ -7335,7 +7335,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4507624</id>
@@ -7407,7 +7407,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.45</disPrice>
+      <disPrice>21.3</disPrice>
     </product>
     <product>
       <id>4507613</id>
@@ -7432,7 +7432,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.45</disPrice>
+      <disPrice>21.3</disPrice>
     </product>
     <product>
       <id>4507612</id>
@@ -7457,7 +7457,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.45</disPrice>
+      <disPrice>21.3</disPrice>
     </product>
     <product>
       <id>4509127</id>
@@ -7519,7 +7519,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>26.05</disPrice>
+      <disPrice>25.95</disPrice>
     </product>
     <product>
       <id>4509220</id>
@@ -7536,7 +7536,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/072266/72266509/20230221155454_596feed1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/072266/72266510/20230221155455_2617e536.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>23.95</disPrice>
+      <disPrice>23.65</disPrice>
     </product>
     <product>
       <id>4509120</id>
@@ -7610,7 +7610,7 @@ Misc Functions: Miracast</description>
       <ean>6971619678468</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154996040/XiaomiMibroM1TWSInearBluetoothHandsfreeAkoustikameAntochiston.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>59</quantity>
+      <quantity>115</quantity>
       <description>Τα inear ασύρματα ακουστικά Xiaomi Mibro M1 TWS συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Είναι κατάλληλη επιλογή για τρέξιμο ή άλλες αθλητικές δραστηριότητες, καθώς διαθέτουν προστασία από τον ιδρώτα και τη βροχή. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
 
 Τα ακουστικά Bluetooth έχουν πολλά οφέλη για τους χρήστες τους, συμπεριλαμβανομένων των εξής:
@@ -7692,7 +7692,7 @@ Ampere: 2A</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052480/52480865/20211117160701_1344ebf3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054845/54845312/20220111155800_650d88e4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>13.35</disPrice>
+      <disPrice>13.45</disPrice>
     </product>
     <product>
       <id>4509306</id>
@@ -7726,7 +7726,7 @@ Ampere: 2A</description>
       <availability>Available from 4 to 10 days</availability>
       <quantity>2</quantity>
       <distributor>MOBI</distributor>
-      <disPrice>5.5</disPrice>
+      <disPrice>5.35</disPrice>
     </product>
     <product>
       <id>4508500</id>
@@ -7747,7 +7747,7 @@ Ampere: 2A</description>
 
 Συμβατή με το iPhone 12 Pro Max.</description>
       <distributor>MOBI</distributor>
-      <disPrice>11.7</disPrice>
+      <disPrice>11.25</disPrice>
     </product>
     <product>
       <id>4507639</id>
@@ -7773,7 +7773,7 @@ Ampere: 2A</description>
 
 Συμβατή με το Galaxy S21.</description>
       <distributor>MOBI</distributor>
-      <disPrice>6.45</disPrice>
+      <disPrice>5.95</disPrice>
     </product>
     <product>
       <id>4507479</id>
@@ -7939,7 +7939,7 @@ Quick Charge: Quick Charge 3.0
 
 Συμβατή με το iPhone 12 mini.</description>
       <distributor>MOBI</distributor>
-      <disPrice>3.25</disPrice>
+      <disPrice>2.95</disPrice>
     </product>
     <product>
       <id>4508881</id>
@@ -8033,7 +8033,7 @@ Quick Charge: Power Delivery</description>
       <ean>6971664931495</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478380/HaylouRS4LS1237mmSmartwatchmePalmografoMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>55</quantity>
+      <quantity>108</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057950/57950336/20220322155033_cd63d8aa.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056408/56408666/20230308135143_74edd7a2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057950/57950335/20220322155033_a6602d6d.jpeg]]></additional_imageurl>
@@ -8057,7 +8057,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055186/55186890/20220119122326_1f5ba95a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056982/56982833/20220302094506_9ff89635.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>57.85</disPrice>
+      <disPrice>57.15</disPrice>
     </product>
     <product>
       <id>4508969</id>
@@ -8107,7 +8107,7 @@ Standby: 180hrs</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056534/56534200/20220221164043_79ba15fc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056534/56534219/20220221164045_856ea7d9.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>25.2</disPrice>
+      <disPrice>24.75</disPrice>
     </product>
     <product>
       <id>4508926</id>
@@ -8323,7 +8323,7 @@ Standby: 120hrs</description>
       <additional_imageurl><![CDATA[null]]></additional_imageurl>
       <description>Το screen protector της Samsung είναι μια μεμβράνη, ειδικά κατασκευασμένη για την προστασία της οθόνης μόνο από σκόνη και επιδερμικές γρατζουνιές. Δεν προστατεύει την οθόνη σε περίπτωση πτώσης, καθώς είναι λεπτή. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy A33.</description>
       <distributor>MOBI</distributor>
-      <disPrice>4.75</disPrice>
+      <disPrice>4.65</disPrice>
     </product>
     <product>
       <id>4509274</id>
@@ -8364,7 +8364,7 @@ Maximum Dimension: 16"
 Type: Shoulder / Handheld
 Material: Fabric</description>
       <distributor>MOBI</distributor>
-      <disPrice>37.75</disPrice>
+      <disPrice>37.35</disPrice>
     </product>
     <product>
       <id>4509091</id>
@@ -8407,7 +8407,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063268/63268283/20220817172830_c6f444c5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063268/63268284/20220817172830_ba718ec0.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>20.25</disPrice>
+      <disPrice>19.75</disPrice>
     </product>
     <product>
       <id>4566867</id>
@@ -8425,7 +8425,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063268/63268300/20220817173002_fd9d33f7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063268/63268299/20220817173001_05398931.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063268/63268298/20220817173000_5c6164a9.jpeg]]></additional_imageurl>
-      <distributor>MOBI</distributor>
+      <distributor>NONE</distributor>
       <disPrice>40.25</disPrice>
     </product>
     <product>
@@ -8445,7 +8445,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063268/63268325/20220817173100_e0719d8d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063268/63268328/20220817173101_2b1951e8.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>20.15</disPrice>
+      <disPrice>19.75</disPrice>
     </product>
     <product>
       <id>4507631</id>
@@ -8465,7 +8465,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063320/63320608/20220818162040_0ba993c8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063320/63320604/20220818162040_da414fd6.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>36.65</disPrice>
+      <disPrice>34.45</disPrice>
     </product>
     <product>
       <id>4508816</id>
@@ -8566,7 +8566,7 @@ Quick Charge: Power Delivery</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>10.95</disPrice>
+      <disPrice>10.55</disPrice>
     </product>
     <product>
       <id>4564908</id>
@@ -8625,7 +8625,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>11.55</disPrice>
+      <disPrice>11.45</disPrice>
     </product>
     <product>
       <id>4507670</id>
@@ -8652,7 +8652,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.05</disPrice>
+      <disPrice>13.4</disPrice>
     </product>
     <product>
       <id>4507680</id>
@@ -8679,7 +8679,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.0</disPrice>
+      <disPrice>13.45</disPrice>
     </product>
     <product>
       <id>4508445</id>
@@ -8706,7 +8706,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.25</disPrice>
+      <disPrice>14.05</disPrice>
     </product>
     <product>
       <id>4507678</id>
@@ -8734,7 +8734,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>17.9</disPrice>
+      <disPrice>17.2</disPrice>
     </product>
     <product>
       <id>4507677</id>
@@ -8762,7 +8762,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>17.0</disPrice>
+      <disPrice>16.35</disPrice>
     </product>
     <product>
       <id>4508461</id>
@@ -8790,7 +8790,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>17.85</disPrice>
+      <disPrice>17.5</disPrice>
     </product>
     <product>
       <id>4508441</id>
@@ -8814,7 +8814,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>18.75</disPrice>
+      <disPrice>18.55</disPrice>
     </product>
     <product>
       <id>4507580</id>
@@ -8840,7 +8840,7 @@ Fast Charging</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.25</disPrice>
+      <disPrice>14.15</disPrice>
     </product>
     <product>
       <id>4509178</id>
@@ -8922,7 +8922,7 @@ Total Ports: 2</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4507573</id>
@@ -9016,7 +9016,7 @@ Total Ports: 2</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.75</disPrice>
+      <disPrice>21.6</disPrice>
     </product>
     <product>
       <id>4564912</id>
@@ -9064,7 +9064,7 @@ Total Ports: 2</description>
 
 Συμβατή με το Galaxy S23 Ultra.</description>
       <distributor>MOBI</distributor>
-      <disPrice>23.8</disPrice>
+      <disPrice>23.65</disPrice>
     </product>
     <product>
       <id>4509375</id>
@@ -9158,7 +9158,7 @@ Total Ports: 2</description>
 Capacity: 10000mAh
 Quick Charge: Power Delivery</description>
       <distributor>MOBI</distributor>
-      <disPrice>18.95</disPrice>
+      <disPrice>18.85</disPrice>
     </product>
     <product>
       <id>4508796</id>
@@ -9226,7 +9226,7 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052175/52175895/20211110142518_6c3c863a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052175/52175922/20211110142519_1bb61fbe.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>0.15</disPrice>
+      <disPrice>0.1</disPrice>
     </product>
     <product>
       <id>4508916</id>
@@ -9297,7 +9297,7 @@ Weight: 710gr</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051803/51803449/20211104143230_47c021f7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051803/51803513/20211104143231_f42a9e56.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>35.25</disPrice>
+      <disPrice>35.35</disPrice>
     </product>
     <product>
       <id>4508488</id>
@@ -9323,7 +9323,7 @@ Weight: 710gr</description>
 
 Συμβατή με το iPhone 12 mini.</description>
       <distributor>MOBI</distributor>
-      <disPrice>2.9</disPrice>
+      <disPrice>1.75</disPrice>
     </product>
     <product>
       <id>4507690</id>
@@ -9362,7 +9362,7 @@ Weight: 710gr</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055236/55236074/20220120092348_ae4f6555.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055236/55236079/20220120092348_ab505567.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>6.45</disPrice>
+      <disPrice>5.95</disPrice>
     </product>
     <product>
       <id>4507540</id>
@@ -9410,7 +9410,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S21 Ultra.</description>
       <distributor>MOBI</distributor>
-      <disPrice>6.85</disPrice>
+      <disPrice>5.95</disPrice>
     </product>
     <product>
       <id>4509267</id>
@@ -9551,7 +9551,7 @@ Maximum Dimension: 13"
 Type: Case
 Material: Fabric</description>
       <distributor>MOBI</distributor>
-      <disPrice>22.15</disPrice>
+      <disPrice>21.8</disPrice>
     </product>
     <product>
       <id>4565059</id>
@@ -9584,7 +9584,7 @@ Material: Fabric</description>
       <ean>4250686408799</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153472465/NevoxNevoglassTemperedGlassGalaxyA42.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>173</quantity>
+      <quantity>178</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι συμβατό με το Galaxy A42.</description>
       <distributor>MOBI</distributor>
       <disPrice>3.65</disPrice>
@@ -9681,7 +9681,7 @@ Weight: 230gr</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056360/56360110/20220217093421_5cb59ffd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063069/63069006/20220809130326_32a5d4e6.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>10.25</disPrice>
+      <disPrice>10.15</disPrice>
     </product>
     <product>
       <id>4508558</id>
@@ -9701,7 +9701,7 @@ Weight: 230gr</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/055672/55672254/20220201141744_4d554cee.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/055672/55672258/20220201141744_ad3c277d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>2.45</disPrice>
+      <disPrice>1.95</disPrice>
     </product>
     <product>
       <id>4508555</id>
@@ -9721,7 +9721,7 @@ Weight: 230gr</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055696/55696725/20220202111520_93bab82c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055696/55696728/20220202111522_f82184f3.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>2.45</disPrice>
+      <disPrice>1.95</disPrice>
     </product>
     <product>
       <id>4509264</id>
@@ -9754,7 +9754,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <ean>7348008757087</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153484650/BluePowerFMTransmitterJoymeBluetoothUSBBlack314525.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>200</quantity>
+      <quantity>220</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056113/56113949/20220210172625_f09fdbf3.jpeg]]></additional_imageurl>
       <description>Συσκευή FM Transmitter Joy της εταιρείας Blue Power για εύκολη και γρήγορη αναπαραγωγή μουσικής σε οποιοδήποτε στερεοφωνικό αυτοκινήτου που διαθέτει ραδιόφωνο, χωρίς επιπρόσθετες ενέργειες. Επιλέξτε μια κενή συχνότητα που δεν εκπέμπει κάποιος ενεργός ραδιοφωνικός σταθμός και συγχρονίστε τη συσκευή FM Transmitter και το στερεοφωνικό σας στην ίδια συχνότητα, για να ακούτε μουσική από τα ηχεία του αυτοκινήτου. Υποστηρίζει αναπαραγωγή μουσικής κατευθείαν από το κινητό μέσω της λειτουργίας Bluetooth, ενώ παράλληλα διαθέτει θύρες USB για φόρτιση του smartphone σας. Τέλος, τροφοδοτείται με ρεύμα από τον αναπτήρα του αυτοκινήτου.</description>
       <distributor>MOBI</distributor>
@@ -9776,7 +9776,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056088/56088117/20220210131049_13643680.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056088/56088116/20220210131049_31e08737.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>4.75</disPrice>
+      <disPrice>3.15</disPrice>
     </product>
     <product>
       <id>4508562</id>
@@ -9794,7 +9794,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056199/56199304/20220214104130_3c0561c5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056199/56199301/20220214104129_6cd39e13.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>3.75</disPrice>
+      <disPrice>3.15</disPrice>
     </product>
     <product>
       <id>4508940</id>
@@ -9859,7 +9859,7 @@ Standby: 180hrs</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056615/56615469/20220223103944_6d585f1e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058980/58980163/20220414204523_aed47adb.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>14.15</disPrice>
+      <disPrice>14.25</disPrice>
     </product>
     <product>
       <id>4507513</id>
@@ -9891,7 +9891,7 @@ Standby: 180hrs</description>
       <ean>6974316280392</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407468/AcefastFortistisAytokinitouMayrosB4GrigorisFortisismeTHyres1xUSB.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>34</quantity>
+      <quantity>67</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057520/57520405/20220314162921_27b629ae.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057520/57520400/20220314162921_16687aa1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057520/57520415/20220314162921_125142a0.jpeg]]></additional_imageurl>
@@ -9938,7 +9938,7 @@ Standby: 180hrs</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/059696/59696124/20220504125126_7ef75d9c.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Samsung για προστασία του πίσω μέρους του tablet σου από γρατζουνιές κι άλλες φθορές.</description>
       <distributor>MOBI</distributor>
-      <disPrice>10.15</disPrice>
+      <disPrice>9.95</disPrice>
     </product>
     <product>
       <id>4509195</id>
@@ -10015,7 +10015,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
-      <disPrice>30.75</disPrice>
+      <disPrice>25.85</disPrice>
     </product>
     <product>
       <id>4507555</id>
@@ -10028,7 +10028,7 @@ Standby: 180hrs</description>
       <ean>8806092764323</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407680/SamsungVasiKinitouAytokinitouEPH5300CBEmeRythmizomenaAgistrakai.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>97</quantity>
+      <quantity>96</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064088/64088741/20220908131721_add51ce0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064088/64088745/20220908131721_095a2b7d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/064088/64088737/20220908131721_11f39801.jpeg]]></additional_imageurl>
@@ -10039,7 +10039,7 @@ Standby: 180hrs</description>
       <description>Βάση κινητού αυτοκινήτου EPH5300CBEGEU της εταιρείας Samsung. Η βάση στηρίζεται on the air vents του αυτοκινήτου. Η στήριξη της συσκεύης στη βάση γίνεται with adjustable hooks.
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο and είναι ποιοτική κατασκευή.</description>
       <distributor>MOBI</distributor>
-      <disPrice>29.75</disPrice>
+      <disPrice>31.35</disPrice>
     </product>
     <product>
       <id>4507572</id>
@@ -10064,7 +10064,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
-      <disPrice>16.95</disPrice>
+      <disPrice>16.35</disPrice>
     </product>
     <product>
       <id>4564981</id>
@@ -10084,7 +10084,7 @@ Standby: 180hrs</description>
 
 Συμβατή με το iPhone 14 Plus.</description>
       <distributor>MOBI</distributor>
-      <disPrice>10.25</disPrice>
+      <disPrice>10.15</disPrice>
     </product>
     <product>
       <id>4507562</id>
@@ -10141,7 +10141,7 @@ Weight: 585gr</description>
       <ean>6971085311968</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478673/ImilabFitnessW01AdiavrochoSmartwatchmePalmografoCHryso.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>12</quantity>
       <distributor>MOBI</distributor>
       <disPrice>22.9</disPrice>
     </product>
@@ -10225,7 +10225,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>12.35</disPrice>
+      <disPrice>11.85</disPrice>
     </product>
     <product>
       <id>4507614</id>
@@ -10250,7 +10250,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23 Ultra.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>21.3</disPrice>
     </product>
     <product>
       <id>4508636</id>
@@ -10273,7 +10273,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4508401</id>
@@ -10297,7 +10297,7 @@ Charging Power: 160W</description>
 Συμβατή με το Galaxy S23.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό.</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.85</disPrice>
+      <disPrice>13.7</disPrice>
     </product>
     <product>
       <id>4507663</id>
@@ -10343,7 +10343,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.7</disPrice>
+      <disPrice>21.55</disPrice>
     </product>
     <product>
       <id>4507623</id>
@@ -10366,7 +10366,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>25.75</disPrice>
+      <disPrice>25.5</disPrice>
     </product>
     <product>
       <id>4507660</id>
@@ -10392,7 +10392,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.75</disPrice>
+      <disPrice>21.65</disPrice>
     </product>
     <product>
       <id>4509231</id>
@@ -10409,7 +10409,7 @@ Charging Power: 160W</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071638/71638468/20230209104751_d1e39983.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>23.95</disPrice>
+      <disPrice>23.65</disPrice>
     </product>
     <product>
       <id>4507657</id>
@@ -10430,7 +10430,7 @@ Charging Power: 160W</description>
 
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
-      <disPrice>26.05</disPrice>
+      <disPrice>25.95</disPrice>
     </product>
     <product>
       <id>4509228</id>
@@ -10448,7 +10448,7 @@ Charging Power: 160W</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071787/71787898/20230213100513_ad157aa6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071787/71787903/20230213100513_39daf159.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>23.95</disPrice>
+      <disPrice>23.65</disPrice>
     </product>
     <product>
       <id>4566161</id>
@@ -10545,7 +10545,7 @@ Charging Power: 160W</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.55</disPrice>
+      <disPrice>8.95</disPrice>
     </product>
     <product>
       <id>4567878</id>
@@ -10563,7 +10563,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>13.55</disPrice>
+      <disPrice>8.95</disPrice>
     </product>
     <product>
       <id>4509697</id>
@@ -10581,7 +10581,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>21.35</disPrice>
     </product>
     <product>
       <id>4509827</id>
@@ -10617,7 +10617,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>16.25</disPrice>
+      <disPrice>11.9</disPrice>
     </product>
     <product>
       <id>4565944</id>
@@ -10652,7 +10652,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.75</disPrice>
+      <disPrice>8.95</disPrice>
     </product>
     <product>
       <id>4565852</id>
@@ -10670,7 +10670,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Pin</description>
       <distributor>MOBI</distributor>
-      <disPrice>33.9</disPrice>
+      <disPrice>33.75</disPrice>
     </product>
     <product>
       <id>4509840</id>
@@ -10688,7 +10688,7 @@ Clasp Closure: Pin</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.75</disPrice>
+      <disPrice>12.85</disPrice>
     </product>
     <product>
       <id>4509699</id>
@@ -10706,7 +10706,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>20.95</disPrice>
     </product>
     <product>
       <id>4509834</id>
@@ -10724,7 +10724,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>9.15</disPrice>
+      <disPrice>7.6</disPrice>
     </product>
     <product>
       <id>4509695</id>
@@ -10742,7 +10742,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>21.35</disPrice>
     </product>
     <product>
       <id>4509837</id>
@@ -10760,7 +10760,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>15.75</disPrice>
+      <disPrice>12.95</disPrice>
     </product>
     <product>
       <id>4509845</id>
@@ -10778,7 +10778,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>14.75</disPrice>
+      <disPrice>8.95</disPrice>
     </product>
     <product>
       <id>4509664</id>
@@ -10797,7 +10797,7 @@ Material: Leather
 Clasp Closure: Buckle
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί έχει καλή εφαρμογή and είναι από ποιοτικό υλικό.</description>
       <distributor>MOBI</distributor>
-      <disPrice>20.15</disPrice>
+      <disPrice>19.95</disPrice>
     </product>
     <product>
       <id>4509652</id>
@@ -10815,7 +10815,7 @@ Clasp Closure: Buckle
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>15.75</disPrice>
+      <disPrice>15.25</disPrice>
     </product>
     <product>
       <id>4509804</id>
@@ -10890,7 +10890,7 @@ Clasp Closure: Buckle</description>
 Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
-      <disPrice>16.55</disPrice>
+      <disPrice>15.75</disPrice>
     </product>
     <product>
       <id>4508402</id>
@@ -11874,8 +11874,9 @@ Necklace Length: 38cm</description>
       <ean>4549526168178</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674513/CasioGShockGSteelRoloiSolarmeKaoutsoukLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
+      <quantity>2</quantity>
+      <distributor>WWT</distributor>
+      <disPrice>209.4</disPrice>
     </product>
     <product>
       <id>4556760</id>
@@ -19989,7 +19990,7 @@ Case Shape: Round</description>
       <ean>8431242971087</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153866919/SeikoRoloiMpatariasmeMetallikoMpraseleseCHrysochromaSUR314P1.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Seiko, μεσαίου μεγέθους με Metal Bracelet σε gold χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -20001,7 +20002,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Gold
 • Χρώμα Λουριού: Gold</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>193.64</disPrice>
     </product>
     <product>
@@ -21800,7 +21801,7 @@ Case Shape: Rectangle</description>
       <ean>7630030551277</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153991568/VersaceRoloiPigallemeDermatinoLourakiseMayrochromaVSPEU0119.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>102</quantity>
+      <quantity>101</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Versace. Το black round καντράν, με το Leather σε black χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -39695,7 +39696,7 @@ Case Shape: Round</description>
       <ean>4549526315978</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153925496/CasioRoloiMpatariasmeKaoutsoukLourakiseMayrochromaMW610H2AV.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Casio με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -42044,7 +42045,7 @@ Case Shape: Rectangle</description>
       <ean>4894626066139</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154201108/JustCavalliGlamChicJC1L115M0025Gold.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <distributor>WWT</distributor>
       <disPrice>97.65</disPrice>
     </product>
@@ -50259,7 +50260,7 @@ Frame Material: Metallic</description>
       <ean>4894816034764</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153987878/TimberlandBreakheartRoloiCHronografosMpatariasmeDermatinoLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
