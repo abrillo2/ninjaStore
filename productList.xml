@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-07 02:07</created_at>
+  <created_at>2023-06-07 02:08</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -158,7 +158,7 @@ Length: 1m</description>
       <ean>194252806401</ean>
       <link><![CDATA[https://www.ninjaStore/194252806401]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057419/57419220/20220311132107_2ba7e3d4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057419/57419222/20220311132107_ac0e6324.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057419/57419223/20220311132108_d3059678.jpeg]]></additional_imageurl>
@@ -320,7 +320,7 @@ Length: 1m</description>
       <ean>4710483934940</ean>
       <link><![CDATA[https://www.ninjaStore/4710483934940]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>48</quantity>
+      <quantity>47</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/048528/48528085/20210714104437_1ca311b3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057038/57038496/20220303113116_1234e5cf.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057038/57038465/20220303113115_c9537558.jpeg]]></additional_imageurl>
@@ -976,7 +976,7 @@ Length: 1m</description>
       <ean>2010000000878</ean>
       <link><![CDATA[https://www.ninjaStore/2010000000878]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>0</quantity>
       <distributor>XTG</distributor>
       <disPrice>106.00 </disPrice>
     </product>
@@ -1370,7 +1370,7 @@ Length: 1m</description>
       <ean>751492632834</ean>
       <link><![CDATA[https://www.ninjaStore/751492632834]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/028648/28648920/20191108111249_88a239c7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/028648/28648924/20191108111257_13389d38.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/028648/28648928/20191108111304_12f1c08e.jpeg]]></additional_imageurl>
@@ -2061,7 +2061,7 @@ Length: 1m</description>
       <ean>6934177791802</ean>
       <link><![CDATA[https://www.ninjaStore/6934177791802]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>38</quantity>
+      <quantity>23</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/064483/64483494/20220915114126_bd45d977.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066114/66114693/20221017155136_8efb054b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064483/64483495/20220915114127_7ac7d512.jpeg]]></additional_imageurl>
@@ -2098,7 +2098,7 @@ Length: 1m</description>
       <ean>6941812715123</ean>
       <link><![CDATA[https://www.ninjaStore/6941812715123]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>153</quantity>
+      <quantity>151</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/076213/76213837/20230519152332_b9304df1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/076213/76213836/20230519152332_2786adb1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/076213/76213832/20230519152332_206fdcc4.jpeg]]></additional_imageurl>
@@ -2399,7 +2399,7 @@ Length: 1m</description>
       <ean>6924136718827</ean>
       <link><![CDATA[https://www.ninjaStore/6924136718827]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/076160/76160433/20230518123319_63627868.jpeg]]></additional_imageurl>
       <distributor>XTG</distributor>
       <disPrice>71.00 </disPrice>
@@ -2625,7 +2625,7 @@ Length: 1m</description>
       <ean>6935117840567</ean>
       <link><![CDATA[https://www.ninjaStore/6935117840567]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>24</quantity>
+      <quantity>23</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052065/52065855/20211109123103_c848acba.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053024/53024012/20211129123359_ecc287b8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061033/61033836/20220608160552_0473fe1c.jpeg]]></additional_imageurl>
@@ -2725,7 +2725,7 @@ Length: 1m</description>
       <ean>778656074644</ean>
       <link><![CDATA[https://www.ninjaStore/778656074644]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>244</quantity>
+      <quantity>242</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/017070/17070233/20170505111158_9c8526dc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/017070/17070236/20170505111159_d085c0a0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/017070/17070234/20170505111159_88146d3a.jpeg]]></additional_imageurl>
@@ -2771,7 +2771,7 @@ Length: 1m</description>
       <ean>6934177774546</ean>
       <link><![CDATA[https://www.ninjaStore/6934177774546]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/064414/64414096/20220914091146_78cfab16.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/065162/65162452/20220926142746_89d4dfb9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/070441/70441078/20230113135204_f0a42228.jpeg]]></additional_imageurl>
@@ -3102,7 +3102,7 @@ Length: 1m</description>
       <ean>4719331309190</ean>
       <link><![CDATA[https://www.ninjaStore/4719331309190]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>73</quantity>
+      <quantity>72</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/047342/47342255/20210607152713_a12a7a9a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/047342/47342264/20210607152720_5d366f47.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058167/58167869/20220329131120_f74e097a.jpeg]]></additional_imageurl>
@@ -3146,7 +3146,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050043/50043942/20210920155953_0fdb7a99.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/050043/50043944/20210920155953_78b67f4e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052978/52978312/20211126165356_b8196f80.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>697.00 </disPrice>
     </product>
     <product>
@@ -3165,7 +3165,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/064338/64338388/20220912171330_5bb87b21.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/065162/65162459/20220926142747_65c1a6bb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/065162/65162462/20220926142747_2d4b45b5.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>925.00 </disPrice>
     </product>
     <product>
@@ -3186,7 +3186,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050041/50041184/20210920154127_5ff48b2c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/053020/53020907/20211129120812_551469db.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053020/53020902/20211129120812_694e3a82.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>628.00 </disPrice>
     </product>
     <product>
@@ -3208,7 +3208,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/066114/66114638/20221017155135_131ca4cb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066114/66114655/20221017155135_6e298f93.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066114/66114642/20221017155135_2e7e5796.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>1,030.00 </disPrice>
     </product>
     <product>
@@ -3252,7 +3252,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066114/66114614/20221017155135_9a0c4dce.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066114/66114649/20221017155135_0ef61aca.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066114/66114619/20221017155135_ca685b73.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>1,025.00 </disPrice>
     </product>
     <product>
@@ -3274,7 +3274,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051314/51314342/20211025105210_c2c12123.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055400/55400279/20220124142810_cc3ab52e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/055400/55400276/20220124142810_62aa54d9.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>1,765.00 </disPrice>
     </product>
     <product>
@@ -3296,7 +3296,7 @@ Length: 1m</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066114/66114685/20221017155136_d68fc439.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066114/66114689/20221017155136_02c6044f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066114/66114688/20221017155136_153ef194.jpeg]]></additional_imageurl>
-      <distributor>XTG</distributor>
+      <distributor>NONE</distributor>
       <disPrice>1,030.00 </disPrice>
     </product>
     <product>
@@ -3913,7 +3913,7 @@ Total Ports: 2</description>
       <ean>6934915201976</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153484642/KameraDVRAytokinitou1080PWiFigiaParmprizmeAytokollito027427.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>10</quantity>
+      <quantity>8</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/048401/48401278/20210707131110_9c9188b2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/054076/54076770/20211222170006_6d4ae015.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057519/57519652/20220314162649_f32dfa80.jpeg]]></additional_imageurl>
@@ -4088,7 +4088,7 @@ Clasp Closure: Buckle</description>
       <ean>6971619678079</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153479513/MibroC2AdiavrochoSmartwatchmePalmografoWhite.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>27</quantity>
+      <quantity>6</quantity>
       <distributor>MOBI</distributor>
       <disPrice>22.3</disPrice>
     </product>
@@ -4785,7 +4785,7 @@ Weight: 1070gr</description>
       <ean>6921815619000</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407655/OnePlusWarpFlatUSB20CableUSBCmaleUSBCmaleKokkino1mC201A.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>405</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063260/63260542/20220817152228_030eddbb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063260/63260540/20220817152228_1e1dc585.jpeg]]></additional_imageurl>
       <description>Επίπεδο καλώδιο της εταιρείας OnePlus με δύο ακροδέκτες USBC για τη γρήγορη φόρτιση του κινητού σου και για ταυτόχρονη μεταφορά δεδομένων μεταξύ κινητού και υπολογιστή.
@@ -6409,7 +6409,7 @@ Weight: 370gr</description>
       <ean>8806092058095</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153480370/SamsungGalaxySmartTagSetBluetoothTrackerseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>21</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051367/51367760/20211026110009_c3663f33.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057337/57337211/20220310091222_4ab9bce4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/072026/72026410/20230216163731_4e4bc91f.jpeg]]></additional_imageurl>
@@ -6738,7 +6738,7 @@ USB Version: USB 2.0</description>
       <ean>6921815620273</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964446/OnePlusSandstoneBumperBackCoverPlastikoSilikonisAnthektikiMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>80</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068597/68597966/20221201110002_513d92ef.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας OnePlus για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -6746,7 +6746,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το OnePlus Nord CE 2 5G.</description>
       <distributor>MOBI</distributor>
-      <disPrice>6.45</disPrice>
+      <disPrice>6.9</disPrice>
     </product>
     <product>
       <id>4507564</id>
@@ -6783,7 +6783,7 @@ USB Version: USB 2.0</description>
       <ean>6921815619611</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407683/OnePlusSandstoneBackCoverSilikonisMayroOnePlus10Pro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>9</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/070405/70405670/20230112165900_8eae4970.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας OnePlus για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -6791,7 +6791,7 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το OnePlus 10 Pro.</description>
       <distributor>MOBI</distributor>
-      <disPrice>9.45</disPrice>
+      <disPrice>9.9</disPrice>
     </product>
     <product>
       <id>4507632</id>
@@ -6875,7 +6875,7 @@ USB Version: USB 2.0</description>
       <ean>8806094495461</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407776/SamsungSiliconeCoverwithRingMpleGalaxyZFlip4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>38</quantity>
+      <quantity>37</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063321/63321505/20220818163734_24f738bb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063321/63321504/20220818163734_7a723d8b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063321/63321502/20220818163734_bb3bbb83.jpeg]]></additional_imageurl>
@@ -7038,7 +7038,7 @@ USB Version: USB 2.0</description>
       <ean>6941812703427</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153482759/XiaomiHomeCenterHub2Leyko.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>26</quantity>
+      <quantity>22</quantity>
       <distributor>MOBI</distributor>
       <disPrice>25.9</disPrice>
     </product>
@@ -7470,7 +7470,7 @@ USB Version: USB 2.0</description>
       <ean>8806094772678</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471872/SamsungScreenProtector2tmchGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>270</quantity>
+      <quantity>255</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071350/71350425/20230203111236_97c657cc.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>9.2</disPrice>
@@ -7610,7 +7610,7 @@ Misc Functions: Miracast</description>
       <ean>6971619678468</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154996040/XiaomiMibroM1TWSInearBluetoothHandsfreeAkoustikameAntochiston.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>59</quantity>
+      <quantity>49</quantity>
       <description>Τα inear ασύρματα ακουστικά Xiaomi Mibro M1 TWS συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Είναι κατάλληλη επιλογή για τρέξιμο ή άλλες αθλητικές δραστηριότητες, καθώς διαθέτουν προστασία από τον ιδρώτα και τη βροχή. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
 
 Τα ακουστικά Bluetooth έχουν πολλά οφέλη για τους χρήστες τους, συμπεριλαμβανομένων των εξής:
@@ -7687,7 +7687,7 @@ Ampere: 2A</description>
       <ean>8806090139352</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407596/SamsungChargingDockGalaxyWatchActive2.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>191</quantity>
+      <quantity>181</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/033365/33365327/20200624112404_14811974.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052480/52480865/20211117160701_1344ebf3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054845/54845312/20220111155800_650d88e4.jpeg]]></additional_imageurl>
@@ -8209,7 +8209,7 @@ Standby: 120hrs</description>
       <ean>6941399063143</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153477651/RealmeQ2sInearBluetoothHandsfreeAkoustikameAntochistonIdrotakai.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/058052/58052116/20220324142008_5dc42493.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/058243/58243996/20220330134842_2470f6d1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063343/63343766/20220819141441_c34ade26.jpeg]]></additional_imageurl>
@@ -8438,7 +8438,7 @@ Quick Charge: Power Delivery</description>
       <ean>8806094496499</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153467850/SamsungGripBackCoverSilikonisLeykoGalaxyZFold4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>175</quantity>
+      <quantity>173</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063268/63268326/20220817173100_a6fcc60f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063268/63268327/20220817173100_af6fd0c0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063268/63268325/20220817173100_e0719d8d.jpeg]]></additional_imageurl>
@@ -8981,7 +8981,7 @@ Total Ports: 2</description>
       <ean>8806094770377</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964064/SamsungLeatherCaseBackCoverDermatinoMayroGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>39</quantity>
+      <quantity>35</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313750/20230202151620_cc92643a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313748/20230202151620_423e9bba.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313747/20230202151620_ca2dea68.jpeg]]></additional_imageurl>
@@ -9374,7 +9374,7 @@ Weight: 710gr</description>
       <ean>6921815612407</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407665/OnePlusWarpChargeFlatUSB20CableUSBCmaleUSBCmaleKokkino1m.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>402</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/040005/40005680/20210222112300_23a97645.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052693/52693292/20211122151713_cb516a77.jpeg]]></additional_imageurl>
       <description>Επίπεδο καλώδιο της εταιρείας OnePlus με δύο ακροδέκτες USBC για τη γρήγορη φόρτιση του κινητού σου και για ταυτόχρονη μεταφορά δεδομένων μεταξύ κινητού και υπολογιστή.
@@ -9854,7 +9854,7 @@ Standby: 180hrs</description>
       <ean>8806092978690</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407636/SamsungAsyrmatosFortistisQiPad15WLeykosEPP2400BWEGEU.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>145</quantity>
+      <quantity>140</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056615/56615469/20220223103944_6d585f1e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058980/58980163/20220414204523_aed47adb.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -9949,7 +9949,7 @@ Standby: 180hrs</description>
       <ean>6921815620297</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153472514/3DTemperedGlassMayroOnePlusNordCE25G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>82</quantity>
       <description>Το tempered glass είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 3D, κάτι που σημαίνει ότι έχει υποστεί ειδική επεξεργασία για να αποκτήσει κυρτές άκρες που θα καλύπτουν όλη την επιφάνεια της οθόνης του κινητού τηλεφώνου. Με αυτό τον τρόπο δεν είναι εμφανές ότι η οθόνη διαθέτει προστασία, επιπλέον όμως προστατεύονται και οι καμπυλωτές άκρες της. Είναι συμβατό με το OnePlus Nord CE 2 5G.</description>
       <distributor>MOBI</distributor>
       <disPrice>6.95</disPrice>
@@ -9980,7 +9980,7 @@ Standby: 180hrs</description>
       <ean>6921815620976</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153466132/OnePlusBumperSilikonisAnthektikiMayroOnePlusNordCE2Lite5G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>32</quantity>
+      <quantity>27</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/067813/67813904/20221118090051_7c650894.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/067813/67813868/20221118090050_c7c8d8dc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/067813/67813889/20221118090051_ac2fc363.jpeg]]></additional_imageurl>
@@ -10718,7 +10718,7 @@ Clasp Closure: Buckle</description>
       <ean>8806092659384</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153481640/SamsungSportSMLourakiSilikonisPrasinoGalaxyWatch4Watch4Classic.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
@@ -15572,7 +15572,6 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15631,7 +15630,6 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19481,8 +19479,8 @@ Case Shape: Round</description>
       <ean>4971850946540</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153892545/CasioVintageIconicPSifiakoRoloiMpatariasmeMetallikoMpraseleseCHryso.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
       <disPrice>36.77</disPrice>
     </product>
     <product>
@@ -24874,7 +24872,7 @@ Case Shape: Round</description>
       <ean>4549526322716</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674433/CasioGShockGSquadAnalogikoPSifiakoRoloiCHronografosMpatariasme.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>2</quantity>
       <distributor>WWT</distributor>
       <disPrice>78.02</disPrice>
     </product>
@@ -26776,7 +26774,7 @@ with Stones</description>
       <ean>4549526335631</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674531/CasioAnalogikoPSifiakoRoloiMpatariasmeKaoutsoukLourakiseKokkino.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog, Digital ρολόι της εταιρίας Casio, XXL μεγέθους με Rubber σε red χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η σειρά GShock σχεδιάστηκε και ξεχωρίζει για την ανθεκτικότητα, την καινοτομία και την πολυλειτουργικότητά της.
 
 Βασικά Χαρακτηριστικά:
@@ -29142,7 +29140,7 @@ Case Shape: Round</description>
       <ean>4013496215670</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153863464/DieselMS9ChronoDZ4506.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Diesel, XXL μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -30640,7 +30638,7 @@ Features: Vibration, Microphone</description>
       <ean>4064092153033</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154373700/MichaelKorsGen6CamillePav%C3%A9StainlessSteel44mmSmartwatchmePalmografo.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>7</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/072805/72805185/20230307152623_d2f50dbc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/072805/72805184/20230307152623_781693e1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/073050/73050601/20230314145215_ad3073eb.jpeg]]></additional_imageurl>
@@ -32430,7 +32428,7 @@ Case Shape: Round</description>
       <ean>4549526187537</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153925836/CasioCollectionPSifiakoRoloiCHronografosMpatariasmeKaoutsoukLouraki.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <distributor>WWT</distributor>
       <disPrice>14.94</disPrice>
     </product>
@@ -32792,7 +32790,7 @@ Case Shape: Round</description>
       <ean>4053858415430</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153863909/DieselRoloiGriffedCHronografosmeMetallikoMpraseleseMayrochromaDZ4529.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Diesel, XXL μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -34165,7 +34163,7 @@ Case Shape: Round</description>
       <ean>4064092109306</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153864255/DieselRoloiCHronografosMpatariasmeMetallikoMpraseleseMayrochromaDZ4584.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>23</quantity>
+      <quantity>22</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Diesel, XXL μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -34450,7 +34448,7 @@ with Stones</description>
       <ean>7611608292532</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154396208/TissotTClassicTradition55T0632091105800.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Tissot. Το black round καντράν μικρού μεγέθους, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 31mm
@@ -35425,7 +35423,7 @@ Case Shape: Round</description>
       <ean>4549526210679</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153924010/CasioRoloiEdificeCHronografosmeDermatinoLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Casio, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η φιλοσοφία των Edifice ρολογιών συνοψίζεται στην έξυπνη τεχνολογία, στον κομψό σχεδιασμό και στο πάθος για ταχύτητα.
 
 Βασικά Χαρακτηριστικά:
@@ -38023,7 +38021,7 @@ Necklace Length: 42cm</description>
       <ean>4064092010046</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153864287/DieselRoloiMpatariasmeDermatinoLourakiseMayrochromaDZ1945.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -39384,7 +39382,7 @@ Case Shape: Rectangle</description>
       <ean>194366016147</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156238/TimexRoloimeMetallikoMpraseleseAsimichromaTW2T88800.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Timex. Το silver round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 33mm
@@ -40756,7 +40754,7 @@ Case Shape: Round</description>
       <ean>4053858561335</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153864020/DieselMegaChiefDZ4378.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, XXL μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -40768,7 +40766,7 @@ Case Shape: Round</description>
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
       <distributor>WWT</distributor>
-      <disPrice>97.05</disPrice>
+      <disPrice>97.04</disPrice>
     </product>
     <product>
       <id>4542050</id>
@@ -42154,7 +42152,7 @@ with Stones</description>
       <ean>086702686100</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674612/JuicyCoutureRoloimeDermatinoLourakiseMayrochromaJC1264GPBK.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το black round καντράν, με το Leather σε black χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -42199,7 +42197,7 @@ with Stones</description>
       <ean>4013496511857</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153887148/PumaResetP5009.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Puma, μεγάλου μεγέθους με Rubber σε white χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -42346,7 +42344,7 @@ with Stones</description>
       <ean>4971850440697</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153976019/CasioLTP1094Q1A.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <distributor>WWT</distributor>
       <disPrice>19.74</disPrice>
     </product>
@@ -43190,7 +43188,7 @@ with Stones</description>
       <ean>194366016239</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156239/TimexMilanoRoloimeMetallikoMpraseleseAsimichromaTW2T90300.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>15</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Timex. Το silver round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 34mm
@@ -43946,7 +43944,7 @@ with Stones</description>
       <ean>194366016246</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156240/TimexRoloimeMetallikoMpraseleseCHrysochromaTW2T90400.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>24</quantity>
+      <quantity>23</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Timex. Το silver oval καντράν, με το Metal Bracelet σε gold χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 34mm
@@ -44379,7 +44377,7 @@ Case Shape: Round</description>
       <ean>4053858653481</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153864027/DieselRoloiCHronografosMpatariasmeDermatinoLourakiseKafechromaDZ4400.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Diesel, XXL μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -45966,7 +45964,7 @@ with Stones</description>
       <ean>4051432070136</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153864264/DieselRoloimeDermatinoLourakiseMayrochromaDZ1862.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -45979,7 +45977,7 @@ with Stones</description>
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
       <distributor>WWT</distributor>
-      <disPrice>58.44</disPrice>
+      <disPrice>58.45</disPrice>
     </product>
     <product>
       <id>4557006</id>
@@ -47668,7 +47666,7 @@ Case Shape: Round</description>
       <ean>086702682867</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674644/JuicyCoutureRoloimeDermatinoLourakiseRozchromaJC1255HPHP.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το pink round καντράν, με το Leather σε pink χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 36mm
@@ -47757,7 +47755,7 @@ with Stones</description>
       <ean>086702682621</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674651/JuicyCoutureRoloimeDermatinoLourakiseAsimichromaJC1264RGWT.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το white round καντράν, με το Leather σε silver χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -47803,7 +47801,7 @@ with Stones</description>
       <ean>086702682614</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674647/JuicyCoutureRoloimeDermatinoLourakiseRozchromaJC1264RGHP.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το fuchsia round καντράν, με το Leather σε pink χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -47871,7 +47869,7 @@ with Stones</description>
       <ean>086702686063</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674639/JuicyCoutureRoloimeDermatinoLourakiseLeykochromaJC1234RGWT.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το multicolour round καντράν, με το Leather σε white χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -48118,7 +48116,7 @@ Case Shape: Round</description>
       <ean>086702689057</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674600/JuicyCoutureRoloimeDermatinoLourakiseLeykochromaJC1326RGWT.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το gray round καντράν, με το Leather σε white χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 34mm
@@ -48521,7 +48519,7 @@ Case Shape: Round</description>
       <ean>086702682690</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674579/JuicyCoutureRoloimeMetallikoMpraseleseAsimichromaJC1279BKSV.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>50</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το gray round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 35mm
@@ -49396,7 +49394,7 @@ Case Shape: Round</description>
       <ean>753048555024</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156258/TimexIronmanMoveX20ActivityTrackermePalmografoMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/073203/73203112/20230317170429_ca3ffbe7.jpeg]]></additional_imageurl>
       <description>Το activity tracker της Timex είναι συμβατό με λειτουργικό Android ή iOS, και μπορεί να συνδεθεί μέσω Bluetooth με το κινητό σας τηλέφωνο.
 Sensors: Pedometer, Accelerometer, Sleep Monitoring, Calorimeter, Heart Beat Monitor
@@ -51045,7 +51043,7 @@ Case Shape: Round</description>
       <ean>7611608289228</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154396229/TissotRoloiCHronografosMpatariasmeDermatinoLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <distributor>WWT</distributor>
       <disPrice>158</disPrice>
     </product>
@@ -51076,7 +51074,7 @@ Case Shape: Round</description>
       <ean>716736039336</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154729631/PolaroidAndrikaGyaliaIlioumeMpleSkeletokaiGalazioPolarizedKathrefti.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <size>47-63</size>
       <variations>
         <variation>
@@ -51085,7 +51083,7 @@ Case Shape: Round</description>
           <ean>716736039336</ean>
           <price_with_vat>42</price_with_vat>
           <size>47-63</size>
-          <quantity>2</quantity>
+          <quantity>1</quantity>
           <variationid>716736039336.47-63</variationid>
           <manufacturersku>PLD 2061/S FLL/1A</manufacturersku>
         </variation>
@@ -53405,7 +53403,7 @@ Frame Material: Metallic</description>
       <ean>7612901704012</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232227/HipHopVelvetTouchRoloimeYfasmatinoLourakisePrasinochromaHWU0135.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν μεγάλου μεγέθους, με το Fabric σε green χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 40mm
@@ -53770,7 +53768,7 @@ Frame Material: Metallic</description>
       <ean>7612901707457</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232231/HipHopHeroRoloimeKaoutsoukLourakiseKitrinochromaHWU0232.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>11</quantity>
+      <quantity>10</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε yellow χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -54176,7 +54174,7 @@ Frame Material: Mixed</description>
       <ean>7612901707358</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232258/HipHopMelangeRoloimeKaoutsoukLourakisePrasinochromaHWU0331.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε green χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -54199,7 +54197,7 @@ Case Shape: Round</description>
       <ean>7612901707402</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232260/HipHopMelangeRoloimeKaoutsoukLourakiseMovchromaHWU0336.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>9</quantity>
+      <quantity>8</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το gray round καντράν, με το Rubber σε purple χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -54245,7 +54243,7 @@ Case Shape: Round</description>
       <ean>7612901700557</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154282012/HipHopHero32RoloimeKaoutsoukLourakiseLeykochromaHWU0010.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε white χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -54830,7 +54828,7 @@ Case Shape: Round</description>
       <ean>7612901704128</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232233/HipHopVelvetTouchRoloimeYfasmatinoLourakiseMayrochromaHWU0146.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το black round καντράν μεγάλου μεγέθους, με το Fabric σε black χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 40mm
@@ -55530,7 +55528,7 @@ Case Shape: Round</description>
       <ean>7612901709710</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154283516/HipHopMosaicRoloimeKaoutsoukLourakiseMplechromaHWU0456.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε blue χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -55553,7 +55551,7 @@ Case Shape: Round</description>
       <ean>7612901709697</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154283490/HipHopMosaicRoloimeKaoutsoukLourakiHWU0454.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε multicolour χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -55576,7 +55574,7 @@ Case Shape: Round</description>
       <ean>7612901709529</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154283170/HipHopMillerigheRoloimeKaoutsoukLourakiHWU0443.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το white round καντράν, με το Rubber σε multicolour χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -55875,7 +55873,7 @@ Case Shape: Round</description>
       <ean>7612901702858</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154282200/HipHopCrystalRoloimeKaoutsoukLourakiseLeykochromaHWU0071.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>8</quantity>
+      <quantity>7</quantity>
       <description>Γυναικείο ρολόι από την εταιρία HipHop. Το black round καντράν, με το Rubber σε white χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
