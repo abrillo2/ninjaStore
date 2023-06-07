@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-07 12:40</created_at>
+  <created_at>2023-06-07 08:05</created_at>
   <products>
     <product>
       <id>4507528</id>
@@ -408,7 +408,7 @@ Length: 1m</description>
       <ean>2010000113646</ean>
       <link><![CDATA[https://www.ninjaStore/2010000113646]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>66</quantity>
+      <quantity>72</quantity>
       <distributor>XTG</distributor>
       <disPrice>130.00 </disPrice>
     </product>
@@ -976,7 +976,7 @@ Length: 1m</description>
       <ean>2010000000878</ean>
       <link><![CDATA[https://www.ninjaStore/2010000000878]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>24</quantity>
       <distributor>XTG</distributor>
       <disPrice>106.00 </disPrice>
     </product>
@@ -15570,6 +15570,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15628,6 +15629,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20367,7 +20369,7 @@ Necklace Length: 46cm</description>
       <ean>4064092070392</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156603/FossilGen6StainlessSteel44mmSmartwatchmePalmografoGri.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>19</quantity>
+      <quantity>20</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022573/20220922121134_736482e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022571/20220922121134_387e963a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/065022/65022569/20220922121134_6d92d87d.jpeg]]></additional_imageurl>
@@ -23268,7 +23270,7 @@ with Stones</description>
       <ean>7688200301085</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154738054/FrederiqueConstantClassicFC292MS5B6.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Frederique Constant, μεσαίου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -23279,7 +23281,7 @@ with Stones</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>540.31</disPrice>
     </product>
     <product>
@@ -24138,8 +24140,8 @@ Case Shape: Round</description>
       <ean>8018225033842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876777/CitizenRoloiEcoDrivemeYfasmatinoLourakiseMpezchromaBM755010E.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
+      <quantity>4</quantity>
+      <distributor>WWT</distributor>
       <disPrice>95.16</disPrice>
     </product>
     <product>
@@ -26860,10 +26862,10 @@ Case Shape: Round</description>
       <ean>4064092161212</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672064/EmporioArmaniAndrikoVrachioliAlysidaapoAtsaliEGS2938040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>5</quantity>
       <description>Βραχιόλι της εταιρείας Emporio Armani.</description>
       <distributor>WWT</distributor>
-      <disPrice>81.84</disPrice>
+      <disPrice>79.22</disPrice>
     </product>
     <product>
       <id>4556517</id>
@@ -26891,10 +26893,10 @@ Case Shape: Round</description>
       <ean>4064092130461</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672060/EmporioArmaniAndrikoKolieapoAtsaliEGS2909040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>5</quantity>
       <description>της εταιρείας Emporio Armani από Steel.</description>
       <distributor>WWT</distributor>
-      <disPrice>81.84</disPrice>
+      <disPrice>79.22</disPrice>
     </product>
     <product>
       <id>4556497</id>
@@ -32138,7 +32140,7 @@ Case Shape: Round</description>
       <ean>8018225033927</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876322/CitizenRoloiCHronografosEcoDrivemeKaoutsoukLourakiseMplechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Rubber σε blue χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -32150,7 +32152,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Blue</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>106.77</disPrice>
     </product>
     <product>
@@ -33619,7 +33621,7 @@ with Stones</description>
       <ean>4894626113765</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154198997/JustCavalliRoloimeMetallikoMpraseleJC1L151M0105.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Just Cavalli. Το silver round καντράν, με το Metal Bracelet σε multicolour χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Waterproof: Hand Washing (5 Atm)
@@ -33628,7 +33630,7 @@ Strap Colour: Multicolour
 Dial Colour: Silver
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>77.13</disPrice>
     </product>
     <product>
@@ -34469,7 +34471,7 @@ Case Shape: Round</description>
       <ean>8018225035365</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876387/CitizenRoloiCHronografosMpatariasmeMetallikoMpraseleseAsimichroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35702,7 +35704,7 @@ Case Shape: Round</description>
       <ean>4064092084665</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153865209/DieselMS9RoloiMpatariasmeMetallikoMpraseleseAsimichromaDZ1974.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35714,7 +35716,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>93.33</disPrice>
     </product>
     <product>
@@ -40028,7 +40030,7 @@ Case Shape: Round</description>
       <ean>8018225035471</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876528/CitizenRoloiEcoDrivemeMetallikoMpraseleseAsimichromaAW171586X.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>4</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Citizen με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -42685,9 +42687,9 @@ Type of Stone: Zircon</description>
       <ean>4549526176401</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893348/CasioIlluminatorRoloiCHronografosMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>40.53</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
+      <disPrice>35,94</disPrice>
     </product>
     <product>
       <id>4531180</id>
@@ -42890,7 +42892,7 @@ Frame Material: Metallic</description>
       <id>4556716</id>
       <name><![CDATA[Casio GShock Battery Chronograph Watch with Rubber Strap Gray]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>112</price_with_vat>
+      <price_with_vat>83.50</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/034525/34525661/fixedratio_20220802201237_casio_g_shock_herren_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_gri_chroma_gma_s120gs_8aer.jpeg]]></image>
       <mpn>GMAS120GS8AER</mpn>
@@ -42915,11 +42917,11 @@ Frame Material: Metallic</description>
       <id>4556830</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ασημί χρώμα JC/1235SVSI]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>50,5</price_with_vat>
+      <price_with_vat>48.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038083/38083198/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1235svsi.jpeg]]></image>
       <mpn>JC/1235SVSI</mpn>
-      <ean>086702681396</ean>
+      <ean>86702681396</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674585/JuicyCoutureRoloimeDermatinoLourakiseAsimichromaJC1235SVSI.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>50</quantity>
@@ -42938,11 +42940,11 @@ with Stones</description>
       <id>4556833</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ Χρυσό χρώμα JC/1256RGRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>50,5</price_with_vat>
+      <price_with_vat>48.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038085/38085158/fixedratio_20220928155614_juicy_couture_roloi_me_dermatino_louraki_se_roz_chryso_chroma_jc_1256rgrg.jpeg]]></image>
       <mpn>JC/1256RGRG</mpn>
-      <ean>086702682898</ean>
+      <ean>86702682898</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674588/JuicyCoutureRoloimeDermatinoLourakiseRozCHrysochromaJC1256RGRG.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>50</quantity>
@@ -42960,7 +42962,7 @@ Case Shape: Round</description>
       <id>4546782</id>
       <name><![CDATA[Esprit Set Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>104</price_with_vat>
+      <price_with_vat>89.0</price_with_vat>
       <manufacturer>Esprit</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038289/38289836/fixedratio_20220921170431_esprit_set_roloi_me_metalliko_mprasele_se_asimi_chroma_es1l296m0115.jpeg]]></image>
       <mpn>ES1L296M0115</mpn>
@@ -43179,7 +43181,7 @@ with Stones</description>
       <id>4539124</id>
       <name><![CDATA[Timex Milano Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>66</price_with_vat>
+      <price_with_vat>62.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038533/38533444/fixedratio_20221006103405_timex_milano_roloi_me_metalliko_mprasele_se_asimi_chroma_tw2t90300.jpeg]]></image>
       <mpn>TW2T90300</mpn>
@@ -43202,7 +43204,7 @@ Case Shape: Round</description>
       <id>4556728</id>
       <name><![CDATA[Casio GShock Digital Battery Chronograph Watch with Rubber Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>91</price_with_vat>
+      <price_with_vat>87.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/034027/34027817/fixedratio_20220802201139_casio_g_shock_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_mple_chroma_dw_5600ca_2er.jpeg]]></image>
       <mpn>DW5600CA2ER</mpn>
@@ -43570,7 +43572,7 @@ with Stones</description>
       <id>4546779</id>
       <name><![CDATA[Esprit Set Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>105</price_with_vat>
+      <price_with_vat>89.0</price_with_vat>
       <manufacturer>Esprit</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/034814/34814827/fixedratio_20220803114931_esprit_set_roloi_me_metalliko_mprasele_se_chryso_chroma_es1l295m0095.jpeg]]></image>
       <mpn>ES1L295M0095</mpn>
@@ -43677,7 +43679,7 @@ with Stones</description>
       <id>4539765</id>
       <name><![CDATA[Sector Battery Watch with Metal Bracelet Silver R3253486003]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>80</price_with_vat>
+      <price_with_vat>71.0</price_with_vat>
       <manufacturer>Sector</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/025660/25660187/fixedratio_20220802194925_sector_r3253486003.jpeg]]></image>
       <mpn>R3253486003</mpn>
@@ -43788,7 +43790,7 @@ Type of Stone: Zircon</description>
       <id>4530997</id>
       <name><![CDATA[Casio Ρολόι Μπαταρίας με Δερμάτινο Λουράκι σε Μαύρο χρώμα MTPVD03GL1AUDF]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>73</price_with_vat>
+      <price_with_vat>63.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040227/40227424/fixedratio_20230105084258_casio_roloi_mpatarias_me_dermatino_louraki_se_mayro_chroma_mtp_vd03gl_1audf.jpeg]]></image>
       <mpn>MTPVD03GL1AUDF</mpn>
@@ -43813,7 +43815,7 @@ Type of Stone: Zircon</description>
       <id>4539115</id>
       <name><![CDATA[Timex Parisienne Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα TW2T78900]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>79</price_with_vat>
+      <price_with_vat>72.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038533/38533369/fixedratio_20221006103308_timex_parisienne_roloi_me_metalliko_mprasele_se_chryso_chroma_tw2t78900.jpeg]]></image>
       <mpn>TW2T78900</mpn>
@@ -43836,7 +43838,7 @@ Case Shape: Round</description>
       <id>4539113</id>
       <name><![CDATA[Timex Parisienne Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>79</price_with_vat>
+      <price_with_vat>69.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038533/38533349/fixedratio_20221006103250_timex_parisienne_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_tw2t78800.jpeg]]></image>
       <mpn>TW2T78800</mpn>
@@ -43935,7 +43937,7 @@ with Stones</description>
       <id>4539125</id>
       <name><![CDATA[Timex Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>73</price_with_vat>
+      <price_with_vat>64.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/026362/26362084/fixedratio_20220803112800_timex_roloi_me_metalliko_mprasele_se_chryso_chroma_tw2t90400.jpeg]]></image>
       <mpn>TW2T90400</mpn>
@@ -43958,7 +43960,7 @@ Case Shape: Oval</description>
       <id>4542246</id>
       <name><![CDATA[Q&Q Watch with Metal Bracelet Gold QC07J011]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>33</price_with_vat>
+      <price_with_vat>28.0</price_with_vat>
       <manufacturer>Q&amp;Q</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/021805/21805519/fixedratio_20220803111842_q_q_qc07j011.jpeg]]></image>
       <mpn>QC07J011</mpn>
@@ -44031,7 +44033,7 @@ with Stones</description>
       <id>4541145</id>
       <name><![CDATA[Just Cavalli Animalier Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>150</price_with_vat>
+      <price_with_vat>118.0</price_with_vat>
       <manufacturer>Just Cavalli</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/021899/21899578/fixedratio_20220803111913_just_cavalli_animalier_jc1l105m0085_multi_gold.jpeg]]></image>
       <mpn>JC1L105M0085</mpn>
@@ -44054,7 +44056,7 @@ Case Shape: Round</description>
       <id>4546775</id>
       <name><![CDATA[Esprit Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>92</price_with_vat>
+      <price_with_vat>77.0</price_with_vat>
       <manufacturer>Esprit</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/034814/34814767/fixedratio_20220803114928_esprit_roloi_me_metalliko_mprasele_se_chryso_chroma_es1l291m0105.jpeg]]></image>
       <mpn>ES1L291M0105</mpn>
@@ -44077,7 +44079,7 @@ Case Shape: Round</description>
       <id>4539117</id>
       <name><![CDATA[Timex Parisienne Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>67</price_with_vat>
+      <price_with_vat>59.50</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/027369/27369780/fixedratio_20220803112943_timex_roloi_parisienne_me_metalliko_mprasele_se_asimi_chroma_tw2t79300.jpeg]]></image>
       <mpn>TW2T79300</mpn>
@@ -44212,7 +44214,7 @@ Case Shape: Round</description>
       <id>4530991</id>
       <name><![CDATA[Casio Enticer Lady Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>41.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/018532/18532585/fixedratio_20220803111255_casio_enticer_lady_ltp_vt01l_1b.jpeg]]></image>
       <mpn>LTPVT01L1B</mpn>
@@ -44235,7 +44237,7 @@ Case Shape: Round</description>
       <id>4529822</id>
       <name><![CDATA[Casio Ρολόι με Δερμάτινο Λουράκι σε Μαύρο χρώμα MTP1370L7A]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>73,5</price_with_vat>
+      <price_with_vat>51.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/027723/27723275/fixedratio_20220802195236_casio_roloi_me_dermatino_louraki_se_mayro_chroma_mtp_1370l_7a.jpeg]]></image>
       <mpn>MTP1370L7A</mpn>
@@ -44343,7 +44345,7 @@ Case Shape: Round</description>
       <id>4544701</id>
       <name><![CDATA[Police Sphere Battery Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>120.0</price_with_vat>
       <manufacturer>Police</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031339/31339594/fixedratio_20220802200040_police_sphere_roloi_mpatarias_me_dermatino_louraki_se_mayro_chroma_pewja2002302.jpeg]]></image>
       <mpn>PEWJA2002302</mpn>
@@ -44615,7 +44617,7 @@ Case Shape: Round</description>
       <id>4539755</id>
       <name><![CDATA[Sector Battery Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>90</price_with_vat>
+      <price_with_vat>76.0</price_with_vat>
       <manufacturer>Sector</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/012828/12828767/fixedratio_20220802191411_sector_r3251503002.jpeg]]></image>
       <mpn>R3251503002</mpn>
@@ -44640,7 +44642,7 @@ Case Shape: Round</description>
       <id>4556866</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348382/fixedratio_20221013124818_juicy_couture_roloi_me_metalliko_mprasele_jc_1334rgpr.jpeg]]></image>
       <mpn>JC/1334RGPR</mpn>
@@ -44663,7 +44665,7 @@ with Stones</description>
       <id>4556865</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348326/fixedratio_20221013124819_juicy_couture_roloi_me_metalliko_mprasele_se_mayro_chroma_jc_1334bkgp.jpeg]]></image>
       <mpn>JC/1334BKGP</mpn>
@@ -44686,7 +44688,7 @@ with Stones</description>
       <id>4556864</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet White]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038348/38348244/fixedratio_20221013124819_juicy_couture_roloi_me_metalliko_mprasele_se_leyko_chroma_jc_1310rgwt.jpeg]]></image>
       <mpn>JC/1310RGWT</mpn>
@@ -44709,7 +44711,7 @@ with Stones</description>
       <id>4556863</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Fuchsia]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038348/38348237/fixedratio_20221013124819_juicy_couture_roloi_me_metalliko_mprasele_se_fouxia_chroma_jc_1310rghp.jpeg]]></image>
       <mpn>JC/1310RGHP</mpn>
@@ -44732,11 +44734,11 @@ with Stones</description>
       <id>4556847</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1208HPRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038083/38083376/fixedratio_20220928155534_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1208hprg.jpeg]]></image>
       <mpn>JC/1208HPRG</mpn>
-      <ean>086702686018</ean>
+      <ean>86702686018</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674602/JuicyCoutureRoloimeMetallikoMpraseleseRozCHrysochromaJC1208HPRG.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>50</quantity>
@@ -44755,7 +44757,7 @@ with Stones</description>
       <id>4556849</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1282RGRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038126/38126421/fixedratio_20220928095140_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1282rgrg.jpeg]]></image>
       <mpn>JC/1282RGRG</mpn>
@@ -44778,7 +44780,7 @@ with Stones</description>
       <id>4556821</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1312RGRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038083/38083629/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1312rgrg.jpeg]]></image>
       <mpn>JC/1312RGRG</mpn>
@@ -44801,7 +44803,7 @@ with Stones</description>
       <id>4556820</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ JC/1308WTGB]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038083/38083068/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_jc_1308wtgb.jpeg]]></image>
       <mpn>JC/1308WTGB</mpn>
@@ -44824,7 +44826,7 @@ with Stones</description>
       <id>4556819</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ JC/1308NVRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038085/38085639/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_jc_1308nvrg.jpeg]]></image>
       <mpn>JC/1308NVRG</mpn>
@@ -44847,7 +44849,7 @@ with Stones</description>
       <id>4556817</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα JC/1209BLSV]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038085/38085380/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_se_asimi_chroma_jc_1209blsv.jpeg]]></image>
       <mpn>JC/1209BLSV</mpn>
@@ -44870,7 +44872,7 @@ with Stones</description>
       <id>4556816</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1208PKRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038083/38083458/fixedratio_20220928155534_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1208pkrg.jpeg]]></image>
       <mpn>JC/1208PKRG</mpn>
@@ -44892,7 +44894,7 @@ Case Shape: Round</description>
       <id>4556862</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Pink]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038348/38348225/fixedratio_20221013124818_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chroma_jc_1310gptp.jpeg]]></image>
       <mpn>JC/1310GPTP</mpn>
@@ -44915,7 +44917,7 @@ with Stones</description>
       <id>4556815</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1208NVRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038083/38083323/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1208nvrg.jpeg]]></image>
       <mpn>JC/1208NVRG</mpn>
@@ -44938,7 +44940,7 @@ with Stones</description>
       <id>4556850</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Burgundy]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>82</price_with_vat>
+      <price_with_vat>67.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038126/38126370/fixedratio_20220928095140_juicy_couture_roloi_me_metalliko_mprasele_se_mpornto_chroma_jc_1334rgby.jpeg]]></image>
       <mpn>JC/1334RGBY</mpn>
@@ -45346,7 +45348,7 @@ Case Shape: Round</description>
       <id>4539111</id>
       <name><![CDATA[Timex Parisienne Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα TW2T78700]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>74</price_with_vat>
+      <price_with_vat>64.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038533/38533651/fixedratio_20221006103721_timex_parisienne_roloi_me_metalliko_mprasele_se_asimi_chroma_tw2t78700.jpeg]]></image>
       <mpn>TW2T78700</mpn>
@@ -45422,7 +45424,7 @@ Case Shape: Oval</description>
       <id>4529854</id>
       <name><![CDATA[Casio Ρολόι Χρονογράφος Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTPV300D2A]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>82,5</price_with_vat>
+      <price_with_vat>64.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/032953/32953606/fixedratio_20220802200823_casio_roloi_chronografos_mpatarias_me_metalliko_mprasele_se_asimi_chroma_mtp_v300d_2a.jpeg]]></image>
       <mpn>MTPV300D2A</mpn>
@@ -45693,7 +45695,7 @@ Case Shape: Round</description>
       <id>4530994</id>
       <name><![CDATA[Casio Enticer Gent Ρολόι Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTPVD03D1AUDF]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>69</price_with_vat>
+      <price_with_vat>59.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040227/40227426/fixedratio_20230105084625_casio_enticer_gent_roloi_mpatarias_me_metalliko_mprasele_se_asimi_chroma_mtp_vd03d_1audf.jpeg]]></image>
       <mpn>MTPVD03D1AUDF</mpn>
@@ -45717,7 +45719,7 @@ Case Shape: Round</description>
       <id>4530995</id>
       <name><![CDATA[Casio Enticer Gent Battery Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>69</price_with_vat>
+      <price_with_vat>59.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040227/40227427/fixedratio_20230105084706_casio_enticer_gent_roloi_mpatarias_me_metalliko_mprasele_se_asimi_chroma_mtp_vd03d_7audf.jpeg]]></image>
       <mpn>MTPVD03D7AUDF</mpn>
@@ -46106,7 +46108,7 @@ Case Shape: Round</description>
       <id>4529815</id>
       <name><![CDATA[Casio Sheen Watch with Leather Strap Gray]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>63</price_with_vat>
+      <price_with_vat>55.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039254/39254297/fixedratio_20221110131605_casio_sheen_roloi_me_dermatino_louraki_se_gri_chroma_she_4543gl_8auer.jpeg]]></image>
       <mpn>SHE4543GL8AUER</mpn>
@@ -46129,7 +46131,7 @@ Case Shape: Round</description>
       <id>4556859</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>52,99</price_with_vat>
+      <price_with_vat>49.00</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038126/38126349/fixedratio_20220928111109_juicy_couture_roloi_me_dermatino_louraki_se_mple_chroma_jc_1326rgnv.jpeg]]></image>
       <mpn>JC/1326RGNV</mpn>
@@ -46151,11 +46153,11 @@ Case Shape: Round</description>
       <id>4556861</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Πράσινο χρώμα JC/1344GPGN]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>53</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038126/38126344/fixedratio_20220928095140_juicy_couture_roloi_me_dermatino_louraki_se_prasino_chroma_jc_1344gpgn.jpeg]]></image>
       <mpn>JC/1344GPGN</mpn>
-      <ean>086702690756</ean>
+      <ean>86702690756</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674616/JuicyCoutureRoloimeDermatinoLourakisePrasinochromaJC1344GPGN.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>45</quantity>
@@ -46492,7 +46494,7 @@ Case Shape: Rectangle</description>
       <id>4547802</id>
       <name><![CDATA[Emporio Armani Women's Gold Plated Steel Necklace]]></name>
       <category><![CDATA[Fashion > Jewelry > Necklaces]]></category>
-      <price_with_vat>110</price_with_vat>
+      <price_with_vat>107.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/032319/32319786/fixedratio_20220803004303_emporio_armani_gynaikeio_kolie_apo_atsali_epichrysomeno_egs2834221.jpeg]]></image>
       <mpn>EGS2834221</mpn>
@@ -46712,7 +46714,7 @@ Case Shape: Round</description>
       <id>4529859</id>
       <name><![CDATA[Casio Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>69,5</price_with_vat>
+      <price_with_vat>60.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/031507/31507178/fixedratio_20220803114350_casio_roloi_me_metalliko_mprasele_se_chryso_chroma_ltp_v002g_9b.jpeg]]></image>
       <mpn>LTPV002G9B</mpn>
@@ -46791,7 +46793,7 @@ Case Shape: Round</description>
       <id>4541071</id>
       <name><![CDATA[Just Cavalli Snake Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>103.0</price_with_vat>
       <manufacturer>Just Cavalli</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/034314/34314587/fixedratio_20220803114847_just_cavalli_snake_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc1l212m0255.jpeg]]></image>
       <mpn>JC1L212M0255</mpn>
@@ -46963,7 +46965,7 @@ Case Shape: Round</description>
       <id>4556858</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Μαύρο χρώμα JC/1300GPBK]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>54</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038126/38126366/fixedratio_20220928095139_juicy_couture_roloi_me_dermatino_louraki_se_mayro_chroma_jc_1300gpbk.jpeg]]></image>
       <mpn>JC/1300GPBK</mpn>
@@ -47111,7 +47113,7 @@ Frame Material: Metallic</description>
       <id>4539126</id>
       <name><![CDATA[Timex Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>77</price_with_vat>
+      <price_with_vat>64.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/026362/26362116/fixedratio_20220803112800_timex_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_tw2t90500.jpeg]]></image>
       <mpn>TW2T90500</mpn>
@@ -47171,7 +47173,7 @@ Case Shape: Round</description>
       <id>4541072</id>
       <name><![CDATA[Just Cavalli Snake Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>139</price_with_vat>
+      <price_with_vat>118.0</price_with_vat>
       <manufacturer>Just Cavalli</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/034314/34314113/fixedratio_20220803114848_just_cavalli_snake_roloi_me_metalliko_mprasele_se_asimi_chroma_jc1l212m0275.jpeg]]></image>
       <mpn>JC1L212M0275</mpn>
@@ -47265,7 +47267,7 @@ Frame Material: HornRimmed</description>
       <id>4531857</id>
       <name><![CDATA[Casio Ρολόι MTP1314D2AV με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTP1314D2AV]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>65</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/002279/2279872/fixedratio_20220802183900_casio_roloi_mtp_1314d_2av_me_metalliko_mprasele_se_asimi_chroma_mtp_1314d_2av.jpeg]]></image>
       <mpn>MTP1314D2AV</mpn>
@@ -47490,7 +47492,7 @@ Case Shape: Oval</description>
       <id>4544834</id>
       <name><![CDATA[Police Lanshu Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>169</price_with_vat>
+      <price_with_vat>147.0</price_with_vat>
       <manufacturer>Police</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/035589/35589669/fixedratio_20220802201442_police_lanshu_roloi_chronografos_mpatarias_me_dermatino_louraki_se_mayro_chroma_pewjf2203301.jpeg]]></image>
       <mpn>PEWJF2203301</mpn>
@@ -47568,7 +47570,7 @@ with Stones</description>
       <id>4556880</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ Χρυσό χρώμα JC/1214RGPK]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039788/39788962/fixedratio_20221201121452_juicy_couture_roloi_me_dermatino_louraki_se_roz_chryso_chroma_jc_1214rgpk.jpeg]]></image>
       <mpn>JC/1214RGPK</mpn>
@@ -47590,7 +47592,7 @@ Case Shape: Round</description>
       <id>4556843</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Πράσινο χρώμα JC/1326RGGN]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038084/38084456/fixedratio_20220928155613_juicy_couture_roloi_me_dermatino_louraki_se_prasino_chroma_jc_1326rggn.jpeg]]></image>
       <mpn>JC/1326RGGN</mpn>
@@ -47612,11 +47614,11 @@ Case Shape: Round</description>
       <id>4556841</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JC/1325WTWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038084/38084220/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1325wtwt.jpeg]]></image>
       <mpn>JC/1325WTWT</mpn>
-      <ean>086702686575</ean>
+      <ean>86702686575</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674596/JuicyCoutureRoloimeDermatinoLourakiseLeykochromaJC1325WTWT.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>49</quantity>
@@ -47635,7 +47637,7 @@ with Stones</description>
       <id>4556834</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ασημί χρώμα JC/1257LBSI]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038085/38085845/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1257lbsi.jpeg]]></image>
       <mpn>JC/1257LBSI</mpn>
@@ -47657,7 +47659,7 @@ Case Shape: Round</description>
       <id>4556889</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ χρώμα JC/1255HPHP]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/039788/39788028/fixedratio_20221201115521_juicy_couture_roloi_me_dermatino_louraki_se_roz_chroma_jc_1255hphp.jpeg]]></image>
       <mpn>JC/1255HPHP</mpn>
@@ -47679,7 +47681,7 @@ Case Shape: Round</description>
       <id>4556831</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ χρώμα JC/1256RGHP]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038084/38084629/fixedratio_20220928155614_juicy_couture_roloi_me_dermatino_louraki_se_roz_chroma_jc_1256rghp.jpeg]]></image>
       <mpn>JC/1256RGHP</mpn>
@@ -47701,7 +47703,7 @@ Case Shape: Round</description>
       <id>4556898</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039789/39789125/fixedratio_20221201121718_juicy_couture_roloi_me_dermatino_louraki_se_roz_chryso_chroma_jc_1344rgpk.jpeg]]></image>
       <mpn>JC/1344RGPK</mpn>
@@ -47723,7 +47725,7 @@ Case Shape: Round</description>
       <id>4556897</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Green]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039788/39788195/fixedratio_20221201115831_juicy_couture_roloi_me_dermatino_louraki_se_prasino_chroma_jc_1300rggn.jpeg]]></image>
       <mpn>JC/1300RGGN</mpn>
@@ -47746,7 +47748,7 @@ with Stones</description>
       <id>4556896</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/039787/39787948/fixedratio_20221201115354_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1264rgwt.jpeg]]></image>
       <mpn>JC/1264RGWT</mpn>
@@ -47769,7 +47771,7 @@ with Stones</description>
       <id>4556893</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Navy Blue]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039788/39788154/fixedratio_20221201115724_juicy_couture_roloi_me_dermatino_louraki_se_navy_mple_chroma_jc_1264rgnv.jpeg]]></image>
       <mpn>JC/1264RGNV</mpn>
@@ -47792,7 +47794,7 @@ with Stones</description>
       <id>4556892</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Pink]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039788/39788078/fixedratio_20221201115604_juicy_couture_roloi_me_dermatino_louraki_se_roz_chroma_jc_1264rghp.jpeg]]></image>
       <mpn>JC/1264RGHP</mpn>
@@ -47815,7 +47817,7 @@ with Stones</description>
       <id>4556890</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap White]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039789/39789104/fixedratio_20221201121622_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1255wtwt.jpeg]]></image>
       <mpn>JC/1255WTWT</mpn>
@@ -47837,7 +47839,7 @@ Case Shape: Round</description>
       <id>4556885</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ασημί χρώμα JC/1235SVWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039787/39787959/fixedratio_20221201115421_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1235svwt.jpeg]]></image>
       <mpn>JC/1235SVWT</mpn>
@@ -47860,7 +47862,7 @@ with Stones</description>
       <id>4556884</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JC/1234RGWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/039787/39787878/fixedratio_20221201115220_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1234rgwt.jpeg]]></image>
       <mpn>JC/1234RGWT</mpn>
@@ -47883,7 +47885,7 @@ with Stones</description>
       <id>4556883</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ χρώμα JC/1234RGPK]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039788/39788910/fixedratio_20221201121343_juicy_couture_roloi_me_dermatino_louraki_se_roz_chroma_jc_1234rgpk.jpeg]]></image>
       <mpn>JC/1234RGPK</mpn>
@@ -47906,7 +47908,7 @@ with Stones</description>
       <id>4556882</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Orange]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039788/39788098/fixedratio_20221201115635_juicy_couture_roloi_me_dermatino_louraki_se_portokali_chroma_jc_1234gpor.jpeg]]></image>
       <mpn>JC/1234GPOR</mpn>
@@ -47929,7 +47931,7 @@ with Stones</description>
       <id>4556881</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ασημί χρώμα JC/1215SVSI]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/039789/39789233/fixedratio_20221201121914_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1215svsi.jpeg]]></image>
       <mpn>JC/1215SVSI</mpn>
@@ -47951,7 +47953,7 @@ Case Shape: Round</description>
       <id>4556877</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JU1937003]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/040546/40546950/fixedratio_20230201150407_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_ju1937003.jpeg]]></image>
       <mpn>JU1937003</mpn>
@@ -47974,7 +47976,7 @@ with Stones</description>
       <id>4556874</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Purple]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/040547/40547024/fixedratio_20230201150643_juicy_couture_roloi_me_metalliko_mprasele_se_mov_chroma_1936960.jpeg]]></image>
       <mpn>1936960</mpn>
@@ -47997,7 +47999,7 @@ with Stones</description>
       <id>4556873</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Μαύρο χρώμα JC/1326RBBK]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038348/38348311/fixedratio_20221013124818_juicy_couture_roloi_me_dermatino_louraki_se_mayro_chroma_jc_1326rbbk.jpeg]]></image>
       <mpn>JC/1326RBBK</mpn>
@@ -48019,7 +48021,7 @@ Case Shape: Round</description>
       <id>4556872</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JC/1326GPWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348302/fixedratio_20221013124818_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1326gpwt.jpeg]]></image>
       <mpn>JC/1326GPWT</mpn>
@@ -48041,7 +48043,7 @@ Case Shape: Round</description>
       <id>4556871</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Μαύρο χρώμα JC/1326GPBK]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348297/fixedratio_20221013124819_juicy_couture_roloi_me_dermatino_louraki_se_mayro_chroma_jc_1326gpbk.jpeg]]></image>
       <mpn>JC/1326GPBK</mpn>
@@ -48063,7 +48065,7 @@ Case Shape: Round</description>
       <id>4556870</id>
       <name><![CDATA[Juicy Couture Watch with Rubber Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038348/38348268/fixedratio_20221013124359_juicy_couture_roloi_me_kaoutsouk_louraki_se_mple_chroma_jc_1325lblb.jpeg]]></image>
       <mpn>JC/1325LBLB</mpn>
@@ -48085,7 +48087,7 @@ Case Shape: Round</description>
       <id>4556844</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ Χρυσό χρώμα JC/1326RGLP]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038082/38082523/fixedratio_20220928155613_juicy_couture_roloi_me_dermatino_louraki_se_roz_chryso_chroma_jc_1326rglp.jpeg]]></image>
       <mpn>JC/1326RGLP</mpn>
@@ -48107,7 +48109,7 @@ Case Shape: Round</description>
       <id>4556845</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JC/1326RGWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038085/38085763/fixedratio_20220928103953_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1326rgwt.jpeg]]></image>
       <mpn>JC/1326RGWT</mpn>
@@ -48129,7 +48131,7 @@ Case Shape: Round</description>
       <id>4556838</id>
       <name><![CDATA[Juicy Couture Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038084/38084871/fixedratio_20220928155613_juicy_couture_roloi_me_kaoutsouk_louraki_se_mayro_chroma_jc_1325bkbk.jpeg]]></image>
       <mpn>JC/1325BKBK</mpn>
@@ -48152,7 +48154,7 @@ with Stones</description>
       <id>4556836</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Πράσινο χρώμα JC/1264RGGN]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038085/38085992/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_prasino_chroma_jc_1264rggn.jpeg]]></image>
       <mpn>JC/1264RGGN</mpn>
@@ -48175,7 +48177,7 @@ with Stones</description>
       <id>4556837</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ χρώμα JC/1300RGHP]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038082/38082575/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_roz_chroma_jc_1300rghp.jpeg]]></image>
       <mpn>JC/1300RGHP</mpn>
@@ -48197,7 +48199,7 @@ Case Shape: Round</description>
       <id>4556835</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Κόκκινο χρώμα JC/1264GPRD]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038084/38084311/fixedratio_20220928155534_juicy_couture_roloi_me_dermatino_louraki_se_kokkino_chroma_jc_1264gprd.jpeg]]></image>
       <mpn>JC/1264GPRD</mpn>
@@ -48220,7 +48222,7 @@ with Stones</description>
       <id>4556827</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038083/38083216/fixedratio_20220928155613_juicy_couture_roloi_me_dermatino_louraki_se_chryso_chroma_jc_1234gpgd.jpeg]]></image>
       <mpn>JC/1234GPGD</mpn>
@@ -48242,7 +48244,7 @@ Case Shape: Round</description>
       <id>4556828</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ροζ Χρυσό χρώμα JC/1234RGRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038082/38082737/fixedratio_20220928155613_juicy_couture_roloi_me_dermatino_louraki_se_roz_chryso_chroma_jc_1234rgrg.jpeg]]></image>
       <mpn>JC/1234RGRG</mpn>
@@ -48265,7 +48267,7 @@ with Stones</description>
       <id>4556876</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Ασημί χρώμα JC/1345SVSI]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039186/39186117/fixedratio_20221107144248_juicy_couture_roloi_me_dermatino_louraki_se_asimi_chroma_jc_1345svsi.jpeg]]></image>
       <mpn>JC/1345SVSI</mpn>
@@ -48287,7 +48289,7 @@ Case Shape: Round</description>
       <id>4556869</id>
       <name><![CDATA[Juicy Couture Watch with Rubber Strap Green]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348263/fixedratio_20221013124819_juicy_couture_roloi_me_kaoutsouk_louraki_se_prasino_chroma_jc_1324gngn.jpeg]]></image>
       <mpn>JC/1324GNGN</mpn>
@@ -48309,11 +48311,11 @@ Case Shape: Round</description>
       <id>4556825</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Πράσινο χρώμα JC/1214GPGN]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>49.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038082/38082829/fixedratio_20220928155613_juicy_couture_roloi_me_dermatino_louraki_se_prasino_chroma_jc_1214gpgn.jpeg]]></image>
       <mpn>JC/1214GPGN</mpn>
-      <ean>086702681174</ean>
+      <ean>86702681174</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674580/JuicyCoutureRoloimeDermatinoLourakisePrasinochromaJC1214GPGN.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>46</quantity>
@@ -48331,11 +48333,11 @@ Case Shape: Round</description>
       <id>4556867</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Navy Μπλε χρώμα JC/1342RGNV]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038348/38348400/fixedratio_20221013124819_juicy_couture_roloi_me_dermatino_louraki_se_navy_mple_chroma_jc_1342rgnv.jpeg]]></image>
       <mpn>JC/1342RGNV</mpn>
-      <ean>086702691616</ean>
+      <ean>86702691616</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674622/JuicyCoutureRoloimeDermatinoLourakiseNavyMplechromaJC1342RGNV.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>50</quantity>
@@ -48354,7 +48356,7 @@ with Stones</description>
       <id>4556853</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/038126/38126239/fixedratio_20220928095140_juicy_couture_roloi_me_metalliko_mprasele_se_chryso_chroma_jc_1276rbgb.jpeg]]></image>
       <mpn>JC/1276RBGB</mpn>
@@ -48376,7 +48378,7 @@ Case Shape: Round</description>
       <id>4556822</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα JC/1240RGRG]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038083/38083588/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1240rgrg.jpeg]]></image>
       <mpn>JC/1240RGRG</mpn>
@@ -48398,7 +48400,7 @@ Case Shape: Round</description>
       <id>4556875</id>
       <name><![CDATA[Juicy Couture Ρολόι με Δερμάτινο Λουράκι σε Λευκό χρώμα JC/1342RGWT]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039186/39186070/fixedratio_20221107144233_juicy_couture_roloi_me_dermatino_louraki_se_leyko_chroma_jc_1342rgwt.jpeg]]></image>
       <mpn>JC/1342RGWT</mpn>
@@ -48421,7 +48423,7 @@ with Stones</description>
       <id>4556868</id>
       <name><![CDATA[Juicy Couture Watch with Leather Strap Purple]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038348/38348414/fixedratio_20221013124819_juicy_couture_roloi_me_dermatino_louraki_se_mov_chroma_jc_1342rgpr.jpeg]]></image>
       <mpn>JC/1342RGPR</mpn>
@@ -48444,7 +48446,7 @@ with Stones</description>
       <id>4556855</id>
       <name><![CDATA[Juicy Couture Chronograph Watch with Leather Strap Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038126/38126314/fixedratio_20220928095139_juicy_couture_roloi_chronografos_me_dermatino_louraki_se_roz_chryso_chroma_jc_1294rgrg.jpeg]]></image>
       <mpn>JC/1294RGRG</mpn>
@@ -48466,7 +48468,7 @@ Case Shape: Round</description>
       <id>4556854</id>
       <name><![CDATA[Juicy Couture Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/038126/38126203/fixedratio_20220928095140_juicy_couture_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_jc_1276rgrg.jpeg]]></image>
       <mpn>JC/1276RGRG</mpn>
@@ -48488,7 +48490,7 @@ Case Shape: Round</description>
       <id>4556823</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα JC/1276CHGB]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038082/38082749/fixedratio_20220928103953_juicy_couture_roloi_me_metalliko_mprasele_se_chryso_chroma_jc_1276chgb.jpeg]]></image>
       <mpn>JC/1276CHGB</mpn>
@@ -48510,7 +48512,7 @@ Case Shape: Round</description>
       <id>4556824</id>
       <name><![CDATA[Juicy Couture Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα JC/1279BKSV]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>71</price_with_vat>
+      <price_with_vat>50.0</price_with_vat>
       <manufacturer>Juicy Couture</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038085/38085279/fixedratio_20220928155613_juicy_couture_roloi_me_metalliko_mprasele_se_asimi_chroma_jc_1279bksv.jpeg]]></image>
       <mpn>JC/1279BKSV</mpn>
@@ -48857,7 +48859,7 @@ Case Shape: Round</description>
       <id>4539097</id>
       <name><![CDATA[Timex Weekender Watch with Fabric Strap Burgundy]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>59,5</price_with_vat>
+      <price_with_vat>55.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038533/38533507/fixedratio_20221006103520_timex_weekender_roloi_me_yfasmatino_louraki_se_mpornto_chroma_tw2r29700.jpeg]]></image>
       <mpn>TW2R29700</mpn>
@@ -49321,7 +49323,7 @@ Type of Stone: Zircon</description>
       <id>4556713</id>
       <name><![CDATA[Casio GShock Battery Chronograph Watch with Rubber Strap Green]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>127</price_with_vat>
+      <price_with_vat>83.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/034525/34525970/fixedratio_20220802201237_casio_g_shock_herren_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_prasino_chroma_gma_s110gs_3aer.jpeg]]></image>
       <mpn>GMAS110GS3AER</mpn>
@@ -49589,7 +49591,7 @@ Bracelet Length: 17cm</description>
       <id>4539133</id>
       <name><![CDATA[Timex Full Bloom Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>37.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/027369/27369798/fixedratio_20220803112944_timex_roloi_full_bloom_me_metalliko_mprasele_se_roz_chryso_chroma_tw2u19000.jpeg]]></image>
       <mpn>TW2U19000</mpn>
@@ -49691,7 +49693,7 @@ Case Shape: Round</description>
       <id>4547829</id>
       <name><![CDATA[Emporio Armani Ανδρικό Βραχιόλι από Ατσάλι EGS2926251]]></name>
       <category><![CDATA[Fashion > Jewelry > Bracelets]]></category>
-      <price_with_vat>120</price_with_vat>
+      <price_with_vat>99.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040758/40758782/fixedratio_20230224112514_emporio_armani_andriko_vrachioli_apo_atsali_egs2926251.jpeg]]></image>
       <mpn>EGS2926251</mpn>
@@ -49707,7 +49709,7 @@ Case Shape: Round</description>
       <id>4528132</id>
       <name><![CDATA[Nautica Pilot House Battery Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>107.0</price_with_vat>
       <manufacturer>Nautica</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/013189/13189377/fixedratio_20220802191514_nautica_pilot_house_napplh004.jpeg]]></image>
       <mpn>NAPPLH004</mpn>
@@ -49793,7 +49795,7 @@ Case Shape: Round</description>
       <id>4531132</id>
       <name><![CDATA[Casio Ρολόι Μπαταρίας με Μεταλλικό Μπρασελέ σε Ασημί χρώμα MTPV005D7B4]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>55</price_with_vat>
+      <price_with_vat>37.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/035584/35584429/fixedratio_20220802201441_casio_roloi_mpatarias_me_metalliko_mprasele_se_asimi_chroma_mtp_v005d_7b4.jpeg]]></image>
       <mpn>MTPV005D7B4</mpn>
@@ -49818,7 +49820,7 @@ Case Shape: Round</description>
       <id>4539099</id>
       <name><![CDATA[Timex Milano Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>70</price_with_vat>
+      <price_with_vat>55.0</price_with_vat>
       <manufacturer>Timex</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/030678/30678144/fixedratio_20220803114103_timex_milano_roloi_me_dermatino_louraki_se_mayro_chroma_tw2r94500d7.jpeg]]></image>
       <mpn>TW2R94500D7</mpn>
@@ -50045,7 +50047,7 @@ Frame Material: Mixed</description>
       <id>4556521</id>
       <name><![CDATA[Emporio Armani Women's Gold Plated Steel Studs Earrings for Ears with Stone]]></name>
       <category><![CDATA[Fashion > Jewelry > Earrings]]></category>
-      <price_with_vat>105</price_with_vat>
+      <price_with_vat>86.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/027635/27635834/fixedratio_20220803025137_emporio_armani_gynaikeia_skoularikia_karfota_me_petres_apo_atsali_epichrysomena_eg3054221.jpeg]]></image>
       <mpn>EG3054221</mpn>
@@ -50095,7 +50097,7 @@ Frame Material: Mixed</description>
       <id>4556523</id>
       <name><![CDATA[Emporio Armani Cufflink from Steel In Black Colour]]></name>
       <category><![CDATA[Fashion > Men's Accessories > Cufflinks]]></category>
-      <price_with_vat>115</price_with_vat>
+      <price_with_vat>92.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040376/40376646/fixedratio_20230116145604_emporio_armani_maniketokoumpa_apo_atsali_se_mayro_chroma_egs2921040.jpeg]]></image>
       <mpn>EGS2921040</mpn>
@@ -50168,7 +50170,7 @@ Necklace Length: 50cm</description>
       <id>4547832</id>
       <name><![CDATA[Emporio Armani Women's Gold Plated Steel Pendants Earrings for Ears]]></name>
       <category><![CDATA[Fashion > Jewelry > Earrings]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>104.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038541/38541257/fixedratio_20221025132405_emporio_armani_gynaikeia_skoularikia_kremasta_apo_atsali_epichrysomena_egs2954221.jpeg]]></image>
       <mpn>EGS2954221</mpn>
@@ -50229,7 +50231,7 @@ Frame Material: Metallic</description>
       <id>4532204</id>
       <name><![CDATA[Timberland Breakheart Battery Chronograph Watch with Leather Strap Brown]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>147</price_with_vat>
+      <price_with_vat>120.0</price_with_vat>
       <manufacturer>Timberland</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/034252/34252930/fixedratio_20220802201208_timberland_breakheart_roloi_chronografos_mpatarias_me_dermatino_louraki_se_kafe_chroma_tdwgb2201403.jpeg]]></image>
       <mpn>TDWGB2201403</mpn>
@@ -50322,7 +50324,7 @@ Pattern: with Stones</description>
       <id>4547831</id>
       <name><![CDATA[Emporio Armani Women's Gold Plated Steel Heart Necklace]]></name>
       <category><![CDATA[Fashion > Jewelry > Necklaces]]></category>
-      <price_with_vat>145</price_with_vat>
+      <price_with_vat>109.0</price_with_vat>
       <manufacturer>Emporio Armani</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038550/38550145/fixedratio_20221006154259_emporio_armani_gynaikeio_kolie_me_schedio_kardia_apo_atsali_epichrysomeno_egs2953221.jpeg]]></image>
       <mpn>EGS2953221</mpn>
@@ -50420,7 +50422,7 @@ Pattern: with Stones</description>
       <id>4532047</id>
       <name><![CDATA[Timberland Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>170</price_with_vat>
+      <price_with_vat>135.0</price_with_vat>
       <manufacturer>Timberland</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/030668/30668599/fixedratio_20220802195758_timberland_roloi_chronografos_mpatarias_me_dermatino_louraki_se_mayro_chroma_tdwgf2100601.jpeg]]></image>
       <mpn>TDWGF2100601</mpn>
@@ -50445,7 +50447,7 @@ Pattern: with Stones</description>
       <id>4556734</id>
       <name><![CDATA[Casio GShock Origin Digital Battery Chronograph Watch with Rubber Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>164</price_with_vat>
+      <price_with_vat>105.0</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/037214/37214290/fixedratio_20220802201740_casio_g_shock_psifiako_roloi_chronografos_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_gw_b5600bp_1er.jpeg]]></image>
       <mpn>GWB5600BP1ER</mpn>
@@ -50618,7 +50620,7 @@ Necklace Length: 45cm</description>
       <id>4559107</id>
       <name><![CDATA[Pepe Jeans Women's Sunglasses with Rose Gold Metal Frame and Pink Lenses PJ5182 C4]]></name>
       <category><![CDATA[Fashion > Sunglasses]]></category>
-      <price_with_vat>79</price_with_vat>
+      <price_with_vat>69.0</price_with_vat>
       <manufacturer>Pepe Jeans</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/028070/28070567/fixedratio_20210402154117_pepe_jeans_pj5182_c4.jpeg]]></image>
       <mpn>PJ5182 C4</mpn>
@@ -50635,7 +50637,7 @@ Frame Material: Metallic</description>
           <link><![CDATA[https://www.skroutz.gr/mp/154743655/PepeJeansPJ5182C4.html]]></link>
           <availability>Available from 4 to 10 days</availability>
           <ean>4894327455829</ean>
-          <price_with_vat>79</price_with_vat>
+          <price_with_vat>69.0</price_with_vat>
           <size>47-63</size>
           <quantity>15</quantity>
           <variationid>4894327455829.47-63</variationid>
@@ -50834,7 +50836,7 @@ Frame Material: Metallic</description>
       <id>4556695</id>
       <name><![CDATA[Michael Kors Women's Silver Necklace with Zircon]]></name>
       <category><![CDATA[Fashion > Jewelry > Necklaces]]></category>
-      <price_with_vat>130</price_with_vat>
+      <price_with_vat>109.0</price_with_vat>
       <manufacturer>Michael Kors</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/028673/28673236/fixedratio_20220802235944_michael_kors_gynaikeio_kolie_me_zirgon_apo_asimi_mkc1477an040.jpeg]]></image>
       <mpn>MKC1477AN040</mpn>
@@ -50852,7 +50854,7 @@ Type of Stone: Zircon</description>
       <id>4541068</id>
       <name><![CDATA[Just Cavalli Snake Ρολόι με Μεταλλικό Μπρασελέ σε Ασημί χρώμα JC1L210M0305]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>135</price_with_vat>
+      <price_with_vat>92.0</price_with_vat>
       <manufacturer>Just Cavalli</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/034308/34308699/fixedratio_20220803114847_just_cavalli_snake_roloi_me_metalliko_mprasele_se_asimi_chroma_jc1l210m0305.jpeg]]></image>
       <mpn>JC1L210M0305</mpn>
@@ -51034,7 +51036,7 @@ Case Shape: Round</description>
       <id>4548031</id>
       <name><![CDATA[Tissot Battery Chronograph Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>399</price_with_vat>
+      <price_with_vat>250.0</price_with_vat>
       <manufacturer>Tissot</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/009387/9387339/fixedratio_20220802190313_tissot_prs_516_t100_417_16_051_00.jpeg]]></image>
       <mpn>T100.417.16.051.00</mpn>
