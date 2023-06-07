@@ -408,7 +408,7 @@ Length: 1m</description>
       <ean>2010000113646</ean>
       <link><![CDATA[https://www.ninjaStore/2010000113646]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>66</quantity>
+      <quantity>72</quantity>
       <distributor>XTG</distributor>
       <disPrice>130.00 </disPrice>
     </product>
@@ -976,7 +976,7 @@ Length: 1m</description>
       <ean>2010000000878</ean>
       <link><![CDATA[https://www.ninjaStore/2010000000878]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>24</quantity>
       <distributor>XTG</distributor>
       <disPrice>106.00 </disPrice>
     </product>
@@ -12303,9 +12303,8 @@ with Stones</description>
       <ean>7613272357609</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369829/TommyHilfigerAngelaRoloimeMetallikoMpraseleseAsimichroma1782126.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>69.17</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
     </product>
     <product>
       <id>4546349</id>
@@ -12360,9 +12359,8 @@ with Stones</description>
       <ean>7613272357586</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369022/TommyHilfigerAngelaRoloimeMetallikoMpraseleseRozCHrysochroma1782124.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>77.75</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
     </product>
     <product>
       <id>4546139</id>
@@ -15572,6 +15570,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15630,6 +15629,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19479,7 +19479,7 @@ Case Shape: Round</description>
       <ean>4971850946540</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153892545/CasioVintageIconicPSifiakoRoloiMpatariasmeMetallikoMpraseleseCHryso.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <distributor>WWT</distributor>
       <disPrice>36.77</disPrice>
     </product>
@@ -19670,9 +19670,9 @@ Case Shape: Rectangle</description>
       <ean>7613272264440</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372389/TommyHilfigerDeckerRoloiCHronografosMpatariasmeKaoutsoukLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>74.08</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
+      <disPrice>62.65</disPrice>
     </product>
     <product>
       <id>4526918</id>
@@ -20269,7 +20269,7 @@ Case Shape: Round</description>
       <ean>4971850965176</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153891638/CasioVintageEdgyPSifiakoRoloiMpatariasmeMetallikoMpraseleseRoz.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>43</quantity>
+      <quantity>45</quantity>
       <description>Ανδρικό Digital ρολόι της εταιρίας Casio, μικρού μεγέθους με Metal Bracelet σε pink gold χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Διαθέτει διαχρονικό σχεδιασμό, μπορεί εύκολα να συνδυαστεί με κάθε στυλ, ενώ αποτελεί μια σύγχρονη εκδοχή των κλασικών ρολογιών της δεκαετίας του 70', του 80' και του 90'.
 
 Βασικά Χαρακτηριστικά:
@@ -20369,7 +20369,7 @@ Necklace Length: 46cm</description>
       <ean>4064092070392</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156603/FossilGen6StainlessSteel44mmSmartwatchmePalmografoGri.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>19</quantity>
+      <quantity>20</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022573/20220922121134_736482e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065022/65022571/20220922121134_387e963a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/065022/65022569/20220922121134_6d92d87d.jpeg]]></additional_imageurl>
@@ -21713,7 +21713,7 @@ Case Shape: Round</description>
       <ean>4971850965145</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893336/CasioVintageEdgyPSifiakoRoloiMpatariasmeMetallikoMpraseleseAsimi.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>30</quantity>
+      <quantity>32</quantity>
       <distributor>WWT</distributor>
       <disPrice>24.82</disPrice>
     </product>
@@ -23270,7 +23270,7 @@ with Stones</description>
       <ean>7688200301085</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154738054/FrederiqueConstantClassicFC292MS5B6.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Frederique Constant, μεσαίου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -23281,7 +23281,7 @@ with Stones</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>540.31</disPrice>
     </product>
     <product>
@@ -23649,7 +23649,7 @@ Bracelet Length: 18cm</description>
       <ean>4894816038960</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154294344/PoliceWaimeaRoloiMpatariasmeDermatinoLourakiseMayrochromaPEWJB2203040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Police, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -23660,7 +23660,7 @@ Bracelet Length: 18cm</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>117.94</disPrice>
     </product>
     <product>
@@ -24140,8 +24140,8 @@ Case Shape: Round</description>
       <ean>8018225033842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876777/CitizenRoloiEcoDrivemeYfasmatinoLourakiseMpezchromaBM755010E.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
+      <quantity>4</quantity>
+      <distributor>WWT</distributor>
       <disPrice>95.16</disPrice>
     </product>
     <product>
@@ -24155,7 +24155,7 @@ Case Shape: Round</description>
       <ean>7613272293709</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369338/TommyHilfigerRoloiLandonCHronografosmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -24166,8 +24166,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Brown</description>
-      <distributor>WWT</distributor>
-      <disPrice>77.32</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>55.65</disPrice>
     </product>
     <product>
       <id>4542184</id>
@@ -24384,7 +24384,7 @@ Case Shape: Round</description>
       <ean>7613272357944</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369244/TommyHilfigerAlexaRoloimeMetallikoMpraseleseMayrochroma1782160.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Γυναικείο ρολόι της σειράς Alexa από την εταιρία Tommy Hilfiger. Το black round καντράν, με το Metal Bracelet σε black χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -24393,8 +24393,8 @@ Material: Metal Bracelet
 Strap Colour: Black
 Dial Colour: Black
 Case Shape: Round</description>
-      <distributor>WWT</distributor>
-      <disPrice>67.72</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>48.65</disPrice>
     </product>
     <product>
       <id>4528651</id>
@@ -25036,7 +25036,7 @@ Case Shape: Round</description>
       <ean>4549526220180</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153924068/CasioVintageIconicPSifiakoRoloiCHronografosMpatariasmeMetalliko.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>19</quantity>
       <description>Ανδρικό Digital ρολόι χρονογράφος της εταιρίας Casio, μεσαίου μεγέθους με Metal Bracelet σε gold χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Διαθέτει διαχρονικό σχεδιασμό, μπορεί εύκολα να συνδυαστεί με κάθε στυλ, ενώ αποτελεί μια σύγχρονη εκδοχή των κλασικών ρολογιών της δεκαετίας του 70', του 80' και του 90'.
 
 Βασικά Χαρακτηριστικά:
@@ -25628,9 +25628,9 @@ with Stones</description>
       <ean>7613272293693</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372380/TommyHilfigerLandonRoloiCHronografosMpatariasmeMetallikoMpraselese.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>91.74</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
+      <disPrice>69.65</disPrice>
     </product>
     <product>
       <id>4546320</id>
@@ -26675,7 +26675,7 @@ Necklace Length: 41cm</description>
       <ean>4895148685372</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984732/TimberlandAshmontTBL15249JS07.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -26685,8 +26685,8 @@ Necklace Length: 41cm</description>
 • Χρώμα Καντράν: Beige
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
-      <disPrice>69.17</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>55.65</disPrice>
     </product>
     <product>
       <id>4527633</id>
@@ -26799,7 +26799,7 @@ with Stones</description>
       <ean>4971850958321</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153892925/CasioVintageEdgyPSifiakoRoloiMpatariasmeMetallikoMpraseleseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>5</quantity>
       <distributor>WWT</distributor>
       <disPrice>29.95</disPrice>
     </product>
@@ -26862,10 +26862,10 @@ Case Shape: Round</description>
       <ean>4064092161212</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672064/EmporioArmaniAndrikoVrachioliAlysidaapoAtsaliEGS2938040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>5</quantity>
       <description>Βραχιόλι της εταιρείας Emporio Armani.</description>
       <distributor>WWT</distributor>
-      <disPrice>81.84</disPrice>
+      <disPrice>79.22</disPrice>
     </product>
     <product>
       <id>4556517</id>
@@ -26893,10 +26893,10 @@ Case Shape: Round</description>
       <ean>4064092130461</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154672060/EmporioArmaniAndrikoKolieapoAtsaliEGS2909040.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>5</quantity>
       <description>της εταιρείας Emporio Armani από Steel.</description>
       <distributor>WWT</distributor>
-      <disPrice>81.84</disPrice>
+      <disPrice>79.22</disPrice>
     </product>
     <product>
       <id>4556497</id>
@@ -27385,7 +27385,7 @@ Bracelet Length: 17cm</description>
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
       <distributor>WWT</distributor>
-      <disPrice>102.05</disPrice>
+      <disPrice>102.06</disPrice>
     </product>
     <product>
       <id>4531043</id>
@@ -28636,7 +28636,7 @@ Bracelet Length: 18cm</description>
       <ean>7613272310635</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154369345/TommyHilfigerRoloiChaseCHronografosmeMetallikoMpraseleseCHryso.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Metal Bracelet σε gold χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -28648,8 +28648,8 @@ Bracelet Length: 18cm</description>
 • Χρώμα Καντράν: Gray
 • Χρώμα Κάσας: Gold
 • Χρώμα Λουριού: Gold</description>
-      <distributor>WWT</distributor>
-      <disPrice>78.17</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>69.65</disPrice>
     </product>
     <product>
       <id>4556529</id>
@@ -29538,9 +29538,9 @@ with Stones</description>
       <ean>7613272246842</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372898/TommyHilfigerMultifunctionKaneRoloiCHronografosMpatariasmeDermatino.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>74.08</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
+      <disPrice>62.65</disPrice>
     </product>
     <product>
       <id>4548052</id>
@@ -29553,7 +29553,7 @@ with Stones</description>
       <ean>4895148690390</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154399011/PoliceStayrosMeAlysidaapoAtsaliZealPJ26160PSS01.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>19</quantity>
+      <quantity>23</quantity>
       <distributor>WWT</distributor>
       <disPrice>38.18</disPrice>
     </product>
@@ -30170,7 +30170,7 @@ Case Shape: Round</description>
       <ean>7613272324564</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372889/TommyHilfigerShawnRoloiCHronografosMpatariasmeDermatinoLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -30182,8 +30182,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
-      <disPrice>78.06</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>59.15</disPrice>
     </product>
     <product>
       <id>4556937</id>
@@ -30237,10 +30237,10 @@ Pattern: Rosette</description>
       <ean>4064092150223</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674268/MichaelKorsGynaikeioVrachioliCHeiropedaapoAtsaliEpichrysomenome.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <description>Βραχιόλι της εταιρείας Michael Kors.</description>
       <distributor>WWT</distributor>
-      <disPrice>112.25</disPrice>
+      <disPrice>104.63</disPrice>
     </product>
     <product>
       <id>4529850</id>
@@ -32140,7 +32140,7 @@ Case Shape: Round</description>
       <ean>8018225033927</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876322/CitizenRoloiCHronografosEcoDrivemeKaoutsoukLourakiseMplechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Rubber σε blue χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -32152,7 +32152,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Blue</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>106.77</disPrice>
     </product>
     <product>
@@ -33621,7 +33621,7 @@ with Stones</description>
       <ean>4894626113765</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154198997/JustCavalliRoloimeMetallikoMpraseleJC1L151M0105.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Just Cavalli. Το silver round καντράν, με το Metal Bracelet σε multicolour χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Waterproof: Hand Washing (5 Atm)
@@ -33630,7 +33630,7 @@ Strap Colour: Multicolour
 Dial Colour: Silver
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>77.13</disPrice>
     </product>
     <product>
@@ -34471,7 +34471,7 @@ Case Shape: Round</description>
       <ean>8018225035365</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876387/CitizenRoloiCHronografosMpatariasmeMetallikoMpraseleseAsimichroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35325,7 +35325,7 @@ Case Shape: Round</description>
       <ean>4549526317811</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674439/CasioGShockAnalogikoPSifiakoRoloiCHronografosMpatariasmeKaoutsouk.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <distributor>WWT</distributor>
       <disPrice>49.95</disPrice>
     </product>
@@ -35704,7 +35704,7 @@ Case Shape: Round</description>
       <ean>4064092084665</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153865209/DieselMS9RoloiMpatariasmeMetallikoMpraseleseAsimichromaDZ1974.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Diesel, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -35716,7 +35716,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>93.33</disPrice>
     </product>
     <product>
@@ -35924,7 +35924,7 @@ Case Shape: Round</description>
       <ean>4549526112034</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893328/CasioPSifiakoRoloiCHronografosMpatariasmeKaoutsoukLourakiseMple.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <distributor>WWT</distributor>
       <disPrice>23.14</disPrice>
     </product>
@@ -36690,7 +36690,7 @@ with Stones</description>
       <ean>7613272249935</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372402/TommyHilfigerRoloiBriggsCHronografosmeDermatinoLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -36703,8 +36703,8 @@ with Stones</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
-      <disPrice>87.18</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>62.65</disPrice>
     </product>
     <product>
       <id>4526625</id>
@@ -36991,7 +36991,7 @@ with Stones</description>
       <ean>7613272249904</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154372396/TommyHilfigerRoloiBriggsCHronografosmeMetallikoMpraseleseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Tommy Hilfiger, μεγάλου μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -37003,8 +37003,8 @@ with Stones</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
-      <disPrice>91.74</disPrice>
+      <distributor>NONE</distributor>
+      <disPrice>66.15</disPrice>
     </product>
     <product>
       <id>4556796</id>
@@ -40030,7 +40030,7 @@ Case Shape: Round</description>
       <ean>8018225035471</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153876528/CitizenRoloiEcoDrivemeMetallikoMpraseleseAsimichromaAW171586X.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>4</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Citizen με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό ecodrive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -40878,7 +40878,7 @@ with Stones</description>
       <ean>4053858500136</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156314/FossilRoloimeMetallikoMpraseleseAsimichromaBQ3035.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>21</quantity>
+      <quantity>22</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Fossil. Το silver round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 34mm
@@ -41912,7 +41912,7 @@ Case Shape: Geometric</description>
       <ean>4549526318221</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674437/CasioGShockAnalogikoPSifiakoRoloiCHronografosMpatariasmeKaoutsouk.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>44</quantity>
+      <quantity>45</quantity>
       <description>Ανδρικό Analog, Digital ρολόι χρονογράφος της εταιρίας Casio, XXL μεγέθους με Rubber σε gray χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η σειρά GShock σχεδιάστηκε και ξεχωρίζει για την ανθεκτικότητα, την καινοτομία και την πολυλειτουργικότητά της.
 
 Βασικά Χαρακτηριστικά:
@@ -42687,9 +42687,9 @@ Type of Stone: Zircon</description>
       <ean>4549526176401</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893348/CasioIlluminatorRoloiCHronografosMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>40.53</disPrice>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
+      <disPrice>35,94</disPrice>
     </product>
     <product>
       <id>4531180</id>
@@ -42924,7 +42924,7 @@ Frame Material: Metallic</description>
       <ean>86702681396</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674585/JuicyCoutureRoloimeDermatinoLourakiseAsimichromaJC1235SVSI.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>50</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το silver round καντράν, με το Leather σε silver χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -42933,7 +42933,7 @@ Strap Colour: Silver
 Dial Colour: Silver
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>25.06</disPrice>
     </product>
     <product>
@@ -42947,7 +42947,7 @@ with Stones</description>
       <ean>86702682898</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674588/JuicyCoutureRoloimeDermatinoLourakiseRozCHrysochromaJC1256RGRG.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>50</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το multicolour round καντράν, με το Leather σε pink gold χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 34mm
@@ -42955,7 +42955,7 @@ Material: Leather
 Strap Colour: Pink Gold
 Dial Colour: Multicolour
 Case Shape: Round</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>25.06</disPrice>
     </product>
     <product>
@@ -43211,7 +43211,7 @@ Case Shape: Round</description>
       <ean>4549526316890</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674434/CasioGShockPSifiakoRoloiCHronografosMpatariasmeKaoutsoukLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>22</quantity>
+      <quantity>23</quantity>
       <description>Ανδρικό Digital ρολόι χρονογράφος της εταιρίας Casio, XXL μεγέθους με Rubber σε blue χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η σειρά GShock σχεδιάστηκε και ξεχωρίζει για την ανθεκτικότητα, την καινοτομία και την πολυλειτουργικότητά της.
 
 Βασικά Χαρακτηριστικά:
@@ -44741,7 +44741,7 @@ with Stones</description>
       <ean>86702686018</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674602/JuicyCoutureRoloimeMetallikoMpraseleseRozCHrysochromaJC1208HPRG.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>50</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το pink round καντράν, με το Metal Bracelet σε pink gold χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 32mm
@@ -44750,7 +44750,7 @@ Strap Colour: Pink Gold
 Dial Colour: Pink
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>39.64</disPrice>
     </product>
     <product>
@@ -46160,7 +46160,7 @@ Case Shape: Round</description>
       <ean>86702690756</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674616/JuicyCoutureRoloimeDermatinoLourakisePrasinochromaJC1344GPGN.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>45</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το gold round καντράν, με το Leather σε green χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 36mm
@@ -46168,7 +46168,7 @@ Material: Leather
 Strap Colour: Green
 Dial Colour: Gold
 Case Shape: Round</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>25.06</disPrice>
     </product>
     <product>
@@ -47621,7 +47621,7 @@ Case Shape: Round</description>
       <ean>86702686575</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674596/JuicyCoutureRoloimeDermatinoLourakiseLeykochromaJC1325WTWT.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>49</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το silver round καντράν, με το Leather σε white χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -47630,7 +47630,7 @@ Strap Colour: White
 Dial Colour: Silver
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>25.06</disPrice>
     </product>
     <product>
@@ -48318,7 +48318,7 @@ Case Shape: Round</description>
       <ean>86702681174</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674580/JuicyCoutureRoloimeDermatinoLourakisePrasinochromaJC1214GPGN.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>46</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το gold round καντράν, με το Leather σε green χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 36mm
@@ -48326,7 +48326,7 @@ Material: Leather
 Strap Colour: Green
 Dial Colour: Gold
 Case Shape: Round</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>25.06</disPrice>
     </product>
     <product>
@@ -48340,7 +48340,7 @@ Case Shape: Round</description>
       <ean>86702691616</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674622/JuicyCoutureRoloimeDermatinoLourakiseNavyMplechromaJC1342RGNV.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>50</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Juicy Couture. Το black round καντράν, με το Leather σε navy blue χρώμα και τις διακοσμητικές πέτρες, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 38mm
@@ -48349,7 +48349,7 @@ Strap Colour: Navy Blue
 Dial Colour: Black
 Case Shape: Round
 with Stones</description>
-      <distributor>NONE</distributor>
+      <distributor>WWT</distributor>
       <disPrice>32.35</disPrice>
     </product>
     <product>
@@ -48709,7 +48709,7 @@ Case Shape: Round</description>
       <ean>4894816001193</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154295942/PoliceRoloiHamnoyCHronografosmeKaoutsoukLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>3</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Police, XXL μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -51867,7 +51867,7 @@ Frame Material: HornRimmed</description>
       <id>4528643</id>
       <name><![CDATA[Casio Collection Ψηφιακό Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα F91WM7AEF]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>42,5</price_with_vat>
+      <price_with_vat>39.80</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/010823/10823254/fixedratio_20220802190730_casio_f_91wm_7aef.jpeg]]></image>
       <mpn>F91WM7AEF</mpn>
@@ -52100,7 +52100,7 @@ Frame Material: Metallic</description>
       <id>4542057</id>
       <name><![CDATA[Lorenz Submariner 26959EE Black/Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>349</price_with_vat>
+      <price_with_vat>225.0</price_with_vat>
       <manufacturer>Lorenz</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/023735/23735860/fixedratio_20220802194542_lorenz_submariner_26959ee_black_silver.jpeg]]></image>
       <mpn>26959EE</mpn>
@@ -52126,7 +52126,7 @@ Frame Material: Metallic</description>
       <id>4542055</id>
       <name><![CDATA[Lorenz Submariner Automatic Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>349</price_with_vat>
+      <price_with_vat>235.0</price_with_vat>
       <manufacturer>Lorenz</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/023735/23735775/fixedratio_20220802194542_lorenz_submariner_26959bb_black_silver.jpeg]]></image>
       <mpn>26959BB</mpn>
@@ -52141,7 +52141,7 @@ Frame Material: Metallic</description>
       <id>4542056</id>
       <name><![CDATA[Lorenz Battery Watch with Metal Bracelet Silver 026959DD]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>349</price_with_vat>
+      <price_with_vat>237.0</price_with_vat>
       <manufacturer>Lorenz</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/025495/25495528/fixedratio_20220802194900_lorenz_026959dd.jpeg]]></image>
       <mpn>026959DD</mpn>
@@ -52689,7 +52689,7 @@ Frame Material: HornRimmed</description>
       <id>4532021</id>
       <name><![CDATA[Timberland Battery Chronograph Watch with Leather Strap Brown 15249JS02]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>193</price_with_vat>
+      <price_with_vat>101.0</price_with_vat>
       <manufacturer>Timberland</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/012835/12835004/fixedratio_20220802191413_timberland_15249js_02.jpeg]]></image>
       <mpn>15249JS02</mpn>
@@ -54825,7 +54825,7 @@ Case Shape: Round</description>
       <manufacturer>HipHop</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039794/39794716/fixedratio_20221201131904_hiphop_velvet_touch_roloi_me_yfasmatino_louraki_se_mayro_chroma_hwu0146.jpeg]]></image>
       <mpn>HWU0146</mpn>
-      <ean>7,6129e12</ean>
+      <ean>7612901704128</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154232233/HipHopVelvetTouchRoloimeYfasmatinoLourakiseMayrochromaHWU0146.html]]></link>
       <availability>Available from 4 to 10 days</availability>
       <quantity>0</quantity>
@@ -56661,7 +56661,7 @@ Frame Material: Metallic</description>
       <id>4546572</id>
       <name><![CDATA[Διακάκης Kids Digital Watch with Rubber/Plastic Strap Green]]></name>
       <category><![CDATA[Baby & Kid > Kids & Baby Fashion > Kids Watches]]></category>
-      <price_with_vat>21,68</price_with_vat>
+      <price_with_vat>21.65</price_with_vat>
       <manufacturer>Διακάκης</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/023815/23815283/fixedratio_20220803115720_diakakis_paidiko_roloi_psifiako_me_kaoutsouk_plastiko_louraki_prasino_ben10_500208.jpeg]]></image>
       <mpn>500208</mpn>
