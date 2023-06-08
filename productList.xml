@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-08 03:34</created_at>
+  <created_at>2023-06-08 05:58</created_at>
   <products>
     <product>
       <id>4546329</id>
@@ -229,7 +229,7 @@ Case Shape: Round</description>
       <ean>8806092764323</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407680/SamsungVasiKinitouAytokinitouEPH5300CBEmeRythmizomenaAgistrakai.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>96</quantity>
+      <quantity>91</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064088/64088741/20220908131721_add51ce0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064088/64088745/20220908131721_095a2b7d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/064088/64088737/20220908131721_11f39801.jpeg]]></additional_imageurl>
@@ -253,7 +253,7 @@ Case Shape: Round</description>
       <ean>6941812703427</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153482759/XiaomiHomeCenterHub2Leyko.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>22</quantity>
+      <quantity>20</quantity>
       <distributor>MOBI</distributor>
       <disPrice>25.9</disPrice>
     </product>
@@ -268,9 +268,9 @@ Case Shape: Round</description>
       <ean>7613272457293</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885906/CalvinKleinMeshRoloimeMetallikoMpraseleseMayrochroma25200084.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
-      <disPrice>120,28</disPrice>
+      <quantity>1</quantity>
+      <distributor>WWT</distributor>
+      <disPrice>112.95</disPrice>
     </product>
     <product>
       <id>4526910</id>
@@ -418,7 +418,7 @@ Case Shape: Round</description>
       <ean>4894816042950</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153987092/TimberlandNorthbridgeRoloiMpatariasmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>17</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -430,8 +430,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Brown</description>
-      <distributor>NONE</distributor>
-      <disPrice>85.7</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>46.2</disPrice>
     </product>
     <product>
       <id>4539217</id>
@@ -1084,7 +1084,7 @@ with Stones</description>
       <ean>8806092978706</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407638/SamsungAsyrmatosFortistisQiPad15WMayrosEPP2400T.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>100</quantity>
+      <quantity>98</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057338/57338043/20220310094629_b6eaf9f2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057338/57338046/20220310094631_282eef6f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057338/57338044/20220310094631_4c1f17e9.jpeg]]></additional_imageurl>
@@ -1617,7 +1617,7 @@ Case Shape: Square</description>
       <ean>4895220910118</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984594/TimberlandMayburySetRoloiMpatariasmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>6</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -1628,8 +1628,8 @@ Case Shape: Square</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Brown</description>
-      <distributor>NONE</distributor>
-      <disPrice>99.01</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>57.07</disPrice>
     </product>
     <product>
       <id>4532176</id>
@@ -1642,9 +1642,9 @@ Case Shape: Square</description>
       <ean>4895148628577</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984923/TimberlandTBL13330XSU12.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
-      <disPrice>91.75</disPrice>
+      <quantity>18</quantity>
+      <distributor>WWT</distributor>
+      <disPrice>52.92</disPrice>
     </product>
     <product>
       <id>4528721</id>
@@ -1738,7 +1738,7 @@ Case Shape: Square</description>
       <ean>4894816034696</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153987687/TimberlandRoloiMpatariasmeMetallikoMpraseleseAsimichromaTDWGG2201206.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>23</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -1749,8 +1749,8 @@ Case Shape: Square</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Blue
 • Χρώμα Λουριού: Silver</description>
-      <distributor>NONE</distributor>
-      <disPrice>124.42</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>69.51</disPrice>
     </product>
     <product>
       <id>4539170</id>
@@ -2474,7 +2474,7 @@ Case Shape: Round</description>
       <ean>4971850083023</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153892607/CasioLTPV001GL7B.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>4</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Casio. Το white round καντράν, με το Leather σε black χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Waterproof: Simple Contact with Water (3 Atm)
@@ -2698,7 +2698,7 @@ Case Shape: Rectangle</description>
       <ean>6921815618157</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153478082/OnePlusBudsProBluetoothHandsfreeAkoustikameAntochistonIdrotakai.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>217</quantity>
+      <quantity>215</quantity>
       <additional_imageurl><![CDATA[null]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051379/51379771/20211026130356_28286ff0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053694/53694919/20211213170833_1bdd36e3.jpeg]]></additional_imageurl>
@@ -4152,7 +4152,7 @@ Case Shape: Round</description>
       <ean>6941487218042</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154991813/HuaweiSuperchargePowerBank10000mAh225WmeTHyraUSBAkaiTHyraUSBC.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>46</quantity>
+      <quantity>41</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063239/63239750/20220817093501_6e514523.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063239/63239749/20220817093501_34eec0dc.jpeg]]></additional_imageurl>
       <description>Το power bank της Huawei έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει μία θύρα USBA, μία θύρα USBC, και μπορεί να φορτίσει μία συσκευή με έως και 2.25Α.
@@ -4613,7 +4613,7 @@ Features: Vibration, Speaker, Microphone</description>
       <ean>8806094772838</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154962737/SamsungSmartViewWalletMayroGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>15</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071311/71311881/20230202143702_2629cd12.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311879/20230202143701_0b09ac36.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071311/71311880/20230202143701_47f0e1b4.jpeg]]></additional_imageurl>
@@ -5236,7 +5236,7 @@ with Stones</description>
       <ean>5707055057809</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471120/JabraTalk25SEEarbudBluetoothHandsfreeAkoustikoMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>493</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057601/57601060/20220316091613_2a18f1ea.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057601/57601076/20220316091614_5bf57c6d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/059935/59935005/20220511111158_d1ab663e.jpeg]]></additional_imageurl>
@@ -5293,7 +5293,7 @@ Case Shape: Round</description>
       <ean>6934177789281</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153483824/XiaomiSmartLiteQBH4238EUForitoIcheioMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>30</quantity>
+      <quantity>29</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071554/71554845/20230207162446_8b21a9c2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/073049/73049308/20230314140657_19d983a2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/073049/73049307/20230314140657_fd4c601f.jpeg]]></additional_imageurl>
@@ -5475,7 +5475,7 @@ Case Shape: Round</description>
       <ean>8806094636918</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153468625/SamsungFlipCoverSpen25WTravelChargerMayroGalaxyZFold4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063935/63935856/20220906124514_d7aad647.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>44.75</disPrice>
@@ -6211,7 +6211,7 @@ Clasp Closure: Buckle</description>
       <ean>4894816034542</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153987085/TimberlandFairhillRoloiCHronografosMpatariasmeDermatinoLourakiseKafe.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>23</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -6222,8 +6222,8 @@ Clasp Closure: Buckle</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Blue
 • Χρώμα Λουριού: Brown</description>
-      <distributor>NONE</distributor>
-      <disPrice>144.99</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>77.28</disPrice>
     </product>
     <product>
       <id>4526999</id>
@@ -6752,7 +6752,7 @@ Bracelet Length: 17cm</description>
       <ean>8806094770414</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407749/SamsungLeatherCaseBackCoverDermatinoPrasinoGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071313/71313844/20230202151830_7575c0d7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071313/71313843/20230202151830_e070c48f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071313/71313842/20230202151830_ad8a436b.jpeg]]></additional_imageurl>
@@ -7194,7 +7194,7 @@ Clasp Closure: Buckle</description>
       <ean>8806094919387</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471856/SamsungScreenProtector2tmchGalaxyA345G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/073506/73506063/20230327121502_3fb6c13d.jpeg]]></additional_imageurl>
       <description>Το screen protector της Samsung είναι μια μεμβράνη, ειδικά κατασκευασμένη για την προστασία της οθόνης μόνο από σκόνη και επιδερμικές γρατζουνιές. Δεν προστατεύει την οθόνη σε περίπτωση πτώσης, καθώς είναι λεπτή. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy A34 5G.</description>
       <distributor>MOBI</distributor>
@@ -8221,7 +8221,7 @@ Weight: 422gr</description>
       <ean>8806094772852</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407793/SamsungSmartViewWalletPlastikoLilacGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>12</quantity>
+      <quantity>16</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071556/71556910/20230207171918_1dd2fc07.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071556/71556888/20230207171917_c45bed20.jpeg]]></additional_imageurl>
       <description>Θήκη Πορτοφόλι (wallet) της εταιρείας Samsung, για προστασία του κινητού σας από πτώσεις, γρατζουνιές κι άλλες φθορές. Διαθέτει υποδοχές για κάρτες και χαρτονομίσματα, επιτρέποντας σας να τη χρησιμοποιείτε καθημερινά και ως πορτοφόλι.
@@ -11903,7 +11903,7 @@ Case Shape: Round</description>
       <ean>8806090487736</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154963224/SamsungSPenPSifiakiGrafidaAfisgiaGalaxyTabS6liteAngoraBlue.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/032838/32838834/20200603142626_ef1bbad3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061036/61036626/20220608162808_05af85e2.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -11993,7 +11993,7 @@ Features: Vibration</description>
       <ean>6971408157044</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154997354/XiaomiTVBoxMiBoxS2ndGen4KUHDmeWiFiUSB202GBRAMkai8GB.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>19</quantity>
+      <quantity>15</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075896/75896480/20230511113438_3cb70ca6.jpeg]]></additional_imageurl>
       <description>Το TV Box Mi Box S 2nd Gen της εταιρείας Xiaomi έχει μνήμη 2GB και μπορεί να αποδώσει περιεχόμενο ανάλυσης 4K UHD. Διαθέτει εσωτερικό αποθηκευτικό χώρο 8GB και το λειτουργικό του είναι Android. Με το λειτουργικό Android, το οποίο είναι ειδικά φτιαγμένο για έξυπνες τηλεοράσεις, έχετε στη διάθεσή σας για εγκατάσταση όλες τις εφαρμογές που έχετε συνηθίσει να χρησιμοποιείτε στο τηλέφωνο ή στο τάμπλετ σας. Ωστόσο είναι ήδη προεγκατεστημένο Netflix, Spotify και YouTube. Διαθέτει συνδέσεις WiFi και 1x ethernet, ώστε να μπορείτε να συνδεθείτε ασύρματα ή ενσύρματα στο τοπικό σας δίκτυο.
 Type of Connections: Bluetooth, USB 2.0
@@ -12015,7 +12015,7 @@ Misc Functions: Miracast</description>
       <ean>4549526102479</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153965600/CasioRoloiMpatariasmeKaoutsoukLourakiseMayrochromaMW2404.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Casio, μεγάλου μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -13399,9 +13399,9 @@ Frame Material: Metallic</description>
       <ean>7613272456302</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885951/CalvinKleinRoloimeMetallikoMpraseleseAsimichroma1681233.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <distributor>WWT</distributor>
-      <disPrice>107.89</disPrice>
+      <disPrice>119.57</disPrice>
     </product>
     <product>
       <id>4565947</id>
@@ -14605,7 +14605,7 @@ Case Shape: Rectangle</description>
       <ean>8806094770674</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964159/SamsungSiliconeCoverBackCoverSilikonisPortokaliGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071313/71313110/20230202150812_82cb8dd4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071313/71313111/20230202150812_686c12c5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071313/71313113/20230202150813_976e8ea2.jpeg]]></additional_imageurl>
@@ -14628,7 +14628,7 @@ Case Shape: Rectangle</description>
       <ean>8806094770810</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153464370/SamsungSiliconeCoverBackCoverSilikonisPortokaliGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>24</quantity>
+      <quantity>27</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313483/20230202151141_18fbda7e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313486/20230202151141_6f0e8ab4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071313/71313484/20230202151141_6457d640.jpeg]]></additional_imageurl>
@@ -15273,7 +15273,7 @@ Case Shape: Round</description>
       <ean>8806094475746</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407689/CardSlotCoverBackCoverSilikonisMpleGalaxyA135G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061606/61606246/20220624094544_286b430a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061606/61606247/20220624094544_5ccde961.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061606/61606248/20220624094546_8644250d.jpeg]]></additional_imageurl>
@@ -17568,7 +17568,7 @@ Frame Material: Metallic</description>
       <ean>8806094770605</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153464709/SamsungSiliconeCoverBackCoverSilikonisLavenderGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>18</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071311/71311836/20230202143543_2f39646f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071311/71311837/20230202143543_3e524d13.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311838/20230202143543_b8db24b8.jpeg]]></additional_imageurl>
@@ -20580,7 +20580,7 @@ Case Shape: Round</description>
       <ean>7613272456630</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153885981/CalvinKleinRoloimeMetallikoMpraseleseAsimichroma1681237.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <description>Γυναικείο ρολόι από την εταιρία Calvin Klein. Το silver round καντράν, με το Metal Bracelet σε silver χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 35mm
@@ -20590,7 +20590,7 @@ Strap Colour: Silver
 Dial Colour: Silver
 Case Shape: Round</description>
       <distributor>WWT</distributor>
-      <disPrice>95.24</disPrice>
+      <disPrice>112.95</disPrice>
     </product>
     <product>
       <id>4540309</id>
@@ -22007,7 +22007,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <ean>8806094619171</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407687/SamsungCardSlotCoverBackCoverSilikonisCopperGalaxyA04s.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/065959/65959212/20221014102009_70b17966.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Samsung για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -22312,7 +22312,7 @@ Frame Material: Mixed</description>
       <ean>8806092633025</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155015861/SamsungLeatherFlipCoverPrasinoGalaxyZFold3.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>13</quantity>
+      <quantity>5</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/049414/49414066/20210824164911_2a4fee5f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/049414/49414067/20210824164912_94acd180.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049414/49414070/20210824164913_264f9d55.jpeg]]></additional_imageurl>
@@ -28643,7 +28643,7 @@ Frame Material: Metallic</description>
       <ean>8806094300987</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407767/SamsungNoteViewFlipCoverSynthetikiLeykoGalaxyTabS8.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/059938/59938120/20220511120922_435a9d08.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/059938/59938113/20220511120922_72911747.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/059938/59938114/20220511120922_23324a8c.jpeg]]></additional_imageurl>
@@ -32714,7 +32714,7 @@ Frame Material: HornRimmed</description>
       <ean>8806094003567</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153466405/SamsungSiliconeCoverwithStrapBackCoverSilikonisLeykoGalaxyS225G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>5</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056199/56199302/20220214104130_2dc0fa8e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056199/56199304/20220214104130_3c0561c5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056199/56199301/20220214104129_6cd39e13.jpeg]]></additional_imageurl>
@@ -47464,7 +47464,7 @@ Case Shape: Round</description>
       <ean>4895220902236</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984927/TimberlandTBL14816JLU03.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>12</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -47476,8 +47476,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Brown</description>
-      <distributor>NONE</distributor>
-      <disPrice>118.37</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>68.14</disPrice>
     </product>
     <product>
       <id>4532197</id>
@@ -47490,7 +47490,7 @@ Case Shape: Round</description>
       <ean>4894816042967</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153987813/TimberlandRoloiMpatariasmeDermatinoLourakiseKafechromaTDWGA2152103.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>15</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -47499,8 +47499,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Brown</description>
-      <distributor>NONE</distributor>
-      <disPrice>91.75</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>50.44</disPrice>
     </product>
     <product>
       <id>4528514</id>
@@ -47863,7 +47863,7 @@ with Stones</description>
       <ean>4894816012731</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984695/TimberlandBrainardZRoloiMpatariasmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -47874,7 +47874,7 @@ with Stones</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Brown</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>47.73</disPrice>
     </product>
     <product>
@@ -48816,7 +48816,7 @@ Case Shape: Round</description>
       <ean>4894816004101</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984358/TimberlandRoloiWompatuckmeMetallikoMpraseleseMayrochromaTDWGG2100802.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεσαίου μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -48827,8 +48827,8 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Black
 • Χρώμα Λουριού: Black</description>
-      <distributor>NONE</distributor>
-      <disPrice>99.01</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>57.07</disPrice>
     </product>
     <product>
       <id>4529814</id>
@@ -49124,7 +49124,7 @@ Case Shape: Rectangle</description>
       <ean>4895220917018</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153983934/TimberlandStrantonRoloiCHronografosMpatariasmeMetallikoMpraselese.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>13</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland, XXL μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -49136,8 +49136,8 @@ Case Shape: Rectangle</description>
 • Χρώμα Καντράν: Blue
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
-      <distributor>NONE</distributor>
-      <disPrice>105.06</disPrice>
+      <distributor>WWT</distributor>
+      <disPrice>104.69</disPrice>
     </product>
     <product>
       <id>4544748</id>
@@ -49447,7 +49447,7 @@ Case Shape: Round</description>
       <ean>4971850945352</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153893087/CasioRoloiMpatariasmeKaoutsoukLourakiseMayrochromaMRW200H1E.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>12</quantity>
+      <quantity>11</quantity>
       <distributor>WWT</distributor>
       <disPrice>20.94</disPrice>
     </product>
@@ -52405,7 +52405,7 @@ Case Shape: Round</description>
       <ean>4894816004316</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984836/TimberlandScussetRoloiMpatariasmeDermatinoLourakiseKafechroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>6</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Timberland, μεγάλου μεγέθους με Leather σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
