@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-08 02:59</created_at>
+  <created_at>2023-06-08 03:31</created_at>
   <products>
     <product>
       <id>4546329</id>
@@ -10459,27 +10459,6 @@ Case Shape: Rectangle</description>
       <disPrice>173.42</disPrice>
     </product>
     <product>
-      <id>4527920</id>
-      <name><![CDATA[Calvin Klein Watch with Leather Strap White]]></name>
-      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>226</price_with_vat>
-      <manufacturer>Calvin Klein</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/028859/28859084/fixedratio_20220803113616_calvin_klein_roloi_me_dermatino_louraki_se_leyko_chroma_kag231lx.jpeg]]></image>
-      <mpn>KAG231LX</mpn>
-      <ean>7612635134796</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153881741/CalvinKleinRoloimeDermatinoLourakiseLeykochromaKAG231LX.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <description>Γυναικείο ρολόι από την εταιρία Calvin Klein. Το white round καντράν, με το Leather σε white χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
-Mechanism: Battery
-Material: Leather
-Strap Colour: White
-Dial Colour: White
-Case Shape: Round</description>
-      <distributor>WWT</distributor>
-      <disPrice>132.82</disPrice>
-    </product>
-    <product>
       <id>4527918</id>
       <name><![CDATA[Calvin Klein Watch with Leather Strap Black]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
@@ -14862,7 +14841,7 @@ Case Shape: Round</description>
       <id>4531168</id>
       <name><![CDATA[Casio Chronograph Watch with Rubber Strap Blue]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>28,99</price_with_vat>
+      <price_with_vat>28.49</price_with_vat>
       <manufacturer>Casio</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/022662/22662151/fixedratio_20220803112151_casio_roloi_chronografos_me_kaoutsouk_louraki_se_mple_chroma_f_91ws_2ef.jpeg]]></image>
       <mpn>F91WS2EF</mpn>
@@ -21496,33 +21475,6 @@ Case Shape: Geometric</description>
       <disPrice>63.64</disPrice>
     </product>
     <product>
-      <id>4507687</id>
-      <name><![CDATA[U.S. Polo Assn. Embroidery Collection Synthetic Leather Back Cover Black (iPhone 12 Pro Max)]]></name>
-      <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Cases & Covers]]></category>
-      <price_with_vat>23,5</price_with_vat>
-      <manufacturer>U.S. Polo Assn.</manufacturer>
-      <image><![CDATA[https://a.scdn.gr/images/sku_main_images/026985/26985303/20210304152226_u_s_polo_assn_embroidery_collection_back_cover_mayro_iphone_12_pro_max.jpeg]]></image>
-      <mpn>USHCP12LPUGFLBK</mpn>
-      <ean>3700740487105</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153407813/USPoloAssnEmbroideryCollectionBackCoverMayroiPhone12ProMax.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
-      <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/040888/40888153/20210304152226_77c99d59.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/040888/40888154/20210304152226_c2b9fc8f.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/040888/40888152/20210304152226_44408a98.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/040888/40888157/20210304152226_e07a0b96.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/040888/40888156/20210304152226_2660f12e.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/040888/40888163/20210304152226_f83e2d44.jpeg]]></additional_imageurl>
-      <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/040888/40888155/20210304152226_cdc90919.jpeg]]></additional_imageurl>
-      <description>Θήκη της εταιρείας U.S. Polo Assn. για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
-
-
-
-Συμβατή με το iPhone 12 Pro Max.</description>
-      <distributor>MOBI</distributor>
-      <disPrice>11.85</disPrice>
-    </product>
-    <product>
       <id>4539187</id>
       <name><![CDATA[Fossil Ρολόι με Μεταλλικό Μπρασελέ σε Ροζ Χρυσό χρώμα BQ3691]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
@@ -25467,27 +25419,6 @@ Dial Colour: Green
 Case Shape: Oval</description>
       <distributor>WWT</distributor>
       <disPrice>38.92</disPrice>
-    </product>
-    <product>
-      <id>4508500</id>
-      <name><![CDATA[U.S. Polo Assn. Vertical Logo Silicone Back Cover Black (iPhone 12 Pro Max)]]></name>
-      <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Cases & Covers]]></category>
-      <price_with_vat>24</price_with_vat>
-      <manufacturer>U.S. Polo Assn.</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/027319/27319484/20210225094458_u_s_polo_assn_vertical_logo_back_cover_silikonis_mayro_iphone_12_pro_max.jpeg]]></image>
-      <mpn>USHCP12LSLBKV2 0002591</mpn>
-      <ean>3700740491256</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153466183/USPoloAssnVerticalLogoBackCoverSilikonisMayroiPhone12ProMax.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
-      <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/040282/40282160/20210225094458_7173449e.jpeg]]></additional_imageurl>
-      <description>Θήκη της εταιρείας U.S. Polo Assn. για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
-
-
-
-Συμβατή με το iPhone 12 Pro Max.</description>
-      <distributor>MOBI</distributor>
-      <disPrice>11.25</disPrice>
     </product>
     <product>
       <id>4556806</id>
@@ -40634,33 +40565,6 @@ Frame Material: HornRimmed</description>
       <distributor>NONE</distributor>
     </product>
     <product>
-      <id>4546032</id>
-      <name><![CDATA[Guess Women's Sunglasses GU7580D 01C]]></name>
-      <category><![CDATA[Fashion > Sunglasses]]></category>
-      <price_with_vat>68,5</price_with_vat>
-      <manufacturer>Guess</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/020175/20175453/fixedratio_20190920110002_guess_gu7580_d_01c.jpeg]]></image>
-      <mpn>GU7580D 01C</mpn>
-      <ean>664689990153</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/154359239/GuessGynaikeiaGyaliaIliousechromaGU7580D01C.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <size>47-63</size>
-      <variations>
-        <variation>
-          <link><![CDATA[https://www.skroutz.gr/mp/154359239/GuessGynaikeiaGyaliaIliousechromaGU7580D01C.html]]></link>
-          <availability>Available from 4 to 10 days</availability>
-          <ean>664689990153</ean>
-          <price_with_vat>68,5</price_with_vat>
-          <size>47-63</size>
-          <quantity>0</quantity>
-          <variationid>664689990153.47-63</variationid>
-          <manufacturersku>GU7580D 01C</manufacturersku>
-        </variation>
-      </variations>
-      <distributor>NONE</distributor>
-    </product>
-    <product>
       <id>4546021</id>
       <name><![CDATA[Guess Women's Sunglasses GU7577D 05Z]]></name>
       <category><![CDATA[Fashion > Sunglasses]]></category>
@@ -43731,6 +43635,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -43789,6 +43694,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -47714,29 +47620,6 @@ Case Shape: Round</description>
 • Χρώμα Λουριού: Brown</description>
       <distributor>WWT</distributor>
       <disPrice>171.17</disPrice>
-    </product>
-    <product>
-      <id>4529701</id>
-      <name><![CDATA[Casio Digital Watch with Metal Bracelet Pink Gold]]></name>
-      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>65.00</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <image><![CDATA[https://a.scdn.gr/images/sku_main_images/027505/27505465/fixedratio_20220803112951_casio_psifiako_roloi_me_metalliko_mprasele_se_roz_chryso_chroma_b_640wmr_5aef.jpeg]]></image>
-      <mpn>B640WMR5AEF</mpn>
-      <ean>4549526273278</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153925315/CasioPSifiakoRoloimeMetallikoMpraseleseRozCHrysochromaB640WMR5AEF.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
-      <description>Γυναικείο ρολόι από την εταιρία Casio. Το rose gold rectangle καντράν, με το Metal Bracelet σε pink gold χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
-Mechanism: Battery
-Size: 35mm
-Waterproof: Hand Washing (5 Atm)
-Material: Metal Bracelet
-Strap Colour: Pink Gold
-Dial Colour: Rose Gold
-Case Shape: Rectangle</description>
-      <distributor>WWT</distributor>
-      <disPrice>42.74</disPrice>
     </product>
     <product>
       <id>4526993</id>
@@ -53359,21 +53242,6 @@ with Stones</description>
       <disPrice>76.65</disPrice>
     </product>
     <product>
-      <id>4528599</id>
-      <name><![CDATA[Casio Collection Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα MRW200H2B2VEF]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>38.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/008383/8383092/fixedratio_20220802190008_casio_collection_mrw_200h_2b2vef.jpeg]]></image>
-      <mpn>MRW200H2B2VEF</mpn>
-      <ean>4971850907152</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153892985/CasioCollectionRoloiMpatariasmeKaoutsoukLourakiseMayrochroma.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>20.94</disPrice>
-    </product>
-    <product>
       <id>4541087</id>
       <name><![CDATA[Just Cavalli Ρολόι με Μεταλλικό Μπρασελέ σε Χρυσό χρώμα JC1L094M0055]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
@@ -56210,21 +56078,6 @@ with Stones</description>
       <disPrice>54.51</disPrice>
     </product>
     <product>
-      <id>4548031</id>
-      <name><![CDATA[Tissot Battery Chronograph Watch with Leather Strap Black]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>250.0</price_with_vat>
-      <manufacturer>Tissot</manufacturer>
-      <image><![CDATA[https://d.scdn.gr/images/sku_main_images/009387/9387339/fixedratio_20220802190313_tissot_prs_516_t100_417_16_051_00.jpeg]]></image>
-      <mpn>T100.417.16.051.00</mpn>
-      <ean>7611608289228</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/154396229/TissotRoloiCHronografosMpatariasmeDermatinoLourakiseMayrochroma.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>158</disPrice>
-    </product>
-    <product>
       <id>4528643</id>
       <name><![CDATA[Casio Collection Ψηφιακό Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα F91WM7AEF]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
@@ -58631,20 +58484,6 @@ Case Shape: Round</description>
       <disPrice>20.94</disPrice>
     </product>
     <product>
-      <id>EAN4549526112065</id>
-      <name><![CDATA[Casio Standard Digital Battery Chronograph Watch with Rubber Strap Green]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>32.80</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>AE-1000W-3A</mpn>
-      <ean>4549526112065</ean>
-      <link><![CDATA[https://www.ninjaStore/4549526112065]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>23.14</disPrice>
-    </product>
-    <product>
       <id>EAN4549526178511</id>
       <name><![CDATA[Casio Stainless Steel Bracelet Digital Watch with Metal Bracelet Silver]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
@@ -58686,45 +58525,6 @@ Case Shape: Round</description>
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί είναι άνετο όταν το φοράς and είναι ανθεκτικό στις πτώσεις και στις γρατσουνιές.</description>
       <distributor>WWT</distributor>
       <disPrice>37.14</disPrice>
-    </product>
-    <product>
-      <id>EAN4971850906599</id>
-      <name><![CDATA[Casio Digital Battery Chronograph Watch with Rubber Strap Blue(1)]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>43.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>W-735H-2A</mpn>
-      <ean>4971850906599</ean>
-      <link><![CDATA[https://www.ninjaStore/4971850906599]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>30.94</disPrice>
-    </product>
-    <product>
-      <id>EAN4971850445586</id>
-      <name><![CDATA[Casio Battery Watch with Metal Bracelet Silver(1)]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>50.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>MTP-1302PD-7B</mpn>
-      <ean>4971850445586</ean>
-      <link><![CDATA[https://www.ninjaStore/4971850445586]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <description>Ανδρικό Analog ρολόι της εταιρίας Casio, μεσαίου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
-
-Βασικά Χαρακτηριστικά:
-• Μηχανισμός: Battery
-• Μέγεθος: 38.5mm
-• Αδιάβροχο: Hand Washing (5 Atm)
-• Με ένδειξη ημερομηνίας
-• Υλικό Λουριού: Metal Bracelet
-• Χρώμα Καντράν: White
-• Χρώμα Κάσας: Silver
-• Χρώμα Λουριού: Silver</description>
-      <distributor>WWT</distributor>
-      <disPrice>32.94</disPrice>
     </product>
     <product>
       <id>EAN4971850965114</id>
@@ -58886,7 +58686,7 @@ Case Shape: Round</description>
     </product>
     <product>
       <id>EAN4549526273261</id>
-      <name><![CDATA[Casio Digital Watch with Metal Bracelet Pink Gold(1)]]></name>
+      <name><![CDATA[Casio Digital Watch with Metal Bracelet Pink Gold]]></name>
       <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
       <price_with_vat>58.50</price_with_vat>
       <manufacturer>Casio</manufacturer>
@@ -59304,20 +59104,6 @@ Case Shape: Round</description>
       <disPrice>10.94</disPrice>
     </product>
     <product>
-      <id>EAN4549526162978</id>
-      <name><![CDATA[Casio Standard Digital Chronograph Watch with Rubber Strap Pink]]></name>
-      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>45.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>LW-203-4AVEF</mpn>
-      <ean>4549526162978</ean>
-      <link><![CDATA[https://www.ninjaStore/4549526162978]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>8</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>23.94</disPrice>
-    </product>
-    <product>
       <id>EAN4971850860051</id>
       <name><![CDATA[Casio Watch with Metal Bracelet Silver
 (1)]]></name>
@@ -59426,20 +59212,6 @@ Case Shape: Rectangle</description>
       <quantity>4</quantity>
       <distributor>WWT</distributor>
       <disPrice>29.94</disPrice>
-    </product>
-    <product>
-      <id>EAN4549526261053</id>
-      <name><![CDATA[Casio Chronograph Watch with Rubber Strap Blue(1)]]></name>
-      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>28.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>F-91WS-2DF</mpn>
-      <ean>4549526261053</ean>
-      <link><![CDATA[https://www.ninjaStore/4549526261053]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>16.74</disPrice>
     </product>
     <product>
       <id>EAN4971850439318</id>
@@ -59831,20 +59603,6 @@ Dial Colour: White
 Case Shape: Round</description>
       <distributor>WWT</distributor>
       <disPrice>26.94</disPrice>
-    </product>
-    <product>
-      <id>EAN4549526340987</id>
-      <name><![CDATA[Casio Watch with Metal Bracelet(1)]]></name>
-      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
-      <price_with_vat>58.50</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <mpn>LTP-1302PSG-7AVEG</mpn>
-      <ean>4549526340987</ean>
-      <link><![CDATA[https://www.ninjaStore/4549526340987]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>38.94</disPrice>
     </product>
     <product>
       <id>EAN4894816035006</id>
@@ -61678,31 +61436,53 @@ Bracelet Length: 22cm</description>
     </product>
     <product>
       <id>EAN8434103069084</id>
-      <name><![CDATA[Morellato Women's Gold Plated Steel Ring with Stone]]></name>
+      <name><![CDATA[Morellato Women's Gold Plated Steel Ring with Stone
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>23.10</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADY05016</mpn>
       <ean>8434103069084</ean>
       <link><![CDATA[https://www.ninjaStore/8434103069084]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>9.99</disPrice>
+      <quantity>0</quantity>
+      <size>16.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103069084]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103069084</ean>
+          <price_with_vat>23.10</price_with_vat>
+          <size>16.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103069084.16.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103068841</id>
-      <name><![CDATA[Morellato Women's Gold Plated Steel Ring Lunae with Stone]]></name>
+      <name><![CDATA[Morellato Women's Gold Plated Steel Ring Lunae with Stone
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>27.50</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADX05014</mpn>
       <ean>8434103068841</ean>
       <link><![CDATA[https://www.ninjaStore/8434103068841]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>13.8</disPrice>
+      <quantity>0</quantity>
+      <size>14.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103068841]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103068841</ean>
+          <price_with_vat>27.50</price_with_vat>
+          <size>14.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103068841.14.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103069077</id>
@@ -61711,41 +61491,73 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>22.50</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADY05014</mpn>
       <ean>8434103069077</ean>
       <link><![CDATA[https://www.ninjaStore/8434103069077]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>9.99</disPrice>
+      <quantity>0</quantity>
+      <size>14.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103069077]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103069077</ean>
+          <price_with_vat>22.50</price_with_vat>
+          <size>14.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103069077.14.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103068940</id>
-      <name><![CDATA[Morellato Women's Steel Ring Lunae with Stone]]></name>
+      <name><![CDATA[Morellato Women's Steel Ring Lunae with Stone
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>19.90</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADX13012</mpn>
       <ean>8434103068940</ean>
       <link><![CDATA[https://www.ninjaStore/8434103068940]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>11.8</disPrice>
+      <quantity>0</quantity>
+      <size>12.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103068940]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103068940</ean>
+          <price_with_vat>19.90</price_with_vat>
+          <size>12.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103068940.12.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103069152</id>
-      <name><![CDATA[Morellato Women's Ring with Stone(1)]]></name>
+      <name><![CDATA[Morellato Women's Ring with Stone
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>35.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADY10014</mpn>
       <ean>8434103069152</ean>
       <link><![CDATA[https://www.ninjaStore/8434103069152]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>8.99</disPrice>
+      <quantity>0</quantity>
+      <size>14.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103069152]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103069152</ean>
+          <price_with_vat>35.0</price_with_vat>
+          <size>14.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103069152.14.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103069145</id>
@@ -61754,13 +61566,23 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>41.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADY10012</mpn>
       <ean>8434103069145</ean>
       <link><![CDATA[https://www.ninjaStore/8434103069145]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>8.99</disPrice>
+      <quantity>0</quantity>
+      <size>12.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103069145]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103069145</ean>
+          <price_with_vat>41.0</price_with_vat>
+          <size>12.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103069145.12.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103068858</id>
@@ -61769,31 +61591,52 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>40.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADX05016</mpn>
       <ean>8434103068858</ean>
       <link><![CDATA[https://www.ninjaStore/8434103068858]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>13.8</disPrice>
+      <quantity>0</quantity>
+      <size>16.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103068858]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103068858</ean>
+          <price_with_vat>40.0</price_with_vat>
+          <size>16.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103068858.16.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8434103068957</id>
-      <name><![CDATA[Morellato Women's Ring with Pearl]]></name>
+      <name><![CDATA[Morellato Women's Ring with Pearl
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>23.50</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SADX13014</mpn>
       <ean>8434103068957</ean>
       <link><![CDATA[https://www.ninjaStore/8434103068957]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό δαχτυλίδι της εταιρείας Morellato.
 
 Βασικά Χαρακτηριστικά:
 • Είδος πέτρας: Pearls</description>
-      <distributor>WWT</distributor>
-      <disPrice>14.75</disPrice>
+      <size>14.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8434103068957]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8434103068957</ean>
+          <price_with_vat>23.50</price_with_vat>
+          <size>14.0</size>
+          <quantity>0</quantity>
+          <variationid>8434103068957.14.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288644576</id>
@@ -61811,21 +61654,32 @@ Bracelet Length: 22cm</description>
     </product>
     <product>
       <id>EAN8033288724780</id>
-      <name><![CDATA[Morellato Women's Ring(1)]]></name>
+      <name><![CDATA[Morellato Women's Ring
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>31.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SAGX16016</mpn>
       <ean>8033288724780</ean>
       <link><![CDATA[https://www.ninjaStore/8033288724780]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό δαχτυλίδι της εταιρείας Morellato με σχέδιο καρδιά.
 
 Βασικά Χαρακτηριστικά:
 • Σχέδιο: Καρδιά</description>
-      <distributor>WWT</distributor>
-      <disPrice>14.75</disPrice>
+      <size>16.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8033288724780]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8033288724780</ean>
+          <price_with_vat>31.0</price_with_vat>
+          <size>16.0</size>
+          <quantity>0</quantity>
+          <variationid>8033288724780.16.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288685395</id>
@@ -61863,31 +61717,52 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>31.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SAGX16012</mpn>
       <ean>8033288724766</ean>
       <link><![CDATA[https://www.ninjaStore/8033288724766]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό δαχτυλίδι της εταιρείας Morellato με σχέδιο καρδιά.
 
 Βασικά Χαρακτηριστικά:
 • Σχέδιο: Καρδιά</description>
-      <distributor>WWT</distributor>
-      <disPrice>11.8</disPrice>
+      <size>12.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8033288724766]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8033288724766</ean>
+          <price_with_vat>31.0</price_with_vat>
+          <size>12.0</size>
+          <quantity>0</quantity>
+          <variationid>8033288724766.12.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288844198</id>
-      <name><![CDATA[Morellato Women's Ring Gioielli with Stone(1)]]></name>
+      <name><![CDATA[Morellato Women's Ring Gioielli with Stone
+]]></name>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>57.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SAIW42012</mpn>
       <ean>8033288844198</ean>
       <link><![CDATA[https://www.ninjaStore/8033288844198]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>23.43</disPrice>
+      <quantity>0</quantity>
+      <size>12.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8033288844198]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8033288844198</ean>
+          <price_with_vat>57.0</price_with_vat>
+          <size>12.0</size>
+          <quantity>0</quantity>
+          <variationid>8033288844198.12.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288879220</id>
@@ -61910,17 +61785,27 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>31.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SAGX16018</mpn>
       <ean>8033288724797</ean>
       <link><![CDATA[https://www.ninjaStore/8033288724797]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό δαχτυλίδι της εταιρείας Morellato με σχέδιο καρδιά.
 
 Βασικά Χαρακτηριστικά:
 • Σχέδιο: Καρδιά</description>
-      <distributor>WWT</distributor>
-      <disPrice>14.75</disPrice>
+      <size>18.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8033288724797]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8033288724797</ean>
+          <price_with_vat>31.0</price_with_vat>
+          <size>18.0</size>
+          <quantity>0</quantity>
+          <variationid>8033288724797.18.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288841326</id>
@@ -61944,13 +61829,23 @@ Bracelet Length: 22cm</description>
       <category><![CDATA[Fashion > Jewelry > Rings]]></category>
       <price_with_vat>57.0</price_with_vat>
       <manufacturer>Morellato</manufacturer>
-      <mpn>SAIW42014</mpn>
       <ean>8033288844204</ean>
       <link><![CDATA[https://www.ninjaStore/8033288844204]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
-      <disPrice>23.43</disPrice>
+      <quantity>0</quantity>
+      <size>14.0</size>
+      <variations>
+        <variation>
+          <link><![CDATA[https://www.ninjaStore/8033288844204]]></link>
+          <availability>Available from 4 to 10 days</availability>
+          <ean>8033288844204</ean>
+          <price_with_vat>57.0</price_with_vat>
+          <size>14.0</size>
+          <quantity>0</quantity>
+          <variationid>8033288844204.14.0</variationid>
+          <manufacturersku/>
+        </variation>
+      </variations>
     </product>
     <product>
       <id>EAN8033288796671</id>
