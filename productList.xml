@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-08 02:40</created_at>
+  <created_at>2023-06-08 10:16</created_at>
   <products>
     <product>
       <id>4546329</id>
@@ -1084,14 +1084,14 @@ with Stones</description>
       <ean>8806092978706</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407638/SamsungAsyrmatosFortistisQiPad15WMayrosEPP2400T.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>200</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/057338/57338043/20220310094629_b6eaf9f2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057338/57338046/20220310094631_282eef6f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057338/57338044/20220310094631_4c1f17e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/057338/57338047/20220310094632_0949a824.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057338/57338045/20220310094631_8c4c6c3f.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
-      <disPrice>21.55</disPrice>
+      <disPrice>21.6</disPrice>
     </product>
     <product>
       <id>4527121</id>
@@ -9105,9 +9105,9 @@ with Stones</description>
       <ean>4895148690390</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154399011/PoliceStayrosMeAlysidaapoAtsaliZealPJ26160PSS01.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
-      <distributor>NONE</distributor>
-      <disPrice>38.18</disPrice>
+      <quantity>5</quantity>
+      <distributor>WWT</distributor>
+      <disPrice>38.32</disPrice>
     </product>
     <product>
       <id>4546746</id>
@@ -12356,7 +12356,7 @@ Case Shape: Rectangle</description>
       <ean>6921815612407</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407665/OnePlusWarpChargeFlatUSB20CableUSBCmaleUSBCmaleKokkino1m.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>362</quantity>
+      <quantity>312</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/040005/40005680/20210222112300_23a97645.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052693/52693292/20211122151713_cb516a77.jpeg]]></additional_imageurl>
       <description>Επίπεδο καλώδιο της εταιρείας OnePlus με δύο ακροδέκτες USBC για τη γρήγορη φόρτιση του κινητού σου και για ταυτόχρονη μεταφορά δεδομένων μεταξύ κινητού και υπολογιστή.
@@ -30496,7 +30496,7 @@ Case Shape: Round</description>
       <ean>753048346493</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154156256/TimexPSifiakoRoloiCHronografosmeKaoutsoukLourakiseFouxiachromaTN2209.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <description>Γυναικείο ρολόι χρονογράφος από την εταιρία Timex. Το pink rectangle καντράν, με το Rubber σε fuchsia χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
 Mechanism: Battery
 Size: 35mm
@@ -30505,7 +30505,7 @@ Material: Rubber
 Strap Colour: Fuchsia
 Dial Colour: Pink
 Case Shape: Rectangle</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>11.68</disPrice>
     </product>
     <product>
@@ -32530,7 +32530,7 @@ Frame Material: Metallic</description>
       <ean>4051854451957</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154923395/JaguarAndrikaGyaliaIlioumeAsimiMetallikoSkeletokaiMpleFako375931000.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>22</quantity>
+      <quantity>21</quantity>
       <description>sunglasses Jaguar με silver Metallic σε σχήμα aviator.
 Gender: Men's
 Frame Material: Metallic</description>
@@ -32542,7 +32542,7 @@ Frame Material: Metallic</description>
           <ean>4051854451957</ean>
           <price_with_vat>165</price_with_vat>
           <size>47-63</size>
-          <quantity>22</quantity>
+          <quantity>21</quantity>
           <variationid>4051854451957.47-63</variationid>
           <manufacturersku>37593 1000</manufacturersku>
         </variation>
@@ -48154,7 +48154,7 @@ Case Shape: Round</description>
       <ean>8434103459694</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153867294/Seiko5SportsFieldSportsStyleRoloiMpatariasmeYfasmatinoLourakise.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Seiko, μεσαίου μεγέθους με Fabric σε brown χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Όπως κάθε ρολόι της σειράς 5 Sports, προσφέρει αξιοπιστία, ανθεκτικότητα και απόδοση.
 
 Βασικά Χαρακτηριστικά:
@@ -48166,7 +48166,7 @@ Case Shape: Round</description>
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Brown</description>
       <distributor>WWT</distributor>
-      <disPrice>222.73</disPrice>
+      <disPrice>198.78</disPrice>
     </product>
     <product>
       <id>4557051</id>
@@ -48499,7 +48499,7 @@ Case Shape: Rectangle</description>
       <ean>8434103479180</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153867028/Seiko5SportsSKXRoloiCHronografosAytomatomeMetallikoMpraseleseAsimi.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Seiko, μεσαίου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει αυτόματο μηχανισμό που επιτρέπει να αποφεύγεται το χειροκίνητο κούρδισμα, καθώς αυτό επιτυγχάνεται με την κίνηση του χεριού περιστρέφοντας έναν ρότορα ο οποίος συσπειρώνει το ελατήριο.
 
 
@@ -48513,7 +48513,7 @@ Case Shape: Rectangle</description>
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
       <distributor>WWT</distributor>
-      <disPrice>198.77</disPrice>
+      <disPrice>217.92</disPrice>
     </product>
     <product>
       <id>4527161</id>
@@ -49294,7 +49294,7 @@ Case Shape: Rectangle</description>
       <ean>4549526307034</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674497/CasioGShockRoloiCHronografosMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>14</quantity>
       <distributor>WWT</distributor>
       <disPrice>115.42</disPrice>
     </product>
@@ -49931,7 +49931,7 @@ Features: Vibration, Speaker, Microphone</description>
       <ean>4971850435211</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674447/CasioGShockRoloiCHronografosMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <distributor>WWT</distributor>
       <disPrice>89.96</disPrice>
     </product>
@@ -52307,7 +52307,7 @@ Case Shape: Round</description>
       <ean>4549526344343</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154674542/CasioGShockRoloiCHronografosMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Casio, μεγάλου μεγέθους με Rubber σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η σειρά GShock σχεδιάστηκε και ξεχωρίζει για την ανθεκτικότητα, την καινοτομία και την πολυλειτουργικότητά της.
 
 Βασικά Χαρακτηριστικά:
@@ -52322,7 +52322,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: Black
 • Χρώμα Κάσας: Gray
 • Χρώμα Λουριού: Black</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>127.02</disPrice>
     </product>
     <product>
@@ -56097,7 +56097,7 @@ Pattern: Heart</description>
       <ean>4894816004026</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984354/TimberlandRoloiCHronografosMpatariasmeDermatinoLourakiseMayrochroma.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
 Βασικά Χαρακτηριστικά:
@@ -56734,8 +56734,8 @@ Case Shape: Round</description>
       <ean>4974374298225</ean>
       <link><![CDATA[https://www.ninjaStore/4974374298225]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
       <disPrice>274.05</disPrice>
     </product>
     <product>
@@ -56774,7 +56774,7 @@ Case Shape: Round</description>
       <ean>8018225035341</ean>
       <link><![CDATA[https://www.ninjaStore/8018225035341]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Citizen, μεγάλου μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό eco-drive που μετατρέπει οποιοδήποτε είδος φωτός σε ενέργεια, η οποία τροφοδοτεί το ρολόι. Με πλήρη φόρτιση λειτουργεί για μήνες ακόμη και στο σκοτάδι, χωρίς να απαιτείται τακτική αντικατάσταση της μπαταρίας.
 
 Βασικά Χαρακτηριστικά:
@@ -56785,7 +56785,7 @@ Case Shape: Round</description>
 • Χρώμα Καντράν: White
 • Χρώμα Κάσας: Silver
 • Χρώμα Λουριού: Silver</description>
-      <distributor>WWT</distributor>
+      <distributor>NONE</distributor>
       <disPrice>135.72</disPrice>
     </product>
     <product>
@@ -56907,8 +56907,8 @@ Case Shape: Round</description>
       <ean>8018225031046</ean>
       <link><![CDATA[https://www.ninjaStore/8018225031046]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
-      <distributor>WWT</distributor>
+      <quantity>0</quantity>
+      <distributor>NONE</distributor>
       <disPrice>184.74</disPrice>
     </product>
     <product>
@@ -56971,7 +56971,7 @@ Case Shape: Round</description>
       <ean>8018225028688</ean>
       <link><![CDATA[https://www.ninjaStore/8018225028688]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>6</quantity>
+      <quantity>5</quantity>
       <description>Ανδρικό Analog ρολόι της εταιρίας Citizen, μεσαίου μεγέθους με Rubber σε black χρώμα. Διαθέτει αυτόματο μηχανισμό που επιτρέπει να αποφεύγεται το χειροκίνητο κούρδισμα, καθώς αυτό επιτυγχάνεται με την κίνηση του χεριού περιστρέφοντας έναν ρότορα ο οποίος συσπειρώνει το ελατήριο.
 
 
