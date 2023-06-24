@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-24 09:50</created_at>
+  <created_at>2023-06-24 09:51</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -519,7 +519,7 @@ Total Ports: 2</description>
       <ean>6971669780913</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153484233/70MaiProPlusA500S1SetKameraDVRAytokinitoumeOthoni2WiFiGPSgia.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>10</quantity>
+      <quantity>9</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052373/52373560/20211115133426_dccd6e4c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/042778/42778984/20210401101833_250a111f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054076/54076681/20230403111659_d1a389d0.jpeg]]></additional_imageurl>
@@ -2321,7 +2321,7 @@ Weight: 680gr</description>
       <ean>6971085311333</ean>
       <link><![CDATA[https://www.ninjaStore/6971085311333]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>58</quantity>
+      <quantity>55</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/067779/67779425/20221117135359_d99f9f60.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>22.7</disPrice>
@@ -3145,7 +3145,7 @@ Clasp Closure: Buckle</description>
       <ean>6941812704325</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155015867/XiaomiAW300IPKameraParakolouthisisWiFi1080pAdiavrochimeMikrofono.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>40</quantity>
+      <quantity>35</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/074412/74412654/20230413093814_8e8f2718.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/074561/74561733/20230414091425_71198677.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -4677,7 +4677,7 @@ Standby: 180hrs</description>
       <ean>6935117834559</ean>
       <link><![CDATA[https://www.ninjaStore/6935117834559]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>82</quantity>
+      <quantity>80</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066133/66133962/20221017165338_a03539ef.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066133/66133958/20221017165338_09ed0e79.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066133/66133975/20221017165338_bedc1f11.jpeg]]></additional_imageurl>
@@ -8810,7 +8810,7 @@ Clasp Closure: Buckle</description>
       <ean>6935117834498</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154963194/VivoSportLiteInearBluetoothHandsfreeAkoustikameAntochistonIdrota.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>119</quantity>
+      <quantity>114</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/066134/66134132/20221017165421_8e099246.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066134/66134130/20221017165421_9ad4cbff.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066134/66134147/20221017165422_660f333d.jpeg]]></additional_imageurl>
@@ -12541,7 +12541,7 @@ Operation Time: 288hrs</description>
       <ean>6971085310916</ean>
       <link><![CDATA[https://www.ninjaStore/6971085310916]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>5</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053447/53447695/20211207141507_a9c3e351.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/053447/53447699/20211207141507_29ef8851.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053447/53447705/20211207141508_792bfc85.jpeg]]></additional_imageurl>
@@ -15246,7 +15246,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>827886538454.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15320,7 +15319,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399294.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15348,7 +15346,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736683034.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15377,7 +15374,6 @@ Polarized</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736350691.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15405,7 +15401,6 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736132433.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15433,7 +15428,6 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399386.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17304,7 +17298,6 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17581,7 +17574,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308708.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17609,7 +17601,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308739.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17637,7 +17628,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736233031.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17665,7 +17655,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226262.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17693,7 +17682,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736415796.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17721,7 +17709,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226132.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17749,7 +17736,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736078915.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17777,7 +17763,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736327747.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19536,7 +19521,6 @@ Frame Material: HornRimmed</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736305226.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19593,7 +19577,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736418520.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19623,7 +19606,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369457.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19649,7 +19631,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736130576.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19706,7 +19687,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369204.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20840,7 +20820,6 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22791,7 +22770,6 @@ Frame Material: Horn-Rimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>664689863655.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22898,16 +22876,19 @@ Frame Material: Horn-Rimmed</description>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
       <price_with_vat>25.0</price_with_vat>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039700/39700938/20221201123949_fortistis_choris_kalodio_me_thyra_usb_a_65w_leykos_supervooc.jpeg]]></image>
+      <mpn>5461100114</mpn>
       <ean>6921815621270</ean>
       <link><![CDATA[https://www.ninjaStore/6921815621270]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068610/68610975/20221201123949_120f1f7a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/068610/68610972/20221201123949_0a7dbbaa.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/068610/68610973/20221201123949_83b7514d.jpeg]]></additional_imageurl>
       <description>Ο αντάπτορας φόρτισης μπορεί να αντικαταστήσει αυτόν που είχατε ή να βελτιώσει τη φόρτιση του κινητού σας αν ο παλιός δεν είναι τόσο γρήγορος. Η συσκευασία δεν περιέχει καλώδιο, οπότε θα πρέπει να χρησιμοποιήσετε αυτό του κινητού. Υποστηρίζει γρήγορη φόρτιση, η οποία θα πρέπει να συμβατή με το κινητό σας. Σε αντίθετη περίπτωση, το κινητό σας θα φορτίσει αργά, όπως με ένα συμβατικό φορτιστή.
 USB-A Output Ports: 1
 Charging Power: 65W</description>
+      <distributor>MOBI</distributor>
+      <disPrice>15.95</disPrice>
     </product>
     <product>
       <id>EAN6934177722851</id>
@@ -22916,15 +22897,19 @@ Charging Power: 65W</description>
       <price_with_vat>25.0</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/027092/27092430/20210211153103_xiaomi_usb_c_wall_adapter_bhr4499gl.jpeg]]></image>
+      <mpn>BHR4499GL
+29188</mpn>
       <ean>6934177722851</ean>
       <link><![CDATA[https://www.ninjaStore/6934177722851]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>94</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/041201/41201785/20210309170050_703cee46.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/041201/41201784/20210309170049_91b6999a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/041201/41201771/20210309170048_b2af6627.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/041201/41201772/20210309170048_9febd775.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/041201/41201776/20210309170049_b72c3871.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>15.8</disPrice>
     </product>
     <product>
       <id>EAN6920680808526</id>
@@ -22936,7 +22921,7 @@ Charging Power: 65W</description>
       <ean>6920680808526</ean>
       <link><![CDATA[https://www.ninjaStore/6920680808526]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>292</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061635/61635253/20220624160005_4915f04f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/061635/61635249/20220624160005_1b2ec13b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061635/61635254/20220624160005_42b45b2a.jpeg]]></additional_imageurl>
@@ -22944,6 +22929,8 @@ Charging Power: 65W</description>
       <description>Ο φορτιστής της εταιρείας XO προσφέρει μια πλήρη λύση φόρτισης για το κινητό σας, σε περίπτωση που ο παλιός χάλασε ή δεν σας ικανοποιεί η ταχύτητα του. Στη συσκευασία περιλαμβάνεται καλώδιο Lightning, κατάλληλο για τη φόρτιση συσκευών της Apple. Όλα τα κινητά από το iPhone 5 και μετά, τα iPad (εκτός των τελευταίων iPad Pro) κι αρκετά άλλα αξεσουάρ της Apple φορτίζονται με αυτό το καλώδιο κατασκευής της.
 USB-A Output Ports: 2
 Main Port Amperage (Max): 2.4A</description>
+      <distributor>MOBI</distributor>
+      <disPrice>2.2</disPrice>
     </product>
     <product>
       <id>EAN6920680808540</id>
@@ -22955,13 +22942,15 @@ Main Port Amperage (Max): 2.4A</description>
       <ean>6920680808540</ean>
       <link><![CDATA[https://www.ninjaStore/6920680808540]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>452</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061635/61635257/20220624160005_a300b142.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061635/61635250/20220624160005_17283c86.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/061635/61635252/20220624160005_b5bec19d.jpeg]]></additional_imageurl>
       <description>Ο φορτιστής της εταιρείας XO προσφέρει μια πλήρη λύση φόρτισης για το κινητό σας, σε περίπτωση που ο παλιός χάλασε ή δεν σας ικανοποιεί η ταχύτητα του. Στη συσκευασία περιλαμβάνεται καλώδιο micro USB, κατάλληλο για τη φόρτιση κινητών παλαιότερης γενιάς. Λόγω της τεχνολογίας του, δεν μπορεί να υποστηρίξει γρήγορη φόρτιση.
 USB-A Output Ports: 2
 Main Port Amperage (Max): 2.4A</description>
+      <distributor>MOBI</distributor>
+      <disPrice>2.2</disPrice>
     </product>
     <product>
       <id>EAN6939801428451</id>
@@ -22970,13 +22959,16 @@ Main Port Amperage (Max): 2.4A</description>
       <price_with_vat>30.0</price_with_vat>
       <manufacturer>Goui</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042999/42999629/20230620132125_goui_wireless_charging_mouse_pad_250mm_mayro.jpeg]]></image>
+      <mpn>G-PAD15WQI-K</mpn>
       <ean>6939801428451</ean>
       <link><![CDATA[https://www.ninjaStore/6939801428451]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>80</quantity>
       <description>Ένα απλό mouse pad της εταιρείας Goui, κατάλληλο για κάθε τύπο ποντικιού. Προτείνεται η χρήση του αν η επιφάνεια του γραφείου δεν επιτρέπει τη σωστή λειτουργία του ποντικιού ή αν αυτό λερώνεται εύκολα. Προσφέρει ασύρματη φόρτιση στο κινητό, τα ασύρματα ακουστικά, το smartwatch ή όποιο άλλο αξεσουάρ σας φορτίζει ασύρματα. Απλά ακουμπήστε το στη δεξιά πλευρά του mouse pad.
 Length: 250mm
 Width: 215mm</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.95</disPrice>
     </product>
     <product>
       <id>EAN8806090706219</id>
@@ -22985,16 +22977,19 @@ Width: 215mm</description>
       <price_with_vat>56.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/025839/25839391/20201125165741_samsung_wall_charger_leyko_wireless_charger_trio_ep_p6300.jpeg]]></image>
+      <mpn>EP-P6300TWEGEU</mpn>
       <ean>8806090706219</ean>
       <link><![CDATA[https://www.ninjaStore/8806090706219]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>240</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068192/20201125165742_422afe02.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068189/20201125165741_ea484f6f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/036068/36068194/20201125165742_892d8587.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068191/20201125165741_1c891f67.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/036068/36068197/20201125165743_f4e7b70c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068195/20201125165742_4f77d351.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>35.25</disPrice>
     </product>
     <product>
       <id>EAN6934177716188</id>
@@ -23003,15 +22998,18 @@ Width: 215mm</description>
       <price_with_vat>25.0</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/023046/23046400/20211104142414_xiaomi_mi_20w_wireless_charging_stand_mayro.jpeg]]></image>
+      <mpn>GDS4145GL</mpn>
       <ean>6934177716188</ean>
       <link><![CDATA[https://www.ninjaStore/6934177716188]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>35</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/032243/32243398/20200506095533_9817e7d8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051802/51802410/20211104142413_d4cab5e2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051802/51802398/20211104142413_32c5f258.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051802/51802403/20211104142413_87af0855.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051802/51802408/20211104142413_be83755b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>15.4</disPrice>
     </product>
     <product>
       <id>EAN6934177786884</id>
@@ -23020,12 +23018,15 @@ Width: 215mm</description>
       <price_with_vat>59.0</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038335/38335294/20220923170609_xiaomi_asyrmatos_fortistis_qi_pad_50w_mayros_bhr6094gl.jpeg]]></image>
+      <mpn>BHR6094GL</mpn>
       <ean>6934177786884</ean>
       <link><![CDATA[https://www.ninjaStore/6934177786884]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>37</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/065109/65109836/20220923170609_815ff787.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/065109/65109835/20220923170609_c6ae0b9d.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>37.9</disPrice>
     </product>
     <product>
       <id>EAN6934177764134</id>
@@ -23034,15 +23035,18 @@ Width: 215mm</description>
       <price_with_vat>12.0</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/037426/37426763/20220801174820_xiaomi_mayro_watch_s1_active.jpeg]]></image>
+      <mpn>BHR5643GL</mpn>
       <ean>6934177764134</ean>
       <link><![CDATA[https://www.ninjaStore/6934177764134]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>28</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063074/63074038/20220809145037_3713fe2c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063349/63349217/20220819163246_62903ca6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063349/63349214/20220819163244_9e8931af.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063349/63349215/20220819163244_3872486b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063349/63349213/20220819163244_53d765ac.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>7.7</disPrice>
     </product>
     <product>
       <id>EAN8806088957920</id>
@@ -23051,16 +23055,19 @@ Width: 215mm</description>
       <price_with_vat>9.65</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/016763/16763406/20211105085935_samsung_regular_usb_2_0_cable_usb_c_male_usb_a_male_mayro_1_5m_ep_dg930mbegww.jpeg]]></image>
+      <mpn>EP-DG930MBEGWW</mpn>
       <ean>8806088957920</ean>
       <link><![CDATA[https://www.ninjaStore/8806088957920]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>14</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051838/51838336/20211105085935_cb3e378e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/023535/23535571/20181211123051_0c91db43.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051838/51838322/20211105085935_690ba7ad.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051838/51838316/20211105085935_360fd142.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051838/51838339/20211105085936_7c2c9a38.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051838/51838344/20211105085936_c4cd384c.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>6.2</disPrice>
     </product>
     <product>
       <id>EAN8806088938141</id>
@@ -23069,10 +23076,11 @@ Width: 215mm</description>
       <price_with_vat>6.80</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/013175/13175726/20200304150639_samsung_regular_usb_2_0_cable_usb_c_male_usb_a_male_mayro_1_5m_ep_dg930ibegww.jpeg]]></image>
+      <mpn>EP-DG930IBEGWW</mpn>
       <ean>8806088938141</ean>
       <link><![CDATA[https://www.ninjaStore/8806088938141]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>428</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050964/50964643/20211015161306_038fdb83.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/050964/50964678/20211015161307_35160f04.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050964/50964621/20211015161306_505573bb.jpeg]]></additional_imageurl>
@@ -23082,6 +23090,8 @@ Width: 215mm</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050964/50964638/20211015161306_ab14e49b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050964/50964624/20211015161306_449eddb0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050964/50964618/20211015161306_764e4229.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>3.95</disPrice>
     </product>
     <product>
       <id>EAN8806094257557</id>
@@ -23089,15 +23099,18 @@ Width: 215mm</description>
       <category><![CDATA[Technology > Data Cables > USB Type-C Cables]]></category>
       <price_with_vat>12.0</price_with_vat>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/034028/34028373/20220216095917_usb_2_0_cable_usb_c_male_usb_c_male_leyko_1_8m_ep_dx310jwegeu.jpeg]]></image>
+      <mpn>EP-DX310JWEGEU</mpn>
       <ean>8806094257557</ean>
       <link><![CDATA[https://www.ninjaStore/8806094257557]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>134</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056299/56299948/20220216095916_b75caf71.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056299/56299949/20220216095917_664febae.jpeg]]></additional_imageurl>
       <description>Καλώδιο με δύο ακροδέκτες USB-C για τη γρήγορη φόρτιση του κινητού σου και για ταυτόχρονη μεταφορά δεδομένων μεταξύ κινητού και υπολογιστή. Εξασφαλίζει ταχύτητα φόρτισης maximum 3A.
 Length: 1.8m
 USB Version: USB 2.0</description>
+      <distributor>MOBI</distributor>
+      <disPrice>7.05</disPrice>
     </product>
     <product>
       <id>EAN8806090144059</id>
@@ -23106,10 +23119,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>13.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/022452/22452986/20211105095354_samsung_usb_2_0_cable_usb_c_male_usb_c_male_leyko_1m_ep_dn975bwegww.jpeg]]></image>
+      <mpn>EP-DN975BWEGWW</mpn>
       <ean>8806090144059</ean>
       <link><![CDATA[https://www.ninjaStore/8806090144059]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>170</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/031328/31328971/20210528161515_0d2aedc9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051843/51843960/20211105095354_129c0e35.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052693/52693285/20211122151713_50830151.jpeg]]></additional_imageurl>
@@ -23120,6 +23134,8 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055606/55606271/20220131141159_72ee9f4c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055601/55601506/20220131133657_d378e497.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/055606/55606277/20220131141200_f206ceda.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>8.3</disPrice>
     </product>
     <product>
       <id>EAN8801643993566</id>
@@ -23128,16 +23144,19 @@ USB Version: USB 2.0</description>
       <price_with_vat>10.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/019653/19653913/20210322161722_samsung_regular_usb_2_0_cable_usb_c_male_usb_c_male_mayro_1m_ep_da705bbegww.jpeg]]></image>
+      <mpn>EP-DA705BBEGWW</mpn>
       <ean>8801643993566</ean>
       <link><![CDATA[https://www.ninjaStore/8801643993566]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/035088/35088916/20201013105939_7f89edd0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051838/51838343/20211105085936_cf35cba5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051838/51838308/20211105085935_03514ea1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051838/51838315/20211105085935_a830ff41.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051838/51838330/20211105085935_4d007036.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/035088/35088899/20201013105924_2567a8f4.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>5.85</disPrice>
     </product>
     <product>
       <id>EAN6321116709422</id>
@@ -23146,10 +23165,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>32.0</price_with_vat>
       <manufacturer>Pitaka</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/021566/21566251/20200109152023_pitaka_air_case_back_cover_mayro_iphone_11_pro_max.jpeg]]></image>
+      <mpn>KI1101MA</mpn>
       <ean>6321116709422</ean>
       <link><![CDATA[https://www.ninjaStore/6321116709422]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>15</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/031177/31177818/20200317093344_b640dd66.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053295/53295564/20211203144533_c08a3e1a.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Pitaka για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
@@ -23157,6 +23177,8 @@ USB Version: USB 2.0</description>
 
 
 Συμβατή με το iPhone 11 Pro Max.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>18.1</disPrice>
     </product>
     <product>
       <id>EAN6321116712156</id>
@@ -23165,10 +23187,13 @@ USB Version: USB 2.0</description>
       <price_with_vat>27.0</price_with_vat>
       <manufacturer>Pitaka</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/042994/42994230/20230620113038_pitaka_magez_herrignbone_back_cover_kokkino_iphone_11_pro.jpeg]]></image>
+      <mpn>KI1107</mpn>
       <ean>6321116712156</ean>
       <link><![CDATA[https://www.ninjaStore/6321116712156]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>39</quantity>
+      <distributor>MOBI</distributor>
+      <disPrice>15.55</disPrice>
     </product>
     <product>
       <id>EAN6321116719254</id>
@@ -23177,10 +23202,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>37.0</price_with_vat>
       <manufacturer>Pitaka</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/025572/25572649/20201109133046_pitaka_magcase_aramid_kevlar_back_cover_mayro_galaxy_note_20.jpeg]]></image>
+      <mpn>KN2001</mpn>
       <ean>6321116719254</ean>
       <link><![CDATA[https://www.ninjaStore/6321116719254]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>25</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/035752/35752971/20201109133045_c9c325af.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/035752/35752969/20201109133045_8bae17dd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/035752/35752966/20201109133045_82002fee.jpeg]]></additional_imageurl>
@@ -23195,6 +23221,8 @@ USB Version: USB 2.0</description>
 
 
 Συμβατή με το Galaxy Note 20.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>20.65</disPrice>
     </product>
     <product>
       <id>EAN194253416982</id>
@@ -23203,15 +23231,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>62.0</price_with_vat>
       <manufacturer>Apple</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038164/38164516/20220914190815_apple_clear_case_with_magsafe_diafano_iphone_14_pro.jpeg]]></image>
+      <mpn>MPU63ZM/A</mpn>
       <ean>194253416982</ean>
       <link><![CDATA[https://www.ninjaStore/194253416982]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>8</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/064463/64463137/20220914190815_a14fac34.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/064463/64463138/20220914190815_c8d79c80.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/064463/64463135/20220914190814_7f922488.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/064463/64463139/20220914190815_23c71309.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/064463/64463136/20220914190814_a018777d.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>39.25</disPrice>
     </product>
     <product>
       <id>EAN8806094768824</id>
@@ -23220,10 +23251,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>19.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/040559/40559792/20230202142838_samsung_clear_cover_silikonis_diafano_galaxy_s23_ultra.jpeg]]></image>
+      <mpn>EF-QS918CTEGWW</mpn>
       <ean>8806094768824</ean>
       <link><![CDATA[https://www.ninjaStore/8806094768824]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>69</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071311/71311395/20230202142838_acddcf2b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071311/71311394/20230202142838_ec557581.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071311/71311396/20230202142839_bd174819.jpeg]]></additional_imageurl>
@@ -23233,6 +23265,8 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy S23 Ultra.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>12.45</disPrice>
     </product>
     <product>
       <id>EAN8806092979604</id>
@@ -23241,12 +23275,15 @@ USB Version: USB 2.0</description>
       <price_with_vat>5.89</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/033934/33934931/20220210160145_samsung_frame_cover_diafano_galaxy_s22_5g.jpeg]]></image>
+      <mpn>EF-MS906CTEGWW</mpn>
       <ean>8806092979604</ean>
       <link><![CDATA[https://www.ninjaStore/8806092979604]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056194/56194144/20220214094616_ae6c2b9f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056194/56194149/20220214094616_b0b20b2a.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>3.75</disPrice>
     </product>
     <product>
       <id>EAN8806092979550</id>
@@ -23255,12 +23292,15 @@ USB Version: USB 2.0</description>
       <price_with_vat>6.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/033935/33935873/20220210162634_samsung_frame_cover_diafano_leyko_galaxy_s22_5g.jpeg]]></image>
+      <mpn>EF-MS906CWEGWW</mpn>
       <ean>8806092979550</ean>
       <link><![CDATA[https://www.ninjaStore/8806092979550]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056194/56194114/20220214094615_ce964422.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056194/56194125/20220214094615_4eee3fa9.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>3.75</disPrice>
     </product>
     <product>
       <id>EAN3700740489574</id>
@@ -23269,15 +23309,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>2.42</price_with_vat>
       <manufacturer>Guess</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/025333/25333895/20201021135541_guess_iridescent_book_dermatinis_roz_chryso_iphone_12_mini.jpeg]]></image>
+      <mpn>GUFLBKSP12SIGLRG</mpn>
       <ean>3700740489574</ean>
       <link><![CDATA[https://www.ninjaStore/3700740489574]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <description>Θήκη που κλείνει σαν βιβλίο, της εταιρείας Guess, για προστασία του κινητού σας από πτώσεις, γρατζουνιές κι άλλες φθορές.
 
 Διαφέρει από μια θήκη wallet καθώς δεν έχει υποδοχή για χαρτονομίσματα.
 
 Συμβατή με το iPhone 12 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>1.35</disPrice>
     </product>
     <product>
       <id>EAN8806092632936</id>
@@ -23286,16 +23329,19 @@ USB Version: USB 2.0</description>
       <price_with_vat>36.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/030620/30620986/20210825165246_samsung_leather_flip_cover_camel_galaxy_z_fold_3.jpeg]]></image>
+      <mpn>EF-FF926LAEGWW</mpn>
       <ean>8806092632936</ean>
       <link><![CDATA[https://www.ninjaStore/8806092632936]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/049439/49439440/20210825165248_ae3b143b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/049439/49439442/20210825165248_2cd6699f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049439/49439444/20210825165249_27805083.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/049439/49439441/20210825165248_c1c9c7e5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049439/49439443/20210825165248_33f7c765.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049439/49439445/20210825165249_4cc9ad4b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>17.9</disPrice>
     </product>
     <product>
       <id>EAN4250686409154</id>
@@ -23304,10 +23350,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>11.60</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/042939/42939088/20230615132002_nevox_vario_series_book_dermatinis_mayro_galaxy_a72.jpeg]]></image>
+      <mpn>1915.0</mpn>
       <ean>4250686409154</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409154]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <description>Θήκη που κλείνει σαν βιβλίο, της εταιρείας Nevox, για προστασία του κινητού σας από πτώσεις, γρατζουνιές κι άλλες φθορές.
 
 Διαφέρει από μια θήκη wallet καθώς δεν έχει υποδοχή για χαρτονομίσματα.
@@ -23315,6 +23362,8 @@ USB Version: USB 2.0</description>
 Διαθέτει stand, επιτρέποντας την παρακολούθηση βίντεο και ταινιών χωρίς να το κρατάς στα χέρια.
 
 Συμβατή με το Galaxy A72.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.45</disPrice>
     </product>
     <product>
       <id>EAN4250686408508</id>
@@ -23323,10 +23372,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>11.50</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/042939/42939087/20230615132001_nevox_vario_series_book_dermatinis_gri_iphone_12_mini.jpeg]]></image>
+      <mpn>1850.0</mpn>
       <ean>4250686408508</ean>
       <link><![CDATA[https://www.ninjaStore/4250686408508]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>5</quantity>
       <description>Θήκη που κλείνει σαν βιβλίο, της εταιρείας Nevox, για προστασία του κινητού σας από πτώσεις, γρατζουνιές κι άλλες φθορές.
 
 Διαφέρει από μια θήκη wallet καθώς δεν έχει υποδοχή για χαρτονομίσματα.
@@ -23334,6 +23384,8 @@ USB Version: USB 2.0</description>
 Διαθέτει stand, επιτρέποντας την παρακολούθηση βίντεο και ταινιών χωρίς να το κρατάς στα χέρια.
 
 Συμβατή με το iPhone 12 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.4</disPrice>
     </product>
     <product>
       <id>EAN8806090876349</id>
@@ -23342,16 +23394,19 @@ USB Version: USB 2.0</description>
       <price_with_vat>13.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/027747/27747786/20210319110345_samsung_silicone_cover_mayro_galaxy_a52.jpeg]]></image>
+      <mpn>EF-PA525TBEGWW</mpn>
       <ean>8806090876349</ean>
       <link><![CDATA[https://www.ninjaStore/8806090876349]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>68</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/042462/42462179/20210326162539_932860c5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/042462/42462181/20210326162539_013e56fe.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052667/52667255/20211122084919_f3e88c66.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052667/52667257/20211122084919_a4016286.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052667/52667268/20211122084919_d08644f5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052667/52667256/20211122084919_84fcfe4e.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>7.75</disPrice>
     </product>
     <product>
       <id>EAN8806092992504</id>
@@ -23360,15 +23415,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>14.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/033906/33906690/20220210131443_samsung_silicone_cover_lavender_galaxy_s22_ultra_5g.jpeg]]></image>
+      <mpn>EF-PS908TVEGWW</mpn>
       <ean>8806092992504</ean>
       <link><![CDATA[https://www.ninjaStore/8806092992504]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056362/56362134/20220217094538_03bc7f87.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056362/56362138/20220217094538_7225886d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056362/56362140/20220217094538_e8f3f8ec.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056362/56362133/20220217094538_9a6732b4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056362/56362143/20220217094538_2dde5396.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>8.75</disPrice>
     </product>
     <product>
       <id>EAN8806092992597</id>
@@ -23377,12 +23435,15 @@ USB Version: USB 2.0</description>
       <price_with_vat>15.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/033906/33906525/20220210131348_samsung_silicone_cover_sky_blue_galaxy_s22_5g.jpeg]]></image>
+      <mpn>EF-PS906TLEGWW</mpn>
       <ean>8806092992597</ean>
       <link><![CDATA[https://www.ninjaStore/8806092992597]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056194/56194117/20220214094615_bf5b215b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056194/56194115/20220214094615_4d5fe83c.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>9.15</disPrice>
     </product>
     <product>
       <id>EAN8806092992535</id>
@@ -23391,12 +23452,15 @@ USB Version: USB 2.0</description>
       <price_with_vat>9.5</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/033905/33905985/20220210131236_samsung_silicone_cover_kitrino_galaxy_s22_5g.jpeg]]></image>
+      <mpn>EF-PS906TYEGWW</mpn>
       <ean>8806092992535</ean>
       <link><![CDATA[https://www.ninjaStore/8806092992535]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056194/56194138/20220214094616_4b62a496.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056194/56194140/20220214094616_e5a98141.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>5.95</disPrice>
     </product>
     <product>
       <id>EAN8596311175114</id>
@@ -23405,10 +23469,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>15.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/035007/35007188/20220329122929_samsung_silicone_cover_with_strap_silikonis_me_louraki_navy_mple_galaxy_a53.jpeg]]></image>
+      <mpn>EF-GA536TNEGWW</mpn>
       <ean>8596311175114</ean>
       <link><![CDATA[https://www.ninjaStore/8596311175114]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>30</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/058162/58162327/20220329122928_a34d1925.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας Samsung για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -23416,6 +23481,8 @@ USB Version: USB 2.0</description>
 
 Συμβατή με το Galaxy A53.
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and είναι ανθεκτική.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>8.45</disPrice>
     </product>
     <product>
       <id>EAN8806092752986</id>
@@ -23424,10 +23491,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>3.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031999/31999889/20211029150033_samsung_soft_clear_cover_back_cover_silikonis_diafano_galaxy_a03s.jpeg]]></image>
+      <mpn>EF-QA038TTEGEU</mpn>
       <ean>8806092752986</ean>
       <link><![CDATA[https://www.ninjaStore/8806092752986]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051516/51516503/20211029150033_a920161d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051516/51516504/20211029150033_eeb2ea20.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053289/53289017/20211203134726_461ff21f.jpeg]]></additional_imageurl>
@@ -23436,6 +23504,8 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/055059/55059814/20220117091352_f9ab7e5b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055059/55059815/20220117091352_03011929.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055059/55059818/20220117091352_e8978125.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>1.6</disPrice>
     </product>
     <product>
       <id>EAN8806092752993</id>
@@ -23444,15 +23514,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>2.80</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/031377/31377322/20211203144531_samsung_soft_clear_back_cover_silikonis_diafano_galaxy_a03s.jpeg]]></image>
+      <mpn>EF-QA038TBEGEU</mpn>
       <ean>8806092752993</ean>
       <link><![CDATA[https://www.ninjaStore/8806092752993]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/050330/50330780/20210930095018_a24892d4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050330/50330782/20210930095018_6f9b8130.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053295/53295523/20211203144531_78e2e76f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050330/50330778/20210930095018_0e6f870b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/050330/50330784/20210930095019_a0f96d02.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>1.6</disPrice>
     </product>
     <product>
       <id>EAN3700740509388</id>
@@ -23461,11 +23534,14 @@ USB Version: USB 2.0</description>
       <price_with_vat>10.30</price_with_vat>
       <manufacturer>Karl Lagerfeld</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/031845/31845792/20211021093708_karl_lagerfeld_21_rue_st_guillaume_mayro_apple_airpods_3.jpeg]]></image>
+      <mpn>KLACA3SILRSGBK</mpn>
       <ean>3700740509388</ean>
       <link><![CDATA[https://www.ninjaStore/3700740509388]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051368/51368897/20211026111352_93d7a3d2.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>5.75</disPrice>
     </product>
     <product>
       <id>EAN8806094243505</id>
@@ -23474,14 +23550,17 @@ USB Version: USB 2.0</description>
       <price_with_vat>6.30</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/034986/34986123/20220328151708_samsung_soft_clear_cover_back_cover_silikonis_black_galaxy_a53.jpeg]]></image>
+      <mpn>EF-QA536TBEGWW</mpn>
       <ean>8806094243505</ean>
       <link><![CDATA[https://www.ninjaStore/8806094243505]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>14</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058127/58127330/20220328151707_b2820d3a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058127/58127322/20220328151706_e02a57cc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/058127/58127325/20220328151706_fbb7e63a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/058127/58127331/20220328151708_a0967fd2.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>3.7</disPrice>
     </product>
     <product>
       <id>EAN6931474719645</id>
@@ -23493,12 +23572,14 @@ USB Version: USB 2.0</description>
       <ean>6931474719645</ean>
       <link><![CDATA[https://www.ninjaStore/6931474719645]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>151</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/039493/39493069/20210215140659_6d03d50a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/039493/39493082/20210215140659_b03d83ab.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054748/54748920/20220110155649_3264e50e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054748/54748927/20220110155649_44459721.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/039493/39493058/20210215140658_1a3e408b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>1.95</disPrice>
     </product>
     <product>
       <id>EAN6925281924507</id>
@@ -23507,10 +23588,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>22.80</price_with_vat>
       <manufacturer>JBL</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/019187/19187549/20190625164717_jbl_t210_roz_chryso.jpeg]]></image>
+      <mpn>JBLT210RGD</mpn>
       <ean>6925281924507</ean>
       <link><![CDATA[https://www.ninjaStore/6925281924507]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/026431/26431410/20190625164719_8604485f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/026431/26431411/20190625164720_86223a3b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/026431/26431409/20190625164717_f91d8ca9.jpeg]]></additional_imageurl>
@@ -23521,6 +23603,8 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052364/52364797/20211115114058_c14d4074.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052364/52364781/20211115114057_e1ef7898.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052364/52364784/20211115114058_f96bfcff.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>14.15</disPrice>
     </product>
     <product>
       <id>EAN8808323006707</id>
@@ -23529,14 +23613,17 @@ USB Version: USB 2.0</description>
       <price_with_vat>2.58</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/019186/19186328/20190625153222_samsung_ehs61as_mayro.jpeg]]></image>
+      <mpn>GP-TOU021CSFBW</mpn>
       <ean>8808323006707</ean>
       <link><![CDATA[https://www.ninjaStore/8808323006707]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052364/52364439/20211115113624_f613adef.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055133/55133393/20220118092528_6a61b2bb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/055133/55133822/20220118093257_709db7cc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/055133/55133826/20220118093258_8948754d.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>1.65</disPrice>
     </product>
     <product>
       <id>EAN8808323006660</id>
@@ -23545,10 +23632,11 @@ USB Version: USB 2.0</description>
       <price_with_vat>3.40</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/004444/4444584/20190625135351_samsung_ehs64_mayro.jpeg]]></image>
+      <mpn>GP-TOU021CSBBW</mpn>
       <ean>8808323006660</ean>
       <link><![CDATA[https://www.ninjaStore/8808323006660]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>300</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/029917/29917990/20200113092922_61260082.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052359/52359401/20211115105056_97496bcc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052359/52359380/20211115105055_558a7d94.jpeg]]></additional_imageurl>
@@ -23558,6 +23646,8 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052359/52359391/20211115105056_18f2863a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052359/52359394/20211115105056_f97bd73a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052359/52359388/20211115105056_095af6ea.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>2.1</disPrice>
     </product>
     <product>
       <id>EAN8808323006653</id>
@@ -23566,12 +23656,15 @@ USB Version: USB 2.0</description>
       <price_with_vat>3.50</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/021932/21932086/20200211093855_samsung_ehs64_bulk_leyko.jpeg]]></image>
+      <mpn>GP-TOU021CSCWW</mpn>
       <ean>8808323006653</ean>
       <link><![CDATA[https://www.ninjaStore/8808323006653]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054734/54734531/20220110134047_b6eb83ce.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054734/54734505/20220110134046_95c987b2.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>2.15</disPrice>
     </product>
     <product>
       <id>EAN8806090270123</id>
@@ -23580,15 +23673,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>16.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/021721/21721126/20200123123222_samsung_eo_ic100_mayro.jpeg]]></image>
+      <mpn>EO-IC100BBEGEU</mpn>
       <ean>8806090270123</ean>
       <link><![CDATA[https://www.ninjaStore/8806090270123]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/030130/30130212/20200123123222_2647d756.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/030130/30130216/20200123123224_77a5f050.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130215/20200123123224_1118bd34.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/030130/30130214/20200123123223_0f23fd67.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130217/20200123123225_05a5c62b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>10.2</disPrice>
     </product>
     <product>
       <id>EAN8806090270062</id>
@@ -23597,15 +23693,18 @@ USB Version: USB 2.0</description>
       <price_with_vat>17.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/021721/21721097/20200123123055_samsung_eo_ic100_leyko.jpeg]]></image>
+      <mpn>EO-IC100BWEGEU</mpn>
       <ean>8806090270062</ean>
       <link><![CDATA[https://www.ninjaStore/8806090270062]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>477</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130155/20200123123055_bb5ef033.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/030130/30130152/20200123123054_c4d16111.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130154/20200123123055_55be6a82.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/030130/30130156/20200123123056_f1043154.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130158/20200123123058_93fc0457.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>10.5</disPrice>
     </product>
     <product>
       <id>EAN6931474756282</id>
@@ -23617,7 +23716,9 @@ USB Version: USB 2.0</description>
       <ean>6931474756282</ean>
       <link><![CDATA[https://www.ninjaStore/6931474756282]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>73</quantity>
+      <distributor>MOBI</distributor>
+      <disPrice>2.45</disPrice>
     </product>
     <product>
       <id>EAN6931474756275</id>
@@ -23629,10 +23730,12 @@ USB Version: USB 2.0</description>
       <ean>6931474756275</ean>
       <link><![CDATA[https://www.ninjaStore/6931474756275]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>62</quantity>
       <description>Τα M89 Comfortable είναι in-ear handsfree με βύσμα 3.5 mm, γνωστό και ως “καρφί”, ώστε να συνδέονται με κάθε συσκευή που διαθέτει την κλασική υποδοχή mini jack.
 Type: In-ear
 Connectivity: 3.5mm</description>
+      <distributor>MOBI</distributor>
+      <disPrice>2.45</disPrice>
     </product>
     <product>
       <id>EAN6920680824922</id>
@@ -23644,12 +23747,14 @@ Connectivity: 3.5mm</description>
       <ean>6920680824922</ean>
       <link><![CDATA[https://www.ninjaStore/6920680824922]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>222</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061034/61034477/20220608161011_3c7e45c4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061034/61034473/20220608161011_41e4f269.jpeg]]></additional_imageurl>
       <description>Τα EP48 είναι earbud handsfree με βύσμα 3.5 mm, γνωστό και ως “καρφί”, ώστε να συνδέονται με κάθε συσκευή που διαθέτει την κλασική υποδοχή mini jack.
 Type: Earbuds
 Connectivity: 3.5mm</description>
+      <distributor>MOBI</distributor>
+      <disPrice>2.4</disPrice>
     </product>
     <product>
       <id>EAN6973687242374</id>
@@ -23661,7 +23766,7 @@ Connectivity: 3.5mm</description>
       <ean>6973687242374</ean>
       <link><![CDATA[https://www.ninjaStore/6973687242374]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>36</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/053150/53150921/20211201124114_3bb02674.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053150/53150914/20211201124114_272caeb4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/053150/53150957/20211201124114_3d9bcbbe.jpeg]]></additional_imageurl>
@@ -23678,6 +23783,8 @@ Connectivity: 3.5mm</description>
 4. Μεγάλη διάρκεια ζωής της μπαταρίας: Τα ακουστικά Bluetooth συνήθως διαθέτουν ενσωματωμένη μπαταρία, η οποία μπορεί να παρέχει έως και μερικές ώρες συνεχούς χρήσης με μία μόνο φόρτιση. Αυτό σημαίνει ότι δεν χρειάζεται να ανησυχείτε για το να πρέπει να φορτίζετε τις ακουστικά σας συχνά.
 Operating Time: 7hrs
 Standby: 72hrs</description>
+      <distributor>MOBI</distributor>
+      <disPrice>3.75</disPrice>
     </product>
     <product>
       <id>EAN5707055057724</id>
@@ -23686,16 +23793,19 @@ Standby: 72hrs</description>
       <price_with_vat>26.89</price_with_vat>
       <manufacturer>Jabra</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/034481/34481608/20220316091615_jabra_talk_15_se_earbud_bluetooth_handsfree_mayro.jpeg]]></image>
+      <mpn>100-92200901-60</mpn>
       <ean>5707055057724</ean>
       <link><![CDATA[https://www.ninjaStore/5707055057724]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>131</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057601/57601075/20220316091614_5d04fcdf.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/061616/61616337/20220624122856_a9ba9af1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/061616/61616346/20220624122857_793959b1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061616/61616335/20220624122856_14d1c7d5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/061616/61616349/20220624122857_71ba5aff.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/061616/61616339/20220624122856_cfd6802b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>16.95</disPrice>
     </product>
     <product>
       <id>EAN6920680868209</id>
@@ -23707,7 +23817,7 @@ Standby: 72hrs</description>
       <ean>6920680868209</ean>
       <link><![CDATA[https://www.ninjaStore/6920680868209]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>95</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/044884/44884244/20210429154059_325d1659.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/044884/44884245/20210429154100_f73ea01e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054734/54734543/20220110134048_f0daad6d.jpeg]]></additional_imageurl>
@@ -23717,6 +23827,8 @@ Standby: 72hrs</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054734/54734550/20220110134048_3c1673dd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054734/54734547/20220110134048_6b98d563.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/054734/54734545/20220110134048_1600420b.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>3.9</disPrice>
     </product>
     <product>
       <id>EAN6931474738172</id>
@@ -23728,7 +23840,7 @@ Standby: 72hrs</description>
       <ean>6931474738172</ean>
       <link><![CDATA[https://www.ninjaStore/6931474738172]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>186</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056298/56298071/20220216093756_ac913fc0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056298/56298076/20220216093756_6df0b679.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 20000mAh που μπορεί να προσφέρει περίπου 4 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USB-A και μπορεί να φορτίσει μία συσκευή με έως και 2Α.
@@ -23736,6 +23848,8 @@ Capacity: 20000mAh
 USB-A Output Ports: 2
 Main Port Amperage: 2A
 Weight: 370gr</description>
+      <distributor>MOBI</distributor>
+      <disPrice>12.9</disPrice>
     </product>
     <product>
       <id>EAN6974443381603</id>
@@ -23747,7 +23861,7 @@ Weight: 370gr</description>
       <ean>6974443381603</ean>
       <link><![CDATA[https://www.ninjaStore/6974443381603]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>41</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061640/61640448/20220624171546_64cbd2e6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/073035/73035825/20230314100819_39fc82fd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/073035/73035827/20230314100819_7aed523a.jpeg]]></additional_imageurl>
@@ -23756,6 +23870,8 @@ Capacity: 20000mAh
 USB-A Output Ports: 1
 Weight: 400gr
 Quick Charge: Power Delivery, Quick Charge 3.0</description>
+      <distributor>MOBI</distributor>
+      <disPrice>14.9</disPrice>
     </product>
     <product>
       <id>EAN6974443382730</id>
@@ -23767,7 +23883,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>6974443382730</ean>
       <link><![CDATA[https://www.ninjaStore/6974443382730]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>79</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057591/57591386/20220315164451_0ede2d6b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061640/61640535/20220624171709_42195094.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 20000mAh που μπορεί να προσφέρει περίπου 4 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USB-A και μπορεί να φορτίσει μία συσκευή με έως και 2Α.
@@ -23775,6 +23891,8 @@ Capacity: 20000mAh
 USB-A Output Ports: 2
 Main Port Amperage: 2A
 Weight: 370gr</description>
+      <distributor>MOBI</distributor>
+      <disPrice>15.9</disPrice>
     </product>
     <product>
       <id>EAN6974443384581</id>
@@ -23786,13 +23904,15 @@ Weight: 370gr</description>
       <ean>6974443384581</ean>
       <link><![CDATA[https://www.ninjaStore/6974443384581]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/077537/77537117/20230621094554_69703e41.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 20000mAh που μπορεί να προσφέρει περίπου 4 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει μία θύρα USB-A και μία θύρα USB-C,
 Capacity: 20000mAh
 USB-A Output Ports: 1
 Weight: 422gr
 Quick Charge: Power Delivery</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.9</disPrice>
     </product>
     <product>
       <id>EAN6974443385137</id>
@@ -23804,7 +23924,9 @@ Quick Charge: Power Delivery</description>
       <ean>6974443385137</ean>
       <link><![CDATA[https://www.ninjaStore/6974443385137]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>66</quantity>
+      <distributor>MOBI</distributor>
+      <disPrice>12.9</disPrice>
     </product>
     <product>
       <id>EAN6931474718099</id>
@@ -23816,7 +23938,7 @@ Quick Charge: Power Delivery</description>
       <ean>6931474718099</ean>
       <link><![CDATA[https://www.ninjaStore/6931474718099]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>178</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/055913/55913185/20220208095649_74ee83a5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/055913/55913184/20220208095649_a7c6b13f.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USB-A και μπορεί να φορτίσει μία συσκευή με έως και 2Α.
@@ -23824,6 +23946,8 @@ Capacity: 10000mAh
 USB-A Output Ports: 2
 Main Port Amperage: 2A
 Weight: 211gr</description>
+      <distributor>MOBI</distributor>
+      <disPrice>8.9</disPrice>
     </product>
     <product>
       <id>EAN6931474754431</id>
@@ -23835,7 +23959,7 @@ Weight: 211gr</description>
       <ean>6931474754431</ean>
       <link><![CDATA[https://www.ninjaStore/6931474754431]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>92</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058671/58671894/20220407161342_82d1f3e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058671/58671896/20220407161342_3ffdb2f3.jpeg]]></additional_imageurl>
       <description>Το power bank της Hoco έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει μία θύρα USB-A, μία θύρα USB-C, και μπορεί να φορτίσει μία συσκευή με έως και 3Α.
@@ -23844,6 +23968,8 @@ USB-A Output Ports: 1
 Main Port Amperage: 3A
 Weight: 270gr
 Quick Charge: Power Delivery, Quick Charge 3.0</description>
+      <distributor>MOBI</distributor>
+      <disPrice>11.9</disPrice>
     </product>
     <product>
       <id>EAN8886463664230</id>
@@ -23852,16 +23978,19 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <price_with_vat>30.0</price_with_vat>
       <manufacturer>Uniq</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/043080/43080320/20230621131307_uniq_fuele_power_bank_10000mah_18w_me_thyra_usb_a_kai_thyra_usb_c_power_delivery_quick_charge_3_0_mayro.jpeg]]></image>
+      <mpn>UNIQ-FUELE-KBLACK</mpn>
       <ean>8886463664230</ean>
       <link><![CDATA[https://www.ninjaStore/8886463664230]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>16</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/077598/77598376/20230621131307_917bf5e2.jpeg]]></additional_imageurl>
       <description>Το power bank της Uniq έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει μία θύρα USB-A, μία θύρα USB-C, και μπορεί να φορτίσει μία συσκευή με έως και 3Α.
 Capacity: 10000mAh
 USB-A Output Ports: 1
 Main Port Amperage: 3A
 Quick Charge: Power Delivery, Quick Charge 3.0</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.95</disPrice>
     </product>
     <product>
       <id>EAN4008496018895</id>
@@ -23873,7 +24002,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>4008496018895</ean>
       <link><![CDATA[https://www.ninjaStore/4008496018895]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>5</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/048387/48387818/20210706164039_c91b4a5e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/048387/48387817/20210706164039_3329551a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/048387/48387815/20210706164039_6cbe6a75.jpeg]]></additional_imageurl>
@@ -23885,6 +24014,8 @@ USB-A Output Ports: 2
 Main Port Amperage: 3A
 Weight: 233gr
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί φορτίζει γρήγορα τις συσκευές σου.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>15.9</disPrice>
     </product>
     <product>
       <id>EAN8806090298066</id>
@@ -23893,15 +24024,18 @@ Weight: 233gr
       <price_with_vat>56.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/022989/22989701/20200430121622_samsung_25w_wireless_battery_pack_10000mah_dark_gray.jpeg]]></image>
+      <mpn>EB-U3300XJEGEU</mpn>
       <ean>8806090298066</ean>
       <link><![CDATA[https://www.ninjaStore/8806090298066]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/032197/32197529/20200430121622_9e6d8ea7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/032197/32197531/20200430121623_a4e8cd36.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/032197/32197530/20200430121623_bf394fd8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/032197/32197532/20200430121624_f4869506.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051826/51826006/20211104170308_5b14b353.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>35.15</disPrice>
     </product>
     <product>
       <id>EAN8806094475654</id>
@@ -23910,13 +24044,16 @@ Weight: 233gr
       <price_with_vat>10.50</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/036589/36589428/20220614122817_samsung_screen_protector_galaxy_a53.jpeg]]></image>
+      <mpn>EF-UA536CTEGWW</mpn>
       <ean>8806094475654</ean>
       <link><![CDATA[https://www.ninjaStore/8806094475654]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>31</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061200/61200597/20220614122816_ffda042f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061200/61200598/20220614122818_517754e3.jpeg]]></additional_imageurl>
       <description>Το screen protector της Samsung είναι μια μεμβράνη, ειδικά κατασκευασμένη για την προστασία της οθόνης μόνο από σκόνη και επιδερμικές γρατζουνιές. Δεν προστατεύει την οθόνη σε περίπτωση πτώσης, καθώς είναι λεπτή. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy A53.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.75</disPrice>
     </product>
     <product>
       <id>EAN4250686408386</id>
@@ -23925,11 +24062,14 @@ Weight: 233gr
       <price_with_vat>9.30</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/043152/43152300/20230622094519_nevox_2_5d_0_33mm_tempered_glass_iphone_12_mini.jpeg]]></image>
+      <mpn>1838.0</mpn>
       <ean>4250686408386</ean>
       <link><![CDATA[https://www.ninjaStore/4250686408386]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>12</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 12 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>5.2</disPrice>
     </product>
     <product>
       <id>EAN4250686408362</id>
@@ -23938,11 +24078,14 @@ Weight: 233gr
       <price_with_vat>10.50</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/043152/43152296/20230622094519_nevox_3d_0_33mm_tempered_glass_iphone_12_mini.jpeg]]></image>
+      <mpn>1836.0</mpn>
       <ean>4250686408362</ean>
       <link><![CDATA[https://www.ninjaStore/4250686408362]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>7</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 3D, κάτι που σημαίνει ότι έχει υποστεί ειδική επεξεργασία για να αποκτήσει κυρτές άκρες που θα καλύπτουν όλη την επιφάνεια της οθόνης του κινητού τηλεφώνου. Με αυτό τον τρόπο δεν είναι εμφανές ότι η οθόνη διαθέτει προστασία, επιπλέον όμως προστατεύονται και οι καμπυλωτές άκρες της. Είναι συμβατό με το iPhone 12 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.0</disPrice>
     </product>
     <product>
       <id>EAN4250686408423</id>
@@ -23951,11 +24094,14 @@ Weight: 233gr
       <price_with_vat>9.30</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/043152/43152298/20230622094519_nevox_2_5d_0_33mm_tempered_glass_iphone_12_pro_max.jpeg]]></image>
+      <mpn>1842.0</mpn>
       <ean>4250686408423</ean>
       <link><![CDATA[https://www.ninjaStore/4250686408423]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>19</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 12 Pro Max.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>5.2</disPrice>
     </product>
     <product>
       <id>EAN4250686408416</id>
@@ -23964,11 +24110,14 @@ Weight: 233gr
       <price_with_vat>6.90</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/043152/43152301/20230622094520_nevox_2_5d_0_33mm_tempered_glass_iphone_12_pro_max.jpeg]]></image>
+      <mpn>1841.0</mpn>
       <ean>4250686408416</ean>
       <link><![CDATA[https://www.ninjaStore/4250686408416]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>17</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 12 Pro Max.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>3.85</disPrice>
     </product>
     <product>
       <id>EAN4250686409536</id>
@@ -23977,11 +24126,14 @@ Weight: 233gr
       <price_with_vat>12.0</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/043152/43152299/20230622094519_nevox_3d_0_33mm_full_glue_full_face_tempered_glass_mayro_iphone_14_13_13_pro.jpeg]]></image>
+      <mpn>1953.0</mpn>
       <ean>4250686409536</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409536]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>50</quantity>
       <description>Το full face tempered glass της Nevox είναι ένα σκληρυμένο γυαλί πλήρους κάλυψης, ειδικά κατασκευασμένο για την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Δεν επηρεάζει τη λειτουργία της οθόνης. Το black περίγραμμα καλύπτει όλη την επιφάνεια της οθόνης, ακόμη και τα περιθώρια. Διαθέτει κόλλα σε όλη την επιφάνεια του, σε αντίθεση με τα edge glue τζαμάκια που έχουν κόλλα μόνο στην περίμετρο τους. Αυτό βοηθάει στην καλύτερη εφαρμογή του και την απροβλημάτιστη λειτουργία της οθόνης αφής. Επίσης δεν επιτρέπει στη σκόνη να περάσει από κάτω, κάτι που μπορεί να συμβεί στα edge glue όταν φθαρεί η κόλλα της περιμέτρου. Είναι 3D, κάτι που σημαίνει ότι έχει υποστεί ειδική επεξεργασία για να αποκτήσει κυρτές άκρες που θα καλύπτουν όλη την επιφάνεια της οθόνης του κινητού τηλεφώνου. Με αυτό τον τρόπο δεν είναι εμφανές ότι η οθόνη διαθέτει προστασία, επιπλέον όμως προστατεύονται και οι καμπυλωτές άκρες της. Είναι συμβατό με το iPhone 14 / 13 / 13 Pro.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.8</disPrice>
     </product>
     <product>
       <id>EAN4250686409604</id>
@@ -23990,10 +24142,13 @@ Weight: 233gr
       <price_with_vat>9.35</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/043152/43152295/20230622094519_nevox_2_5d_0_33mm_tempered_glass_iphone_13_mini.jpeg]]></image>
+      <mpn>1960.0</mpn>
       <ean>4250686409604</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409604]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>55</quantity>
+      <distributor>MOBI</distributor>
+      <disPrice>5.2</disPrice>
     </product>
     <product>
       <id>EAN4250686409574</id>
@@ -24002,11 +24157,14 @@ Weight: 233gr
       <price_with_vat>12.20</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/043183/43183560/20230622151441_nevox_3d_0_33mm_full_glue_tempered_glass_mayro_iphone_13_mini.jpeg]]></image>
+      <mpn>1957.0</mpn>
       <ean>4250686409574</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409574]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>47</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Διαθέτει κόλλα σε όλη την επιφάνεια του, σε αντίθεση με τα edge glue τζαμάκια που έχουν κόλλα μόνο στην περίμετρο τους. Αυτό βοηθάει στην καλύτερη εφαρμογή του και την απροβλημάτιστη λειτουργία της οθόνης αφής. Επίσης δεν επιτρέπει στη σκόνη να περάσει από κάτω, κάτι που μπορεί να συμβεί στα edge glue όταν φθαρεί η κόλλα της περιμέτρου. Είναι 3D, κάτι που σημαίνει ότι έχει υποστεί ειδική επεξεργασία για να αποκτήσει κυρτές άκρες που θα καλύπτουν όλη την επιφάνεια της οθόνης του κινητού τηλεφώνου. Με αυτό τον τρόπο δεν είναι εμφανές ότι η οθόνη διαθέτει προστασία, επιπλέον όμως προστατεύονται και οι καμπυλωτές άκρες της. Είναι συμβατό με το iPhone 13 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.8</disPrice>
     </product>
     <product>
       <id>EAN4250686409598</id>
@@ -24015,11 +24173,14 @@ Weight: 233gr
       <price_with_vat>6.40</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/043152/43152294/20230622094519_nevox_nevoglass_2_5d_0_33mm_tempered_glass_1tmch_iphone_13_mini.jpeg]]></image>
+      <mpn>1959.0</mpn>
       <ean>4250686409598</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409598]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>79</quantity>
       <description>Το tempered glass της Nevox είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 13 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>3.6</disPrice>
     </product>
     <product>
       <id>EAN4250686409581</id>
@@ -24028,11 +24189,14 @@ Weight: 233gr
       <price_with_vat>10.0</price_with_vat>
       <manufacturer>Nevox</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/043152/43152293/20230622094519_nevox_3d_0_33mm_full_glue_full_face_tempered_glass_mayro_iphone_13_mini.jpeg]]></image>
+      <mpn>1958.0</mpn>
       <ean>4250686409581</ean>
       <link><![CDATA[https://www.ninjaStore/4250686409581]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>32</quantity>
       <description>Το full face tempered glass της Nevox είναι ένα σκληρυμένο γυαλί πλήρους κάλυψης, ειδικά κατασκευασμένο για την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Δεν επηρεάζει τη λειτουργία της οθόνης. Το black περίγραμμα καλύπτει όλη την επιφάνεια της οθόνης, ακόμη και τα περιθώρια. Διαθέτει κόλλα σε όλη την επιφάνεια του, σε αντίθεση με τα edge glue τζαμάκια που έχουν κόλλα μόνο στην περίμετρο τους. Αυτό βοηθάει στην καλύτερη εφαρμογή του και την απροβλημάτιστη λειτουργία της οθόνης αφής. Επίσης δεν επιτρέπει στη σκόνη να περάσει από κάτω, κάτι που μπορεί να συμβεί στα edge glue όταν φθαρεί η κόλλα της περιμέτρου. Είναι 3D, κάτι που σημαίνει ότι έχει υποστεί ειδική επεξεργασία για να αποκτήσει κυρτές άκρες που θα καλύπτουν όλη την επιφάνεια της οθόνης του κινητού τηλεφώνου. Με αυτό τον τρόπο δεν είναι εμφανές ότι η οθόνη διαθέτει προστασία, επιπλέον όμως προστατεύονται και οι καμπυλωτές άκρες της. Είναι συμβατό με το iPhone 13 mini.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>5.6</disPrice>
     </product>
     <product>
       <id>EAN8806094000818</id>
@@ -24041,12 +24205,15 @@ Weight: 233gr
       <price_with_vat>40.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/034242/34242391/20220223171244_samsung_s_pen_psifiaki_grafida_afis_gia_galaxy_tab_s22_ultra_black.jpeg]]></image>
+      <mpn>EJ-PS908BBEGEU</mpn>
       <ean>8806094000818</ean>
       <link><![CDATA[https://www.ninjaStore/8806094000818]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056650/56650554/20220223171244_dfbcb208.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056650/56650556/20220223171248_7b20c678.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>22.9</disPrice>
     </product>
     <product>
       <id>EAN8806094000801</id>
@@ -24055,12 +24222,15 @@ Weight: 233gr
       <price_with_vat>33.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/034242/34242695/20220223172330_samsung_s_pen_psifiaki_grafida_afis_gia_galaxy_tab_s22_ultra_dark_red.jpeg]]></image>
+      <mpn>EJ-PS908BQEGEU</mpn>
       <ean>8806094000801</ean>
       <link><![CDATA[https://www.ninjaStore/8806094000801]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>4</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056652/56652420/20220223172328_ec435d6b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056652/56652425/20220223172332_4cedecb3.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>20.55</disPrice>
     </product>
     <product>
       <id>EAN8806092742383</id>
@@ -24069,12 +24239,15 @@ Weight: 233gr
       <price_with_vat>40.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/031914/31914818/20211025144016_samsung_s_pen_psifiaki_grafida_afis_gia_galaxy_tab_s7_fe_mystic_pink.jpeg]]></image>
+      <mpn>EJ-PT730BPEGEU</mpn>
       <ean>8806092742383</ean>
       <link><![CDATA[https://www.ninjaStore/8806092742383]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051336/51336241/20211025144010_c4627089.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066393/66393857/20221021111534_61dcab22.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>22.25</disPrice>
     </product>
     <product>
       <id>EAN8806090161254</id>
@@ -24083,13 +24256,16 @@ Weight: 233gr
       <price_with_vat>59.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/021091/21091748/20211104121717_samsung_multipoint_adapter.jpeg]]></image>
+      <mpn>EE-P3200BJEGWW</mpn>
       <ean>8806090161254</ean>
       <link><![CDATA[https://www.ninjaStore/8806090161254]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>25</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/034475/34475456/20200916152847_51c2e9a7.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051785/51785591/20211104121718_f37da0ce.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051785/51785543/20211104121716_ef073a5d.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>37.35</disPrice>
     </product>
     <product>
       <id>EAN561010033033</id>
@@ -24098,14 +24274,17 @@ Weight: 233gr
       <price_with_vat>76.0</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/028519/28519582/20210423094823_xiaomi_othoni_service_pack_gia_mi_9_lite_mple.jpeg]]></image>
+      <mpn>5600040F3B00</mpn>
       <ean>561010033033</ean>
       <link><![CDATA[https://www.ninjaStore/561010033033]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>17</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056599/56599046/20220223092850_2bc1adf4.jpeg]]></additional_imageurl>
       <description>• Οδηγίες εγκατάστασης: Η διαδικασία αντικατάστασης μπορεί να γίνει δύσκολη και πολύπλοκη, καθώς χρειάζεται να αφαιρεθούν εξαρτήματα του κινητού. Για αυτό τον λόγο συνιστάται να απευθυνθείτε σε κάποιο εξειδικευμένο τεχνικό καθώς τυχόν λάθη θα έχουν ως αποτέλεσμα την προβληματική λειτουργία της οθόνης του κινητού σας.
 
 Οθόνη της εταιρίας Xiaomi για αντικατάσταση της εργοστασιακής οθόνης του κινητού σας σε περίπτωση που αυτή έσπασε ή σταμάτησε να λειτουργεί. Συνοδεύεται από πλαίσιο, κάτι που την κάνει πιο εύκολη στην εγκατάσταση, καθώς δεν χρειάζεται να ξεκολληθεί η παλιά οθόνη από το πλαίσιο για να τοποθετηθεί. Αφαιρώντας το παλιό σετ οθόνης και πλαισίου, μπορεί να τοποθετηθεί το καινούργιο με τη βοήθεια των κατάλληλων εργαλείων. Σε αρκετές περιπτώσεις εξάλλου, το παλιό πλαίσιο είναι φθαρμένο και χρειάζεται να αντικατασταθεί. Επιπλέον, είναι κατάλληλη για τοποθέτηση σε Mi 9 Lite.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>48.5</disPrice>
     </product>
     <product>
       <id>EAN8596311120268</id>
@@ -24114,13 +24293,18 @@ Weight: 233gr
       <price_with_vat>26.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/026124/26124487/20201208134521_samsung_eb_ba217aby_service_pack_galaxy_a21s_5000mah.jpeg]]></image>
+      <mpn>GH82-22989A
+GH82-28509A
+GH82-29803A</mpn>
       <ean>8596311120268</ean>
       <link><![CDATA[https://www.ninjaStore/8596311120268]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>52</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/048388/48388149/20210706164748_fd738fa3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055061/55061647/20220117094008_f56ad8e9.jpeg]]></additional_imageurl>
       <description>Μπαταρία 5000mAh της Samsung για αντικατάσταση της εργοστασιακής του Galaxy A21s. Αν η μπαταρία του κινητού σου διαρκεί πια πολύ λίγο, αδειάζει απότομα ύστερα από μια κλήση, έχει φουσκώσει ή δεν φορτίζει πλέον, έχει έρθει η ώρα της αντικατάστασής της. Τα σύγχρονα smartphones δεν κάνουν εύκολη αυτή τη διαδικασία, καθώς ανοίγουν μόνο με ειδικά εργαλεία και συνιστάται να απευθυνθείς σε κάποιο εξειδικευμένο τεχνικό καθώς τυχόν λάθη θα έχουν ως αποτέλεσμα την προβληματική λειτουργία της συσκευής σου.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.5</disPrice>
     </product>
     <product>
       <id>EAN6971664932591</id>
@@ -24132,7 +24316,7 @@ Weight: 233gr
       <ean>6971664932591</ean>
       <link><![CDATA[https://www.ninjaStore/6971664932591]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>29</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/062975/62975696/20220805122939_cc221354.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/062975/62975712/20220805122940_3dbaed45.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/062975/62975704/20220805122939_4c5e571e.jpeg]]></additional_imageurl>
@@ -24142,6 +24326,8 @@ Weight: 233gr
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/062975/62975707/20220805122939_37673161.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/062975/62975710/20220805122939_6cc16fca.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/062975/62975706/20220805122939_3349fd92.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>16.4</disPrice>
     </product>
     <product>
       <id>EAN6971619678604</id>
@@ -24153,7 +24339,7 @@ Weight: 233gr
       <ean>6971619678604</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678604]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>16</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/077564/77564844/20230621114129_13753a27.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/077564/77564839/20230621114129_1b0beb5b.jpeg]]></additional_imageurl>
       <description>Τα earbud ασύρματα ακουστικά Mibro Earbuds 3 συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
@@ -24167,6 +24353,8 @@ Weight: 233gr
 3. Εξοικονόμηση χρόνου: Με το Bluetooth handsfree, μπορείτε να πραγματοποιείτε πολλές δραστηριότητες χωρίς να χρειάζεται να διακόψετε την κλήση σας, επιτρέποντάς σας να είστε πιο παραγωγικοί.
 
 4. Μεγάλη διάρκεια ζωής της μπαταρίας: Τα ακουστικά Bluetooth συνήθως διαθέτουν ενσωματωμένη μπαταρία, η οποία μπορεί να παρέχει έως και μερικές ώρες συνεχούς χρήσης με μία μόνο φόρτιση. Αυτό σημαίνει ότι δεν χρειάζεται να ανησυχείτε για το να πρέπει να φορτίζετε τις ακουστικά σας συχνά.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.4</disPrice>
     </product>
     <product>
       <id>EAN6971619678628</id>
@@ -24178,7 +24366,7 @@ Weight: 233gr
       <ean>6971619678628</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678628]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>47</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/077564/77564823/20230621114124_276da32b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/077564/77564824/20230621114124_168424d9.jpeg]]></additional_imageurl>
       <description>Τα earbud ασύρματα ακουστικά Mibro Earbuds 3 συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
@@ -24192,6 +24380,8 @@ Weight: 233gr
 3. Εξοικονόμηση χρόνου: Με το Bluetooth handsfree, μπορείτε να πραγματοποιείτε πολλές δραστηριότητες χωρίς να χρειάζεται να διακόψετε την κλήση σας, επιτρέποντάς σας να είστε πιο παραγωγικοί.
 
 4. Μεγάλη διάρκεια ζωής της μπαταρίας: Τα ακουστικά Bluetooth συνήθως διαθέτουν ενσωματωμένη μπαταρία, η οποία μπορεί να παρέχει έως και μερικές ώρες συνεχούς χρήσης με μία μόνο φόρτιση. Αυτό σημαίνει ότι δεν χρειάζεται να ανησυχείτε για το να πρέπει να φορτίζετε τις ακουστικά σας συχνά.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.5</disPrice>
     </product>
     <product>
       <id>EAN6971619678611</id>
@@ -24203,7 +24393,7 @@ Weight: 233gr
       <ean>6971619678611</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678611]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>25</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/077564/77564811/20230621114118_4b4aa425.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/077564/77564812/20230621114118_c97404d0.jpeg]]></additional_imageurl>
       <description>Τα earbud ασύρματα ακουστικά Mibro Earbuds 3 συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
@@ -24217,6 +24407,8 @@ Weight: 233gr
 3. Εξοικονόμηση χρόνου: Με το Bluetooth handsfree, μπορείτε να πραγματοποιείτε πολλές δραστηριότητες χωρίς να χρειάζεται να διακόψετε την κλήση σας, επιτρέποντάς σας να είστε πιο παραγωγικοί.
 
 4. Μεγάλη διάρκεια ζωής της μπαταρίας: Τα ακουστικά Bluetooth συνήθως διαθέτουν ενσωματωμένη μπαταρία, η οποία μπορεί να παρέχει έως και μερικές ώρες συνεχούς χρήσης με μία μόνο φόρτιση. Αυτό σημαίνει ότι δεν χρειάζεται να ανησυχείτε για το να πρέπει να φορτίζετε τις ακουστικά σας συχνά.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.5</disPrice>
     </product>
     <product>
       <id>EAN8806092788206</id>
@@ -24225,13 +24417,16 @@ Weight: 233gr
       <price_with_vat>21.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/033629/33629339/fixedratio_20220803164308_samsung_ridge_sport_s_m_louraki_silikonis_navy_mple_galaxy_watch4_watch4_classic.jpeg]]></image>
+      <mpn>ET-SFR88SNEGEU</mpn>
       <ean>8806092788206</ean>
       <link><![CDATA[https://www.ninjaStore/8806092788206]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>16</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
+      <distributor>MOBI</distributor>
+      <disPrice>11.9</disPrice>
     </product>
     <product>
       <id>EAN6971619678093</id>
@@ -24240,13 +24435,16 @@ Clasp Closure: Buckle</description>
       <price_with_vat>26.0</price_with_vat>
       <manufacturer>Mibro</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/039801/39801043/20221201145552_mibro_s1_earbud_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_leyka.jpeg]]></image>
+      <mpn>XPEJ003W</mpn>
       <ean>6971619678093</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678093]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>45</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/069826/69826033/20221230145713_6828bff5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/069826/69826031/20221230145713_2c8f186e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/069826/69826035/20221230145713_e5b040b5.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>16.4</disPrice>
     </product>
     <product>
       <id>EAN6957141407776</id>
@@ -24258,10 +24456,12 @@ Clasp Closure: Buckle</description>
       <ean>6957141407776</ean>
       <link><![CDATA[https://www.ninjaStore/6957141407776]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>24</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/068382/68382733/20230525115010_1bae8484.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068382/68382737/20221128094915_9b795ef1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068382/68382734/20221128094914_27a22cc5.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>19.6</disPrice>
     </product>
     <product>
       <id>EAN6921815623427</id>
@@ -24270,14 +24470,17 @@ Clasp Closure: Buckle</description>
       <price_with_vat>68.99</price_with_vat>
       <manufacturer>OnePlus</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/042219/42219038/20230505094203_oneplus_nord_buds_2_bluetooth_handsfree_akoustika_me_thiki_fortisis_leyka.jpeg]]></image>
+      <mpn>5481129549</mpn>
       <ean>6921815623427</ean>
       <link><![CDATA[https://www.ninjaStore/6921815623427]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>336</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/075659/75659603/20230505094203_925b6428.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/075659/75659604/20230505094203_63654e1a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/075659/75659606/20230505094203_f0959912.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/075659/75659605/20230505094203_15b45222.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>43.55</disPrice>
     </product>
     <product>
       <id>EAN8806094549409</id>
@@ -24286,13 +24489,16 @@ Clasp Closure: Buckle</description>
       <price_with_vat>29.0</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/037739/37739487/fixedratio_20220823135110_samsung_sport_m_l_louraki_silikonis_graphite_galaxy_watch4_watch4_classic.jpeg]]></image>
+      <mpn>ET-SFR91LJEGEU</mpn>
       <ean>8806094549409</ean>
       <link><![CDATA[https://www.ninjaStore/8806094549409]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>5</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
+      <distributor>MOBI</distributor>
+      <disPrice>16.5</disPrice>
     </product>
     <product>
       <id>EAN194252749487</id>
@@ -24301,12 +24507,15 @@ Clasp Closure: Buckle</description>
       <price_with_vat>32.0</price_with_vat>
       <manufacturer>Apple</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/030508/30508393/20210825101611_apple_airtag_loop_capri_blue.jpeg]]></image>
+      <mpn>MLYX3ZM/A</mpn>
       <ean>194252749487</ean>
       <link><![CDATA[https://www.ninjaStore/194252749487]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/054973/54973558/20220114093711_e633bdd6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054973/54973561/20220114093711_dd82ee86.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>18.2</disPrice>
     </product>
     <product>
       <id>EAN4710243260685</id>
@@ -24315,12 +24524,15 @@ Clasp Closure: Buckle</description>
       <price_with_vat>14.0</price_with_vat>
       <manufacturer>Kingmax</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042983/42983962/20230619160714_kingmax_pa07_128gb_usb_2_0_stick_mayro.jpeg]]></image>
+      <mpn>K-KM-PA07-128GB/BK</mpn>
       <ean>4710243260685</ean>
       <link><![CDATA[https://www.ninjaStore/4710243260685]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>228</quantity>
       <description>USB Stick της εταιρίας Kingmax που διαθέτει χωρητικότητα 128GB. Υποθέτοντας ότι το μέσο μέγεθος για μια φωτογραφία, ένα MP3 και ένα Video είναι 2MB, 4MB και 500MB αντίστοιχα, τότε το μέγεθος αυτού του USB μπορεί να αποθηκεύσει περίπου έως 45.000 φωτογραφίες, ή 30.000 MP3 ή 240 Video.
 To interface του είναι USB 2.0. Πρόκειται για παλαιότερη έκδοση, συμβατή με όλες σχεδόν τις συσκευές αλλά με πιο αργή ταχύτητα μεταφοράς δεδομένων (480Mbit/s.) από τις νεότερες εκδόσεις.</description>
+      <distributor>MOBI</distributor>
+      <disPrice>7.9</disPrice>
     </product>
     <product>
       <id>EAN6931474759481</id>
@@ -24332,9 +24544,11 @@ To interface του είναι USB 2.0. Πρόκειται για παλαιότ
       <ean>6931474759481</ean>
       <link><![CDATA[https://www.ninjaStore/6931474759481]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>20</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057276/57276828/20220309121938_689b44eb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/067159/67159495/20221108095548_1ffdd047.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>8.5</disPrice>
     </product>
     <product>
       <id>EAN192563496083</id>
@@ -24343,10 +24557,11 @@ To interface του είναι USB 2.0. Πρόκειται για παλαιότ
       <price_with_vat>19.50</price_with_vat>
       <manufacturer>Lenovo</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/017848/17848427/20190322154446_lenovo_essential_compact.jpeg]]></image>
+      <mpn>4Y50R20864</mpn>
       <ean>192563496083</ean>
       <link><![CDATA[https://www.ninjaStore/192563496083]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/024853/24853759/20190322154447_326b5202.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/024853/24853760/20190322154447_7a53eadd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/024853/24853761/20190322154448_ef2c1db2.jpeg]]></additional_imageurl>
@@ -24357,6 +24572,8 @@ Buttons: 3
 Connection: USB
 Sensor: Optical
 Type: Standard</description>
+      <distributor>MOBI</distributor>
+      <disPrice>10.9</disPrice>
     </product>
     <product>
       <id>EAN889561017234</id>
@@ -24365,10 +24582,11 @@ Type: Standard</description>
       <price_with_vat>31.0</price_with_vat>
       <manufacturer>Lenovo</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/011328/11328751/20180116112317_lenovo_professional_wireless_laser_mouse.jpeg]]></image>
+      <mpn>4X30H56886</mpn>
       <ean>889561017234</ean>
       <link><![CDATA[https://www.ninjaStore/889561017234]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>5</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/019123/19123865/20180116112306_0e3182ee.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/019123/19123866/20180116112310_0bb6123d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/016944/16944863/20170315110143_79a7add9.jpeg]]></additional_imageurl>
@@ -24378,6 +24596,8 @@ Buttons: 5
 Connection: USB
 Sensor: Laser
 Type: Standard</description>
+      <distributor>MOBI</distributor>
+      <disPrice>19.45</disPrice>
     </product>
     <product>
       <id>EAN6971669780951</id>
@@ -24389,13 +24609,15 @@ Type: Standard</description>
       <ean>6971669780951</ean>
       <link><![CDATA[https://www.ninjaStore/6971669780951]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>12</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052375/52375023/20211115135335_50d02cc0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/045781/45781430/20210514162212_5f3c9f95.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052375/52375021/20211115135330_98b1a975.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052374/52374947/20211115135205_b2b9e529.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/052374/52374956/20211115135211_b9338281.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052374/52374960/20211115135215_dc699620.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>109.0</disPrice>
     </product>
     <product>
       <id>EAN7348008757360</id>
@@ -24406,12 +24628,14 @@ Type: Standard</description>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>500</quantity>
       <description>Το φορητό bluetooth ηχείο με ισχύ 5 watt, 1 Mε μια πλήρη φόρτιση, σας προσφέρει έως 2 ώρες συνεχούς αναπαραγωγής μουσικής. Επιπλέον διαθέτει ραδιόφωνο για να ακούτε τους αγαπημένους σταθμούς, hands free για να μιλάτε άνετα μέσω της ανοιχτής ακρόασης και δυνατότητα φόρτισης μέσω usb, για να μπορείτε εύκολα να το φορτίσετε με powerbank. Without
 
 Βασικά χαρακτηριστικά σύνδεσης:
 • Ενσύρματη σύνδεση με: MicroSD, USB
 • Ασύρματη σύνδεση με: Bluetooth</description>
+      <distributor>MOBI</distributor>
+      <disPrice>6.9</disPrice>
     </product>
     <product>
       <id>EAN6971669780906</id>
@@ -24420,15 +24644,18 @@ Type: Standard</description>
       <price_with_vat>93.0</price_with_vat>
       <manufacturer>70Mai</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/029894/29894826/20210706152357_xiaomi_kamera_aytokinitou_dvr_70mai_pro_plus.jpeg]]></image>
+      <mpn>93809.0</mpn>
       <ean>6971669780906</ean>
       <link><![CDATA[https://www.ninjaStore/6971669780906]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/048383/48383506/20210706152358_30c7e323.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/048383/48383505/20210706152358_e0f4b5f5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/048383/48383508/20210706152358_b919b0cb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/048383/48383509/20210706152358_11a3fd5a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/048383/48383510/20210706152359_b016f6de.jpeg]]></additional_imageurl>
+      <distributor>MOBI</distributor>
+      <disPrice>59.9</disPrice>
     </product>
   </products>
 </ninjaStore>
