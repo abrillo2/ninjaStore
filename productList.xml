@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-29 07:34</created_at>
+  <created_at>2023-06-30 11:09</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -6495,14 +6495,14 @@ Material: Fabric</description>
 GP-TOU021CSGBW</mpn>
       <ean>8809236089818</ean>
       <link><![CDATA[https://www.ninjaStore/8809236089818]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <availability>Available</availability>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/030130/30130212/20200123123222_2647d756.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/030130/30130216/20200123123224_77a5f050.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130215/20200123123224_1118bd34.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/030130/30130214/20200123123223_0f23fd67.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130217/20200123123225_05a5c62b.jpeg]]></additional_imageurl>
-      <distributor>MOBI</distributor>
+      <distributor>NS</distributor>
       <disPrice>6.55</disPrice>
     </product>
     <product>
@@ -15247,6 +15247,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>827886538454.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15320,6 +15321,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399294.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15347,6 +15349,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736683034.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15375,6 +15378,7 @@ Polarized</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736350691.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15402,6 +15406,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736132433.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15429,6 +15434,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399386.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17299,6 +17305,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17575,6 +17582,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308708.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17602,6 +17610,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308739.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17629,6 +17638,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736233031.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17656,6 +17666,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226262.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17683,6 +17694,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736415796.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17710,6 +17722,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226132.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17737,6 +17750,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736078915.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17764,6 +17778,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736327747.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19522,6 +19537,7 @@ Frame Material: HornRimmed</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736305226.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19578,6 +19594,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736418520.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19607,6 +19624,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369457.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19632,6 +19650,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736130576.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19688,6 +19707,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369204.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20821,6 +20841,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22771,6 +22792,7 @@ Frame Material: Horn-Rimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>664689863655.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22785,7 +22807,7 @@ Frame Material: Horn-Rimmed</description>
       <mpn>GPTOU020SAABW</mpn>
       <ean>8801790032194</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153474265/SamsungCnTSelfieStickTripodoKinitoumeBluetoothMayro.html]]></link>
-      <availability>In Stock</availability>
+      <availability>Available</availability>
       <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/034707/34707282/20200925135517_e465c4b3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052010/52010940/20211108154838_ec273bd7.jpeg]]></additional_imageurl>
@@ -22810,7 +22832,7 @@ Frame Material: Horn-Rimmed</description>
       <mpn>TDWGF2100601</mpn>
       <ean>4894816004026</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153984354/TimberlandRoloiCHronografosMpatariasmeDermatinoLourakiseMayrochroma.html]]></link>
-      <availability>In Stock</availability>
+      <availability>Available</availability>
       <quantity>1</quantity>
       <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Timberland με Leather σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
 
@@ -22835,13 +22857,13 @@ Frame Material: Horn-Rimmed</description>
       <mpn>PLD 2061/S FLL/1A</mpn>
       <ean>716736039336</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154729631/PolaroidAndrikaGyaliaIlioumeMpleSkeletokaiGalazioPolarizedKathrefti.html]]></link>
-      <availability>In Stock</availability>
+      <availability>Available</availability>
       <quantity>1</quantity>
       <size>47.0</size>
       <variations>
         <variation>
           <link><![CDATA[https://www.skroutz.gr/mp/154729631/PolaroidAndrikaGyaliaIlioumeMpleSkeletokaiGalazioPolarizedKathrefti.html]]></link>
-          <availability>In Stock</availability>
+          <availability>Available</availability>
           <ean>716736039336</ean>
           <price_with_vat>42</price_with_vat>
           <size>47.0</size>
@@ -24657,6 +24679,182 @@ Type: Standard</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/048383/48383510/20210706152359_b016f6de.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>59.9</disPrice>
+    </product>
+    <product>
+      <id>EAN4549526329838</id>
+      <name><![CDATA[Casio Analog/Digital Battery Chronograph Watch with Metal Bracelet Silver]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>225.0</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://b.scdn.gr/images/sku_main_images/038263/38263967/fixedratio_20220921092637_casio_analogiko_psifiako_roloi_chronografos_mpatarias_me_metalliko_mprasele_se_asimi_chroma_ecb_2000d_1aef.jpeg]]></image>
+      <mpn>ECB-2000D-1AEF</mpn>
+      <ean>4549526329838</ean>
+      <link><![CDATA[https://www.ninjaStore/4549526329838]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <description>Ανδρικό Analog, Digital ρολόι χρονογράφος της εταιρίας Casio, XXL μεγέθους με Metal Bracelet σε silver χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή. Η φιλοσοφία των Edifice ρολογιών συνοψίζεται στην έξυπνη τεχνολογία, στον κομψό σχεδιασμό και στο πάθος για ταχύτητα.
+
+Βασικά Χαρακτηριστικά:
+• Μηχανισμός: Battery
+• Μέγεθος: 51mm
+• Αδιάβροχο: Swimming / Bathing (10 Atm)
+• Με ένδειξη ημερομηνίας
+• Χρονόμετρο
+• Φωσφοριζέ Σημεία
+• Υλικό Λουριού: Metal Bracelet
+• Χρώμα Καντράν: Gray
+• Χρώμα Κάσας: Silver
+• Χρώμα Λουριού: Silver</description>
+      <distributor>NS</distributor>
+      <disPrice>119.81</disPrice>
+    </product>
+    <product>
+      <id>4556776</id>
+      <name><![CDATA[Casio GShock GSquad Digital Battery Watch with Rubber Strap Black]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>107.0</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/022282/22282874/fixedratio_20220802194330_casio_g_shock_gbd_800_1ber.jpeg]]></image>
+      <mpn>GBD8001BER</mpn>
+      <ean>4549526202131</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154674530/CasioGShockGSquadPSifiakoRoloiMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <distributor>NS</distributor>
+      <disPrice>60.65</disPrice>
+    </product>
+    <product>
+      <id>4528178</id>
+      <name><![CDATA[Nautica Pier 25 Battery Chronograph Watch with Rubber Strap White]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>157.0</price_with_vat>
+      <manufacturer>Nautica</manufacturer>
+      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/013958/13958057/fixedratio_20220802191706_nautica_pier_25_napp25001.jpeg]]></image>
+      <mpn>NAPP25001</mpn>
+      <ean>656086088229</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153886408/NauticaPier25NAPP25001.html]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Nautica, XXL μεγέθους με Rubber σε white χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
+
+Βασικά Χαρακτηριστικά:
+• Μηχανισμός: Battery
+• Μέγεθος: 48mm
+• Αδιάβροχο: Swimming / Bathing (10 Atm)
+• Υλικό Λουριού: Rubber
+• Χρώμα Καντράν: Blue
+• Χρώμα Κάσας: Blue
+• Χρώμα Λουριού: White</description>
+      <distributor>NS</distributor>
+      <disPrice>72.38</disPrice>
+    </product>
+    <product>
+      <id>4539762</id>
+      <name><![CDATA[Sector Battery Chronograph Watch with Metal Bracelet Black R3273803003]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>129.99</price_with_vat>
+      <manufacturer>Sector</manufacturer>
+      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/012828/12828768/fixedratio_20220802191412_sector_r3273803003.jpeg]]></image>
+      <mpn>R3273803003</mpn>
+      <ean>8033288787587</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154172786/SectorR3273803003.html]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Sector, μεγάλου μεγέθους με Metal Bracelet σε black χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
+
+Βασικά Χαρακτηριστικά:
+• Μηχανισμός: Battery
+• Μέγεθος: 44mm
+• Αδιάβροχο: Swimming / Bathing (10 Atm)
+• Υλικό Λουριού: Metal Bracelet
+• Χρώμα Καντράν: Black
+• Χρώμα Κάσας: Black
+• Χρώμα Λουριού: Black</description>
+      <distributor>NS</distributor>
+      <disPrice>78.55</disPrice>
+    </product>
+    <product>
+      <id>4556496</id>
+      <name><![CDATA[Emporio Armani Ανδρικό Βραχιόλι από Δέρμα EGS2177221]]></name>
+      <category><![CDATA[Fashion > Jewelry > Bracelets]]></category>
+      <price_with_vat>115.0</price_with_vat>
+      <manufacturer>Emporio Armani</manufacturer>
+      <image><![CDATA[https://d.scdn.gr/images/sku_main_images/023332/23332962/fixedratio_20200526130844_emporio_armani_egs2177221.jpeg]]></image>
+      <mpn>EGS2177221</mpn>
+      <ean>4053858663589</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/154672029/EmporioArmaniAndrikoVrachioliapoDermaEGS2177221.html]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <description>Βραχιόλι της εταιρείας Emporio Armani.</description>
+      <distributor>NS</distributor>
+      <disPrice>59.93</disPrice>
+    </product>
+    <product>
+      <id>4528643</id>
+      <name><![CDATA[Casio Collection Ψηφιακό Ρολόι Μπαταρίας με Καουτσούκ Λουράκι σε Μαύρο χρώμα F91WM7AEF]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>45.0</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://b.scdn.gr/images/sku_main_images/010823/10823254/fixedratio_20220802190730_casio_f_91wm_7aef.jpeg]]></image>
+      <mpn>F91WM7AEF</mpn>
+      <ean>4549526140808</ean>
+      <link><![CDATA[https://www.skroutz.gr/mp/153893058/CasioCollectionPSifiakoRoloiMpatariasmeKaoutsoukLourakiseMayro.html]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <distributor>NS</distributor>
+      <disPrice>14.94</disPrice>
+    </product>
+    <product>
+      <id>EAN4549526345487</id>
+      <name><![CDATA[Casio Digital Chronograph Watch with Rubber Strap Blue]]></name>
+      <category><![CDATA[Fashion > Watches > Womens Watches]]></category>
+      <price_with_vat>27.99</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://a.scdn.gr/images/sku_main_images/040818/40818324/fixedratio_20230306124036_casio_psifiako_roloi_chronografos_me_kaoutsouk_louraki_se_mple_chroma_la_20whs_2aef.jpeg]]></image>
+      <mpn>LA-20WHS-2AEF</mpn>
+      <ean>4549526345487</ean>
+      <link><![CDATA[https://www.ninjaStore/4549526345487]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <description>Γυναικείο ρολόι χρονογράφος από την εταιρία Casio. Το blue rectangle καντράν μικρού μεγέθους, με το Rubber σε blue χρώμα, κάνουν το ρολόι ιδανικό για καθημερινές άλλα και πιο επίσημες εμφανίσεις.
+Mechanism: Battery
+Size: 30.4mm
+Material: Rubber
+Strap Colour: Blue
+Dial Colour: Blue
+Case Shape: Rectangle</description>
+      <distributor>NS</distributor>
+      <disPrice>18.86</disPrice>
+    </product>
+    <product>
+      <id>EAN4549526319235</id>
+      <name><![CDATA[Casio G-Shock Battery Watch with Rubber Strap Black]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>84.2</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/034558/34558323/fixedratio_20221110101942_casio_g_shock_roloi_mpatarias_me_kaoutsouk_louraki_se_mayro_chroma_ga_2100_1a2er.jpeg]]></image>
+      <mpn>GA-2100-1A2ER</mpn>
+      <ean>4549526319235</ean>
+      <link><![CDATA[https://www.ninjaStore/4549526319235]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <distributor>NS</distributor>
+      <disPrice>57.94</disPrice>
+    </product>
+    <product>
+      <id>EAN4549526297939</id>
+      <name><![CDATA[Casio G-Shock Battery Chronograph Watch with Metal Bracelet Silver]]></name>
+      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
+      <price_with_vat>92.0</price_with_vat>
+      <manufacturer>Casio</manufacturer>
+      <image><![CDATA[https://a.scdn.gr/images/sku_main_images/028051/28051007/fixedratio_20220802195251_casio_roloi_chronografos_me_metalliko_mprasele_se_asimi_chroma_ga_2100ske_7aer.jpeg]]></image>
+      <mpn>GA-2100SKE-7AER</mpn>
+      <ean>4549526297939</ean>
+      <link><![CDATA[https://www.ninjaStore/4549526297939]]></link>
+      <availability>Available</availability>
+      <quantity>1</quantity>
+      <distributor>NS</distributor>
+      <disPrice>63.22</disPrice>
     </product>
   </products>
 </ninjaStore>
