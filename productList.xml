@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-30 11:10</created_at>
+  <created_at>2023-06-30 11:25</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -164,14 +164,14 @@ Frame Material: Horn-Rimmed</description>
       <mpn>EIT7300BLEGEU</mpn>
       <ean>8806092265745</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153481574/SamsungGalaxySmartTagBluetoothTrackerDenimBlue.html]]></link>
-      <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <availability>Available</availability>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051202/51202641/20211020164958_8811468f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051202/51202640/20211020164958_b570d952.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051202/51202638/20211020164958_e97876a1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051202/51202639/20211020164958_826fe45d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051202/51202642/20211020164959_cbd1e7ce.jpeg]]></additional_imageurl>
-      <distributor>MOBI</distributor>
+      <distributor>NS</distributor>
       <disPrice>25.65</disPrice>
     </product>
     <product>
@@ -604,7 +604,7 @@ Total Ports: 2</description>
       <ean>8806094919325</ean>
       <link><![CDATA[https://www.ninjaStore/8806094919325]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>45</quantity>
+      <quantity>52</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/073661/73661601/20230330100501_a94833e6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/073661/73661638/20230330100502_e901fe34.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/073661/73661599/20230330100501_55d3f6d0.jpeg]]></additional_imageurl>
@@ -1266,7 +1266,7 @@ Operation Time with Charging Case: 20hrs</description>
       <ean>6931474724755</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471349/HocoJ62JovePowerBank30000mAhme3THyresUSBAMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>167</quantity>
+      <quantity>168</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/034983/34983529/20201008173223_7f3622b2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/034983/34983530/20201008173224_835cd3c2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/034983/34983531/20201008173224_0f01cafb.jpeg]]></additional_imageurl>
@@ -1732,7 +1732,7 @@ HTT0005EU</mpn>
       <ean>6931474748041</ean>
       <link><![CDATA[https://www.ninjaStore/6931474748041]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>96</quantity>
+      <quantity>97</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050112/50112001/20210922155850_bb02d5cd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/062422/62422734/20220719122002_9c5c6af4.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USB-A, μία θύρα USB-C, και μπορεί να φορτίσει μία συσκευή με έως και 3Α.
@@ -1790,7 +1790,7 @@ Connectivity: 3.5mm</description>
       <ean>8806094770377</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964064/SamsungLeatherCaseBackCoverDermatinoMayroGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313750/20230202151620_cc92643a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313748/20230202151620_423e9bba.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313747/20230202151620_ca2dea68.jpeg]]></additional_imageurl>
@@ -4439,7 +4439,7 @@ Clasp Closure: Buckle
       <ean>8806094825664</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153474245/SamsungSPenPSifiakiGrafidaAfismePalmRejectiongiaGalaxyS23Ultrase.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>147</quantity>
+      <quantity>152</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071638/71638468/20230209104751_d1e39983.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -4758,7 +4758,7 @@ Fast Charging</description>
       <ean>8806094919530</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155035598/SamsungBackCoverSilikonisBerryGalaxyA54.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/075112/75112915/20230425114649_22dc41bc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075112/75112912/20230425114648_b2c08276.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075112/75112916/20230425114649_d9eea79d.jpeg]]></additional_imageurl>
@@ -5346,7 +5346,7 @@ Weight: 229gr</description>
       <ean>6920680824861</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471189/XOBE28InearBluetoothHandsfreeAkoustikomeTHikiFortisisMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>92</quantity>
+      <quantity>100</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057950/57950100/20220322154835_0d385900.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/061616/61616527/20220624123236_553017b6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/062301/62301730/20220714224335_9f4fe259.jpeg]]></additional_imageurl>
@@ -5950,7 +5950,7 @@ GP-TOU021CSKWW</mpn>
       <ean>8806094768848</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153466606/SamsungGripBackCoverSilikonisMayroGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>54</quantity>
+      <quantity>57</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071311/71311466/20230202143023_35936909.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311465/20230202143022_4552c082.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071311/71311467/20230202143023_eeceb8c0.jpeg]]></additional_imageurl>
@@ -6155,7 +6155,7 @@ GP-TOU021CSKWW</mpn>
       <ean>6901443366156</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154963749/HuaweiBackCoverSilikonisDiafanoHuaweiP40Pro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>0</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/031880/31880407/20200409144136_61e0c0e6.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/031880/31880406/20200409144136_1df00565.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053288/53288999/20211203134725_91610f42.jpeg]]></additional_imageurl>
@@ -7315,7 +7315,7 @@ Weight: 235gr</description>
       <ean>8806094497649</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407754/SamsungFlapBackCoverDermatinoMayroGalaxyZFlip4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>132</quantity>
+      <quantity>140</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063320/63320383/20220818161921_bc953017.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>24.95</disPrice>
@@ -7351,7 +7351,7 @@ Weight: 235gr</description>
       <ean>6931474736840</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471301/BorofoneBJ3MinimalistPowerBank10000mAhme2THyresUSBAkaiTHyraUSBC.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049049/49049228/20210809140342_1518a38b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/049049/49049229/20210809140342_000dfd8c.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USBA, μία θύρα USBC, και μπορεί να φορτίσει μία συσκευή με έως και 2Α.
@@ -7752,7 +7752,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <ean>6921815613862</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407635/OnePlusAsyrmatosFortistisQiPad50WLeykosWarpCharge50.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>433</quantity>
+      <quantity>438</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/045778/45778551/20210514144309_b8a6496b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/045778/45778552/20210514144309_88a07421.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/045778/45778553/20210514144309_5f4ff81c.jpeg]]></additional_imageurl>
@@ -7964,7 +7964,7 @@ Clasp Closure: Buckle</description>
       <ean>8806094549393</ean>
       <link><![CDATA[https://www.ninjaStore/8806094549393]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>38</quantity>
+      <quantity>43</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
@@ -8146,7 +8146,7 @@ Clasp Closure: Buckle</description>
       <ean>3666339064891</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153465457/GuessVintageGoldLogoBackCoverSilikonisMayroiPhone14Plus.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>6</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066128/66128495/20221017163603_ad777569.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066128/66128490/20221017163603_10e46ce2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066128/66128500/20221017163603_14fa3938.jpeg]]></additional_imageurl>
@@ -8779,7 +8779,7 @@ Clasp Closure: Buckle</description>
       <ean>7348008757087</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153484650/BluePowerFMTransmitterJoymeBluetoothUSBBlack314525.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>226</quantity>
+      <quantity>228</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056113/56113949/20220210172625_f09fdbf3.jpeg]]></additional_imageurl>
       <description>Συσκευή FM Transmitter Joy της εταιρείας Blue Power για εύκολη και γρήγορη αναπαραγωγή μουσικής σε οποιοδήποτε στερεοφωνικό αυτοκινήτου που διαθέτει ραδιόφωνο, χωρίς επιπρόσθετες ενέργειες. Επιλέξτε μια κενή συχνότητα που δεν εκπέμπει κάποιος ενεργός ραδιοφωνικός σταθμός και συγχρονίστε τη συσκευή FM Transmitter και το στερεοφωνικό σας στην ίδια συχνότητα, για να ακούτε μουσική από τα ηχεία του αυτοκινήτου. Υποστηρίζει αναπαραγωγή μουσικής κατευθείαν από το κινητό μέσω της λειτουργίας Bluetooth, ενώ παράλληλα διαθέτει θύρες USB για φόρτιση του smartphone σας. Τέλος, τροφοδοτείται με ρεύμα από τον αναπτήρα του αυτοκινήτου.</description>
       <distributor>MOBI</distributor>
@@ -8908,7 +8908,7 @@ Ampere: 2A</description>
       <ean>8806094319859</ean>
       <link><![CDATA[https://www.ninjaStore/8806094319859]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>23</quantity>
+      <quantity>28</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
@@ -8956,7 +8956,7 @@ Clasp Closure: Buckle</description>
       <ean>5903108375061</ean>
       <link><![CDATA[https://www.ninjaStore/5903108375061]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>8</quantity>
+      <quantity>9</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056667/56667939/20220224092711_e87c34ea.jpeg]]></additional_imageurl>
       <description>Το full face tempered glass της 3MK είναι ένα σκληρυμένο γυαλί πλήρους κάλυψης, ειδικά κατασκευασμένο για την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy S21 5G.</description>
       <distributor>MOBI</distributor>
@@ -9228,7 +9228,7 @@ Quick Charge: Quick Charge 3.0
       <ean>5903108375085</ean>
       <link><![CDATA[https://www.ninjaStore/5903108375085]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>7</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056667/56667937/20220224092711_cdc7776f.jpeg]]></additional_imageurl>
       <description>Το full face tempered glass της 3MK είναι ένα σκληρυμένο γυαλί πλήρους κάλυψης, ειδικά κατασκευασμένο για την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy S21+ 5G.</description>
       <distributor>MOBI</distributor>
@@ -11318,7 +11318,7 @@ Length: 1.5m</description>
       <ean>0840244603434</ean>
       <link><![CDATA[https://www.ninjaStore/0840244603434]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>10</quantity>
+      <quantity>15</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/074599/74599414/20230414133857_eb693038.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/074599/74599428/20230414133858_2ffd76ed.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/074599/74599427/20230414133858_36144e6b.jpeg]]></additional_imageurl>
@@ -15247,6 +15247,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>827886538454.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15320,6 +15321,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399294.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15347,6 +15349,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736683034.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15375,6 +15378,7 @@ Polarized</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736350691.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15402,6 +15406,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736132433.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15429,6 +15434,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399386.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17299,6 +17305,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17575,6 +17582,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308708.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17602,6 +17610,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308739.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17629,6 +17638,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736233031.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17656,6 +17666,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226262.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17683,6 +17694,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736415796.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17710,6 +17722,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226132.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17737,6 +17750,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736078915.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17764,6 +17778,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736327747.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19522,6 +19537,7 @@ Frame Material: HornRimmed</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736305226.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19578,6 +19594,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736418520.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19607,6 +19624,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369457.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19632,6 +19650,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736130576.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19688,6 +19707,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369204.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20821,6 +20841,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22771,6 +22792,7 @@ Frame Material: Horn-Rimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>664689863655.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22982,7 +23004,7 @@ Width: 215mm</description>
       <ean>8806090706219</ean>
       <link><![CDATA[https://www.ninjaStore/8806090706219]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>237</quantity>
+      <quantity>240</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068192/20201125165742_422afe02.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/036068/36068189/20201125165741_ea484f6f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/036068/36068194/20201125165742_892d8587.jpeg]]></additional_imageurl>
@@ -23104,7 +23126,7 @@ Width: 215mm</description>
       <ean>8806094257557</ean>
       <link><![CDATA[https://www.ninjaStore/8806094257557]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>96</quantity>
+      <quantity>111</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056299/56299948/20220216095916_b75caf71.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056299/56299949/20220216095917_664febae.jpeg]]></additional_imageurl>
       <description>Καλώδιο με δύο ακροδέκτες USB-C για τη γρήγορη φόρτιση του κινητού σου και για ταυτόχρονη μεταφορά δεδομένων μεταξύ κινητού και υπολογιστή. Εξασφαλίζει ταχύτητα φόρτισης maximum 3A.
@@ -23925,7 +23947,7 @@ Quick Charge: Power Delivery</description>
       <ean>6974443385137</ean>
       <link><![CDATA[https://www.ninjaStore/6974443385137]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>57</quantity>
+      <quantity>58</quantity>
       <distributor>MOBI</distributor>
       <disPrice>12.9</disPrice>
     </product>
