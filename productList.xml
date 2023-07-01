@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-06-30 11:25</created_at>
+  <created_at>2023-07-01 02:01</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -15247,6 +15247,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>827886538454.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15320,6 +15321,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399294.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15347,6 +15349,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736683034.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15375,6 +15378,7 @@ Polarized</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736350691.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15402,6 +15406,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736132433.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15429,6 +15434,7 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399386.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17299,6 +17305,7 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17575,6 +17582,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308708.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17602,6 +17610,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308739.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17629,6 +17638,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736233031.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17656,6 +17666,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226262.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17683,6 +17694,7 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736415796.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17710,6 +17722,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226132.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17737,6 +17750,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736078915.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17764,6 +17778,7 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736327747.43-57</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19522,6 +19537,7 @@ Frame Material: HornRimmed</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736305226.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19578,6 +19594,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736418520.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19607,6 +19624,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369457.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19632,6 +19650,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736130576.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19688,6 +19707,7 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369204.44.0</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20821,6 +20841,7 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22771,6 +22792,7 @@ Frame Material: Horn-Rimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>664689863655.47-63</variationid>
+          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22868,7 +22890,7 @@ Frame Material: Horn-Rimmed</description>
       <additional_imageurl><![CDATA[https://cdnbigbuy.com/images/8424001091287_S3032485_P03.jpg]]></additional_imageurl>
       <additional_imageurl><![CDATA[https://cdnbigbuy.com/images/8424001091287_S3032485_P13.jpg]]></additional_imageurl>
       <description>Η κονσόλα της εταιρείας Dekodonia είναι ιδανική για χρήση σε κάθε σημείο του σπιτιού προσφέροντας επιπλέον χώρο για την τοποθέτηση διακοσμητικών ή άλλων μικροαντικειμένων και είναι κατασκευασμένη από μασίφ ξύλο, το οποίο προσφέρει σταθερότητα, στιβαρότητα και αντοχή στο βάρος.</description>
-      <distributor>BIGBUY</distributor>
+      <distributor>BIGBUYY</distributor>
       <disPrice>408.28</disPrice>
     </product>
     <product>
