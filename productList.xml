@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-01 09:26</created_at>
+  <created_at>2023-07-02 01:01</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -1551,7 +1551,7 @@ Total Ports: 2</description>
       <ean>8806094919561</ean>
       <link><![CDATA[https://www.ninjaStore/8806094919561]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>39</quantity>
+      <quantity>38</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/073661/73661626/20230330100501_5ebc11f0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/073661/73661633/20230330100502_8b78f11a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/073661/73661631/20230330100502_f5b4f707.jpeg]]></additional_imageurl>
@@ -4758,7 +4758,7 @@ Fast Charging</description>
       <ean>8806094919530</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155035598/SamsungBackCoverSilikonisBerryGalaxyA54.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/075112/75112915/20230425114649_22dc41bc.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075112/75112912/20230425114648_b2c08276.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/075112/75112916/20230425114649_d9eea79d.jpeg]]></additional_imageurl>
@@ -7904,7 +7904,7 @@ Standby: 200hrs</description>
       <ean>8806094000887</ean>
       <link><![CDATA[https://www.ninjaStore/8806094000887]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>11</quantity>
+      <quantity>9</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/056359/56359228/20220217092532_979e48d5.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>7.8</disPrice>
