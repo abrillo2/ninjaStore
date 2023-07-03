@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-02 01:03</created_at>
+  <created_at>2023-07-03 08:08</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -107,7 +107,7 @@ Frame Material: Horn-Rimmed</description>
       <ean>8806094534979</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407779/SamsungSiliconeCoverwithRingCHakiGalaxyZFlip4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063321/63321440/20220818163615_e3a7376e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063321/63321439/20220818163614_ba003d2e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/063321/63321438/20220818163614_92a19fdd.jpeg]]></additional_imageurl>
@@ -3104,7 +3104,7 @@ Clasp Closure: Buckle</description>
       <ean>8806094772715</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407788/SamsungSmartViewWalletPlastikoLavenderGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>10</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311458/20230202143012_a002171d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311459/20230202143012_1b32c9ee.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071311/71311457/20230202143012_df6e3d4a.jpeg]]></additional_imageurl>
@@ -3187,7 +3187,7 @@ Clasp Closure: Buckle</description>
       <ean>8806088571447</ean>
       <link><![CDATA[https://www.ninjaStore/8806088571447]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>276</quantity>
+      <quantity>266</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/021252/21252733/20180704112139_273e9a1a.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/021252/21252735/20180704112140_637d4bf4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/021252/21252734/20180704112140_70b61489.jpeg]]></additional_imageurl>
@@ -3404,7 +3404,7 @@ Operation Time with Charging Case: 40hrs</description>
       <ean>8806094919301</ean>
       <link><![CDATA[https://www.ninjaStore/8806094919301]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>8</quantity>
+      <quantity>3</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/074599/74599372/20230414133856_99cd78e3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/074599/74599388/20230414133857_5491d196.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/074599/74599391/20230414133857_38dd75d2.jpeg]]></additional_imageurl>
@@ -7752,7 +7752,7 @@ H θύρα 3.5mm είναι μία θύρα ήχου που την χρησιμ�
       <ean>6921815613862</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407635/OnePlusAsyrmatosFortistisQiPad50WLeykosWarpCharge50.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>433</quantity>
+      <quantity>428</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/045778/45778551/20210514144309_b8a6496b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/045778/45778552/20210514144309_88a07421.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/045778/45778553/20210514144309_5f4ff81c.jpeg]]></additional_imageurl>
@@ -15247,7 +15247,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>827886538454.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15321,7 +15320,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399294.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15349,7 +15347,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736683034.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15378,7 +15375,6 @@ Polarized</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736350691.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15406,7 +15402,6 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736132433.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -15434,7 +15429,6 @@ Frame Material: Mixed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736399386.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17305,7 +17299,6 @@ Frame Material: HornRimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>762753823663.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17582,7 +17575,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308708.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17610,7 +17602,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736308739.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17638,7 +17629,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736233031.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17666,7 +17656,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226262.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17694,7 +17683,6 @@ Frame Material: Horn-Rimmed</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736415796.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17722,7 +17710,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736226132.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17750,7 +17737,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736078915.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -17778,7 +17764,6 @@ Frame Material: Metallic</description>
           <size>43-57</size>
           <quantity>0</quantity>
           <variationid>716736327747.43-57</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19537,7 +19522,6 @@ Frame Material: HornRimmed</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736305226.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19594,7 +19578,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736418520.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19624,7 +19607,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369457.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19650,7 +19632,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736130576.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -19707,7 +19688,6 @@ Polarized</description>
           <size>44.0</size>
           <quantity>0</quantity>
           <variationid>716736369204.44.0</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -20841,7 +20821,6 @@ Frame Material: Mixed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>5,05502e12.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -22792,7 +22771,6 @@ Frame Material: Horn-Rimmed</description>
           <size>47-63</size>
           <quantity>0</quantity>
           <variationid>664689863655.47-63</variationid>
-          <manufacturersku/>
         </variation>
       </variations>
       <distributor>NONE</distributor>
@@ -24249,7 +24227,7 @@ Weight: 233gr
       <ean>8806094000801</ean>
       <link><![CDATA[https://www.ninjaStore/8806094000801]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056652/56652420/20220223172328_ec435d6b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/056652/56652425/20220223172332_4cedecb3.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
