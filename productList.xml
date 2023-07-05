@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-05 08:15</created_at>
+  <created_at>2023-07-05 08:26</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -14760,7 +14760,7 @@ Main Port Amperage: 2A
 Weight: 370gr</description>
       <distributor>MOBI</distributor>
       <disPrice>12.9</disPrice>
-      <lowest_price_Skroutz>18.62</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.7</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14784,7 +14784,7 @@ Weight: 400gr
 Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <distributor>MOBI</distributor>
       <disPrice>14.9</disPrice>
-      <lowest_price_Skroutz>19.49</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.57</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14807,7 +14807,7 @@ Main Port Amperage: 2A
 Weight: 370gr</description>
       <distributor>MOBI</distributor>
       <disPrice>15.9</disPrice>
-      <lowest_price_Skroutz>20.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>20.57</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14829,7 +14829,7 @@ Weight: 422gr
 Quick Charge: Power Delivery</description>
       <distributor>MOBI</distributor>
       <disPrice>16.9</disPrice>
-      <lowest_price_Skroutz>21.92</lowest_price_Skroutz>
+      <lowest_price_Skroutz>22.01</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14845,7 +14845,7 @@ Quick Charge: Power Delivery</description>
       <quantity>55</quantity>
       <distributor>MOBI</distributor>
       <disPrice>12.9</disPrice>
-      <lowest_price_Skroutz>16.52</lowest_price_Skroutz>
+      <lowest_price_Skroutz>16.59</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -26355,33 +26355,6 @@ GP-TOU021CSGBW</mpn>
       <price_updated>NO</price_updated>
     </product>
     <product>
-      <id>4528178</id>
-      <name><![CDATA[Nautica Pier 25 Battery Chronograph Watch with Rubber Strap White]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>157.0</price_with_vat>
-      <manufacturer>Nautica</manufacturer>
-      <image><![CDATA[https://c.scdn.gr/images/sku_main_images/013958/13958057/fixedratio_20220802191706_nautica_pier_25_napp25001.jpeg]]></image>
-      <mpn>NAPP25001</mpn>
-      <ean>656086088229</ean>
-      <link><![CDATA[https://www.skroutz.gr/mp/153886408/NauticaPier25NAPP25001.html]]></link>
-      <availability>Available</availability>
-      <quantity>1</quantity>
-      <description>Ανδρικό Analog ρολόι χρονογράφος της εταιρίας Nautica, XXL μεγέθους με Rubber σε white χρώμα. Διαθέτει μηχανισμό μπαταρίας, ο οποίος βασίζεται στην ηλεκτρική ενέργεια που παρέχει η μπαταρία, με αποτέλεσμα να υπάρχει ακρίβεια και αντοχή.
-
-Βασικά Χαρακτηριστικά:
-• Μηχανισμός: Battery
-• Μέγεθος: 48mm
-• Αδιάβροχο: Swimming / Bathing (10 Atm)
-• Υλικό Λουριού: Rubber
-• Χρώμα Καντράν: Blue
-• Χρώμα Κάσας: Blue
-• Χρώμα Λουριού: White</description>
-      <distributor>NS</distributor>
-      <disPrice>72.38</disPrice>
-      <lowest_price_Skroutz>157.0</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
-    </product>
-    <product>
       <id>4539762</id>
       <name><![CDATA[Sector Battery Chronograph Watch with Metal Bracelet Black R3273803003]]></name>
       <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
@@ -26465,23 +26438,6 @@ Case Shape: Rectangle</description>
       <distributor>NS</distributor>
       <disPrice>18.86</disPrice>
       <lowest_price_Skroutz>27.99</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
-    </product>
-    <product>
-      <id>EAN4549526297939</id>
-      <name><![CDATA[Casio G-Shock Battery Chronograph Watch with Metal Bracelet Silver]]></name>
-      <category><![CDATA[Fashion > Watches > Men's Watches]]></category>
-      <price_with_vat>92.0</price_with_vat>
-      <manufacturer>Casio</manufacturer>
-      <image><![CDATA[https://a.scdn.gr/images/sku_main_images/028051/28051007/fixedratio_20220802195251_casio_roloi_chronografos_me_metalliko_mprasele_se_asimi_chroma_ga_2100ske_7aer.jpeg]]></image>
-      <mpn>GA-2100SKE-7AER</mpn>
-      <ean>4549526297939</ean>
-      <link><![CDATA[https://www.ninjaStore/4549526297939]]></link>
-      <availability>Available</availability>
-      <quantity>1</quantity>
-      <distributor>NS</distributor>
-      <disPrice>63.22</disPrice>
-      <lowest_price_Skroutz>92.0</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
