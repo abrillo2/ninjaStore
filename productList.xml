@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-04 08:16</created_at>
+  <created_at>2023-07-05 08:15</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -502,7 +502,7 @@ Operation Time with Charging Case: 22hrs</description>
       <id>EAN6974316280972</id>
       <name><![CDATA[Acefast Fast Charging Car Phone Charger B6 Black, 3A Total Output with 1x USB Ports 1x Type-C Ports]]></name>
       <category><![CDATA[Auto - Moto > Car Electronics > Cell Phone Car Chargers]]></category>
-      <price_with_vat>10.95</price_with_vat>
+      <price_with_vat>10.85</price_with_vat>
       <manufacturer>Acefast</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/034596/34596117/20220310121342_acefast_fortistis_aytokinitou_mayros_3_0a_grigoris_fortisis_me_thyres_1xusb_1xtype_c.jpeg]]></image>
       <ean>6974316280972</ean>
@@ -520,8 +520,8 @@ Total Amperage: 3A
 Total Ports: 2</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.95</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>10.86</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4510057</id>
@@ -594,7 +594,7 @@ Total Ports: 2</description>
       <id>EAN6972453166326</id>
       <name><![CDATA[Huawei Charger with USB-A port and USB-C Cable 22.5W SuperCharge in White Colour (HW-100225E00)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
-      <price_with_vat>9.92</price_with_vat>
+      <price_with_vat>9.9</price_with_vat>
       <manufacturer>Huawei</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/025848/25848236/20211104143801_huawei_usb_a_to_usb_c_cable_wall_adapter_leyko_cp404.jpeg]]></image>
       <mpn>55033325</mpn>
@@ -612,7 +612,7 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.93</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.91</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -638,7 +638,7 @@ Total Ports: 2</description>
 Οι χρήστες που την έχουν αγοράσει την ξεχωρίζουν κυρίως γιατί είναι εύκολη η τοποθέτησή της στο αυτοκίνητο and είναι ποιοτική κατασκευή.</description>
       <distributor>MOBI</distributor>
       <disPrice>31.3</disPrice>
-      <lowest_price_Skroutz>37.63</lowest_price_Skroutz>
+      <lowest_price_Skroutz>37.64</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1444,7 +1444,7 @@ Total Amperage: 3A
 Total Ports: 2</description>
       <distributor>MOBI</distributor>
       <disPrice>6.2</disPrice>
-      <lowest_price_Skroutz>8.4</lowest_price_Skroutz>
+      <lowest_price_Skroutz>8.64</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1747,8 +1747,8 @@ Material: Silicone
 Clasp Closure: Pin</description>
       <distributor>MOBI</distributor>
       <disPrice>33.7</disPrice>
-      <lowest_price_Skroutz>52.42</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>52.41</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4509381</id>
@@ -1767,7 +1767,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>19.96</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.88</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2232,8 +2232,8 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070773/70773699/20230120171556_517ee233.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>18.95</disPrice>
-      <lowest_price_Skroutz>28.89</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>28.88</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4510053</id>
@@ -2336,7 +2336,7 @@ Connectivity: 3.5mm</description>
       <id>4565069</id>
       <name><![CDATA[Mibro S1 Earbud Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Black]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>24.76</price_with_vat>
+      <price_with_vat>24.73</price_with_vat>
       <manufacturer>Mibro</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039801/39801091/20221213104613_mibro_s1_earbud_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_mayra.jpeg]]></image>
       <mpn>XPEJ003B</mpn>
@@ -2347,14 +2347,14 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071557/71557217/20230207172402_c5437e2d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>24.77</lowest_price_Skroutz>
+      <lowest_price_Skroutz>24.74</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN6921815623205</id>
       <name><![CDATA[OnePlus Wall Adapter with USB-A port and USB-C port 100W Power Delivery in White Colour (SUPERVOOC)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
-      <price_with_vat>40.9</price_with_vat>
+      <price_with_vat>40.88</price_with_vat>
       <manufacturer>OnePlus</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/040709/40709044/20230220093243_oneplus_fortistis_choris_kalodio_me_thyra_usb_a_kai_thyra_usb_c_100w_power_delivery_leykos_supervooc.jpeg]]></image>
       <mpn>5461100370</mpn>
@@ -2368,8 +2368,8 @@ USB-C Output Ports: 1
 Charging Power: 100W</description>
       <distributor>MOBI</distributor>
       <disPrice>26.45</disPrice>
-      <lowest_price_Skroutz>40.9</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>40.89</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8886463664483</id>
@@ -2556,7 +2556,7 @@ Weight: 680gr</description>
 Τέλος, η συσκευασία περιλαμβάνει καλώδιο No για τη σύνδεση του φορτιστή με συσκευές που είναι συμβατές με την αντίστοιχη υποδοχή.</description>
       <distributor>MOBI</distributor>
       <disPrice>6.75</disPrice>
-      <lowest_price_Skroutz>9.36</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.35</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2818,7 +2818,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.95</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.93</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2883,7 +2883,7 @@ Main Port Amperage: 2.1A
 Weight: 585gr</description>
       <distributor>MOBI</distributor>
       <disPrice>17.9</disPrice>
-      <lowest_price_Skroutz>25.91</lowest_price_Skroutz>
+      <lowest_price_Skroutz>25.66</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3087,7 +3087,7 @@ Weight: 1070gr</description>
       <id>EAN6931474739414</id>
       <name><![CDATA[Hoco J73 Power Bank 30000mAh with 2 USB-A Ports Black]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Power Banks]]></category>
-      <price_with_vat>28.39</price_with_vat>
+      <price_with_vat>28.23</price_with_vat>
       <manufacturer>Hoco</manufacturer>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/029576/29576953/20210618154311_hoco_j73_30000mah_mayro.jpeg]]></image>
       <ean>6931474739414</ean>
@@ -3105,8 +3105,8 @@ Main Port Amperage: 2A
 Weight: 667gr</description>
       <distributor>MOBI</distributor>
       <disPrice>17.9</disPrice>
-      <lowest_price_Skroutz>28.39</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>28.24</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8806094770612</id>
@@ -3324,8 +3324,8 @@ Material: Silicone
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
       <disPrice>12.85</disPrice>
-      <lowest_price_Skroutz>19.28</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>19.27</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8806094772708</id>
@@ -3697,8 +3697,8 @@ Operation Time with Charging Case: 40hrs</description>
 Συμβατή με το Galaxy A54.</description>
       <distributor>MOBI</distributor>
       <disPrice>22.75</disPrice>
-      <lowest_price_Skroutz>37.52</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>37.51</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8806094919318</id>
@@ -4152,7 +4152,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.53</price_with_vat>
+      <price_with_vat>9.51</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4162,7 +4162,7 @@ Standby: 120hrs</description>
       <quantity>110</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.54</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.52</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -4766,7 +4766,7 @@ Clasp Closure: Buckle
       <name><![CDATA[Vivo TWS 2 Inear Bluetooth Handsfree Headphone with Charging Case Starry Blue
  (6935117837222)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>92.28</price_with_vat>
+      <price_with_vat>92.26</price_with_vat>
       <manufacturer>Vivo</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038380/38380227/20220927150941_vivo_tws_2_in_ear_bluetooth_handsfree_akoustika_me_thiki_fortisis_starry_blue.jpeg]]></image>
       <mpn>6020141.0</mpn>
@@ -4778,14 +4778,14 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/070773/70773838/20230120171726_00480223.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>55.95</disPrice>
-      <lowest_price_Skroutz>92.29</lowest_price_Skroutz>
+      <lowest_price_Skroutz>92.27</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509231</id>
       <name><![CDATA[Samsung S Pen Digital with Palm Rejection for Galaxy S23 Ultra Black]]></name>
       <category><![CDATA[Technology > Mobile Phone Accessories > Stylus Pens]]></category>
-      <price_with_vat>38.39</price_with_vat>
+      <price_with_vat>38.37</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040616/40616119/20230209104749_samsung_s_pen_psifiaki_grafida_afis_me_palm_rejection_gia_galaxy_s23_ultra_se_mayro_chroma.jpeg]]></image>
       <mpn>EJPS918BBEGEU</mpn>
@@ -4797,7 +4797,7 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.5</disPrice>
-      <lowest_price_Skroutz>38.4</lowest_price_Skroutz>
+      <lowest_price_Skroutz>38.38</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -5420,7 +5420,7 @@ Length: 1m</description>
       <id>4508860</id>
       <name><![CDATA[Samsung Clear Slim Cover Silicone Back Cover Transparent (Galaxy S23+)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Cases & Covers]]></category>
-      <price_with_vat>19.31</price_with_vat>
+      <price_with_vat>19.29</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040559/40559819/20230202142944_samsung_clear_slim_cover_back_cover_silikonis_diafano_galaxy_s23.jpeg]]></image>
       <mpn>EFQS916CTEGWW</mpn>
@@ -5438,8 +5438,8 @@ Length: 1m</description>
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
       <disPrice>11.75</disPrice>
-      <lowest_price_Skroutz>19.31</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>19.3</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8806094772609</id>
@@ -11037,7 +11037,7 @@ Volume Control</description>
       <name><![CDATA[Oppo DL129 Braided USB 2.0 Cable USBC male  USBA male White 1m (DL129)
  (6944284629677)]]></name>
       <category><![CDATA[Technology > Data Cables > USB TypeC Cables]]></category>
-      <price_with_vat>29.98</price_with_vat>
+      <price_with_vat>29.96</price_with_vat>
       <manufacturer>Oppo</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/026371/26371865/20210316092522_oppo_dl129_braided_usb_2_0_cable_usb_c_male_usb_a_male_leyko_1m_dl129.jpeg]]></image>
       <mpn>DL129</mpn>
@@ -11051,8 +11051,8 @@ Volume Control</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/069681/69681307/20221223124850_69bf68aa.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>29.98</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>29.97</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4508840</id>
@@ -12033,8 +12033,8 @@ Length: 1.5m</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070884/70884045/20230124104716_1f560155.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>3.8</disPrice>
-      <lowest_price_Skroutz>6.27</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>6.26</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN6957531093237</id>
@@ -13893,7 +13893,7 @@ Width: 215mm</description>
       <id>EAN8806088957920</id>
       <name><![CDATA[Samsung USB 2.0 Cable USB-C male - USB-A male Black 1.5m (EP-DG930MBEGWW)]]></name>
       <category><![CDATA[Technology > Data Cables > USB Type-C Cables]]></category>
-      <price_with_vat>9.48</price_with_vat>
+      <price_with_vat>9.46</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/016763/16763406/20211105085935_samsung_regular_usb_2_0_cable_usb_c_male_usb_a_male_mayro_1_5m_ep_dg930mbegww.jpeg]]></image>
       <mpn>EP-DG930MBEGWW</mpn>
@@ -13909,8 +13909,8 @@ Width: 215mm</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051838/51838344/20211105085936_c4cd384c.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.3</disPrice>
-      <lowest_price_Skroutz>9.48</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>9.47</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8806088938141</id>
@@ -14492,7 +14492,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052364/52364784/20211115114058_f96bfcff.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.15</disPrice>
-      <lowest_price_Skroutz>19.95</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.93</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14594,7 +14594,7 @@ USB Version: USB 2.0</description>
       <ean>8806090270062</ean>
       <link><![CDATA[https://www.ninjaStore/8806090270062]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>450</quantity>
+      <quantity>447</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130155/20200123123055_bb5ef033.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/030130/30130152/20200123123054_c4d16111.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130154/20200123123055_55be6a82.jpeg]]></additional_imageurl>
@@ -15612,7 +15612,7 @@ Type: Standard</description>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.59</price_with_vat>
+      <price_with_vat>10.57</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15625,7 +15625,7 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.6</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.58</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
