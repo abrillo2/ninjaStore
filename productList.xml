@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-07 02:25</created_at>
+  <created_at>2023-07-07 04:09</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -178,7 +178,7 @@ Frame Material: Horn-Rimmed</description>
       <ean>6971664932812</ean>
       <link><![CDATA[https://www.ninjaStore/6971664932812]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>30</quantity>
+      <quantity>29</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070196/70196691/20230109155224_9dde63d4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>19.4</disPrice>
@@ -559,7 +559,7 @@ Total Ports: 2</description>
       <ean>6971669780913</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153484233/70MaiProPlusA500S1SetKameraDVRAytokinitoumeOthoni2WiFiGPSgia.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/052373/52373560/20211115133426_dccd6e4c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/042778/42778984/20210401101833_250a111f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054076/54076681/20230403111659_d1a389d0.jpeg]]></additional_imageurl>
@@ -613,8 +613,8 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.83</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>9.82</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507555</id>
@@ -810,7 +810,7 @@ Quick Charge: Power Delivery</description>
       <id>EAN6941487277506</id>
       <name><![CDATA[Huawei FreeBuds 5 Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Silver Frost]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>157.98</price_with_vat>
+      <price_with_vat>154.99</price_with_vat>
       <manufacturer>Huawei</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/042677/42677863/20230530143126_huawei_freebuds_5_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_silver_frost.jpeg]]></image>
       <mpn>55036454</mpn>
@@ -823,8 +823,8 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/076650/76650117/20230530143127_d4ca2c17.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
-      <lowest_price_Skroutz>157.98</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>155.0</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509512</id>
@@ -892,7 +892,7 @@ Charging Power: 160W</description>
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
       <disPrice>19.65</disPrice>
-      <lowest_price_Skroutz>29.26</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.25</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1255,7 +1255,7 @@ Operation Time with Charging Case: 20hrs</description>
       <id>EAN6941487277483</id>
       <name><![CDATA[Huawei FreeBuds 5 Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Ceramic White]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>166.64</price_with_vat>
+      <price_with_vat>164.99</price_with_vat>
       <manufacturer>Huawei</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042677/42677768/20230530142609_huawei_freebuds_5_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_leyka.jpeg]]></image>
       <mpn>55036456</mpn>
@@ -1270,8 +1270,8 @@ Operation Time with Charging Case: 20hrs</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/076649/76649989/20230530142610_263eab44.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
-      <lowest_price_Skroutz>166.64</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>165.0</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8809580801272</id>
@@ -1399,7 +1399,7 @@ Weight: 710gr</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071860/71860677/20230214103324_8727dda9.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>13.55</disPrice>
-      <lowest_price_Skroutz>17.39</lowest_price_Skroutz>
+      <lowest_price_Skroutz>17.38</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>19.86</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.82</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2131,7 +2131,7 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054522/54522028/20220105085133_af00f141.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>24.3</disPrice>
-      <lowest_price_Skroutz>27.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.0</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2339,7 +2339,7 @@ Connectivity: 3.5mm</description>
       <id>4565069</id>
       <name><![CDATA[Mibro S1 Earbud Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Black]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>24.63</price_with_vat>
+      <price_with_vat>24.61</price_with_vat>
       <manufacturer>Mibro</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039801/39801091/20221213104613_mibro_s1_earbud_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_mayra.jpeg]]></image>
       <mpn>XPEJ003B</mpn>
@@ -2350,8 +2350,8 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071557/71557217/20230207172402_c5437e2d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>24.63</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>24.62</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN6921815623205</id>
@@ -2785,7 +2785,7 @@ Wireless Connections: Bluetooth
       <id>EAN8806094253726</id>
       <name><![CDATA[Samsung Tempered Glass (Galaxy A33)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Screen Protectors]]></category>
-      <price_with_vat>6.54</price_with_vat>
+      <price_with_vat>6.52</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/035498/35498418/20220418132415_samsung_tempered_glass_galaxy_a33.jpeg]]></image>
       <mpn>ET-FA336TTEGWW</mpn>
@@ -2796,8 +2796,8 @@ Wireless Connections: Bluetooth
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061032/61032390/20220608154126_ebe0af96.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>4.3</disPrice>
-      <lowest_price_Skroutz>6.54</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>6.53</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509093</id>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.75</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.74</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3056,7 +3056,7 @@ Weight: 1070gr</description>
       <ean>6971664933659</ean>
       <link><![CDATA[https://www.ninjaStore/6971664933659]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>1</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/070622/70622507/20230525155141_3d7df014.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/070622/70622535/20230117155620_7d767d39.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070622/70622515/20230117155619_bd52205c.jpeg]]></additional_imageurl>
@@ -3406,7 +3406,7 @@ Clasp Closure: Buckle</description>
       <ean>6941812704325</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/155015867/XiaomiAW300IPKameraParakolouthisisWiFi1080pAdiavrochimeMikrofono.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>23</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/074412/74412654/20230413093814_8e8f2718.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/074561/74561733/20230414091425_71198677.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -3515,7 +3515,7 @@ Clasp Closure: Buckle</description>
       <ean>6920680880188</ean>
       <link><![CDATA[https://www.ninjaStore/6920680880188]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>111</quantity>
+      <quantity>109</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053614/53614727/20211210164428_ee411ca0.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/054170/54170122/20211224172926_9ca963ba.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054170/54170111/20211224172926_0766f2cd.jpeg]]></additional_imageurl>
@@ -4157,7 +4157,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.43</price_with_vat>
+      <price_with_vat>9.41</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4167,8 +4167,8 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.43</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>9.42</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8806094243529</id>
@@ -4740,7 +4740,7 @@ Charging Power: 65W</description>
       <ean>6935117837178</ean>
       <link><![CDATA[https://www.ninjaStore/6935117837178]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>213</quantity>
+      <quantity>212</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066134/66134116/20221017165420_96311b8f.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>32.95</disPrice>
@@ -4977,7 +4977,7 @@ Quick Charge: Power Delivery</description>
       <ean>6921815620273</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964446/OnePlusSandstoneBumperBackCoverPlastikoSilikonisAnthektikiMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>70</quantity>
+      <quantity>69</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068597/68597966/20221201110002_513d92ef.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας OnePlus για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -5211,7 +5211,7 @@ Clasp Closure: Buckle</description>
       <ean>6974443380989</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471281/BorofoneBJ16PowerBank10000mAhme2THyresUSBAMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>31</quantity>
+      <quantity>30</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051127/51127238/20211019155603_76e369b2.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051826/51826393/20211104170448_cd21e421.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USBA και μπορεί να φορτίσει μία συσκευή με έως και 2Α.
@@ -5445,8 +5445,8 @@ Length: 1m</description>
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
       <disPrice>11.75</disPrice>
-      <lowest_price_Skroutz>19.24</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>19.23</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8806094772609</id>
@@ -5736,7 +5736,7 @@ Weight: 229gr</description>
       <ean>5903108390309</ean>
       <link><![CDATA[https://www.ninjaStore/5903108390309]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/056667/56667832/20220224092609_fbb6f616.jpeg]]></additional_imageurl>
       <description>Το tempered glass της 3MK είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι συμβατό με το Galaxy S21 FE 5G.</description>
       <distributor>MOBI</distributor>
@@ -5754,7 +5754,7 @@ Weight: 229gr</description>
       <ean>5903108343619</ean>
       <link><![CDATA[https://www.ninjaStore/5903108343619]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>28</quantity>
+      <quantity>27</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/038950/38950780/20210210163828_64d30c73.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>2.99</disPrice>
@@ -6421,7 +6421,7 @@ GP-TOU021CSKWW</mpn>
       <ean>8806094768848</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153466606/SamsungGripBackCoverSilikonisMayroGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>46</quantity>
+      <quantity>45</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071311/71311466/20230202143023_35936909.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071311/71311465/20230202143022_4552c082.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071311/71311467/20230202143023_eeceb8c0.jpeg]]></additional_imageurl>
@@ -7319,8 +7319,8 @@ Ampere: 2A</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051859/51859447/20211105112441_400795be.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>15.95</disPrice>
-      <lowest_price_Skroutz>27.8</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>27.79</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507522</id>
@@ -8727,7 +8727,7 @@ Clasp Closure: Buckle</description>
       <ean>6971664934045</ean>
       <link><![CDATA[https://www.ninjaStore/6971664934045]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>14</quantity>
+      <quantity>13</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/076387/76387536/20230524092005_c7badca3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/076387/76387537/20230529110135_a0bb3fe3.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -8907,7 +8907,7 @@ Clasp Closure: Buckle</description>
       <ean>3492548218998</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154962701/EnergizerFortistisAytokinitouMayrosSetEssentialsPhoneHolderSynolikis.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>288</quantity>
+      <quantity>287</quantity>
       <description>Φορτιστής αυτοκινήτου από την Energizer, που εφαρμόζει άμεσα στη θέση του αναπτήρα ώστε να φορτίζετε τις συσκευές σας στο ταξίδι, την εκδρομή ή τη διαδρομή για τη δουλειά. Διαθέτει 2 θύρες USB για τη φόρτιση του tablet ή του smartphone σας.
 Τέλος, η συσκευασία περιλαμβάνει καλώδιο MicroUSB για τη σύνδεση του φορτιστή με συσκευές που είναι συμβατές με την αντίστοιχη υποδοχή.
 Total Amperage: 3.4A
@@ -9045,7 +9045,7 @@ Clasp Closure: Buckle</description>
       <ean>6931474751805</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471269/BorofoneBJ15WiseacrePowerBank10000mAh225Wme2THyresUSBAkaiTHyra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>11</quantity>
+      <quantity>8</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051141/51141409/20211019171257_431ac288.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051823/51823981/20211104165417_195d4c7f.jpeg]]></additional_imageurl>
       <description>Το power bank της Borofone έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει 2 θύρες USBA, μία θύρα USBC, και μπορεί να φορτίσει μία συσκευή με έως και 3Α.
@@ -9407,7 +9407,7 @@ Clasp Closure: Buckle</description>
       <ean>7348008757339</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757339]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>438</quantity>
+      <quantity>428</quantity>
       <distributor>MOBI</distributor>
       <disPrice>2.95</disPrice>
       <lowest_price_Skroutz>4.86</lowest_price_Skroutz>
@@ -10085,7 +10085,7 @@ USB Version: USB 2.0</description>
       <ean>6931474702005</ean>
       <link><![CDATA[https://www.ninjaStore/6931474702005]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>169</quantity>
+      <quantity>164</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/059667/59667282/20220503165658_40f8d60c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/063533/63533179/20220826124043_5f8f4405.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/066746/66746938/20221031095906_2bd51d2f.jpeg]]></additional_imageurl>
@@ -10940,7 +10940,7 @@ Standby: 180hrs</description>
       <ean>6931474745378</ean>
       <link><![CDATA[https://www.ninjaStore/6931474745378]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>43</quantity>
+      <quantity>41</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/047759/47759432/20210616120150_17fb14fb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/047759/47759431/20210616120150_72368621.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/054887/54887278/20220112132954_aa1e0a36.jpeg]]></additional_imageurl>
@@ -12057,7 +12057,7 @@ Length: 1.5m</description>
       <ean>6957531093237</ean>
       <link><![CDATA[https://www.ninjaStore/6957531093237]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>16</quantity>
+      <quantity>17</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715091/20220601143040_f820f8df.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715092/20220601143040_4420162c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715090/20220601143040_39f522fa.jpeg]]></additional_imageurl>
@@ -13195,7 +13195,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>6970648213107</ean>
       <link><![CDATA[https://www.ninjaStore/6970648213107]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <distributor>MOBI</distributor>
       <disPrice>21.15</disPrice>
       <lowest_price_Skroutz>34.89</lowest_price_Skroutz>
@@ -13234,7 +13234,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>6971619678260</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678260]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>15</quantity>
+      <quantity>9</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071048/71048172/20230127145756_dc9e6013.jpeg]]></additional_imageurl>
       <description>Τα in-ear ασύρματα ακουστικά Mibro Earbuds 2 συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Διαθέτουν Active Noise Cancellation (ANC) το οποίο μπλοκάρει τους εξωτερικούς θορύβους σε περιβάλλοντα όπως τα Μέσα Μαζικής Μεταφοράς, ώστε να ακούτε καλύτερα τη μουσική ή τις κλήσεις σας. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
 
@@ -13263,7 +13263,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>6971619678277</ean>
       <link><![CDATA[https://www.ninjaStore/6971619678277]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>99</quantity>
+      <quantity>90</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071048/71048173/20230127145756_11b2769b.jpeg]]></additional_imageurl>
       <description>Τα in-ear ασύρματα ακουστικά Mibro Earbuds 2 συνδέονται με κάθε συσκευή που διαθέτει bluetooth. Διαθέτουν Active Noise Cancellation (ANC) το οποίο μπλοκάρει τους εξωτερικούς θορύβους σε περιβάλλοντα όπως τα Μέσα Μαζικής Μεταφοράς, ώστε να ακούτε καλύτερα τη μουσική ή τις κλήσεις σας. Συνοδεύονται από θήκη μεταφοράς και φόρτισης των ακουστικών.
 
@@ -13565,7 +13565,7 @@ Operation Time: 288hrs</description>
       <ean>6971085310916</ean>
       <link><![CDATA[https://www.ninjaStore/6971085310916]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>7</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/053447/53447695/20211207141507_a9c3e351.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/053447/53447699/20211207141507_29ef8851.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/053447/53447705/20211207141508_792bfc85.jpeg]]></additional_imageurl>
@@ -13783,7 +13783,7 @@ Main Port Amperage (Max): 2.4A</description>
       <ean>6920680808540</ean>
       <link><![CDATA[https://www.ninjaStore/6920680808540]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>387</quantity>
+      <quantity>386</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061635/61635257/20220624160005_a300b142.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061635/61635250/20220624160005_17283c86.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/061635/61635252/20220624160005_b5bec19d.jpeg]]></additional_imageurl>
@@ -14614,7 +14614,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130158/20200123123058_93fc0457.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>10.5</disPrice>
-      <lowest_price_Skroutz>11.89</lowest_price_Skroutz>
+      <lowest_price_Skroutz>11.76</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14893,7 +14893,7 @@ Weight: 211gr</description>
       <ean>6931474754431</ean>
       <link><![CDATA[https://www.ninjaStore/6931474754431]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>71</quantity>
+      <quantity>70</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058671/58671894/20220407161342_82d1f3e9.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/058671/58671896/20220407161342_3ffdb2f3.jpeg]]></additional_imageurl>
       <description>Το power bank της Hoco έχει χωρητικότητα 10000mAh που μπορεί να προσφέρει περίπου 2 φορτίσεις σε ένα συνηθισμένο κινητό τηλέφωνο. Διαθέτει μία θύρα USB-A, μία θύρα USB-C, και μπορεί να φορτίσει μία συσκευή με έως και 3Α.
@@ -15270,7 +15270,7 @@ GH82-29803A</mpn>
       <ean>8596311120268</ean>
       <link><![CDATA[https://www.ninjaStore/8596311120268]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>22</quantity>
+      <quantity>17</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/048388/48388149/20210706164748_fd738fa3.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/055061/55061647/20220117094008_f56ad8e9.jpeg]]></additional_imageurl>
       <description>Μπαταρία 5000mAh της Samsung για αντικατάσταση της εργοστασιακής του Galaxy A21s. Αν η μπαταρία του κινητού σου διαρκεί πια πολύ λίγο, αδειάζει απότομα ύστερα από μια κλήση, έχει φουσκώσει ή δεν φορτίζει πλέον, έχει έρθει η ώρα της αντικατάστασής της. Τα σύγχρονα smartphones δεν κάνουν εύκολη αυτή τη διαδικασία, καθώς ανοίγουν μόνο με ειδικά εργαλεία και συνιστάται να απευθυνθείς σε κάποιο εξειδικευμένο τεχνικό καθώς τυχόν λάθη θα έχουν ως αποτέλεσμα την προβληματική λειτουργία της συσκευής σου.</description>
@@ -15539,7 +15539,7 @@ To interface του είναι USB 2.0. Πρόκειται για παλαιότ
       <ean>6931474759481</ean>
       <link><![CDATA[https://www.ninjaStore/6931474759481]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>14</quantity>
+      <quantity>11</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/057276/57276828/20220309121938_689b44eb.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/067159/67159495/20221108095548_1ffdd047.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -15626,7 +15626,7 @@ Type: Standard</description>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.49</price_with_vat>
+      <price_with_vat>10.47</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15639,7 +15639,7 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.48</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -15653,7 +15653,7 @@ Type: Standard</description>
       <ean>6971669780906</ean>
       <link><![CDATA[https://www.ninjaStore/6971669780906]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>4</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/048383/48383506/20210706152358_30c7e323.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/048383/48383505/20210706152358_e0f4b5f5.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/048383/48383508/20210706152358_b919b0cb.jpeg]]></additional_imageurl>
