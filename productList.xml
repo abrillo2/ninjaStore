@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-07 04:09</created_at>
+  <created_at>2023-07-07 05:47</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -823,8 +823,8 @@ Quick Charge: Power Delivery</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/076650/76650117/20230530143127_d4ca2c17.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
-      <lowest_price_Skroutz>155.0</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>135.0</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4509512</id>
@@ -1270,8 +1270,8 @@ Operation Time with Charging Case: 20hrs</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/076649/76649989/20230530142610_263eab44.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
-      <lowest_price_Skroutz>165.0</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>135.0</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8809580801272</id>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>19.82</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.79</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2339,7 +2339,7 @@ Connectivity: 3.5mm</description>
       <id>4565069</id>
       <name><![CDATA[Mibro S1 Earbud Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Black]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>24.61</price_with_vat>
+      <price_with_vat>24.59</price_with_vat>
       <manufacturer>Mibro</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039801/39801091/20221213104613_mibro_s1_earbud_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_mayra.jpeg]]></image>
       <mpn>XPEJ003B</mpn>
@@ -2350,7 +2350,7 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071557/71557217/20230207172402_c5437e2d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>24.62</lowest_price_Skroutz>
+      <lowest_price_Skroutz>24.6</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -2433,7 +2433,7 @@ Charging Power: 100W</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/072849/72849042/20230308150541_aaf0ad25.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>18.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.48</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2796,8 +2796,8 @@ Wireless Connections: Bluetooth
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/061032/61032390/20220608154126_ebe0af96.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>4.3</disPrice>
-      <lowest_price_Skroutz>6.53</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>6.52</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4509093</id>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.74</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.73</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3998,7 +3998,7 @@ Standby: 120hrs</description>
       <ean>8806092978690</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407636/SamsungAsyrmatosFortistisQiPad15WLeykosEPP2400BWEGEU.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>303</quantity>
+      <quantity>283</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/056615/56615469/20220223103944_6d585f1e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058980/58980163/20220414204523_aed47adb.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
@@ -4157,7 +4157,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.41</price_with_vat>
+      <price_with_vat>9.39</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4167,7 +4167,7 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.42</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.4</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -4791,7 +4791,7 @@ Clasp Closure: Buckle
       <id>4509231</id>
       <name><![CDATA[Samsung S Pen Digital with Palm Rejection for Galaxy S23 Ultra Black]]></name>
       <category><![CDATA[Technology > Mobile Phone Accessories > Stylus Pens]]></category>
-      <price_with_vat>37.94</price_with_vat>
+      <price_with_vat>37.92</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040616/40616119/20230209104749_samsung_s_pen_psifiaki_grafida_afis_me_palm_rejection_gia_galaxy_s23_ultra_se_mayro_chroma.jpeg]]></image>
       <mpn>EJPS918BBEGEU</mpn>
@@ -4803,8 +4803,8 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.5</disPrice>
-      <lowest_price_Skroutz>37.94</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>37.93</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509091</id>
@@ -14018,7 +14018,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/035088/35088899/20201013105924_2567a8f4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>5.9</lowest_price_Skroutz>
+      <lowest_price_Skroutz>3.36</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15619,14 +15619,14 @@ Type: Standard</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052374/52374960/20211115135215_dc699620.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>109.0</disPrice>
-      <lowest_price_Skroutz>142.94</lowest_price_Skroutz>
+      <lowest_price_Skroutz>142.93</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.47</price_with_vat>
+      <price_with_vat>10.45</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15639,7 +15639,7 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.48</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.46</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
