@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-07 01:35</created_at>
+  <created_at>2023-07-07 02:25</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -588,14 +588,14 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/057422/57422519/20220311140027_f4eb91a4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>32.25</disPrice>
-      <lowest_price_Skroutz>48.0</lowest_price_Skroutz>
+      <lowest_price_Skroutz>47.39</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN6972453166326</id>
       <name><![CDATA[Huawei Charger with USB-A port and USB-C Cable 22.5W SuperCharge in White Colour (HW-100225E00)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
-      <price_with_vat>9.84</price_with_vat>
+      <price_with_vat>9.82</price_with_vat>
       <manufacturer>Huawei</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/025848/25848236/20211104143801_huawei_usb_a_to_usb_c_cable_wall_adapter_leyko_cp404.jpeg]]></image>
       <mpn>55033325</mpn>
@@ -613,8 +613,8 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.84</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>9.83</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4507555</id>
@@ -892,7 +892,7 @@ Charging Power: 160W</description>
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
       <disPrice>19.65</disPrice>
-      <lowest_price_Skroutz>29.27</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.26</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1095,7 +1095,7 @@ Operation Time with Charging Case: 20hrs</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/051803/51803513/20211104143231_f42a9e56.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>35.35</disPrice>
-      <lowest_price_Skroutz>49.9</lowest_price_Skroutz>
+      <lowest_price_Skroutz>49.81</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1140,7 +1140,7 @@ Operation Time with Charging Case: 20hrs</description>
       <description>Το E3372 White της Huawei είναι ένα mobile router, μια συσκευή στην οποία συνδέονται άλλες συσκευές, (πχ υπολογιστής, κινητό, τηλεόραση) ασύρματα, και στις οποίες διαμοιράζει πρόσβαση στο ίντερνετ. Την πρόσβαση στο ίντερνετ την λαμβάνει μέσω του modem που είναι ενσωματωμένο και χρησιμοποιεί το δίκτυο κινητής τηλεφωνίας με εγκατάσταση κάρτας SIM. Η κάρτα SIM θα πρέπει να έχει ενεργή σύνδεση με πακέτο δεδομένων. Συνδέεται στο δίκτυο 4G, το οποίο προσφέρει σημαντικά υψηλότερες ταχύτητες από το 3G. Για να λειτουργήσει σε αυτήν την ταχύτητα η συσκευή θα πρέπει να υπάρχει αντίστοιχη κάλυψη και από το δίκτυο κινητής στο χώρο που βρισκόμαστε.</description>
       <distributor>MOBI</distributor>
       <disPrice>28.55</disPrice>
-      <lowest_price_Skroutz>35.74</lowest_price_Skroutz>
+      <lowest_price_Skroutz>34.83</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1712,7 +1712,7 @@ Total Ports: 2</description>
 Οι χρήστες που το έχουν αγοράσει το ξεχωρίζουν κυρίως γιατί εφαρμόζει καλά στο κινητό and είναι ανθεκτική.</description>
       <distributor>MOBI</distributor>
       <disPrice>22.55</disPrice>
-      <lowest_price_Skroutz>30.57</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.8</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>19.88</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.86</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2350,8 +2350,8 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071557/71557217/20230207172402_c5437e2d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>24.64</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>24.63</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN6921815623205</id>
@@ -2810,7 +2810,7 @@ Wireless Connections: Bluetooth
       <ean>6941399081178</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471372/Realme3iPowerBank10000mAh12Wme2THyresUSBAMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>21</quantity>
+      <quantity>18</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/069501/69501896/20221219160658_bbaa1a9c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/069501/69501894/20221219160658_a517357e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/069501/69501895/20221219160658_de2b9b9e.jpeg]]></additional_imageurl>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.76</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.75</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2840,7 +2840,7 @@ Weight: 250gr</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/060414/60414881/20220524142536_d03de0c9.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>13.7</disPrice>
-      <lowest_price_Skroutz>17.26</lowest_price_Skroutz>
+      <lowest_price_Skroutz>16.82</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3282,7 +3282,7 @@ Weight: 667gr</description>
       <quantity>2</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.25</disPrice>
-      <lowest_price_Skroutz>5.36</lowest_price_Skroutz>
+      <lowest_price_Skroutz>5.22</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3411,7 +3411,7 @@ Clasp Closure: Buckle</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/074561/74561733/20230414091425_71198677.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>34.6</disPrice>
-      <lowest_price_Skroutz>49.0</lowest_price_Skroutz>
+      <lowest_price_Skroutz>48.95</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -4167,8 +4167,8 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.44</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>9.43</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8806094243529</id>
@@ -5055,7 +5055,7 @@ Standby: 180hrs</description>
       <ean>6935117834559</ean>
       <link><![CDATA[https://www.ninjaStore/6935117834559]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>78</quantity>
+      <quantity>77</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066133/66133962/20221017165338_a03539ef.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066133/66133958/20221017165338_09ed0e79.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066133/66133975/20221017165338_bedc1f11.jpeg]]></additional_imageurl>
@@ -5427,7 +5427,7 @@ Length: 1m</description>
       <id>4508860</id>
       <name><![CDATA[Samsung Clear Slim Cover Silicone Back Cover Transparent (Galaxy S23+)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Cases & Covers]]></category>
-      <price_with_vat>19.25</price_with_vat>
+      <price_with_vat>19.23</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040559/40559819/20230202142944_samsung_clear_slim_cover_back_cover_silikonis_diafano_galaxy_s23.jpeg]]></image>
       <mpn>EFQS916CTEGWW</mpn>
@@ -5445,8 +5445,8 @@ Length: 1m</description>
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
       <disPrice>11.75</disPrice>
-      <lowest_price_Skroutz>17.0</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>19.24</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN8806094772609</id>
@@ -5700,7 +5700,7 @@ Audio Decoding: DTSHD, Dolby Atmos
 Misc Functions: Miracast</description>
       <distributor>MOBI</distributor>
       <disPrice>48.4</disPrice>
-      <lowest_price_Skroutz>54.74</lowest_price_Skroutz>
+      <lowest_price_Skroutz>53.36</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -5965,7 +5965,7 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/051722/51722087/20211103135619_578f9bf4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>1.65</disPrice>
-      <lowest_price_Skroutz>2.26</lowest_price_Skroutz>
+      <lowest_price_Skroutz>2.2</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -7301,7 +7301,7 @@ Ampere: 2A</description>
       <id>4507537</id>
       <name><![CDATA[Samsung DeX HDMI 2.0 Cable HDMI male  USBC male 1.38m Black (EEI3100FBE)]]></name>
       <category><![CDATA[Technology > Video Cables > HDMI Cables]]></category>
-      <price_with_vat>27.88</price_with_vat>
+      <price_with_vat>27.79</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/022793/22793951/20200414142027_samsung_dex_regular_usb_2_0_cable_usb_c_male_hdmi_male_mayro_1_5m_dex.jpeg]]></image>
       <mpn>EEI3100FBEGWW</mpn>
@@ -7319,8 +7319,8 @@ Ampere: 2A</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051859/51859447/20211105112441_400795be.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>15.95</disPrice>
-      <lowest_price_Skroutz>27.88</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>27.8</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4507522</id>
@@ -7871,7 +7871,7 @@ Weight: 235gr</description>
       <ean>8806094497649</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407754/SamsungFlapBackCoverDermatinoMayroGalaxyZFlip4.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>130</quantity>
+      <quantity>129</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/063320/63320383/20220818161921_bc953017.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>24.95</disPrice>
@@ -9485,7 +9485,7 @@ Clasp Closure: Buckle</description>
       <ean>6935117834498</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154963194/VivoSportLiteInearBluetoothHandsfreeAkoustikameAntochistonIdrota.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>109</quantity>
+      <quantity>108</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/066134/66134132/20221017165421_8e099246.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/066134/66134130/20221017165421_9ad4cbff.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/066134/66134147/20221017165422_660f333d.jpeg]]></additional_imageurl>
@@ -13947,7 +13947,7 @@ Width: 215mm</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050964/50964618/20211015161306_764e4229.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>3.95</disPrice>
-      <lowest_price_Skroutz>5.31</lowest_price_Skroutz>
+      <lowest_price_Skroutz>5.17</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14112,7 +14112,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/064463/64463136/20220914190814_a018777d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>39.25</disPrice>
-      <lowest_price_Skroutz>45.82</lowest_price_Skroutz>
+      <lowest_price_Skroutz>44.66</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14456,7 +14456,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/058127/58127331/20220328151708_a0967fd2.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>3.7</disPrice>
-      <lowest_price_Skroutz>4.95</lowest_price_Skroutz>
+      <lowest_price_Skroutz>4.94</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14592,7 +14592,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/030130/30130217/20200123123225_05a5c62b.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>10.3</disPrice>
-      <lowest_price_Skroutz>12.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>12.18</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14976,7 +14976,7 @@ Weight: 233gr
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/051826/51826006/20211104170308_5b14b353.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>35.15</disPrice>
-      <lowest_price_Skroutz>41.53</lowest_price_Skroutz>
+      <lowest_price_Skroutz>40.48</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15626,7 +15626,7 @@ Type: Standard</description>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.51</price_with_vat>
+      <price_with_vat>10.49</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15639,8 +15639,8 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.51</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>10.5</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN6971669780906</id>
