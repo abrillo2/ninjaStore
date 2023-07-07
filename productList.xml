@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-07 12:21</created_at>
+  <created_at>2023-07-07 01:35</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -408,7 +408,7 @@ Charging Power: 30W
       <ean>8806094770803</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153464329/SamsungSiliconeCoverBackCoverSilikonisNavyMpleGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>7</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071313/71313625/20230202151435_75ca2ebf.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313627/20230202151435_d336773e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/071313/71313626/20230202151435_e1122501.jpeg]]></additional_imageurl>
@@ -613,8 +613,8 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.85</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>9.84</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507555</id>
@@ -1210,8 +1210,8 @@ Operation Time with Charging Case: 20hrs</description>
 Συμβατή με το Galaxy A13 5G.</description>
       <distributor>MOBI</distributor>
       <disPrice>4.85</disPrice>
-      <lowest_price_Skroutz>7.45</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>7.44</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4508539</id>
@@ -1399,7 +1399,7 @@ Weight: 710gr</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071860/71860677/20230214103324_8727dda9.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>13.55</disPrice>
-      <lowest_price_Skroutz>17.5</lowest_price_Skroutz>
+      <lowest_price_Skroutz>17.39</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>19.9</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.88</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2131,7 +2131,7 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/054522/54522028/20220105085133_af00f141.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>24.3</disPrice>
-      <lowest_price_Skroutz>29.75</lowest_price_Skroutz>
+      <lowest_price_Skroutz>27.5</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2339,7 +2339,7 @@ Connectivity: 3.5mm</description>
       <id>4565069</id>
       <name><![CDATA[Mibro S1 Earbud Bluetooth Handsfree Headphone Sweat Resistant and Charging Case Black]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>24.65</price_with_vat>
+      <price_with_vat>24.63</price_with_vat>
       <manufacturer>Mibro</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/039801/39801091/20221213104613_mibro_s1_earbud_bluetooth_handsfree_akoustika_me_antochi_ston_idrota_kai_thiki_fortisis_mayra.jpeg]]></image>
       <mpn>XPEJ003B</mpn>
@@ -2350,7 +2350,7 @@ Connectivity: 3.5mm</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071557/71557217/20230207172402_c5437e2d.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>24.66</lowest_price_Skroutz>
+      <lowest_price_Skroutz>24.64</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -2371,8 +2371,8 @@ USB-C Output Ports: 1
 Charging Power: 100W</description>
       <distributor>MOBI</distributor>
       <disPrice>26.45</disPrice>
-      <lowest_price_Skroutz>40.83</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>40.82</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8886463664483</id>
@@ -2655,8 +2655,8 @@ Charging Power: 80W</description>
 Συμβατή με το Galaxy A13 4G.</description>
       <distributor>MOBI</distributor>
       <disPrice>4.95</disPrice>
-      <lowest_price_Skroutz>7.45</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>7.44</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507507</id>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.77</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.76</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -3649,8 +3649,8 @@ Operation Time with Charging Case: 40hrs</description>
 Συμβατή με το Galaxy S23.</description>
       <distributor>MOBI</distributor>
       <disPrice>22.45</disPrice>
-      <lowest_price_Skroutz>36.4</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>36.39</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507626</id>
@@ -4157,7 +4157,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.45</price_with_vat>
+      <price_with_vat>9.43</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4167,7 +4167,7 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.46</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.44</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -4784,8 +4784,8 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/070773/70773838/20230120171726_00480223.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>55.95</disPrice>
-      <lowest_price_Skroutz>92.23</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>92.22</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4509231</id>
@@ -4803,8 +4803,8 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.5</disPrice>
-      <lowest_price_Skroutz>37.95</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>37.94</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4509091</id>
@@ -4977,7 +4977,7 @@ Quick Charge: Power Delivery</description>
       <ean>6921815620273</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/154964446/OnePlusSandstoneBumperBackCoverPlastikoSilikonisAnthektikiMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>72</quantity>
+      <quantity>70</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/068597/68597966/20221201110002_513d92ef.jpeg]]></additional_imageurl>
       <description>Θήκη της εταιρείας OnePlus για προστασία του πίσω μέρους του κινητού σας από γρατζουνιές κι άλλες φθορές.
 
@@ -6569,7 +6569,7 @@ GP-TOU021CSKWW</mpn>
       <ean>8806094770810</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153464370/SamsungSiliconeCoverBackCoverSilikonisPortokaliGalaxyS23.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313483/20230202151141_18fbda7e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071313/71313486/20230202151141_6f0e8ab4.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071313/71313484/20230202151141_6457d640.jpeg]]></additional_imageurl>
@@ -7556,7 +7556,7 @@ Charging Power: 65W</description>
       <ean>8806094475647</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471921/Samsung5gScreenProtectorGalaxyA33.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[null]]></additional_imageurl>
       <description>Το screen protector της Samsung είναι μια μεμβράνη, ειδικά κατασκευασμένη για την προστασία της οθόνης μόνο από σκόνη και επιδερμικές γρατζουνιές. Δεν προστατεύει την οθόνη σε περίπτωση πτώσης, καθώς είναι λεπτή. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy A33.</description>
       <distributor>MOBI</distributor>
@@ -9410,8 +9410,8 @@ Clasp Closure: Buckle</description>
       <quantity>438</quantity>
       <distributor>MOBI</distributor>
       <disPrice>2.95</disPrice>
-      <lowest_price_Skroutz>4.87</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>4.86</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507517</id>
@@ -9900,7 +9900,7 @@ Quick Charge: Quick Charge 3.0
       <ean>6931474728609</ean>
       <link><![CDATA[https://www.ninjaStore/6931474728609]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/039497/39497128/20210215143201_9bdce6c1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/039497/39497138/20210215143201_20fe48b8.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/039497/39497149/20210215143202_0aa9c186.jpeg]]></additional_imageurl>
@@ -9923,13 +9923,13 @@ Quick Charge: Quick Charge 3.0
       <ean>8809236087722</ean>
       <link><![CDATA[https://www.ninjaStore/8809236087722]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>5</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/043173/43173525/20210406235410_2faabf09.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/063927/63927755/20220906114834_b4be51b7.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>2.45</disPrice>
       <lowest_price_Skroutz>4.04</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN5903108375085</id>
@@ -10475,7 +10475,7 @@ Clasp Closure: Buckle</description>
       <ean>8806094300956</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407770/SamsungNoteViewFlipCoverMayroGalaxyTabS8.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058605/58605032/20220406161135_3487995b.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/058605/58605038/20220406161139_8078b72d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/058605/58605033/20220406161136_caf29a4e.jpeg]]></additional_imageurl>
@@ -10700,7 +10700,7 @@ USB Version: USB 2.0</description>
       <ean>3700740497708</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153407766/MercedesBenzUrbanBackCoverDermatinoMayroGalaxyS21Ultra5G.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>2</quantity>
+      <quantity>1</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/040287/40287373/20210225104935_608cffa1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/040287/40287375/20210225104935_9af75894.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/040287/40287374/20210225104935_e307cee8.jpeg]]></additional_imageurl>
@@ -13341,8 +13341,8 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <quantity>25</quantity>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
-      <lowest_price_Skroutz>166.58</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>166.57</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8806094491760</id>
@@ -14289,7 +14289,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/052667/52667256/20211122084919_84fcfe4e.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>7.65</disPrice>
-      <lowest_price_Skroutz>10.47</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.48</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -14990,7 +14990,7 @@ Weight: 233gr
       <ean>8806094475654</ean>
       <link><![CDATA[https://www.ninjaStore/8806094475654]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>0</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061200/61200597/20220614122816_ffda042f.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/061200/61200598/20220614122818_517754e3.jpeg]]></additional_imageurl>
       <description>Το screen protector της Samsung είναι μια μεμβράνη, ειδικά κατασκευασμένη για την προστασία της οθόνης μόνο από σκόνη και επιδερμικές γρατζουνιές. Δεν προστατεύει την οθόνη σε περίπτωση πτώσης, καθώς είναι λεπτή. Δεν επηρεάζει τη λειτουργία της οθόνης. Είναι συμβατό με το Galaxy A53.</description>
@@ -15597,7 +15597,7 @@ Sensor: Laser
 Type: Standard</description>
       <distributor>MOBI</distributor>
       <disPrice>19.45</disPrice>
-      <lowest_price_Skroutz>28.64</lowest_price_Skroutz>
+      <lowest_price_Skroutz>28.6</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15619,7 +15619,7 @@ Type: Standard</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/052374/52374960/20211115135215_dc699620.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>109.0</disPrice>
-      <lowest_price_Skroutz>142.95</lowest_price_Skroutz>
+      <lowest_price_Skroutz>142.94</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15639,8 +15639,8 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.52</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>10.51</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN6971669780906</id>
