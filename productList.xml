@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-08 01:41</created_at>
+  <created_at>2023-07-08 08:51</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -182,7 +182,7 @@ Frame Material: Horn-Rimmed</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070196/70196691/20230109155224_9dde63d4.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>19.4</disPrice>
-      <lowest_price_Skroutz>28.92</lowest_price_Skroutz>
+      <lowest_price_Skroutz>32.01</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -595,7 +595,7 @@ Total Ports: 2</description>
       <id>EAN6972453166326</id>
       <name><![CDATA[Huawei Charger with USB-A port and USB-C Cable 22.5W SuperCharge in White Colour (HW-100225E00)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
-      <price_with_vat>9.82</price_with_vat>
+      <price_with_vat>9.8</price_with_vat>
       <manufacturer>Huawei</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/025848/25848236/20211104143801_huawei_usb_a_to_usb_c_cable_wall_adapter_leyko_cp404.jpeg]]></image>
       <mpn>55033325</mpn>
@@ -613,8 +613,8 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.82</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>9.81</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4507555</id>
@@ -892,7 +892,7 @@ Charging Power: 160W</description>
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
       <disPrice>19.65</disPrice>
-      <lowest_price_Skroutz>29.25</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.24</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1157,7 +1157,7 @@ Operation Time with Charging Case: 20hrs</description>
       <quantity>20</quantity>
       <distributor>MOBI</distributor>
       <disPrice>25.5</disPrice>
-      <lowest_price_Skroutz>30.47</lowest_price_Skroutz>
+      <lowest_price_Skroutz>31.4</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>20.31</lowest_price_Skroutz>
+      <lowest_price_Skroutz>20.29</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1812,7 +1812,7 @@ USB Version: USB 2.0</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/059935/59935005/20220511111158_d1ab663e.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>22.15</disPrice>
-      <lowest_price_Skroutz>29.29</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.3</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2357,7 +2357,7 @@ Connectivity: 3.5mm</description>
       <id>EAN6921815623205</id>
       <name><![CDATA[OnePlus Wall Adapter with USB-A port and USB-C port 100W Power Delivery in White Colour (SUPERVOOC)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Chargers]]></category>
-      <price_with_vat>40.8</price_with_vat>
+      <price_with_vat>40.78</price_with_vat>
       <manufacturer>OnePlus</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/040709/40709044/20230220093243_oneplus_fortistis_choris_kalodio_me_thyra_usb_a_kai_thyra_usb_c_100w_power_delivery_leykos_supervooc.jpeg]]></image>
       <mpn>5461100370</mpn>
@@ -2371,7 +2371,7 @@ USB-C Output Ports: 1
 Charging Power: 100W</description>
       <distributor>MOBI</distributor>
       <disPrice>26.45</disPrice>
-      <lowest_price_Skroutz>40.81</lowest_price_Skroutz>
+      <lowest_price_Skroutz>40.79</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.7</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.69</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -4055,7 +4055,7 @@ Standby: 120hrs</description>
       <id>4509166</id>
       <name><![CDATA[Glastify Installation Tray 2.5D Tempered Glass 2pcs (iPhone 13 Pro Max)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Screen Protectors]]></category>
-      <price_with_vat>4.9335</price_with_vat>
+      <price_with_vat>4.51</price_with_vat>
       <image><![CDATA[https://c.scdn.gr/images/sku_main_images/032827/32827678/20211206120353_glastify_installation_tray_tempered_glass_2tmch_iphone_13_pro_max.jpeg]]></image>
       <ean>9589046918841</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153472385/GlastifyInstallationTrayTemperedGlass2tmchiPhone13ProMax.html]]></link>
@@ -4071,8 +4071,8 @@ Standby: 120hrs</description>
       <description>Το tempered glass είναι ένα σκληρυμένο γυαλί, ειδικά κατασκευασμένο για την κάλυψη και την προστασία της οθόνης του κινητού σας από γρατζουνιές κι άλλες φθορές. Δεν επηρεάζει τη λειτουργία της οθόνης. Σε περίπτωση πτώσης του κινητού, δεν εγγυάται ότι δε θα σπάσει κι η οθόνη μαζί με αυτό, ωστόσο είναι μια επιπλέον προστασία. Είναι 2.5D, κάτι που σημαίνει ότι η περίμετρος του διαθέτει στρογγυλεμένες άκρες για μια πιο απαλή αίσθηση στην αφή κατά τη χρήση της οθόνης. Χρήσιμο στα σύγχρονα smartphones που έχουν καμπυλωμένες οθόνες. Είναι συμβατό με το iPhone 14 Plus / 13 Pro Max.</description>
       <distributor>MOBI</distributor>
       <disPrice>2.99</disPrice>
-      <lowest_price_Skroutz>4.93</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>4.52</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>EAN3666339045517</id>
@@ -4157,7 +4157,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.37</price_with_vat>
+      <price_with_vat>9.35</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4167,7 +4167,7 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.38</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.36</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -4772,7 +4772,7 @@ Clasp Closure: Buckle
       <name><![CDATA[Vivo TWS 2 Inear Bluetooth Handsfree Headphone with Charging Case Starry Blue
  (6935117837222)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>92.2</price_with_vat>
+      <price_with_vat>92.18</price_with_vat>
       <manufacturer>Vivo</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038380/38380227/20220927150941_vivo_tws_2_in_ear_bluetooth_handsfree_akoustika_me_thiki_fortisis_starry_blue.jpeg]]></image>
       <mpn>6020141.0</mpn>
@@ -4784,14 +4784,14 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/070773/70773838/20230120171726_00480223.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>55.95</disPrice>
-      <lowest_price_Skroutz>92.21</lowest_price_Skroutz>
+      <lowest_price_Skroutz>92.19</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509231</id>
       <name><![CDATA[Samsung S Pen Digital with Palm Rejection for Galaxy S23 Ultra Black]]></name>
       <category><![CDATA[Technology > Mobile Phone Accessories > Stylus Pens]]></category>
-      <price_with_vat>37.9</price_with_vat>
+      <price_with_vat>37.88</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040616/40616119/20230209104749_samsung_s_pen_psifiaki_grafida_afis_me_palm_rejection_gia_galaxy_s23_ultra_se_mayro_chroma.jpeg]]></image>
       <mpn>EJPS918BBEGEU</mpn>
@@ -4803,7 +4803,7 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.5</disPrice>
-      <lowest_price_Skroutz>37.91</lowest_price_Skroutz>
+      <lowest_price_Skroutz>37.89</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -5427,7 +5427,7 @@ Length: 1m</description>
       <id>4508860</id>
       <name><![CDATA[Samsung Clear Slim Cover Silicone Back Cover Transparent (Galaxy S23+)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Mobile Phone Cases & Covers]]></category>
-      <price_with_vat>19.21</price_with_vat>
+      <price_with_vat>19.19</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040559/40559819/20230202142944_samsung_clear_slim_cover_back_cover_silikonis_diafano_galaxy_s23.jpeg]]></image>
       <mpn>EFQS916CTEGWW</mpn>
@@ -5445,7 +5445,7 @@ Length: 1m</description>
 Συμβατή με το Galaxy S23+.</description>
       <distributor>MOBI</distributor>
       <disPrice>11.75</disPrice>
-      <lowest_price_Skroutz>19.22</lowest_price_Skroutz>
+      <lowest_price_Skroutz>19.2</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -13249,7 +13249,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
 4. Μεγάλη διάρκεια ζωής της μπαταρίας: Τα ακουστικά Bluetooth συνήθως διαθέτουν ενσωματωμένη μπαταρία, η οποία μπορεί να παρέχει έως και μερικές ώρες συνεχούς χρήσης με μία μόνο φόρτιση. Αυτό σημαίνει ότι δεν χρειάζεται να ανησυχείτε για το να πρέπει να φορτίζετε τις ακουστικά σας συχνά.</description>
       <distributor>MOBI</distributor>
       <disPrice>14.4</disPrice>
-      <lowest_price_Skroutz>21.36</lowest_price_Skroutz>
+      <lowest_price_Skroutz>17.68</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15301,7 +15301,7 @@ GH82-29803A</mpn>
       <additional_imageurl><![CDATA[d.scdn.gr/images/sku_images/062975/62975706/20220805122939_3349fd92.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>16.4</disPrice>
-      <lowest_price_Skroutz>21.69</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.78</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15626,7 +15626,7 @@ Type: Standard</description>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.43</price_with_vat>
+      <price_with_vat>10.41</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15639,7 +15639,7 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.44</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.42</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
