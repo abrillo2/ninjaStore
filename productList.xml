@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <ninjaStore>
-  <created_at>2023-07-08 12:38</created_at>
+  <created_at>2023-07-08 02:45</created_at>
   <products>
     <product>
       <id>EAN6934177745645</id>
@@ -613,8 +613,8 @@ Total Ports: 2</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/051804/51804134/20211104143801_fcc3c657.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>6.15</disPrice>
-      <lowest_price_Skroutz>9.79</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>9.78</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>4507555</id>
@@ -892,7 +892,7 @@ Charging Power: 160W</description>
 Συμβατή με το Galaxy Z Fold4.</description>
       <distributor>MOBI</distributor>
       <disPrice>19.65</disPrice>
-      <lowest_price_Skroutz>29.24</lowest_price_Skroutz>
+      <lowest_price_Skroutz>29.22</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -1262,7 +1262,7 @@ Operation Time with Charging Case: 20hrs</description>
       <ean>6941487277483</ean>
       <link><![CDATA[https://www.ninjaStore/6941487277483]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>18</quantity>
+      <quantity>17</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/076649/76649987/20230530142610_aeaa745d.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/076649/76649986/20230530142609_85231b7e.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/076649/76649988/20230530142610_5a67f1d8.jpeg]]></additional_imageurl>
@@ -1769,7 +1769,7 @@ Clasp Closure: Pin</description>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071228/71228815/20230201091924_9d875d88.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>14.6</disPrice>
-      <lowest_price_Skroutz>20.22</lowest_price_Skroutz>
+      <lowest_price_Skroutz>20.17</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -2371,8 +2371,8 @@ USB-C Output Ports: 1
 Charging Power: 100W</description>
       <distributor>MOBI</distributor>
       <disPrice>26.45</disPrice>
-      <lowest_price_Skroutz>40.77</lowest_price_Skroutz>
-      <price_updated>YES</price_updated>
+      <lowest_price_Skroutz>40.76</lowest_price_Skroutz>
+      <price_updated>NO</price_updated>
     </product>
     <product>
       <id>EAN8886463664483</id>
@@ -2821,7 +2821,7 @@ Main Port Amperage: 2.4A
 Weight: 250gr</description>
       <distributor>MOBI</distributor>
       <disPrice>14.95</disPrice>
-      <lowest_price_Skroutz>18.67</lowest_price_Skroutz>
+      <lowest_price_Skroutz>18.65</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -4157,7 +4157,7 @@ Standby: 120hrs</description>
       <id>EAN6934177745638</id>
       <name><![CDATA[Xiaomi Strap Silicone with Pin White / Yellow / Green (Mi Smart Band 5/Mi Smart Band 6)]]></name>
       <category><![CDATA[Technology > Wearables Accessories > Wearable Straps]]></category>
-      <price_with_vat>9.33</price_with_vat>
+      <price_with_vat>9.31</price_with_vat>
       <manufacturer>Xiaomi</manufacturer>
       <image><![CDATA[https://b.scdn.gr/images/sku_main_images/031289/31289433/fixedratio_20220803163952_xiaomi_louraki_silikonis_white_yellow_green_mi_smart_band_5_mi_smart_band_6.jpeg]]></image>
       <mpn>BHR5135GL</mpn>
@@ -4167,7 +4167,7 @@ Standby: 120hrs</description>
       <quantity>106</quantity>
       <distributor>MOBI</distributor>
       <disPrice>5.95</disPrice>
-      <lowest_price_Skroutz>9.34</lowest_price_Skroutz>
+      <lowest_price_Skroutz>9.32</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -4772,7 +4772,7 @@ Clasp Closure: Buckle
       <name><![CDATA[Vivo TWS 2 Inear Bluetooth Handsfree Headphone with Charging Case Starry Blue
  (6935117837222)]]></name>
       <category><![CDATA[Technology > Mobile Telephony > Bluetooth Handsfree]]></category>
-      <price_with_vat>92.18</price_with_vat>
+      <price_with_vat>92.16</price_with_vat>
       <manufacturer>Vivo</manufacturer>
       <image><![CDATA[https://a.scdn.gr/images/sku_main_images/038380/38380227/20220927150941_vivo_tws_2_in_ear_bluetooth_handsfree_akoustika_me_thiki_fortisis_starry_blue.jpeg]]></image>
       <mpn>6020141.0</mpn>
@@ -4784,14 +4784,14 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/070773/70773838/20230120171726_00480223.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>55.95</disPrice>
-      <lowest_price_Skroutz>92.18</lowest_price_Skroutz>
-      <price_updated>NO</price_updated>
+      <lowest_price_Skroutz>92.17</lowest_price_Skroutz>
+      <price_updated>YES</price_updated>
     </product>
     <product>
       <id>4509231</id>
       <name><![CDATA[Samsung S Pen Digital with Palm Rejection for Galaxy S23 Ultra Black]]></name>
       <category><![CDATA[Technology > Mobile Phone Accessories > Stylus Pens]]></category>
-      <price_with_vat>37.86</price_with_vat>
+      <price_with_vat>37.84</price_with_vat>
       <manufacturer>Samsung</manufacturer>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/040616/40616119/20230209104749_samsung_s_pen_psifiaki_grafida_afis_me_palm_rejection_gia_galaxy_s23_ultra_se_mayro_chroma.jpeg]]></image>
       <mpn>EJPS918BBEGEU</mpn>
@@ -4803,7 +4803,7 @@ Clasp Closure: Buckle
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071837/71837973/20230213173715_3d1d1758.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>23.5</disPrice>
-      <lowest_price_Skroutz>37.87</lowest_price_Skroutz>
+      <lowest_price_Skroutz>37.85</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
@@ -8006,7 +8006,7 @@ Total Ports: 2</description>
       <ean>8806094768855</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153466611/SamsungSiliconeGripLeykoGalaxyS23Ultra.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>115</quantity>
+      <quantity>114</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/071312/71312122/20230202144924_c0672efd.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/071312/71312121/20230202144924_e5b128db.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/071312/71312120/20230202144923_19626a4f.jpeg]]></additional_imageurl>
@@ -9828,7 +9828,7 @@ Type: Standard</description>
       <ean>6974443381047</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153471070/BorofoneBC37ImperorInearBluetoothHandsfreeAkoustikoMayro.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>111</quantity>
+      <quantity>110</quantity>
       <additional_imageurl><![CDATA[a.scdn.gr/images/sku_images/050737/50737371/20211011145306_5435f205.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/073831/73831365/20230404111333_f70f74d1.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[b.scdn.gr/images/sku_images/050737/50737375/20211011145306_6ccb7823.jpeg]]></additional_imageurl>
@@ -10624,7 +10624,7 @@ Material: Leather
 Clasp Closure: Buckle</description>
       <distributor>MOBI</distributor>
       <disPrice>2.95</disPrice>
-      <lowest_price_Skroutz>3.78</lowest_price_Skroutz>
+      <lowest_price_Skroutz>4.86</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -10809,7 +10809,7 @@ USB Version: USB 2.0</description>
       <ean>8806092659384</ean>
       <link><![CDATA[https://www.skroutz.gr/mp/153481640/SamsungSportSMLourakiSilikonisPrasinoGalaxyWatch4Watch4Classic.html]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>3</quantity>
+      <quantity>2</quantity>
       <description>Λουράκι της εταιρείας Samsung, συμβατό με το Galaxy Watch4 / Watch5 / Watch5 Pro.
 Material: Silicone
 Clasp Closure: Buckle</description>
@@ -12044,7 +12044,7 @@ Length: 1.5m</description>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/070884/70884045/20230124104716_1f560155.jpeg]]></additional_imageurl>
       <distributor>MOBI</distributor>
       <disPrice>3.8</disPrice>
-      <lowest_price_Skroutz>5.49</lowest_price_Skroutz>
+      <lowest_price_Skroutz>6.26</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -12057,7 +12057,7 @@ Length: 1.5m</description>
       <ean>6957531093237</ean>
       <link><![CDATA[https://www.ninjaStore/6957531093237]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>17</quantity>
+      <quantity>16</quantity>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715091/20220601143040_f820f8df.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715092/20220601143040_4420162c.jpeg]]></additional_imageurl>
       <additional_imageurl><![CDATA[c.scdn.gr/images/sku_images/060715/60715090/20220601143040_39f522fa.jpeg]]></additional_imageurl>
@@ -13338,7 +13338,7 @@ Quick Charge: Power Delivery, Quick Charge 3.0</description>
       <ean>6941487277490</ean>
       <link><![CDATA[https://www.ninjaStore/6941487277490]]></link>
       <availability>Available from 4 to 10 days</availability>
-      <quantity>25</quantity>
+      <quantity>24</quantity>
       <distributor>MOBI</distributor>
       <disPrice>101.0</disPrice>
       <lowest_price_Skroutz>166.57</lowest_price_Skroutz>
@@ -15254,7 +15254,7 @@ Weight: 233gr
 Οθόνη της εταιρίας Xiaomi για αντικατάσταση της εργοστασιακής οθόνης του κινητού σας σε περίπτωση που αυτή έσπασε ή σταμάτησε να λειτουργεί. Συνοδεύεται από πλαίσιο, κάτι που την κάνει πιο εύκολη στην εγκατάσταση, καθώς δεν χρειάζεται να ξεκολληθεί η παλιά οθόνη από το πλαίσιο για να τοποθετηθεί. Αφαιρώντας το παλιό σετ οθόνης και πλαισίου, μπορεί να τοποθετηθεί το καινούργιο με τη βοήθεια των κατάλληλων εργαλείων. Σε αρκετές περιπτώσεις εξάλλου, το παλιό πλαίσιο είναι φθαρμένο και χρειάζεται να αντικατασταθεί. Επιπλέον, είναι κατάλληλη για τοποθέτηση σε Mi 9 Lite.</description>
       <distributor>MOBI</distributor>
       <disPrice>48.5</disPrice>
-      <lowest_price_Skroutz>71.93</lowest_price_Skroutz>
+      <lowest_price_Skroutz>71.41</lowest_price_Skroutz>
       <price_updated>NO</price_updated>
     </product>
     <product>
@@ -15626,7 +15626,7 @@ Type: Standard</description>
       <id>EAN7348008757360</id>
       <name><![CDATA[Blue Power BBR18 Sports Bluetooth Speaker 5W Radio Functionality and Battery up to 2 hours Playback Black]]></name>
       <category><![CDATA[Technology > Speakers > Portable Bluetooth Speakers]]></category>
-      <price_with_vat>10.39</price_with_vat>
+      <price_with_vat>10.37</price_with_vat>
       <image><![CDATA[https://d.scdn.gr/images/sku_main_images/042710/42710733/20230531145333_blue_power_bbr18_sports_icheio_bluetooth_5w_me_radiofono_kai_diarkeia_mpatarias_eos_2_ores_mayro.jpeg]]></image>
       <ean>7348008757360</ean>
       <link><![CDATA[https://www.ninjaStore/7348008757360]]></link>
@@ -15639,7 +15639,7 @@ Type: Standard</description>
 • Ασύρματη σύνδεση με: Bluetooth</description>
       <distributor>MOBI</distributor>
       <disPrice>6.9</disPrice>
-      <lowest_price_Skroutz>10.4</lowest_price_Skroutz>
+      <lowest_price_Skroutz>10.38</lowest_price_Skroutz>
       <price_updated>YES</price_updated>
     </product>
     <product>
